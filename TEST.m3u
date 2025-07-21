@@ -92,7 +92,8 @@ https://cfrt.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-west)
 https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(knbc)/master.mpd
 
 
-
+#EXTINF:-1 tvg-logo="https://img.monomax.me/qgyqboQ6Tq3k2YfHvipk9ZI8PJ0=/monomax-obj.obs.ap-southeast-2.myhuaweicloud.com/assets/livechannels/Dqo5Uwq6HMI1oooTBXAvlD2S8pMBiAon.png" group-title="MONO Next", MONO29
+https://monomax-uiripn.cdn.byteark.com/plain/th/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www-live.pptvhd36.com/images/logo-pptvhd36-2019.svg?1752567397-cdn" group-title="Bangkok Media & Broadcasting Co., Ltd.", PPTV
 https://pptv36-9h0yba.cdn.byteark.com/bamm-csai/playlist.m3u8?x_ark_access_id=fleet-2966&x_ark_auth_type=ark-v2&x_ark_expires=1753100402&x_ark_path_prefix=%2Fbamm-csai%2F&x_ark_signature=NZ6cTEg4BlXkVEPq0RWgBQ
