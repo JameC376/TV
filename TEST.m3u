@@ -91,6 +91,12 @@ https://cfrt.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-west)
 #KODIPROP:inputstream.adaptive.license_key=0045a118e231f1326bcdb45350b1ceaa:8c13afbfa54ea37a368b8b859021f6e3
 https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(knbc)/master.mpd
 
+
+
+
+#EXTINF:-1 tvg-logo="https://www-live.pptvhd36.com/images/logo-pptvhd36-2019.svg?1752567397-cdn" group-title="Bangkok Media & Broadcasting Co., Ltd.", PPTV
+https://pptv36-9h0yba.cdn.byteark.com/bamm-csai/playlist.m3u8?x_ark_access_id=fleet-2966&x_ark_auth_type=ark-v2&x_ark_expires=1753100402&x_ark_path_prefix=%2Fbamm-csai%2F&x_ark_signature=NZ6cTEg4BlXkVEPq0RWgBQ
+
 #EXTINF:-1 tvg-logo="https://imgs.mcot.net/images/2020/04/1586506833486-0x92.png" group-title="MCOT PCL", MCOTHD 30
 https://mcothd-streaming-edge-cdn.mcot.net/tencentmcot/smil:tencentmcot.smil/chunklist_w1497173433_b3000000.m3u8
 
