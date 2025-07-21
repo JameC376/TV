@@ -1,12 +1,16 @@
 #EXTM3U
+
+#EXTINF:-1 tvg-logo="https://imgs.mcot.net/images/2020/04/1586506833486-0x92.png" group-title="บริษัท อสมท จำกัด(มหาชน)", MCOTHD 30
+https://mcothd-streaming-edge-cdn.mcot.net/tencentmcot/smil:tencentmcot.smil/chunklist_w1497173433_b3000000.m3u8
+
 #EXTINF:-1 tvg-logo="https://assets.oned.net/3/be/7e/be7edac0-e9b2-4555-b671-8104c5ba5270" group-title="วัน 31 บจก" , one31
 https://bcovlive-a.akamaihd.net/b6603a14ea59440a95e9235e14bc9332/ap-southeast-1/6415628290001/9c3d7fc7d10840a69e48b5939ae886e0/playlist_ssaiM.m3u8
 
 #EXTINF:-1 tvg-logo="https://assets.oned.net/3/89/9d/899d04ae-354c-4add-a781-2a52ea61ac38" group-title="วัน 31 บจก", GMM25
 https://bcovlive-a.akamaihd.net/57d4bf695e80436d9335f4f50adbe438/ap-southeast-1/6415628290001/7e85dc4a59904e45b4fdffebd62e1d82/playlist_ssaiM.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgs.mcot.net/images/2020/04/1586506833486-0x92.png" group-title="บริษัท อสมท จำกัด(มหาชน)", MCOTHD 30
-https://mcothd-streaming-edge-cdn.mcot.net/tencentmcot/smil:tencentmcot.smil/chunklist_w1497173433_b3000000.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f7/Channel_7_Thailand_3D.png/revision/latest?cb=20160528065611" group-title="Bangkok Broadcasting & Television", 7 HD
+https://live-cdn-hwc.ch7.com/livech7hd/HD_1080p.m3u8?vhost=streaming-hwc.ch7.com
 
 #EXTINF:-1 tvg-logo="https://media.info/l/o/1/1539.1690027797.png" group-title="	Warner Bros. Discovery",TNT Sports 1 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
