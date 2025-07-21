@@ -1,22 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-name="Sky Sport Football" tvg-logo="http://51.255.35.36/icons1/uk:/ukicons/sky_uk_sports_football_ie-min.png" group-title="Sky Group (Comcast)",SkySport Football 
-http://tooontv.com:999/live/ere3444h/agape/1040.ts 
-#EXTINF:-1 tvg-name="Sky Sports Cricket HD" tvg-logo="http://51.255.35.36/icons1/uk:/ukicons/sky_uk_sports_cricket-min.png" group-title="Sky Group (Comcast)",SkySports Cricket HD 
-http://tooontv.com:999/live/ere3444h/agape/1582.ts 
-#EXTINF:-1 tvg-name="Sky Sports Action HD" tvg-logo="http://51.255.35.36/icons1/uk:/ukicons/sky_uk_sports_action-min.png" group-title="Sky Group (Comcast)",SkySports Action HD 
-http://tooontv.com:999/live/ere3444h/agape/7206.ts 
-#EXTINF:-1 tvg-name="Sky Sports PL" tvg-logo="http://51.255.35.36/icons1/uk:/ukicons/sky_uk_sports_premier_league-min.png" group-title="Sky Group (Comcast)",SkySports PL 
-http://tooontv.com:999/live/ere3444h/agape/1044.ts 
-#EXTINF:-1 tvg-name="Sky Sports F1 FHD" tvg-logo="http://51.255.35.36/icons1/uk:/ukicons/sky_uk_sports_f1-min.png" group-title="Sky Group (Comcast)",SkySports F1 FHD 
-http://tooontv.com:999/live/ere3444h/agape/1045.ts 
-#EXTINF:-1 tvg-name="Sky Sports Arena" tvg-logo="https://i.ibb.co.com/xS2fqz2s/shareext-logo-Liga-Club.jpg" group-title="Sky Group (Comcast)",SkySports Arena
-http://tvmate.icu:8080/69NpyV/884735/35238
-#EXTINF:-1 tvg-name="Sky Sports News" tvg-logo="http://51.255.35.36/icons1/uk:/ukicons/sky_uk_sports_news_hq-min.png" group-title="Sky Group (Comcast)",SkySports News 
-http://tooontv.com:999/live/ere3444h/agape/1039.ts 
-#EXTINF:-1 tvg-name="Sky Sports Racing HD" tvg-logo="http://51.255.35.36/icons1/uk:/ukicons/sky_uk_sports_news_hq-min.png" group-title="Sky Group (Comcast)",SkySports Racing HD 
-http://tooontv.com:999/live/ere3444h/agape/190516.ts
-
 #EXTINF:-1 tvg-logo="https://media.info/l/o/1/1539.1690027797.png" group-title="	Warner Bros. Discovery",TNT Sports 1 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
