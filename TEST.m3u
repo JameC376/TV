@@ -91,6 +91,27 @@ https://cfrt.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-west)
 #KODIPROP:inputstream.adaptive.license_key=0045a118e231f1326bcdb45350b1ceaa:8c13afbfa54ea37a368b8b859021f6e3
 https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(knbc)/master.mpd
 
+#EXTINF:-1 group-title="Sony Pictures Networks India" tvg-id="Sony Ten 1" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonysix-live/spnsportsindia/channel_logos/Sports%201%20HD%20Black%201.png",Sony Sports Ten 1 HD
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+https://tataplay.slivcdn.com//hls/live/2011747/TEN1HD/master.m3u8
+#EXTINF:-1 group-title="Sony Pictures Networks India" tvg-id="Sony Ten 2" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonysix-live/spnsportsindia/channel_logos/Sports%202%20HD%20black%201.png",Sony Sports Ten 2 HD
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+https://tataplay.slivcdn.com/hls/live/2020434/TEN2HD/master.m3u8
+#EXTINF:-1 group-title="Sony Pictures Networks India" tvg-id="Sony Ten 3" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonysix-live/spnsportsindia/channel_logos/Sports%203_HD%20hINDI.png",Sony Sports Ten 3 HD
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+https://tataplay.slivcdn.com/hls/live/2020591/TEN3HD/master.m3u8
+#EXTINF:-1 group-title="Sony Pictures Networks India" tvg-id="Sony Ten 4" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonysix-live/spnsportsindia/channel_logos/Tamil_BK.png",Sony Sports Ten 4 HD
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+https://tataplay.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8
+#EXTINF:-1 group-title="Sony Pictures Networks India" tvg-id="Sony Ten 5" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonysix-live/spnsportsindia/channel_logos/Sports%205%20HD.png",Sony Sports Ten 5 HD
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+https://tataplay.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
+
+
+
+
+
+
 
 #EXTINF:-1 tvg-logo="https://img.monomax.me/qgyqboQ6Tq3k2YfHvipk9ZI8PJ0=/monomax-obj.obs.ap-southeast-2.myhuaweicloud.com/assets/livechannels/Dqo5Uwq6HMI1oooTBXAvlD2S8pMBiAon.png" group-title="MONO Next", MONO29
 https://monomax-uiripn.cdn.byteark.com/plain/th/playlist.m3u8
