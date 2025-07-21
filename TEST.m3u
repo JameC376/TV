@@ -30,6 +30,15 @@ https://cdn-edge-ott.prd.go.th/live_vlc/smil:01f1-8b4b-971e-aa35-d5fa.smil/playl
 #EXTINF:-1 tvg-logo="https://thumbor-ott.prd.go.th/unsafe/0x720/https%3A%2F%2Fcms-backend-ott.prd.go.th%2Fimages%2Fupload%2F1680683194715.png" group-title="	Public Relations Department of the Office of the Prime Minister", NBT Northeast
 https://cdn-edge-ott.prd.go.th/live_vlc/smil:7721-732d-60a6-13c1-b16d.smil/playlist.m3u8?DVR
 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/Thai_PBS_2011.svg/revision/latest?cb=20240505231211" group-title="Thai Public Broadcasting Service", Thai PBS
+https://thaipbs-mcx0wm.cdn.byteark.com/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/ALTV4_2024.svg/revision/latest?cb=20240506002526" group-title="Thai Public Broadcasting Service", ALTV
+https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/RTA51982.svg/revision/latest?cb=20210314211343" group-title="Royal Thai Army", RTA 5HD
+https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/playlist.m3u8
+
 
 
 
