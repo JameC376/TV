@@ -1,54 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://imgs.mcot.net/images/2020/04/1586506833486-0x92.png" group-title="MCOT PCL", MCOTHD 30
-https://mcothd-streaming-edge-cdn.mcot.net/tencentmcot/smil:tencentmcot.smil/chunklist_w1497173433_b3000000.m3u8
-
-#EXTINF:-1 tvg-logo="https://assets.oned.net/3/be/7e/be7edac0-e9b2-4555-b671-8104c5ba5270" group-title="GMM Grammy" , one31
-https://bcovlive-a.akamaihd.net/b6603a14ea59440a95e9235e14bc9332/ap-southeast-1/6415628290001/9c3d7fc7d10840a69e48b5939ae886e0/playlist_ssaiM.m3u8
-
-#EXTINF:-1 tvg-logo="https://assets.oned.net/3/89/9d/899d04ae-354c-4add-a781-2a52ea61ac38" group-title="GMM Grammy", GMM25
-https://bcovlive-a.akamaihd.net/57d4bf695e80436d9335f4f50adbe438/ap-southeast-1/6415628290001/7e85dc4a59904e45b4fdffebd62e1d82/playlist_ssaiM.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f7/Channel_7_Thailand_3D.png/revision/latest?cb=20160528065611" group-title="Bangkok Broadcasting & Television", 7 HD
-https://live-cdn-hwc.ch7.com/livech7hd/HD_1080p.m3u8?vhost=streaming-hwc.ch7.com
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1f/NBT2025Logo.svg/revision/latest?cb=20250607144926" group-title="	Public Relations Department of the Office of the Prime Minister", NBT 2HD
-https://cdn-edge-ott.prd.go.th/live_vlc/smil:c30f-97f7-c767-ca64-98aa.smil/playlist.m3u8?DVR
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/41/NBTWorld2025.svg/revision/latest?cb=20250101095350" group-title="	Public Relations Department of the Office of the Prime Minister", NBT WORLD
-https://cdn-edge-ott.prd.go.th/live_vlc/smil:2609-b4a6-64b3-1431-5e64.smil/playlist.m3u8?DVR
-
-#EXTINF:-1 tvg-logo="https://thumbor-ott.prd.go.th/unsafe/0x720/https%3A%2F%2Fcms-backend-ott.prd.go.th%2Fimages%2Fupload%2F1680683209698.png" group-title="	Public Relations Department of the Office of the Prime Minister", NBT North
-https://cdn-edge-ott.prd.go.th/live_vlc/smil:bfe6-faf5-827f-6228-2aa1.smil/playlist.m3u8?DVR
-
-#EXTINF:-1 tvg-logo="https://thumbor-ott.prd.go.th/unsafe/360x360/https%3A%2F%2Fcms-backend-ott.prd.go.th%2Fimages%2Fupload%2F1680683200917.png" group-title="	Public Relations Department of the Office of the Prime Minister", NBT South
-https://cdn-edge-ott.prd.go.th/live_vlc/smil:406a-211e-df39-045c-4048.smil/playlist.m3u8?DVR
-
-#EXTINF:-1 tvg-logo="https://thumbor-ott.prd.go.th/unsafe/0x720/https%3A%2F%2Fcms-backend-ott.prd.go.th%2Fimages%2Fupload%2F1680683186938.png" group-title="	Public Relations Department of the Office of the Prime Minister", NBT Central
-https://cdn-edge-ott.prd.go.th/live_vlc/smil:01f1-8b4b-971e-aa35-d5fa.smil/playlist.m3u8?DVR
-
-#EXTINF:-1 tvg-logo="https://thumbor-ott.prd.go.th/unsafe/0x720/https%3A%2F%2Fcms-backend-ott.prd.go.th%2Fimages%2Fupload%2F1680683194715.png" group-title="	Public Relations Department of the Office of the Prime Minister", NBT Northeast
-https://cdn-edge-ott.prd.go.th/live_vlc/smil:7721-732d-60a6-13c1-b16d.smil/playlist.m3u8?DVR
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/Thai_PBS_2011.svg/revision/latest?cb=20240505231211" group-title="Thai Public Broadcasting Service", Thai PBS
-https://thaipbs-mcx0wm.cdn.byteark.com/live/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/ALTV4_2024.svg/revision/latest?cb=20240506002526" group-title="Thai Public Broadcasting Service", ALTV
-https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/RTA51982.svg/revision/latest?cb=20210314211343" group-title="Royal Thai Army", RTA 5HD
-https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3a/Tnn162020.jpg/revision/latest?cb=20200703040406" group-title="Thai News Network (TNN) Co., Ltd.", TNN
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio",NAME="Thai",AUTOSELECT=YES,DEFAULT=YES,URI="https://cdn701.stm.trueid.net/p201aes/135_multi_w_auto_tidapp.smil/chunklist_w141719552_b96000_ao_sltha_t64VGhhaQ==.m3u8?appid=trueid&type=live&visitor=web&drm=aes&uid=abed01975c&did=NHBkaEFPaWZ3SUx1bFNpcDA5Z1RjZklCRXMySjJEbFg&mpass=nWoI9KeQczJAxwE5qpEN-n3ojxIlvKMCAv_xFue5yZGJQqFrGd97wS866zzwFGCNQMiYNovhRXPkYdr9ayNP9Y5hPNngSRhP735qGCQlxM8gIJ5Rih9OHOlTHd6DD9xOaY8&sid=f67d8233ec&rt=1753080227&ds=25200&tk=xabbnTO0YJ7oI-ptF1DVyZysU6TgRgqgBcYmLc4bRgk"
-#EXT-X-STREAM-INF:BANDWIDTH=4800000,AUDIO="audio"
-https://cdn701.stm.trueid.net/p201aes/135_multi_w_auto_tidapp.smil/chunklist_w141719552_b4800000_vo_t64TWFpbg==.m3u8?appid=trueid&type=live&visitor=web&drm=aes&uid=abed01975c&did=NHBkaEFPaWZ3SUx1bFNpcDA5Z1RjZklCRXMySjJEbFg&mpass=nWoI9KeQczJAxwE5qpEN-n3ojxIlvKMCAv_xFue5yZGJQqFrGd97wS866zzwFGCNQMiYNovhRXPkYdr9ayNP9Y5hPNngSRhP735qGCQlxM8gIJ5Rih9OHOlTHd6DD9xOaY8&sid=f67d8233ec&rt=1753080227&ds=25200&tk=xabbnTO0YJ7oI-ptF1DVyZysU6TgRgqgBcYmLc4bRgk
-
-
-
-
-
 #EXTINF:-1 tvg-logo="https://media.info/l/o/1/1539.1690027797.png" group-title="	Warner Bros. Discovery",TNT Sports 1 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -139,6 +90,52 @@ https://cfrt.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-west)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0045a118e231f1326bcdb45350b1ceaa:8c13afbfa54ea37a368b8b859021f6e3
 https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(knbc)/master.mpd
+
+#EXTINF:-1 tvg-logo="https://imgs.mcot.net/images/2020/04/1586506833486-0x92.png" group-title="MCOT PCL", MCOTHD 30
+https://mcothd-streaming-edge-cdn.mcot.net/tencentmcot/smil:tencentmcot.smil/chunklist_w1497173433_b3000000.m3u8
+
+#EXTINF:-1 tvg-logo="https://assets.oned.net/3/be/7e/be7edac0-e9b2-4555-b671-8104c5ba5270" group-title="GMM Grammy" , one31
+https://bcovlive-a.akamaihd.net/b6603a14ea59440a95e9235e14bc9332/ap-southeast-1/6415628290001/9c3d7fc7d10840a69e48b5939ae886e0/playlist_ssaiM.m3u8
+
+#EXTINF:-1 tvg-logo="https://assets.oned.net/3/89/9d/899d04ae-354c-4add-a781-2a52ea61ac38" group-title="GMM Grammy", GMM25
+https://bcovlive-a.akamaihd.net/57d4bf695e80436d9335f4f50adbe438/ap-southeast-1/6415628290001/7e85dc4a59904e45b4fdffebd62e1d82/playlist_ssaiM.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f7/Channel_7_Thailand_3D.png/revision/latest?cb=20160528065611" group-title="Bangkok Broadcasting & Television", 7 HD
+https://live-cdn-hwc.ch7.com/livech7hd/HD_1080p.m3u8?vhost=streaming-hwc.ch7.com
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1f/NBT2025Logo.svg/revision/latest?cb=20250607144926" group-title="	Public Relations Department of the Office of the Prime Minister", NBT 2HD
+https://cdn-edge-ott.prd.go.th/live_vlc/smil:c30f-97f7-c767-ca64-98aa.smil/playlist.m3u8?DVR
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/41/NBTWorld2025.svg/revision/latest?cb=20250101095350" group-title="	Public Relations Department of the Office of the Prime Minister", NBT WORLD
+https://cdn-edge-ott.prd.go.th/live_vlc/smil:2609-b4a6-64b3-1431-5e64.smil/playlist.m3u8?DVR
+
+#EXTINF:-1 tvg-logo="https://thumbor-ott.prd.go.th/unsafe/0x720/https%3A%2F%2Fcms-backend-ott.prd.go.th%2Fimages%2Fupload%2F1680683209698.png" group-title="	Public Relations Department of the Office of the Prime Minister", NBT North
+https://cdn-edge-ott.prd.go.th/live_vlc/smil:bfe6-faf5-827f-6228-2aa1.smil/playlist.m3u8?DVR
+
+#EXTINF:-1 tvg-logo="https://thumbor-ott.prd.go.th/unsafe/360x360/https%3A%2F%2Fcms-backend-ott.prd.go.th%2Fimages%2Fupload%2F1680683200917.png" group-title="	Public Relations Department of the Office of the Prime Minister", NBT South
+https://cdn-edge-ott.prd.go.th/live_vlc/smil:406a-211e-df39-045c-4048.smil/playlist.m3u8?DVR
+
+#EXTINF:-1 tvg-logo="https://thumbor-ott.prd.go.th/unsafe/0x720/https%3A%2F%2Fcms-backend-ott.prd.go.th%2Fimages%2Fupload%2F1680683186938.png" group-title="	Public Relations Department of the Office of the Prime Minister", NBT Central
+https://cdn-edge-ott.prd.go.th/live_vlc/smil:01f1-8b4b-971e-aa35-d5fa.smil/playlist.m3u8?DVR
+
+#EXTINF:-1 tvg-logo="https://thumbor-ott.prd.go.th/unsafe/0x720/https%3A%2F%2Fcms-backend-ott.prd.go.th%2Fimages%2Fupload%2F1680683194715.png" group-title="	Public Relations Department of the Office of the Prime Minister", NBT Northeast
+https://cdn-edge-ott.prd.go.th/live_vlc/smil:7721-732d-60a6-13c1-b16d.smil/playlist.m3u8?DVR
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/Thai_PBS_2011.svg/revision/latest?cb=20240505231211" group-title="Thai Public Broadcasting Service", Thai PBS
+https://thaipbs-mcx0wm.cdn.byteark.com/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/ALTV4_2024.svg/revision/latest?cb=20240506002526" group-title="Thai Public Broadcasting Service", ALTV
+https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/RTA51982.svg/revision/latest?cb=20210314211343" group-title="Royal Thai Army", RTA 5HD
+https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/playlist.m3u8
+
+
+
+
+
+
+
 
 
 
