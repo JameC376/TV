@@ -115,6 +115,9 @@ https://tataplay.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
 #EXTINF:-1 tvg-logo="https://img.monomax.me/qgyqboQ6Tq3k2YfHvipk9ZI8PJ0=/monomax-obj.obs.ap-southeast-2.myhuaweicloud.com/assets/livechannels/Dqo5Uwq6HMI1oooTBXAvlD2S8pMBiAon.png" group-title="MONO Next", MONO29
 https://monomax-uiripn.cdn.byteark.com/plain/th/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://images.workpointtoday.com/workpointtv/2020/09/16045608/cropped-favicon.png" group-title="Workpoint Entertainment Public Company Limited", Workpoint
+https://global-media.sooplive.com/live/workpoint/master.m3u8
+
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/clhMtBU3QtreaoCWrETPNIAVjbrlgzsSzOLaspaZ2kmd_cKCgIkSggz07lBsmaGLIka0" group-title="Bangkok Media & Broadcasting Co., Ltd.", PPTV
 https://pptv36-9h0yba.cdn.byteark.com/bamm-csai/playlist.m3u8?x_ark_access_id=fleet-2966&x_ark_auth_type=ark-v2&x_ark_expires=1753170601&x_ark_path_prefix=%2Fbamm-csai%2F&x_ark_signature=AeFu5DW0BgWIi2o6nD3-qA
 
