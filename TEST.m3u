@@ -109,7 +109,8 @@ https://tataplay.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
 
 
 
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/58/Mono-next-New-logo.png" group-title="Mono Next",MONO29
+https://monomax-ksokkw.cdn.byteark.com/wv/index.mpd
 
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://img.monomax.me/qgyqboQ6Tq3k2YfHvipk9ZI8PJ0=/monomax-obj.obs.ap-southeast-2.myhuaweicloud.com/assets/livechannels/Dqo5Uwq6HMI1oooTBXAvlD2S8pMBiAon.png" group-title="MONO Next", MONO29
