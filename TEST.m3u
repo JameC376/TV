@@ -111,20 +111,12 @@ https://tataplay.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
 
 
 
+#EXTM3U
 #EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio-hi",NAME="Thai",URI="audio-hi/th/index.m3u8?x_ark_access_id=fleet-2966&x_ark_auth_type=ark-v2&x_ark_expires=1753170601&x_ark_path_prefix=%2Fbamm-csai%2F&x_ark_signature=AeFu5DW0BgWIi2o6nD3-qA"
 #EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio-hi",NAME="English",URI="audio-hi/en/index.m3u8?x_ark_access_id=fleet-2966&x_ark_auth_type=ark-v2&x_ark_expires=1753170601&x_ark_path_prefix=%2Fbamm-csai%2F&x_ark_signature=AeFu5DW0BgWIi2o6nD3-qA"
+#EXTINF:-1 tvg-logo="https://example.com/your-logo.png" group-title="My Content" , My 1080p Video (Thai Audio)
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=500000,RESOLUTION=1920x1080,AUDIO="audio-hi"
 1080p/index.m3u8?x_ark_access_id=fleet-2966&x_ark_auth_type=ark-v2&x_ark_expires=1753170601&x_ark_path_prefix=%2Fbamm-csai%2F&x_ark_signature=AeFu5DW0BgWIi2o6nD3-qA
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=400000,RESOLUTION=1280x720,AUDIO="audio-hi"
-720p/index.m3u8?x_ark_access_id=fleet-2966&x_ark_auth_type=ark-v2&x_ark_expires=1753170601&x_ark_path_prefix=%2Fbamm-csai%2F&x_ark_signature=AeFu5DW0BgWIi2o6nD3-qA
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=300000,RESOLUTION=854x480,AUDIO="audio-hi"
-480p/index.m3u8?x_ark_access_id=fleet-2966&x_ark_auth_type=ark-v2&x_ark_expires=1753170601&x_ark_path_prefix=%2Fbamm-csai%2F&x_ark_signature=AeFu5DW0BgWIi2o6nD3-qA
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=200000,RESOLUTION=640x360,AUDIO="audio-hi"
-360p/index.m3u8?x_ark_access_id=fleet-2966&x_ark_auth_type=ark-v2&x_ark_expires=1753170601&x_ark_path_prefix=%2Fbamm-csai%2F&x_ark_signature=AeFu5DW0BgWIi2o6nD3-qA
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=100000,RESOLUTION=428x240,AUDIO="audio-hi"
-240p/index.m3u8?x_ark_access_id=fleet-2966&x_ark_auth_type=ark-v2&x_ark_expires=1753170601&x_ark_path_prefix=%2Fbamm-csai%2F&x_ark_signature=AeFu5DW0BgWIi2o6nD3-qA
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=50000,RESOLUTION=256x144,AUDIO="audio-hi"
-144p/index.m3u8?x_ark_access_id=fleet-2966&x_ark_auth_type=ark-v2&x_ark_expires=1753170601&x_ark_path_prefix=%2Fbamm-csai%2F&x_ark_signature=AeFu5DW0BgWIi2o6nD3-qA
 
 #EXTINF:-1 tvg-logo="https://img.monomax.me/qgyqboQ6Tq3k2YfHvipk9ZI8PJ0=/monomax-obj.obs.ap-southeast-2.myhuaweicloud.com/assets/livechannels/Dqo5Uwq6HMI1oooTBXAvlD2S8pMBiAon.png" group-title="MONO Next", MONO29
 https://monomax-uiripn.cdn.byteark.com/plain/th/playlist.m3u8
