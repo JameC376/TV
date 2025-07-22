@@ -114,7 +114,7 @@ https://tataplay.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
 #EXTM3U
 #EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio-hi",NAME="Thai",URI="audio-hi/th/index.m3u8?x_ark_access_id=fleet-2966&x_ark_auth_type=ark-v2&x_ark_expires=1753170601&x_ark_path_prefix=%2Fbamm-csai%2F&x_ark_signature=AeFu5DW0BgWIi2o6nD3-qA"
 #EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio-hi",NAME="English",URI="audio-hi/en/index.m3u8?x_ark_access_id=fleet-2966&x_ark_auth_type=ark-v2&x_ark_expires=1753170601&x_ark_path_prefix=%2Fbamm-csai%2F&x_ark_signature=AeFu5DW0BgWIi2o6nD3-qA"
-#EXTINF:-1 tvg-logo="https://example.com/your-logo.png" group-title="My Content" , My 1080p Video (Thai Audio)
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/clhMtBU3QtreaoCWrETPNIAVjbrlgzsSzOLaspaZ2kmd_cKCgIkSggz07lBsmaGLIka0" group-title="My Content" , PPTV36
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=500000,RESOLUTION=1920x1080,AUDIO="audio-hi"
 1080p/index.m3u8?x_ark_access_id=fleet-2966&x_ark_auth_type=ark-v2&x_ark_expires=1753170601&x_ark_path_prefix=%2Fbamm-csai%2F&x_ark_signature=AeFu5DW0BgWIi2o6nD3-qA
 
