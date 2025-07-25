@@ -160,11 +160,6 @@ https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/RTA51982.svg/revision/latest?cb=20210314211343" group-title="Royal Thai Army", RTA 5HD
 https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/playlist.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://license.widevine.com/cenc/getlicense
-#KODIPROP:inputstream.adaptive.server_certificate=https://drm.example.com/widevine
-#EXTINF:-1 tvg-logo="https://mono29.com/app/themes/mono29-2017/assets/images/LOGO.png?1" group-title="MONO Next",MONO29
-https://monomax-ksokkw.cdn.byteark.com/wv/index.mpd
 
 
 
