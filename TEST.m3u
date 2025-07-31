@@ -109,7 +109,7 @@ https://tataplay.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://ch3plus.com/static/images/3pluslogo_white.svg" group-title="BEC World", 3HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Ch3HDLogo.svg/250px-Ch3HDLogo.svg.png" group-title="BEC World", 3HD
 https://ch3-33-web.cdn.byteark.com/live/playlist.m3u8?x_ark_access_id=D78MkxZFEr5Zr9PE&x_ark_auth_type=ark-v2&x_ark_expires=1753983002&x_ark_max_resolution=720p&x_ark_path_prefix=/live/&x_ark_signature=oKG7YZVUrds37i7WK6-ByQ
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/Thai_PBS_2011.svg/revision/latest?cb=20240505231211" group-title="Thai Public Broadcasting Service", Thai PBS
