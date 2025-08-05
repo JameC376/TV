@@ -1,9 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.pngDd" group-title="SHAREEXT@ UNITED KINGDOM || SPORTS",PremierSport 1 FHD 
-http://tooontv.com:999/live/ere3444h/agape/119915.ts 
-#EXTINF:-1 tvg-id="premiersports2.uk" tvg-name="UK: Premier Sport 2 FHD" tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.png" group-title="SHAREEXT@ UNITED KINGDOM || SPORTS",PremierSport 2 FHD 
-http://tooontv.com:999/live/ere3444h/agape/119916.ts 
+
 
 #EXTINF:-1 tvg-logo="https://media.info/l/o/1/1539.1690027797.png" group-title="	Warner Bros. Discovery",TNT Sports 1 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
@@ -202,6 +199,7 @@ https://cdn-edge-ott.prd.go.th/live_vlc/smil:7721-732d-60a6-13c1-b16d.smil/playl
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/RTA51982.svg/revision/latest?cb=20210314211343" group-title="Royal Thai Army", RTA 5HD
 https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/playlist.m3u8
+
 
 
 
