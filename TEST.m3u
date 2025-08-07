@@ -443,7 +443,7 @@ https://nationtv-1jdcjo.cdn.byteark.com/fleetstream/nationtvlive/index.m3u8
 https://amarin-ks7jcc.cdn.byteark.com/live/playlist.m3u8?x_ark_access_id=fleet-868&x_ark_auth_type=ark-v2&x_ark_expires=1754614097&x_ark_path_prefix=%2Flive%2F&x_ark_signature=l6RWuh8ybcDU2pr64CJuKA
 
 #EXTINF:-1 tvg-logo="https://true4u.com/images/logo.png" group-title="	True4U Station Co., Ltd.", true4U
-https://true4u-p4ljv2.cdn.byteark.com/live/playlist.m3u8?x_ark_access_id=fleet-1890&x_ark_auth_type=ark-v2&x_ark_expires=1754391616&x_ark_path_prefix=%2Flive%2F&x_ark_signature=r_My2e3WXNsjtFSep-noMw
+https://true4u-p4ljv2.cdn.byteark.com/live/pl_720p/index.m3u8?x_ark_access_id=fleet-1890&x_ark_auth_type=ark-v2&x_ark_expires=1754572377&x_ark_path_prefix=%2Flive%2F&x_ark_signature=oMsVF7PTkv6mEn-AEpHK-g
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b4/Thaich8-2024.webp/120px-Thaich8-2024.webp.png" group-title="RS Public Company Limited", 8CH
 https://prsmedia-mykojh.cdn.byteark.com/fleetstream/live/720p/index.m3u8
@@ -453,7 +453,7 @@ https://lb1-live-mv.v2h-cdn.com/hls/ffaf/thairath/thairath.m3u8
 
 #EXTINF:-1 tvg-chno="16" ch-number="16" tvg-id="TNN.th" tvg-name="TNN" tvg-logo="https://www.tnnthailand.com/images/logo/logo-tnn.svg" group-title="Thai News Network (TNN) Co., Ltd.", TNN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://tnnthailand-1mertz.cdn.byteark.com/live/pl_720p/index.m3u8?x_ark_access_id=fleet-1891&x_ark_auth_type=ark-v2&x_ark_expires=1754394193&x_ark_path_prefix=%2Flive&x_ark_signature=pkl4WABqcOKQRIOXoF-CeQ
+https://tnnthailand-1mertz.cdn.byteark.com/live/playlist.m3u8?x_ark_access_id=fleet-1891&x_ark_auth_type=ark-v2&x_ark_expires=1754572256&x_ark_path_prefix=%2Flive&x_ark_signature=xisv5234ElU-FF21WON47A
 
 
 
@@ -538,6 +538,7 @@ https://d2ujxo1akrn26l.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hdBrzcc/fox.png" group-title="News",FOX NEWS
 https://d3tlzddkbbpp5n.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-9uzjfw11uj9nn/LiveNOW_from_FOX.m3u8
+
 
 
 
