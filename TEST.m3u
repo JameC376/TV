@@ -1,5 +1,133 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="98202" tvg-name="AWMSIGSC" tvg-logo="https://upload.wikimedia.org/wikipedia/id/1/16/ASEAN_MSIG_Serenity_Cup_2025_logo.svg.png" group-title="ASEAN Women's MSIG Serenity Cup™", Broadcast CH 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=91b9592c819246c68b3b08a1fe08ba22:fa0d80dfd865b34077bae44cd4a0c5e6
+https://tglmp04.akamaized.net/out/v1/400fc0702dee453bb33ebcc29466e58a/manifest.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="PSN" tvg-logo="https://www.arsenal.com/sites/default/files/styles/large/public/images/PPV%20Villarreal_1920x1080_jglfb7kp.png?auto=webp&itok=NDwG7CRX" group-title="Pre-Season Match", Arsenal vs Villarreal CF
+#EXTVLCOPT:http-origin=https://kleanplay.shop
+#EXTVLCOPT:http-referrer=https://kleanplay.shop/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/6c5fd0ecfbc77b28967a8fe44354126b.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6IjZjNWZkMGVjZmJjNzdiMjg5NjdhOGZlNDQzNTQxMjZiIiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImV4cCI6MTc1NDUwMzE0NX0.Z0xtYXN3QGdpeWVkcmlodVRSdWsyY2hPRA
+
+#EXTINF:-1 tvg-id="" tvg-name="PSN" tvg-logo="https://img.gc.avfcservices.co.uk/fit-in/1400x1400/75290480-4aaf-11f0-be6a-ffdb80b2b7af.jpg" group-title="Pre-Season Match", Aston Villa vs AS Roma
+#EXTVLCOPT:http-origin=https://kleanplay.shop
+#EXTVLCOPT:http-referrer=https://kleanplay.shop/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/e6ab72e23715ef0221d950d67c5ccb40.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6ImU2YWI3MmUyMzcxNWVmMDIyMWQ5NTBkNjdjNWNjYjQwIiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImV4cCI6MTc1NDUwMzIxN30.Z0xtYXN3QGdpeWVkcmlodVRSdWsyY2hPRA
+
+#EXTINF:-1 tvg-id="" tvg-name="PSN" tvg-logo="https://da.gd/BETIS" group-title="Pre-Season Match", Real Betis vs Como 1907
+https://betistv-live.flumotion.com/4C8wSkAjjwjTG2kOaGXhmA/1754506871/betistv/live_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Leagues Cup" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/1ze0pg1748022807.jpg" group-title="Leagues Cup Phase One", Orlando City vs. Club Necaxa
+#EXTVLCOPT:http-origin=https://veplay.top
+#EXTVLCOPT:http-referrer=https://veplay.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YTE4MzdhMzE5YWE4LTk3NzktMjQ1NC03NGI3LWUzYWM4NDcz/master.m3u8?md5=jjuPPIC2r5LHmVmNs3EsEw&expires=1754531058&t=1754487858
+
+#EXTINF:-1 tvg-id="" tvg-name="Leagues Cup" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/kz7nhm1748022804.jpg" group-title="Leagues Cup Phase One", Inter Miami vs. Pumas UNAM
+#EXTVLCOPT:http-origin=https://veplay.top
+#EXTVLCOPT:http-referrer=https://veplay.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/variant/VE1AO1NTbu8mbv12LxEWM21ycrNWYyR3LhVGMzEGOmBTYlJmZtkDNjhTLldDN00yY5IGNtUGNzMmZ0cjN/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Leagues Cup" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/z25s0b1748022802.jpg" group-title="Leagues Cup Phase One", Atlanta vs. Atlas
+#EXTVLCOPT:http-origin=https://veplay.top
+#EXTVLCOPT:http-referrer=https://veplay.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/variant/VE1AO1NTbu8mbv12LxEWM21ycrNWYyR3LjdTOhVjMwUGO2QjYtMDN1gTLmN2N00yMxIjYtMjZlVGZkBjZ/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Leagues Cup" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/guool41748022809.jpg" group-title="Leagues Cup Phase One", Minnesota vs. Atlético de San Luis
+#EXTVLCOPT:http-origin=https://veplay.top
+#EXTVLCOPT:http-referrer=https://veplay.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/variant/VE1AO1NTbu8mbv12LxEWM21ycrNWYyR3LjRTOjhzMzITN0QWZtIzM2gTLwcDZ00yMhdDNtU2NkRmY5cjZ/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Leagues Cup" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/mav3uk1748022812.jpg" group-title="Leagues Cup Phase One", América vs. Portland
+#EXTVLCOPT:http-origin=https://veplay.top
+#EXTVLCOPT:http-referrer=https://veplay.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/variant/VE1AO1NTbu8mbv12LxEWM21ycrNWYyR3L0ETOlZWN0AzYkZzYtImZwgTLwUWM00COyATYtcjY4gzY3czM/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Leagues Cup" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/xfhifm1748022815.jpg" group-title="Leagues Cup Phase One", Salt Lake vs. Querétaro
+#EXTVLCOPT:http-origin=https://veplay.top
+#EXTVLCOPT:http-referrer=https://veplay.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/variant/VE1AO1NTbu8mbv12LxEWM21ycrNWYyR3LhhTZ1UzMmlzN3gTMtEGOihTL3EGN00yY4UWYtIjY5YjN2YTZ/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Leagues Cup" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/i7ktwk1748022817.jpg" group-title="Leagues Cup Phase One", Seattle vs. Tijuana
+#EXTVLCOPT:http-origin=https://veplay.top
+#EXTVLCOPT:http-referrer=https://veplay.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/variant/VE1AO1NTbu8mbv12LxEWM21ycrNWYyR3LhFDOzcTYzETOhFGOtkzN3kTLyQTN00yN0I2NtU2MhNGO0czM/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Premier League 2025-2026" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/67r1br1750320106.jpg" group-title="Premier League 2025-2026", Liverpool vs. Bournemouth
+#EXTVLCOPT:http-origin=https://veplay.top
+#EXTVLCOPT:http-referrer=https://veplay.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1ODdhNzUyMzE0YjQ5LTc1ODktMGY4NC1jMzMzLTNmYWJjMzM0/master.m3u8?md5=aVvK7WClDClrJnt-aWb-SA&expires=1754532867&t=1754489667
+
+#EXTINF:-1 tvg-id="" tvg-name="Premier League 2025-2026" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/bmj2zt1750320112.jpg" group-title="Premier League 2025-2026", Brighton and Hove Albion vs. Fulham
+#EXTVLCOPT:http-origin=https://veplay.top
+#EXTVLCOPT:http-referrer=https://veplay.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1OWQxZDZmMjJlNmY5LTA1NGItY2NmNC05Y2QxLTk0OWUyY2Jm/master.m3u8?md5=iuSx8MnnfePnEN45fE7cFQ&expires=1754533090&t=1754489890
+
+#EXTINF:-1 tvg-id="" tvg-name="Premier League 2025-2026" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/za86cn1750320117.jpg" group-title="Premier League 2025-2026", Sunderland vs. West Ham United
+#EXTVLCOPT:http-origin=https://veplay.top
+#EXTVLCOPT:http-referrer=https://veplay.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1MGM2Y2FlMWMyMTNkLWQ3OWEtNzRiNC1iYTEyLTZmOGRjYmMy/master.m3u8?md5=Y_lB8KrrDmPjJLnfK3I9JQ&expires=1754533175&t=1754489975
+
+#EXTINF:-1 tvg-id="" tvg-name="Premier League 2025-2026" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/7rziwz1750320119.jpg" group-title="Premier League 2025-2026", Tottenham Hotspur vs. Burnley
+#EXTVLCOPT:http-origin=https://veplay.top
+#EXTVLCOPT:http-referrer=https://veplay.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1MDgwZmM2OTNkNzMxLTMzYmItMWRhNC1kY2E3LWI1MGQ1ZDE0/master.m3u8?md5=yt8iqSOrEmLu8ABicfYPGg&expires=1754533233&t=1754490033
+
+#EXTINF:-1 tvg-id="" tvg-name="Premier League 2025-2026" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/w9mxwc1750320122.jpg" group-title="Premier League 2025-2026", Wolverhampton Wanderers vs. Manchester City
+#EXTVLCOPT:http-origin=https://veplay.top
+#EXTVLCOPT:http-referrer=https://veplay.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1NDRlYjIyYTNmMjJlLWNhZTktNTE5NC1iMWQ5LTRlYjgzMmFj/master.m3u8?md5=lSD5X6NsETw05wc8UTRJpg&expires=1754533282&t=1754490082
+
+#EXTINF:-1 tvg-id="" tvg-name="Premier League 2025-2026" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/b2sweu1750320114.jpg" group-title="Premier League 2025-2026", Nottingham Forest vs. Brentford
+#EXTVLCOPT:http-origin=https://veplay.top
+#EXTVLCOPT:http-referrer=https://veplay.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YTc5NzllMDdkMjdjLWNhZmEtN2VkNC1kODNkLTQ1NzdjOGMz/master.m3u8?md5=4dJ3GHA_oiRX8Z1MiyvryQ&expires=1754533355&t=1754490155
+
+#EXTINF:-1 tvg-id="" tvg-name="Premier League 2025-2026" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/8ra9pg1750320124.jpg" group-title="Premier League 2025-2026", Chelsea vs. Crystal Palace
+#EXTVLCOPT:http-origin=https://veplay.top
+#EXTVLCOPT:http-referrer=https://veplay.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1MGM1MGQzOTRmZDkyLTFiMGEtMjUwNC02MmZhLTYxYTE3ZDk2/master.m3u8?md5=mLooCm2QM4asskjjIdMerg&expires=1754533414&t=1754490214
+
+#EXTINF:-1 tvg-id="" tvg-name="Premier League 2025-2026" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/5xm6d01750320127.jpg" group-title="Premier League 2025-2026", Manchester United vs. Arsenal
+#EXTVLCOPT:http-origin=https://veplay.top
+#EXTVLCOPT:http-referrer=https://veplay.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1ZDZlZmJmNjllMTRiLTA0NWItNDViNC1iMmVkLTI0MWRhYTFk/master.m3u8?md5=JXbPMsb7vit7x5w4UNU68A&expires=1754533464&t=1754490264
+
+#EXTINF:-1 tvg-id="LFCTV.HD.uk" tvg-name="LFCTV" tvg-logo="https://file.garden/aFQjU_LpHi9tgPMM/IMG/LFCTV" group-title="Football Club TV", LFCTV
+#EXTVLCOPT:http-origin=https://kleanplay.shop
+#EXTVLCOPT:http-referrer=https://kleanplay.shop/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/6fad2dc57f9f733c48f8c35ba8aeb119.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6IjZmYWQyZGM1N2Y5ZjczM2M0OGY4YzM1YmE4YWViMTE5IiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImV4cCI6MTc1NDQ4MjUxMn0.Z0xtYXN3QGdpeWVkcmlodVRSdWsyY2hPRA
+
+#EXTINF:-1 tvg-id="9453" tvg-name="MUTV" tvg-logo="https://file.garden/aFQjU_LpHi9tgPMM/IMG/MUTV" group-title="Football Club TV", MUTV
+#EXTVLCOPT:http-origin=https://kleanplay.shop
+#EXTVLCOPT:http-referrer=https://kleanplay.shop/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/fishy-smell/ebcdba09e8a64f24e07c4d9b67267753.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6ImViY2RiYTA5ZThhNjRmMjRlMDdjNGQ5YjY3MjY3NzUzIiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImV4cCI6MTc1NDQ4MjkxMn0.Z0xtYXN3QGdpeWVkcmlodVRSdWsyY2hPRA
+
+#EXTINF:-1 tvg-id="UK:.TOP.Barça.en" tvg-name="FCB" tvg-logo="https://file.garden/aFQjU_LpHi9tgPMM/IMG/FCB" group-title="Football Club TV", TOP BARÇA
+https://amg17560-fcb-amg17560c1-rakuten-uk-4891.playouts.now.amagi.tv/playlist/amg17560-fcbarcelona-topbarcaenglish-rakutenuk/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="RM" tvg-logo="https://file.garden/aFQjU_LpHi9tgPMM/IMG/RM" group-title="Football Club TV", RM TV
+https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
+
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -294,6 +422,7 @@ https://d2ujxo1akrn26l.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hdBrzcc/fox.png" group-title="News",FOX NEWS
 https://d3tlzddkbbpp5n.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-9uzjfw11uj9nn/LiveNOW_from_FOX.m3u8
+
 
 
 
