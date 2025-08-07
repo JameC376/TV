@@ -1,13 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/72FDWf6/SHAREEXT-HUB-PREMIER.jpg" group-title="ShareExt@Relax", HUB.SPORTS.1 (Singapore)
-http://rfye55.xyz/live/98:06:3c:98:da:fa/881A863F2BD7/1090647.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/72FDWf6/SHAREEXT-HUB-PREMIER.jpg" group-title="ShareExt@Relax", HUB.SPORTS.2 (Singapore)
-http://rfye55.xyz/live/98:06:3c:98:da:fa/881A863F2BD7/1090648.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/72FDWf6/SHAREEXT-HUB-PREMIER.jpg" group-title="ShareExt@Relax", HUB.SPORTS.3 (Singapore)
-http://rfye55.xyz/live/98:06:3c:98:da:fa/881A863F2BD7/1090649.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/72FDWf6/SHAREEXT-HUB-PREMIER.jpg" group-title="ShareExt@Relax", HUB.SPORTS.4 (Singapore)
-http://rfye55.xyz/live/98:06:3c:98:da:fa/881A863F2BD7/1090650.ts
+
 
 #EXTINF:-1 tvg-id="98202" tvg-name="AWMSIGSC" tvg-logo="https://upload.wikimedia.org/wikipedia/id/1/16/ASEAN_MSIG_Serenity_Cup_2025_logo.svg.png" group-title="ASEAN Women's MSIG Serenity Cup™", Broadcast CH 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -431,6 +424,7 @@ https://d2ujxo1akrn26l.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hdBrzcc/fox.png" group-title="News",FOX NEWS
 https://d3tlzddkbbpp5n.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-9uzjfw11uj9nn/LiveNOW_from_FOX.m3u8
+
 
 
 
