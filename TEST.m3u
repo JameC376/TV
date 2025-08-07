@@ -241,6 +241,8 @@ https://cdn-edge-ott.prd.go.th/live_vlc/smil:7721-732d-60a6-13c1-b16d.smil/playl
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/RTA51982.svg/revision/latest?cb=20210314211343" group-title="Royal Thai Army", RTA 5HD
 https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vSz2WEp.png" group-title="News" tvg-last-checked="2025-08-07T01:20:49+00:00",BBC News Asia Pacific (1080p)
+https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-MY/bbc_news_asia_pacific_1080p_8d814f89.m3u8
 
 
 
