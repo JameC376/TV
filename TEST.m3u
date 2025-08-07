@@ -279,10 +279,6 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 https://db38umy8gexon.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-f561zwy85csh9/playlist.m3u8
 
 
-#EXTINF:-1  tvg-logo="https://i.ibb.co/cbd3f9M/shareext-ufc-wwe-logo.jpg" group-title="Strongman Champions League Canada Inc.",🇺🇸 Strongman.ChampionLeague
-https://3f4b9dde8740443b9b90459fc7b67cdd.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-gb_StrongmanChampionsLeague/e21d95be-bbb1-442c-bd84-71813dc764ce/0.m3u8|user-agent=Mozilla/5.0
-#EXTINF:-1  tvg-logo="https://i.ibb.co/cbd3f9M/shareext-ufc-wwe-logo.jpg" group-title="Streamstak, Inc.",Boxing Tv
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/boxing-tv/8d205a30-d00f-457d-978b-265b290eb7e0/0.m3u8
 
 
 
@@ -542,6 +538,7 @@ https://d2ujxo1akrn26l.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hdBrzcc/fox.png" group-title="News",FOX NEWS
 https://d3tlzddkbbpp5n.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-9uzjfw11uj9nn/LiveNOW_from_FOX.m3u8
+
 
 
 
