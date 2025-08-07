@@ -196,7 +196,7 @@ https://lb1-live-mv.v2h-cdn.com/hls/ffef/tsport/tsport.m3u8
 https://nationtv-1jdcjo.cdn.byteark.com/fleetstream/nationtvlive/index.m3u8
 
 #EXTINF:-1 tvg-id="Amarin34HD.th" tvg-name="Amarin TV" group-title="Amarin Television Co., Ltd." tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/ff/Amarin_TV_2015.svg",Amarin TV
-https://amarin-ks7jcc.cdn.byteark.com/live/playlist.m3u8?x_ark_access_id=fleet-868&x_ark_auth_type=ark-v2&x_ark_expires=1754455374&x_ark_path_prefix=%2Flive%2F&x_ark_signature=rH5SPw0afCfQU2R4VgoHkw
+https://amarin-ks7jcc.cdn.byteark.com/live/playlist.m3u8?x_ark_access_id=fleet-868&x_ark_auth_type=ark-v2&x_ark_expires=1754614097&x_ark_path_prefix=%2Flive%2F&x_ark_signature=l6RWuh8ybcDU2pr64CJuKA
 
 #EXTINF:-1 tvg-logo="https://true4u.com/images/logo.png" group-title="	True4U Station Co., Ltd.", true4U
 https://true4u-p4ljv2.cdn.byteark.com/live/playlist.m3u8?x_ark_access_id=fleet-1890&x_ark_auth_type=ark-v2&x_ark_expires=1754391616&x_ark_path_prefix=%2Flive%2F&x_ark_signature=r_My2e3WXNsjtFSep-noMw
@@ -294,6 +294,7 @@ https://d2ujxo1akrn26l.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hdBrzcc/fox.png" group-title="News",FOX NEWS
 https://d3tlzddkbbpp5n.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-9uzjfw11uj9nn/LiveNOW_from_FOX.m3u8
+
 
 
 
