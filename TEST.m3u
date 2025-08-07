@@ -1,4 +1,65 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Ch3HDLogo.svg/250px-Ch3HDLogo.svg.png" group-title="BEC World", 3HD
+https://lb1-live-mv.v2h-cdn.com/hls/ffae/3hd/3hd.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/Thai_PBS_2011.svg/revision/latest?cb=20240505231211" group-title="Thai Public Broadcasting Service", Thai PBS
+https://thaipbs-mcx0wm.cdn.byteark.com/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/ALTV4_2024.svg/revision/latest?cb=20240506002526" group-title="Thai Public Broadcasting Service", ALTV
+https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://img.monomax.me/qgyqboQ6Tq3k2YfHvipk9ZI8PJ0=/monomax-obj.obs.ap-southeast-2.myhuaweicloud.com/assets/livechannels/Dqo5Uwq6HMI1oooTBXAvlD2S8pMBiAon.png" group-title="MONO Next", MONO29
+https://monomax-uiripn.cdn.byteark.com/plain/th/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.workpointtoday.com/workpointtv/2020/09/16045608/cropped-favicon.png" group-title="Workpoint Entertainment Public Company Limited", Workpoint
+https://global-media.sooplive.com/live/workpoint/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/clhMtBU3QtreaoCWrETPNIAVjbrlgzsSzOLaspaZ2kmd_cKCgIkSggz07lBsmaGLIka0" group-title="Bangkok Media & Broadcasting Co., Ltd.", PPTV
+https://pptv36-9h0yba.cdn.byteark.com/bamm-csai/playlist.m3u8?x_ark_access_id=fleet-2966&x_ark_auth_type=ark-v2&x_ark_expires=1754570401&x_ark_path_prefix=%2Fbamm-csai%2F&x_ark_signature=SdM-_Z0Amkqgh2mSQqC9iQ
+
+#EXTINF:-1 tvg-logo="https://imgs.mcot.net/images/2020/04/1586506833486-0x92.png" group-title="MCOT PCL", MCOTHD 30
+https://mcothd-streaming-edge-cdn.mcot.net/tencentmcot/smil:tencentmcot.smil/chunklist_w1497173433_b3000000.m3u8
+
+#EXTINF:-1 tvg-logo="https://assets.oned.net/3/be/7e/be7edac0-e9b2-4555-b671-8104c5ba5270" group-title="GMM Grammy" , one31
+https://bcovlive-a.akamaihd.net/b6603a14ea59440a95e9235e14bc9332/ap-southeast-1/6415628290001/9c3d7fc7d10840a69e48b5939ae886e0/playlist_ssaiM.m3u8
+
+#EXTINF:-1 tvg-logo="https://assets.oned.net/3/89/9d/899d04ae-354c-4add-a781-2a52ea61ac38" group-title="GMM Grammy", GMM25
+https://bcovlive-a.akamaihd.net/57d4bf695e80436d9335f4f50adbe438/ap-southeast-1/6415628290001/7e85dc4a59904e45b4fdffebd62e1d82/playlist_ssaiM.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f7/Channel_7_Thailand_3D.png/revision/latest?cb=20160528065611" group-title="Bangkok Broadcasting & Television", 7 HD
+https://live-cdn.ch7.com/out/v1/eafeb02c55b64a15b278b1e66c7fc776/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Boomerang.th" tvg-name="Boomerang Thai" group-title="MVTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/512px-Boomerang_2014_logo.svg.png",Boomerang Thai
+https://lb1-live-mv.v2h-cdn.com/hls/fffa/boomerang/boomerang.m3u8
+
+#EXTINF:-1 tvg-id="BOOMAnime.th" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/174_y_BdCq6Xr7og2SHhc3i5KbYxetAEf0nMly.png" group-title="MVTV",BOOM ANIME
+https://lb1-live-mv.v2h-cdn.com/hls/ffbd/boomanime/boomanime.m3u8
+
+#EXTINF:-1 tvg-id="TSports7.th" tvg-name="T Sports 7" group-title="SAT" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/ce/T_Sports_7_Logo.png",T Sports 7
+https://lb1-live-mv.v2h-cdn.com/hls/ffef/tsport/tsport.m3u8
+
+#EXTINF:-1 tvg-logo="https://resource.nationtv.tv/images/logo-footer-v1.png" group-title="Nation TV Co., Ltd.", Nation TV
+https://nationtv-1jdcjo.cdn.byteark.com/fleetstream/nationtvlive/index.m3u8
+
+#EXTINF:-1 tvg-id="Amarin34HD.th" tvg-name="Amarin TV" group-title="Amarin Television Co., Ltd." tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/ff/Amarin_TV_2015.svg",Amarin TV
+https://amarin-ks7jcc.cdn.byteark.com/live/playlist.m3u8?x_ark_access_id=fleet-868&x_ark_auth_type=ark-v2&x_ark_expires=1754614097&x_ark_path_prefix=%2Flive%2F&x_ark_signature=l6RWuh8ybcDU2pr64CJuKA
+
+#EXTINF:-1 tvg-logo="https://true4u.com/images/logo.png" group-title="	True4U Station Co., Ltd.", true4U
+https://true4u-p4ljv2.cdn.byteark.com/live/pl_720p/index.m3u8?x_ark_access_id=fleet-1890&x_ark_auth_type=ark-v2&x_ark_expires=1754572377&x_ark_path_prefix=%2Flive%2F&x_ark_signature=oMsVF7PTkv6mEn-AEpHK-g
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b4/Thaich8-2024.webp/120px-Thaich8-2024.webp.png" group-title="RS Public Company Limited", 8CH
+https://prsmedia-mykojh.cdn.byteark.com/fleetstream/live/720p/index.m3u8
+
+#EXTINF:-1 tvg-id="ThairathTV32.th" tvg-name="Thairath TV" group-title="Triple V Broadcast Co., Ltd." tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Thairath_TV32.svg/250px-Thairath_TV32.svg.png",Thairath TV
+https://lb1-live-mv.v2h-cdn.com/hls/ffaf/thairath/thairath.m3u8
+
+#EXTINF:-1 tvg-chno="16" ch-number="16" tvg-id="TNN.th" tvg-name="TNN" tvg-logo="https://www.tnnthailand.com/images/logo/logo-tnn.svg" group-title="Thai News Network (TNN) Co., Ltd.", TNN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://tnnthailand-1mertz.cdn.byteark.com/live/playlist.m3u8?x_ark_access_id=fleet-1891&x_ark_auth_type=ark-v2&x_ark_expires=1754572256&x_ark_path_prefix=%2Flive&x_ark_signature=xisv5234ElU-FF21WON47A
+
+
+
 
 #EXTINF:-1 group-title="Saudi Sports Company" tvg-id="SSC 1" tvg-logo="https://raw.githubusercontent.com/quuen2024/queen_logo/refs/heads/queen/ssc.png",SSC 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.62
@@ -396,75 +457,6 @@ https://tataplay.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Ch3HDLogo.svg/250px-Ch3HDLogo.svg.png" group-title="BEC World", 3HD
-https://lb1-live-mv.v2h-cdn.com/hls/ffae/3hd/3hd.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/Thai_PBS_2011.svg/revision/latest?cb=20240505231211" group-title="Thai Public Broadcasting Service", Thai PBS
-https://thaipbs-mcx0wm.cdn.byteark.com/live/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/ALTV4_2024.svg/revision/latest?cb=20240506002526" group-title="Thai Public Broadcasting Service", ALTV
-https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8
-
-#EXTM3U
-#EXTINF:-1 tvg-logo="https://img.monomax.me/qgyqboQ6Tq3k2YfHvipk9ZI8PJ0=/monomax-obj.obs.ap-southeast-2.myhuaweicloud.com/assets/livechannels/Dqo5Uwq6HMI1oooTBXAvlD2S8pMBiAon.png" group-title="MONO Next", MONO29
-https://monomax-uiripn.cdn.byteark.com/plain/th/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.workpointtoday.com/workpointtv/2020/09/16045608/cropped-favicon.png" group-title="Workpoint Entertainment Public Company Limited", Workpoint
-https://global-media.sooplive.com/live/workpoint/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/clhMtBU3QtreaoCWrETPNIAVjbrlgzsSzOLaspaZ2kmd_cKCgIkSggz07lBsmaGLIka0" group-title="Bangkok Media & Broadcasting Co., Ltd.", PPTV
-https://pptv36-9h0yba.cdn.byteark.com/bamm-csai/playlist.m3u8?x_ark_access_id=fleet-2966&x_ark_auth_type=ark-v2&x_ark_expires=1754570401&x_ark_path_prefix=%2Fbamm-csai%2F&x_ark_signature=SdM-_Z0Amkqgh2mSQqC9iQ
-
-#EXTINF:-1 tvg-logo="https://imgs.mcot.net/images/2020/04/1586506833486-0x92.png" group-title="MCOT PCL", MCOTHD 30
-https://mcothd-streaming-edge-cdn.mcot.net/tencentmcot/smil:tencentmcot.smil/chunklist_w1497173433_b3000000.m3u8
-
-#EXTINF:-1 tvg-logo="https://assets.oned.net/3/be/7e/be7edac0-e9b2-4555-b671-8104c5ba5270" group-title="GMM Grammy" , one31
-https://bcovlive-a.akamaihd.net/b6603a14ea59440a95e9235e14bc9332/ap-southeast-1/6415628290001/9c3d7fc7d10840a69e48b5939ae886e0/playlist_ssaiM.m3u8
-
-#EXTINF:-1 tvg-logo="https://assets.oned.net/3/89/9d/899d04ae-354c-4add-a781-2a52ea61ac38" group-title="GMM Grammy", GMM25
-https://bcovlive-a.akamaihd.net/57d4bf695e80436d9335f4f50adbe438/ap-southeast-1/6415628290001/7e85dc4a59904e45b4fdffebd62e1d82/playlist_ssaiM.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f7/Channel_7_Thailand_3D.png/revision/latest?cb=20160528065611" group-title="Bangkok Broadcasting & Television", 7 HD
-https://live-cdn.ch7.com/out/v1/eafeb02c55b64a15b278b1e66c7fc776/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Boomerang.th" tvg-name="Boomerang Thai" group-title="MVTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/512px-Boomerang_2014_logo.svg.png",Boomerang Thai
-https://lb1-live-mv.v2h-cdn.com/hls/fffa/boomerang/boomerang.m3u8
-
-#EXTINF:-1 tvg-id="BOOMAnime.th" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/174_y_BdCq6Xr7og2SHhc3i5KbYxetAEf0nMly.png" group-title="MVTV",BOOM ANIME
-https://lb1-live-mv.v2h-cdn.com/hls/ffbd/boomanime/boomanime.m3u8
-
-#EXTINF:-1 tvg-id="TSports7.th" tvg-name="T Sports 7" group-title="SAT" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/ce/T_Sports_7_Logo.png",T Sports 7
-https://lb1-live-mv.v2h-cdn.com/hls/ffef/tsport/tsport.m3u8
-
-#EXTINF:-1 tvg-logo="https://resource.nationtv.tv/images/logo-footer-v1.png" group-title="Nation TV Co., Ltd.", Nation TV
-https://nationtv-1jdcjo.cdn.byteark.com/fleetstream/nationtvlive/index.m3u8
-
-#EXTINF:-1 tvg-id="Amarin34HD.th" tvg-name="Amarin TV" group-title="Amarin Television Co., Ltd." tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/ff/Amarin_TV_2015.svg",Amarin TV
-https://amarin-ks7jcc.cdn.byteark.com/live/playlist.m3u8?x_ark_access_id=fleet-868&x_ark_auth_type=ark-v2&x_ark_expires=1754614097&x_ark_path_prefix=%2Flive%2F&x_ark_signature=l6RWuh8ybcDU2pr64CJuKA
-
-#EXTINF:-1 tvg-logo="https://true4u.com/images/logo.png" group-title="	True4U Station Co., Ltd.", true4U
-https://true4u-p4ljv2.cdn.byteark.com/live/pl_720p/index.m3u8?x_ark_access_id=fleet-1890&x_ark_auth_type=ark-v2&x_ark_expires=1754572377&x_ark_path_prefix=%2Flive%2F&x_ark_signature=oMsVF7PTkv6mEn-AEpHK-g
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b4/Thaich8-2024.webp/120px-Thaich8-2024.webp.png" group-title="RS Public Company Limited", 8CH
-https://prsmedia-mykojh.cdn.byteark.com/fleetstream/live/720p/index.m3u8
-
-#EXTINF:-1 tvg-id="ThairathTV32.th" tvg-name="Thairath TV" group-title="Triple V Broadcast Co., Ltd." tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Thairath_TV32.svg/250px-Thairath_TV32.svg.png",Thairath TV
-https://lb1-live-mv.v2h-cdn.com/hls/ffaf/thairath/thairath.m3u8
-
-#EXTINF:-1 tvg-chno="16" ch-number="16" tvg-id="TNN.th" tvg-name="TNN" tvg-logo="https://www.tnnthailand.com/images/logo/logo-tnn.svg" group-title="Thai News Network (TNN) Co., Ltd.", TNN
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://tnnthailand-1mertz.cdn.byteark.com/live/playlist.m3u8?x_ark_access_id=fleet-1891&x_ark_auth_type=ark-v2&x_ark_expires=1754572256&x_ark_path_prefix=%2Flive&x_ark_signature=xisv5234ElU-FF21WON47A
-
-
-#EXTINF:-1, TrueID Live Stream
-#EXTVLCOPT:input-slave=https://cdn116.stm.trueid.net/p101dai/207_multi_w_auto_tidapp.smil/chunklist_w287285834_b96000_ao_sltha_t64VGhhaQ==.m3u8?appid=trueid&type=live&visitor=web&drm=aes&uid=205068834&did=UHgzMmtrSmlBTU5ENGNMUTBRbS03VDl5WnZrcUpTX18&mpass=yGLZkF2ZPRTQLrRNl18BUvDDD1iEtLoWXBK_fIwHsXpmaaDKdij19ntPgmHCNsGcrp-2rXu95gHoUvagwyJ4YxO20lBEL0TmuyC0qHiX0i4gIDFGLfdgFmjXxFyUUQoCDd8&sid=49323f21ab&rt=1754551502&ds=25200&tk=Cd9bMdJ97FKlOQl5uRbTkipBRMwJRtQNCaqHdGJeedk
-https://cdn116.stm.trueid.net/p101dai/207_multi_w_auto_tidapp.smil/chunklist_w287285834_b4800000_vo_t64TWFpbg==.m3u8?appid=trueid&type=live&visitor=web&drm=aes&uid=205068834&did=UHgzMmtrSmlBTU5ENGNMUTBRbS03VDl5WnZrcUpTX18&mpass=yGLZkF2ZPRTQLrRNl18BUvDDD1iEtLoWXBK_fIwHsXpmaaDKdij19ntPgmHCNsGcrp-2rXu95gHoUvagwyJ4YxO20lBEL0TmuyC0qHiX0i4gIDFGLfdgFmjXxFyUUQoCDd8&sid=49323f21ab&rt=1754551502&ds=25200&tk=Cd9bMdJ97FKlOQl5uRbTkipBRMwJRtQNCaqHdGJeedk
-
-
-
-
-
-
 
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1f/NBT2025Logo.svg/revision/latest?cb=20250607144926" group-title="	Public Relations Department of the Office of the Prime Minister", NBT 2HD
@@ -543,6 +535,7 @@ https://d2ujxo1akrn26l.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hdBrzcc/fox.png" group-title="News",FOX NEWS
 https://d3tlzddkbbpp5n.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-9uzjfw11uj9nn/LiveNOW_from_FOX.m3u8
+
 
 
 
