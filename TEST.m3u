@@ -413,7 +413,7 @@ https://monomax-uiripn.cdn.byteark.com/plain/th/playlist.m3u8
 https://global-media.sooplive.com/live/workpoint/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/clhMtBU3QtreaoCWrETPNIAVjbrlgzsSzOLaspaZ2kmd_cKCgIkSggz07lBsmaGLIka0" group-title="Bangkok Media & Broadcasting Co., Ltd.", PPTV
-https://pptv36-9h0yba.cdn.byteark.com/bamm-csai/playlist.m3u8?x_ark_access_id=fleet-2966&x_ark_auth_type=ark-v2&x_ark_expires=1754551802&x_ark_path_prefix=%2Fbamm-csai%2F&x_ark_signature=0ahqqaN6ssVsOCwRD42ViQ
+https://pptv36-9h0yba.cdn.byteark.com/bamm-csai/playlist.m3u8?x_ark_access_id=fleet-2966&x_ark_auth_type=ark-v2&x_ark_expires=1754570401&x_ark_path_prefix=%2Fbamm-csai%2F&x_ark_signature=SdM-_Z0Amkqgh2mSQqC9iQ
 
 #EXTINF:-1 tvg-logo="https://imgs.mcot.net/images/2020/04/1586506833486-0x92.png" group-title="MCOT PCL", MCOTHD 30
 https://mcothd-streaming-edge-cdn.mcot.net/tencentmcot/smil:tencentmcot.smil/chunklist_w1497173433_b3000000.m3u8
@@ -543,6 +543,7 @@ https://d2ujxo1akrn26l.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hdBrzcc/fox.png" group-title="News",FOX NEWS
 https://d3tlzddkbbpp5n.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-9uzjfw11uj9nn/LiveNOW_from_FOX.m3u8
+
 
 
 
