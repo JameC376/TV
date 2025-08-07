@@ -244,7 +244,8 @@ https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vSz2WEp.png" group-title="News" tvg-last-checked="2025-08-07T01:20:49+00:00",BBC News Asia Pacific (1080p)
 https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-MY/bbc_news_asia_pacific_1080p_8d814f89.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8MBM4M1/skyn.png" group-title="News",SKY NEWS AUSTRALIA
+https://amg00663-skynews-skynewsau-samsungau-r7n40.amagi.tv/playlist/amg00663-skynews-skynewsau-samsungau/playlist.m3u8
 
 
 
