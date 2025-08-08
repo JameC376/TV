@@ -59,9 +59,12 @@ https://lb1-live-mv.v2h-cdn.com/hls/ffaf/thairath/thairath.m3u8
 https://tnnthailand-1mertz.cdn.byteark.com/live/playlist.m3u8?x_ark_access_id=fleet-1891&x_ark_auth_type=ark-v2&x_ark_expires=1754572256&x_ark_path_prefix=%2Flive&x_ark_signature=xisv5234ElU-FF21WON47A
 
 
-#EXTINF:-1 tvg-id="" tvg-name="Premier Sports1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a7/Premier_Sports_1_II.svg/revision/latest?cb=20230516195441"group-title="SSBL Limited", Premier Sports1
+#EXTINF:-1 tvg-id="" tvg-name="Premier Sports1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a7/Premier_Sports_1_II.svg/revision/latest?cb=20230516195441" group-title="SSBL Limited", Premier Sports1
 https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1MmUzYTQyNGU1ODZjLWE1OTgtYTE5NC1lYzcwLWEyZmVjOTk1/master.m3u8
 
+
+#EXTINF:-1 tvg-id="" tvg-name="CBS Sports" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=7mwprx8coerh4nlywijdvzeas_image-header_pRow_1751639232000&quality=70" group-title="Paramount Skydance Corporation", CBS Sports
+https://ott.udptv.xyz/stream/udptv/cbssportsgolazo/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
 
 
 #EXTINF:-1 tvg-id="" tvg-name="beIN Sport 1" tvg-logo="https://cms.dmpcdn.com/livetv/2021/08/26/05890500-0632-11ec-9b2a-5fa5449ad866_webp_320.png" group-title="beIN Media Group", beIN Sport 1
@@ -543,6 +546,7 @@ https://d2ujxo1akrn26l.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hdBrzcc/fox.png" group-title="News",FOX NEWS
 https://d3tlzddkbbpp5n.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-9uzjfw11uj9nn/LiveNOW_from_FOX.m3u8
+
 
 
 
