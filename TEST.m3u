@@ -43,7 +43,7 @@ https://lb1-live-mv.v2h-cdn.com/hls/ffef/tsport/tsport.m3u8
 https://nationtv-1jdcjo.cdn.byteark.com/fleetstream/nationtvlive/index.m3u8
 
 #EXTINF:-1 tvg-id="Amarin34HD.th" tvg-name="Amarin TV" group-title="Amarin Television Co., Ltd." tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/ff/Amarin_TV_2015.svg",Amarin TV
-https://amarin-ks7jcc.cdn.byteark.com/live/playlist.m3u8?x_ark_access_id=fleet-868&x_ark_auth_type=ark-v2&x_ark_expires=1754614097&x_ark_path_prefix=%2Flive%2F&x_ark_signature=l6RWuh8ybcDU2pr64CJuKA
+https://amarin-ks7jcc.cdn.byteark.com/live/playlist.m3u8?x_ark_access_id=fleet-868&x_ark_auth_type=ark-v2&x_ark_expires=1754729457&x_ark_path_prefix=%2Flive%2F&x_ark_signature=tphpEcaNMpPEWVoFBuYoPw
 
 #EXTINF:-1 tvg-logo="https://true4u.com/images/logo.png" group-title="	True4U Station Co., Ltd.", true4U
 https://true4u-p4ljv2.cdn.byteark.com/live/pl_720p/index.m3u8?x_ark_access_id=fleet-1890&x_ark_auth_type=ark-v2&x_ark_expires=1754572377&x_ark_path_prefix=%2Flive%2F&x_ark_signature=oMsVF7PTkv6mEn-AEpHK-g
@@ -63,7 +63,7 @@ https://tnnthailand-1mertz.cdn.byteark.com/live/playlist.m3u8?x_ark_access_id=fl
 https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1MmUzYTQyNGU1ODZjLWE1OTgtYTE5NC1lYzcwLWEyZmVjOTk1/master.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="CBS Sports" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=7mwprx8coerh4nlywijdvzeas_image-header_pRow_1751639232000&quality=70" group-title="Paramount Skydance Corporation", CBS Sports
+#EXTINF:-1 tvg-id="" tvg-name="CBS Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/13/CBS_Sports_%282021%29.svg/revision/latest?cb=20210227221721" group-title="Paramount Skydance Corporation", CBS Sports
 https://ott.udptv.xyz/stream/udptv/cbssportsgolazo/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
 
 
@@ -546,6 +546,7 @@ https://d2ujxo1akrn26l.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hdBrzcc/fox.png" group-title="News",FOX NEWS
 https://d3tlzddkbbpp5n.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-9uzjfw11uj9nn/LiveNOW_from_FOX.m3u8
+
 
 
 
