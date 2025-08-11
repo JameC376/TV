@@ -127,6 +127,14 @@ https://ssc-extra3-enc.edgenextcdn.net/out/v1/8f1c6c3f05ef4284a64b342891bd85ae/i
 https://tglmp04.akamaized.net/out/v1/400fc0702dee453bb33ebcc29466e58a/manifest.mpd
 
 
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sports News" tvg-logo="https://media.info/l/o/1/1087.1600877510.png" group-title="Sky Group", Sky Sports News
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://sdplay.studiodragonplay.workers.dev/m3u8?id=EPL1
+
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sports Premier League" tvg-logo="https://media.info/l/o/1/1554.1507600205.png" group-title="Sky Group", Sky Sports Premier League
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://sdplay.studiodragonplay.workers.dev/m3u8?id=EPL2
+
 
 
 
@@ -432,6 +440,7 @@ https://d2ujxo1akrn26l.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hdBrzcc/fox.png" group-title="News",FOX NEWS
 https://d3tlzddkbbpp5n.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-9uzjfw11uj9nn/LiveNOW_from_FOX.m3u8
+
 
 
 
