@@ -2,8 +2,9 @@
 #EXT-X-VERSION:3
 #EXT-X-TARGETDURATION:6
 #EXT-X-MEDIA-SEQUENCE:0
-#EXTIMG:https://cf-images.ap-southeast-1.prod.boltdns.net/v1/static/6415628290001/2ca6c3fe-3c01-4ccd-a689-c2203ac85e37/7e83bffb-6393-49e8-bb71-668a55db05ad/1280x720/match/image.jpg
+#EXTIMG:https://drive.google.com/file/d/1axCMse_ybqmJ-zgePv1PgOagws1GqrVu/view?usp=sharing
 
 #EXTINF:6.000,TASTE เด็กเจนแซ่บ EP.1
 https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/6415628290001/2ca6c3fe-3c01-4ccd-a689-c2203ac85e37/6s/master.m3u8?fastly_token=Njg5OTc4NDdfYzE2ZGIxM2Q5YWNlZWQ5ZmZhYzZlMGNkZWI4YTQyM2QxMGNkZGI1NzAwMjM4MzQ1NzFmYWZhOGY2ZWE0YzI3Yw%3D%3D
+
 #EXT-X-ENDLIST
