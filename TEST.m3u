@@ -1,4 +1,5 @@
 #EXTM3U
+#EXT-X-VERSION:6
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Ch3HDLogo.svg/250px-Ch3HDLogo.svg.png" group-title="BEC World", 3HD
 https://lb1-live-mv.v2h-cdn.com/hls/ffae/3hd/3hd.m3u8
 
@@ -440,6 +441,7 @@ https://d2ujxo1akrn26l.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hdBrzcc/fox.png" group-title="News",FOX NEWS
 https://d3tlzddkbbpp5n.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-9uzjfw11uj9nn/LiveNOW_from_FOX.m3u8
+
 
 
 
