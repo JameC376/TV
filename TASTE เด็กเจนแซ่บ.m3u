@@ -1,12 +1,13 @@
 #EXTM3U
-#EXTINF:3000 tvg-logo="https://raw.githubusercontent.com/JameC376/TV/main/image%20TASTE/ep1.jpg"BEC World", TASTE เด็กเจนแซ่บ EP.1
+#EXTINF:6.000 tvg-logo="https://raw.githubusercontent.com/JameC376/TV/main/image%20TASTE/ep1.jpg, TASTE เด็กเจนแซ่บ EP.1
 https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/6415628290001/2ca6c3fe-3c01-4ccd-a689-c2203ac85e37/6s/master.m3u8?fastly_token=Njg5OTdhZDlfYjQyMmJmZmU0MDk2YmYyMGNmMWFkYmU0NmRjMzUxMzkxZmNmYjBkNDAyNWU5Zjg3ZjY1ZTJiZmI5M2Y3ZmM5YQ%3D%3D
 
-#EXTINF:3000 tvg-logo="https://raw.githubusercontent.com/JameC376/TV/main/image%20TASTE/ep2.jpg"BEC World", TASTE เด็กเจนแซ่บ EP.2
+#EXTINF:6.000 tvg-logo="https://raw.githubusercontent.com/JameC376/TV/main/image%20TASTE/ep2.jpg, TASTE เด็กเจนแซ่บ EP.2
 https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/6415628290001/54f91050-22d5-4abf-aca2-9d77e0eeb0ef/6s/master.m3u8?fastly_token=Njg5OTg0MTRfYmVlOGQ0YTJiMWRlZTRmZmY3ZWY0ZDJmZWM0NGMzMmVjMjIwMDc2ZGQ0ZTUzNjM1YWM4MGM1YzU0M2E2Zjg2YQ%3D%3D
 
-#EXTINF:3000 tvg-logo="https://raw.githubusercontent.com/JameC376/TV/main/image%20TASTE/ep3.jpg"BEC World", TASTE เด็กเจนแซ่บ EP.3
+#EXTINF:6.000 tvg-logo="https://raw.githubusercontent.com/JameC376/TV/main/image%20TASTE/ep3.jpg, TASTE เด็กเจนแซ่บ EP.3
 https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/6415628290001/00c7c3d9-a349-481f-98b0-1e2251c454ea/6s/master.m3u8?fastly_token=Njg5OTg0NTlfOGI5YmFhZWU4ZDk0ZDFhY2EwMjBjMjc1NGUwNmE3NWY4MTk4MjFmNGUwNzM4YTg5ZDdiMzAzYWQ5NWIxMjgwYQ%3D%3D
+
 
 
 
