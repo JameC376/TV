@@ -151,109 +151,99 @@ https://ott.udptv.xyz/stream/skyde/skyatlantic/master.m3u8?u=cocked&p=dd0abb5272
 https://ott.udptv.xyz/stream/Sky/skycinemaaction/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
 #EXTINF:-1  tvg-name="Sky Cinema Action" tvg-id="Sky.Cinema.Action.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-action-hz-it.png" group-title="Sky Group",Sky Cinema Action DE
 https://ott.udptv.xyz/stream/skyde/skycinemaaction/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
-#EXTINF:-1  tvg-name="Sky Sport 1 DE" tvg-id="skyde/skysport1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/sky-sport/sky-sport-1-de.png?raw=true" group-title="UDPTV Live Streams",Sky Sport 1 DE
+#EXTINF:-1  tvg-name="Sky Sport 1 DE" tvg-id="skyde/skysport1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/sky-sport/sky-sport-1-de.png?raw=true" group-title="Sky Group",Sky Sport 1 DE
 https://ott.udptv.xyz/stream/skyde/skysport1/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
-#EXTINF:-1  tvg-name="Sky Sport 2 DE" tvg-id="skyde/skysport2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/sky-sport/sky-sport-2-de.png?raw=true" group-title="UDPTV Live Streams",Sky Sport 2 DE
+#EXTINF:-1  tvg-name="Sky Sport 2 DE" tvg-id="skyde/skysport2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/sky-sport/sky-sport-2-de.png?raw=true" group-title="Sky Group",Sky Sport 2 DE
 https://ott.udptv.xyz/stream/skyde/skysport2/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
-#EXTINF:-1  tvg-name="Sky Sport 3 DE" tvg-id="skyde/skysport3" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/sky-sport/sky-sport-3-de.png?raw=true" group-title="UDPTV Live Streams",Sky Sport 3 DE
+#EXTINF:-1  tvg-name="Sky Sport 3 DE" tvg-id="skyde/skysport3" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/sky-sport/sky-sport-3-de.png?raw=true" group-title="Sky Group",Sky Sport 3 DE
 https://ott.udptv.xyz/stream/skyde/skysport3/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
-#EXTINF:-1  tvg-name="Sky Sport 4 DE" tvg-id="skyde/skysport4" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/sky-sport/sky-sport-4-de.png?raw=true" group-title="UDPTV Live Streams",Sky Sport 4 DE
+#EXTINF:-1  tvg-name="Sky Sport 4 DE" tvg-id="skyde/skysport4" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/sky-sport/sky-sport-4-de.png?raw=true" group-title="Sky Group",Sky Sport 4 DE
 https://ott.udptv.xyz/stream/skyde/skysport4/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
-#EXTINF:-1  tvg-name="Sky Sport 5 DE" tvg-id="skyde/skysport5" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/sky-sport/sky-sport-5-de.png?raw=true" group-title="UDPTV Live Streams",Sky Sport 5 DE
+#EXTINF:-1  tvg-name="Sky Sport 5 DE" tvg-id="skyde/skysport5" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/sky-sport/sky-sport-5-de.png?raw=true" group-title="Sky Group",Sky Sport 5 DE
 https://ott.udptv.xyz/stream/skyde/skysport5/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
-#EXTINF:-1  tvg-name="Sky Sport 6 DE" tvg-id="skyde/skysport6" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/sky-sport/sky-sport-6-de.png?raw=true" group-title="UDPTV Live Streams",Sky Sport 6 DE
+#EXTINF:-1  tvg-name="Sky Sport 6 DE" tvg-id="skyde/skysport6" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/sky-sport/sky-sport-6-de.png?raw=true" group-title="Sky Group",Sky Sport 6 DE
 https://ott.udptv.xyz/stream/skyde/skysport6/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
-#EXTINF:-1  tvg-name="Sky Sport 7 DE" tvg-id="skyde/skysport7" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/sky-sport/sky-sport-7-de.png?raw=true" group-title="UDPTV Live Streams",Sky Sport 7 DE
+#EXTINF:-1  tvg-name="Sky Sport 7 DE" tvg-id="skyde/skysport7" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/sky-sport/sky-sport-7-de.png?raw=true" group-title="Sky Group",Sky Sport 7 DE
 https://ott.udptv.xyz/stream/skyde/skysport7/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
-#EXTINF:-1  tvg-name="Sky Sport 8 DE" tvg-id="skyde/skysport8" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/sky-sport/sky-sport-8-de.png?raw=true" group-title="UDPTV Live Streams",Sky Sport 8 DE
+#EXTINF:-1  tvg-name="Sky Sport 8 DE" tvg-id="skyde/skysport8" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/sky-sport/sky-sport-8-de.png?raw=true" group-title="Sky Group",Sky Sport 8 DE
 https://ott.udptv.xyz/stream/skyde/skysport8/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
-#EXTINF:-1  tvg-name="Sky Sport 9 DE" tvg-id="skyde/skysport9" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/sky-sport/sky-sport-9-de.png?raw=true" group-title="UDPTV Live Streams",Sky Sport 9 DE
+#EXTINF:-1  tvg-name="Sky Sport 9 DE" tvg-id="skyde/skysport9" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/sky-sport/sky-sport-9-de.png?raw=true" group-title="Sky Group",Sky Sport 9 DE
 https://ott.udptv.xyz/stream/skyde/skysport9/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
-#EXTINF:-1  tvg-name="Sky Sport 10 DE" tvg-id="skyde/skysport10" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/sky-sport/sky-sport-10-de.png?raw=true" group-title="UDPTV Live Streams",Sky Sport 10 DE
+#EXTINF:-1  tvg-name="Sky Sport 10 DE" tvg-id="skyde/skysport10" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/sky-sport/sky-sport-10-de.png?raw=true" group-title="Sky Group",Sky Sport 10 DE
 https://ott.udptv.xyz/stream/skyde/skysport10/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
-#EXTINF:-1  tvg-name="Sky Sport Bundesliga DE" tvg-id="skyde/skysportbundesliga" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/sky-sport/sky-sport-bundesliga-de.png?raw=true" group-title="UDPTV Live Streams",Sky Sport Bundesliga DE
+#EXTINF:-1  tvg-name="Sky Sport Bundesliga DE" tvg-id="skyde/skysportbundesliga" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/sky-sport/sky-sport-bundesliga-de.png?raw=true" group-title="Sky Group",Sky Sport Bundesliga DE
 https://ott.udptv.xyz/stream/skyde/skysportbundesliga/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
-#EXTINF:-1  tvg-name="Sky Sport Bundesliga 1 DE" tvg-id="skyde/skysportbundesliga1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/sky-sport/sky-sport-bundesliga-1-de.png?raw=true" group-title="UDPTV Live Streams",Sky Sport Bundesliga 1 DE
+#EXTINF:-1  tvg-name="Sky Sport Bundesliga 1 DE" tvg-id="skyde/skysportbundesliga1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/sky-sport/sky-sport-bundesliga-1-de.png?raw=true" group-title="Sky Group",Sky Sport Bundesliga 1 DE
 https://ott.udptv.xyz/stream/skyde/skysportbundesliga1/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
-#EXTINF:-1  tvg-name="Sky Sport Bundesliga 2 DE" tvg-id="skyde/skysportbundesliga2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/sky-sport/sky-sport-bundesliga-2-de.png?raw=true" group-title="UDPTV Live Streams",Sky Sport Bundesliga 2 DE
+#EXTINF:-1  tvg-name="Sky Sport Bundesliga 2 DE" tvg-id="skyde/skysportbundesliga2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/sky-sport/sky-sport-bundesliga-2-de.png?raw=true" group-title="Sky Group",Sky Sport Bundesliga 2 DE
 https://ott.udptv.xyz/stream/skyde/skysportbundesliga2/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
-#EXTINF:-1  tvg-name="Sky Sport Bundesliga 3 DE" tvg-id="skyde/skysportbundesliga3" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/sky-sport/sky-sport-bundesliga-3-de.png?raw=true" group-title="UDPTV Live Streams",Sky Sport Bundesliga 3 DE
+#EXTINF:-1  tvg-name="Sky Sport Bundesliga 3 DE" tvg-id="skyde/skysportbundesliga3" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/sky-sport/sky-sport-bundesliga-3-de.png?raw=true" group-title="Sky Group",Sky Sport Bundesliga 3 DE
 https://ott.udptv.xyz/stream/skyde/skysportbundesliga3/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
-#EXTINF:-1  tvg-name="Sky Sport Bundesliga 4 DE" tvg-id="skyde/skysportbundesliga4" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/sky-sport/sky-sport-bundesliga-4-de.png?raw=true" group-title="UDPTV Live Streams",Sky Sport Bundesliga 4 DE
+#EXTINF:-1  tvg-name="Sky Sport Bundesliga 4 DE" tvg-id="skyde/skysportbundesliga4" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/sky-sport/sky-sport-bundesliga-4-de.png?raw=true" group-title="Sky Group",Sky Sport Bundesliga 4 DE
 https://ott.udptv.xyz/stream/skyde/skysportbundesliga4/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
-#EXTINF:-1  tvg-name="Sky Sport Bundesliga 5 DE" tvg-id="skyde/skysportbundesliga5" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/sky-sport/sky-sport-bundesliga-5-de.png?raw=true" group-title="UDPTV Live Streams",Sky Sport Bundesliga 5 DE
+#EXTINF:-1  tvg-name="Sky Sport Bundesliga 5 DE" tvg-id="skyde/skysportbundesliga5" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/sky-sport/sky-sport-bundesliga-5-de.png?raw=true" group-title="Sky Group",Sky Sport Bundesliga 5 DE
 https://ott.udptv.xyz/stream/skyde/skysportbundesliga5/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
-#EXTINF:-1  tvg-name="Sky Sport Bundesliga 6 DE" tvg-id="skyde/skysportbundesliga6" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/sky-sport/sky-sport-bundesliga-6-de.png?raw=true" group-title="UDPTV Live Streams",Sky Sport Bundesliga 6 DE
+#EXTINF:-1  tvg-name="Sky Sport Bundesliga 6 DE" tvg-id="skyde/skysportbundesliga6" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/sky-sport/sky-sport-bundesliga-6-de.png?raw=true" group-title="Sky Group",Sky Sport Bundesliga 6 DE
 https://ott.udptv.xyz/stream/skyde/skysportbundesliga6/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
-#EXTINF:-1  tvg-name="Sky Sport Bundesliga 7 DE" tvg-id="skyde/skysportbundesliga7" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/sky-sport/sky-sport-bundesliga-7-de.png?raw=true" group-title="UDPTV Live Streams",Sky Sport Bundesliga 7 DE
+#EXTINF:-1  tvg-name="Sky Sport Bundesliga 7 DE" tvg-id="skyde/skysportbundesliga7" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/sky-sport/sky-sport-bundesliga-7-de.png?raw=true" group-title="Sky Group",Sky Sport Bundesliga 7 DE
 https://ott.udptv.xyz/stream/skyde/skysportbundesliga7/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
-#EXTINF:-1  tvg-name="Sky Sport Bundesliga 8 DE" tvg-id="skyde/skysportbundesliga8" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/sky-sport/sky-sport-bundesliga-8-de.png?raw=true" group-title="UDPTV Live Streams",Sky Sport Bundesliga 8 DE
+#EXTINF:-1  tvg-name="Sky Sport Bundesliga 8 DE" tvg-id="skyde/skysportbundesliga8" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/sky-sport/sky-sport-bundesliga-8-de.png?raw=true" group-title="Sky Group",Sky Sport Bundesliga 8 DE
 https://ott.udptv.xyz/stream/skyde/skysportbundesliga8/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
-#EXTINF:-1  tvg-name="Sky Sport Bundesliga 9 DE" tvg-id="skyde/skysportbundesliga9" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/sky-sport/sky-sport-bundesliga-9-de.png?raw=true" group-title="UDPTV Live Streams",Sky Sport Bundesliga 9 DE
+#EXTINF:-1  tvg-name="Sky Sport Bundesliga 9 DE" tvg-id="skyde/skysportbundesliga9" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/sky-sport/sky-sport-bundesliga-9-de.png?raw=true" group-title="Sky Group",Sky Sport Bundesliga 9 DE
 https://ott.udptv.xyz/stream/skyde/skysportbundesliga9/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
-#EXTINF:-1  tvg-name="Sky Sport Bundesliga 10 DE" tvg-id="skyde/skysportbundesliga10" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/sky-sport/sky-sport-bundesliga-10-de.png?raw=true" group-title="UDPTV Live Streams",Sky Sport Bundesliga 10 DE
+#EXTINF:-1  tvg-name="Sky Sport Bundesliga 10 DE" tvg-id="skyde/skysportbundesliga10" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/sky-sport/sky-sport-bundesliga-10-de.png?raw=true" group-title="Sky Group",Sky Sport Bundesliga 10 DE
 https://ott.udptv.xyz/stream/skyde/skysportbundesliga10/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
-#EXTINF:-1  tvg-name="Sky Sport 24" tvg-id="Sky.Sport24.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-24-it.png" group-title="UDPTV Live Streams",Sky Sport 24 IT
+#EXTINF:-1  tvg-name="Sky Sport 24" tvg-id="Sky.Sport24.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-24-it.png" group-title="Sky Group",Sky Sport 24 IT
 https://ott.udptv.xyz/stream/Sky/skysport24/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
-#EXTINF:-1  tvg-name="Sky Sport Arena" tvg-id="Sky.Sport.Arena.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-arena-it.png" group-title="UDPTV Live Streams",Sky Sport Arena IT
+#EXTINF:-1  tvg-name="Sky Sport Arena" tvg-id="Sky.Sport.Arena.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-arena-it.png" group-title="Sky Group",Sky Sport Arena IT
 https://ott.udptv.xyz/stream/Sky/skysportarena/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
-#EXTINF:-1  tvg-name="Sky Sport Calcio" tvg-id="Sky.Sport.Calcio.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-calcio-it.png" group-title="UDPTV Live Streams",Sky Sport Calcio IT
+#EXTINF:-1  tvg-name="Sky Sport Calcio" tvg-id="Sky.Sport.Calcio.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-calcio-it.png" group-title="Sky Group",Sky Sport Calcio IT
 https://ott.udptv.xyz/stream/Sky/skysportcalcio/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
-#EXTINF:-1  tvg-name="Sky Sport F1" tvg-id="Sky.Sport.F1.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-f1-it.png" group-title="UDPTV Live Streams",Sky Sport F1 IT
+#EXTINF:-1  tvg-name="Sky Sport F1" tvg-id="Sky.Sport.F1.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-f1-it.png" group-title="Sky Group",Sky Sport F1 IT
 https://ott.udptv.xyz/stream/Sky/skysportf1/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
-#EXTINF:-1  tvg-name="Sky Sport F1 DE" tvg-id="skyde/skysportf1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-f1-it.png" group-title="UDPTV Live Streams",Sky Sport F1 DE
+#EXTINF:-1  tvg-name="Sky Sport F1 DE" tvg-id="skyde/skysportf1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-f1-it.png" group-title="Sky Group",Sky Sport F1 DE
 https://ott.udptv.xyz/stream/skyde/skysportf1/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
-#EXTINF:-1  tvg-name="Sky Sport Golf" tvg-id="Sky.Sport.Golf.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-golf-it.png" group-title="UDPTV Live Streams",Sky Sport Golf IT
+#EXTINF:-1  tvg-name="Sky Sport Golf" tvg-id="Sky.Sport.Golf.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-golf-it.png" group-title="Sky Group",Sky Sport Golf IT
 https://ott.udptv.xyz/stream/Sky/skysportgolf/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
-#EXTINF:-1  tvg-name="Sky Sport Max" tvg-id="Sky.Sport.Max.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-max-it.png" group-title="UDPTV Live Streams",Sky Sport Max IT
+#EXTINF:-1  tvg-name="Sky Sport Max" tvg-id="Sky.Sport.Max.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-max-it.png" group-title="Sky Group",Sky Sport Max IT
 https://ott.udptv.xyz/stream/Sky/skysportmax/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
-#EXTINF:-1  tvg-name="Sky Sport Motogp" tvg-id="Sky.Sport.MotoGP.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-motogp-it.png" group-title="UDPTV Live Streams",Sky Sport Motogp IT
+#EXTINF:-1  tvg-name="Sky Sport Motogp" tvg-id="Sky.Sport.MotoGP.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-motogp-it.png" group-title="Sky Group",Sky Sport Motogp IT
 https://ott.udptv.xyz/stream/Sky/skysportmotogp/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
-#EXTINF:-1  tvg-name="Sky Sport Uno" tvg-id="Sky.Sport.Uno.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-uno-it.png" group-title="UDPTV Live Streams",Sky Sport Uno IT
+#EXTINF:-1  tvg-name="Sky Sport Uno" tvg-id="Sky.Sport.Uno.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-uno-it.png" group-title="Sky Group",Sky Sport Uno IT
 https://ott.udptv.xyz/stream/Sky/skysportuno/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
-#EXTINF:-1  tvg-name="Sky Sport Golf DE" tvg-id="skyde/skysportgolf" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-golf-uk.png" group-title="UDPTV Live Streams",Sky Sport Golf DE
+#EXTINF:-1  tvg-name="Sky Sport Golf DE" tvg-id="skyde/skysportgolf" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-golf-uk.png" group-title="Sky Group",Sky Sport Golf DE
 https://ott.udptv.xyz/stream/skyde/skysportgolf/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
-#EXTINF:-1  tvg-name="Sky Sport Mix DE" tvg-id="skyde/skysportmix" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-mix-uk.png" group-title="UDPTV Live Streams",Sky Sport Mix DE
+#EXTINF:-1  tvg-name="Sky Sport Mix DE" tvg-id="skyde/skysportmix" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-mix-uk.png" group-title="Sky Group",Sky Sport Mix DE
 https://ott.udptv.xyz/stream/skyde/skysportmix/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
-#EXTINF:-1  tvg-name="Sky Sport News DE" tvg-id="skyde/skysportnews" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-news-uk.png" group-title="UDPTV Live Streams",Sky Sport News DE
+#EXTINF:-1  tvg-name="Sky Sport News DE" tvg-id="skyde/skysportnews" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-news-uk.png" group-title="Sky Group",Sky Sport News DE
 https://ott.udptv.xyz/stream/skyde/skysportnews/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
-#EXTINF:-1  tvg-name="Sky Sport Premier League DE" tvg-id="skyde/skysportpremierleague" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-premier-league-uk.png" group-title="UDPTV Live Streams",Sky Sport Premier League DE
+#EXTINF:-1  tvg-name="Sky Sport Premier League DE" tvg-id="skyde/skysportpremierleague" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-premier-league-uk.png" group-title="Sky Group",Sky Sport Premier League DE
 https://ott.udptv.xyz/stream/skyde/skysportpremierleague/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
-#EXTINF:-1  tvg-name="Sky Sports Tennis IT" tvg-id="Sky.Sport.Tennis.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-tennis-it.png" group-title="UDPTV Live Streams",Sky Sports Tennis IT
+#EXTINF:-1  tvg-name="Sky Sports Tennis IT" tvg-id="Sky.Sport.Tennis.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-tennis-it.png" group-title="Sky Group",Sky Sports Tennis IT
 https://ott.udptv.xyz/stream/Sky/skysporttennis/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
-#EXTINF:-1  tvg-name="Sky Sport Tennis DE" tvg-id="skyde/skysporttennis" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-tennis-uk.png" group-title="UDPTV Live Streams",Sky Sport Tennis DE
+#EXTINF:-1  tvg-name="Sky Sport Tennis DE" tvg-id="skyde/skysporttennis" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-tennis-uk.png" group-title="Sky Group",Sky Sport Tennis DE
 https://ott.udptv.xyz/stream/skyde/skysporttennis/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
-#EXTINF:-1  tvg-name="Sky Sport Top Event DE" tvg-id="skyde/skysporttopevent" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/sky-sport/sky-sport-top-event-de.png?raw=true" group-title="UDPTV Live Streams",Sky Sport Top Event DE
+#EXTINF:-1  tvg-name="Sky Sport Top Event DE" tvg-id="skyde/skysporttopevent" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/sky-sport/sky-sport-top-event-de.png?raw=true" group-title="Sky Group",Sky Sport Top Event DE
 https://ott.udptv.xyz/stream/skyde/skysporttopevent/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
-#EXTINF:-1  tvg-name="Sky Uno" tvg-id="Sky.Uno.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-uno-it.png" group-title="UDPTV Live Streams",Sky Uno
+#EXTINF:-1  tvg-name="Sky Uno" tvg-id="Sky.Uno.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-uno-it.png" group-title="Sky Group",Sky Uno
 https://ott.udptv.xyz/stream/Sky/skyuno/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
 
 
 
-#EXTINF:-1  tvg-name="Sports Bay Area" tvg-id="NBC.Sports.Bay.Area/California.Plus.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nbcsn-bay-area-hz-us.png" group-title="UDPTV Live Streams",Sports Bay Area
-https://ott.udptv.xyz/stream/nbc/sportsbayarea/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
-#EXTINF:-1  tvg-name="Sports Boston" tvg-id="NBC.Sports.Boston.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nbcsn-boston-hz-us.png" group-title="UDPTV Live Streams",Sports Boston
-https://ott.udptv.xyz/stream/nbc/sportsboston/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
-#EXTINF:-1  tvg-name="Sports California" tvg-id="NBC.Sports.California.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbcsn-california-hz-us.png?raw=true" group-title="UDPTV Live Streams",Sports California
-https://ott.udptv.xyz/stream/nbc/sportscalifornia/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
-#EXTINF:-1  tvg-name="Sports Philadelphia" tvg-id="NBC.Sports.Philadelphia.HDTV.(NBCSPAHD).us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nbcsn-philadelphia-hz-us.png" group-title="UDPTV Live Streams",Sports Philadelphia
-https://ott.udptv.xyz/stream/nbc/sportsphiladelphia/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
 
-
-
-#EXTINF:-1  tvg-name="Sportsnet 360" tvg-id="Sportsnet.360.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/sportsnet-360-ca.png" group-title="UDPTV Live Streams",Sportsnet 360
+#EXTINF:-1  tvg-name="Sportsnet 360" tvg-id="Sportsnet.360.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/sportsnet-360-ca.png" group-title="Rogers Sports & Media",Sportsnet 360
 https://ott.udptv.net/stream/iptv/sportsnet360/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
-#EXTINF:-1  tvg-name="Sportsnet East" tvg-id="Sportsnet.(East).-.Satellite/Digital.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/sportsnet-east-ca.png" group-title="UDPTV Live Streams",Sportsnet East
+#EXTINF:-1  tvg-name="Sportsnet East" tvg-id="Sportsnet.(East).-.Satellite/Digital.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/sportsnet-east-ca.png" group-title="Rogers Sports & Media",Sportsnet East
 https://ott.udptv.net/stream/iptv/sportsneteast/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
-#EXTINF:-1  tvg-name="Sportsnet One" tvg-id="Sportsnet.One.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/sportsnet-one-ca.png" group-title="UDPTV Live Streams",Sportsnet One
+#EXTINF:-1  tvg-name="Sportsnet One" tvg-id="Sportsnet.One.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/sportsnet-one-ca.png" group-title="Rogers Sports & Media",Sportsnet One
 https://ott.udptv.net/stream/iptv/sportsnetone/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
-#EXTINF:-1  tvg-name="Sportsnet Ontario" tvg-id="Sportsnet.(Ontario).ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/sportsnet-ontario-ca.png" group-title="UDPTV Live Streams",Sportsnet Ontario
+#EXTINF:-1  tvg-name="Sportsnet Ontario" tvg-id="Sportsnet.(Ontario).ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/sportsnet-ontario-ca.png" group-title="Rogers Sports & Media",Sportsnet Ontario
 https://ott.udptv.net/stream/iptv/sportsnetontario/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
-#EXTINF:-1  tvg-name="Sportsnet Pacific" tvg-id="Sportsnet.(Pacific).-.Satellite/Digital.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/sportsnet-pacific-ca.png" group-title="UDPTV Live Streams",Sportsnet Pacific
+#EXTINF:-1  tvg-name="Sportsnet Pacific" tvg-id="Sportsnet.(Pacific).-.Satellite/Digital.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/sportsnet-pacific-ca.png" group-title="Rogers Sports & Media",Sportsnet Pacific
 https://ott.udptv.net/stream/iptv/sportsnetpacific/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
-#EXTINF:-1  tvg-name="Sportsnet West" tvg-id="Sportsnet.(West).-.Satellite/Digital.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/sportsnet-west-ca.png" group-title="UDPTV Live Streams",Sportsnet West
+#EXTINF:-1  tvg-name="Sportsnet West" tvg-id="Sportsnet.(West).-.Satellite/Digital.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/sportsnet-west-ca.png" group-title="Rogers Sports & Media",Sportsnet West
 https://ott.udptv.net/stream/iptv/sportsnetwest/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
-#EXTINF:-1  tvg-name="Sportsnet World" tvg-id="Sportsnet.World.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/sportsnet-world-ca.png" group-title="UDPTV Live Streams",Sportsnet World
+#EXTINF:-1  tvg-name="Sportsnet World" tvg-id="Sportsnet.World.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/sportsnet-world-ca.png" group-title="Rogers Sports & Media",Sportsnet World
 https://ott.udptv.net/stream/iptv/sportsnetworld/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
 
 
@@ -422,8 +412,6 @@ https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1Y2VkZWNhNDhm
 #EXTINF:-1 tvg-id="MUTV.HD.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b8/MUTV_logo.png" group-title="Manchester United F.C.",MUTV UK
 https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1MDMwOTE5YTA2YTJmLTNjNGItZWVjNC0xZDE1LTAyNTQwMjk0/master.m3u8
 
-#EXTINF:-1 tvg-id="NBC.(WNBC).New.York,.NY.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/NBC_logo.svg/1200px-NBC_logo.svg.png" group-title="NBCUniversal",NBC
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1OWQwNWM4NGU1NzQ0LWIzZTgtOTUyNC0wMjA2LWNjMWE3YTQw/master.m3u8
 
 #EXTINF:-1 tvg-id="NHL.Network.USA.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nhl-network-us.png?raw=true" group-title="NHL Network Inc",NHL Network
 https://nhl-firetv.amagi.tv/playlist.m3u8
@@ -534,31 +522,42 @@ https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_onesportsplus_hd1.mpd
 #KODIPROP:inputstream.adaptive.license_key=95588338ee37423e99358a6d431324b9:6e0f50a12f36599a55073868f814e81e
 https://qp-pldt-live-grp-04-prod.akamaized.net/out/u/cg_uaap_cplay_sd.mpd
 
-#EXTINF:-1 tvg-id="NBCSportsBoston.us" tvg-name="" tvg-logo="https://iili.io/Jp5oxpt.png" group-title="NBC Universal", NBC SPORTS
+
+
+#EXTINF:-1 tvg-id="NBCSportsBoston.us" tvg-name="" tvg-logo="https://iili.io/Jp5oxpt.png" group-title="NBC Sports Group", NBC SPORTS
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0020d88a6713159839743f655c5da7de:ba9f34226301f69a4f0f13f65a1f92ec
 https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc122ycnuy)/master.mpd
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.pinimg.com/236x/99/bc/ca/99bccae1b719e496bce9789997aea217.jpg" group-title="NBC Universal", PEACOCK SPORTS
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.pinimg.com/236x/99/bc/ca/99bccae1b719e496bce9789997aea217.jpg" group-title="NBC Sports Group", PEACOCK SPORTS
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=002046c9a49b9ab1cdb6616bec5d26c3:d2f92f6b7edc9a1a05d393ba0c20ef9e
 https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd
-
-#EXTINF:-1 group-title="NBC Universal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/USA-Network-Logo.svg/2560px-USA-Network-Logo.svg.png", USA Network 
+#EXTINF:-1 group-title="NBC Sports Group" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/USA-Network-Logo.svg/2560px-USA-Network-Logo.svg.png", USA Network 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=333962e3e1383529867a9a0e28a5e5d1:5d3fcbed53749ee622ed0e64f31c1cbf
 https://cfrt.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-west)/master.mpd
-
-#EXTINF:-1 group-title="NBC Universal" tvg-logo="https://static.wikia.nocookie.net/youtube/images/2/22/NBC.jpg/revision/latest?cb=20230910112737", NBC Sport Peacock
+#EXTINF:-1 group-title="NBC Sports Group" tvg-logo="https://static.wikia.nocookie.net/youtube/images/2/22/NBC.jpg/revision/latest?cb=20230910112737", NBC Sport Peacock
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0045a118e231f1326bcdb45350b1ceaa:8c13afbfa54ea37a368b8b859021f6e3
 https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(knbc)/master.mpd
+#EXTINF:-1  tvg-name="Sports Bay Area" tvg-id="NBC.Sports.Bay.Area/California.Plus.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nbcsn-bay-area-hz-us.png" group-title="NBC Sports Group",Sports Bay Area
+https://ott.udptv.xyz/stream/nbc/sportsbayarea/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1  tvg-name="Sports Boston" tvg-id="NBC.Sports.Boston.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nbcsn-boston-hz-us.png" group-title="NBC Sports Group",Sports Boston
+https://ott.udptv.xyz/stream/nbc/sportsboston/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1  tvg-name="Sports California" tvg-id="NBC.Sports.California.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbcsn-california-hz-us.png?raw=true" group-title="NBC Sports Group",Sports California
+https://ott.udptv.xyz/stream/nbc/sportscalifornia/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1  tvg-name="Sports Philadelphia" tvg-id="NBC.Sports.Philadelphia.HDTV.(NBCSPAHD).us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nbcsn-philadelphia-hz-us.png" group-title="	NBC Sports Group",Sports Philadelphia
+https://ott.udptv.xyz/stream/nbc/sportsphiladelphia/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-id="NBC.(WNBC).New.York,.NY.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/NBC_logo.svg/1200px-NBC_logo.svg.png" group-title="NBC Universal",NBC
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1OWQwNWM4NGU1NzQ0LWIzZTgtOTUyNC0wMjA2LWNjMWE3YTQw/master.m3u8
+
+
 
 #EXTINF:-1 group-title="Sony Pictures Networks India" tvg-id="Sony Ten 1" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonysix-live/spnsportsindia/channel_logos/Sports%201%20HD%20Black%201.png",Sony Sports Ten 1 HD
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -673,6 +672,7 @@ https://d2ujxo1akrn26l.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hdBrzcc/fox.png" group-title="News",FOX NEWS
 https://d3tlzddkbbpp5n.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-9uzjfw11uj9nn/LiveNOW_from_FOX.m3u8
+
 
 
 
