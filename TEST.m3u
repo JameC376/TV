@@ -135,6 +135,64 @@ https://ssc-extra3-enc.edgenextcdn.net/out/v1/8f1c6c3f05ef4284a64b342891bd85ae/i
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=91b9592c819246c68b3b08a1fe08ba22:fa0d80dfd865b34077bae44cd4a0c5e6
 https://tglmp04.akamaized.net/out/v1/400fc0702dee453bb33ebcc29466e58a/manifest.mpd
+#EXTINF:-1 tvg-id="98202" tvg-name="AWMSIGSC" tvg-logo="https://upload.wikimedia.org/wikipedia/id/1/16/ASEAN_MSIG_Serenity_Cup_2025_logo.svg.png" group-title="ASEAN Women's MSIG Serenity Cup™", Broadcast CH 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d418f733ed224f9bb9c2b1589db22a20:6ed6fe26daa4b926810869ff60254ebb
+https://tglmp02.akamaized.net/out/v1/cc0fc82e76cb4e0093e81695284af443/manifest.mpd
+
+
+#EXTINF:-1 tvg-id="" tvg-name="LIGUE1" tvg-logo="https://file.garden/aFQjU_LpHi9tgPMM/IMG/LIGUE1.png" group-title="Ligue 1 McDonald's", Ligue1+ 1 (Open in Extension)
+http://vipvahz.top:8080/live/VIP01595172731831399/73fd08d8c28f/142250.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="LIGUE1" tvg-logo="https://file.garden/aFQjU_LpHi9tgPMM/IMG/LIGUE1.png" group-title="Ligue 1 McDonald's", Ligue1+ 2 (Open in Extension)
+http://vipvahz.top:8080/live/VIP01595172731831399/73fd08d8c28f/142251.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="LIGUE1" tvg-logo="https://file.garden/aFQjU_LpHi9tgPMM/IMG/LIGUE1.png" group-title="Ligue 1 McDonald's", Ligue1+ 3 (Open in Extension)
+http://vipvahz.top:8080/live/VIP01595172731831399/73fd08d8c28f/142252.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="LIGUE1" tvg-logo="https://file.garden/aFQjU_LpHi9tgPMM/IMG/LIGUE1.png" group-title="Ligue 1 McDonald's", Ligue1+ 4 (Open in Extension)
+http://vipvahz.top:8080/live/VIP01595172731831399/73fd08d8c28f/142253.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="LIGUE1" tvg-logo="https://file.garden/aFQjU_LpHi9tgPMM/IMG/LIGUE1.png" group-title="Ligue 1 McDonald's", Ligue1+ 5 (Open in Extension)
+http://vipvahz.top:8080/live/VIP01595172731831399/73fd08d8c28f/142254.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="LIGUE1" tvg-logo="https://file.garden/aFQjU_LpHi9tgPMM/IMG/LIGUE1.png" group-title="Ligue 1 McDonald's", Ligue1+ 6 (Open in Extension)
+http://vipvahz.top:8080/live/VIP01595172731831399/73fd08d8c28f/142255.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="LIGUE1" tvg-logo="https://file.garden/aFQjU_LpHi9tgPMM/IMG/LIGUE1.png" group-title="Ligue 1 McDonald's", Ligue1+ 7 (Open in Extension)
+http://vipvahz.top:8080/live/VIP01595172731831399/73fd08d8c28f/142256.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="LIGUE1" tvg-logo="https://file.garden/aFQjU_LpHi9tgPMM/IMG/LIGUE1.png" group-title="Ligue 1 McDonald's", Ligue1+ 8 (Open in Extension)
+http://vipvahz.top:8080/live/VIP01595172731831399/73fd08d8c28f/142257.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="LIGUE1" tvg-logo="https://file.garden/aFQjU_LpHi9tgPMM/IMG/LIGUE1.png" group-title="Ligue 1 McDonald's", Ligue1+ 9 (Open in Extension)
+http://vipvahz.top:8080/live/VIP01595172731831399/73fd08d8c28f/142258.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="LIGUE1" tvg-logo="https://file.garden/aFQjU_LpHi9tgPMM/IMG/LIGUE1.png" group-title="Ligue 1 McDonald's", Ligue1+ 10 (Open in Extension)
+https://a1xs.vip/700031
+
+#EXTINF:-1 tvg-id="" tvg-name="MERDEKA34" tvg-logo="https://images.volleyballworld.com/image/upload/f_png/v1745919264/assets/competition-logos/Events%202025/Volleyball/Women%E2%80%99s%20U21%20World%20Champ/2025WomenU21%20WCH%20logo%20white" group-title="FIVB Women's U21 World Championship", CH1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e18c4d5a8fc3c954e6d1fd4df322be7d:fc07b606775bf273442030ef499499d5
+https://halu.serv00.net/satu.mpd?id=19334
+
+#EXTINF:-1 tvg-id="" tvg-name="MERDEKA31" tvg-logo="https://images.volleyballworld.com/image/upload/f_png/v1745919264/assets/competition-logos/Events%202025/Volleyball/Women%E2%80%99s%20U21%20World%20Champ/2025WomenU21%20WCH%20logo%20white" group-title="FIVB Women's U21 World Championship", CH2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=7cf9458df32f517e640cc402289a07ed:7ccf98589de3e6344573e021e60f844f
+https://halu.serv00.net/satu.mpd?id=19331
+
+#EXTINF:-1 tvg-id="" tvg-name="MERDEKA31" tvg-logo="https://images.volleyballworld.com/image/upload/f_png/v1745919264/assets/competition-logos/Events%202025/Volleyball/Women%E2%80%99s%20U21%20World%20Champ/2025WomenU21%20WCH%20logo%20white" group-title="FIVB Women's U21 World Championship", CH3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a415a818bec376628e77b01eab287cbc:e82c735d88147f55ee3e48fb31730114
+https://halu.serv00.net/satu.mpd?id=19332
+
+
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Sky Sports News" tvg-logo="https://media.info/l/o/1/1087.1600877510.png" group-title="Sky Group", Sky Sports News
@@ -672,6 +730,7 @@ https://d2ujxo1akrn26l.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hdBrzcc/fox.png" group-title="News",FOX NEWS
 https://d3tlzddkbbpp5n.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-9uzjfw11uj9nn/LiveNOW_from_FOX.m3u8
+
 
 
 
