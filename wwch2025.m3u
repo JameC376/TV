@@ -1,1 +1,24 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="CANvsBUL" tvg-logo="https://github.com/JameC376/TV/blob/main/WWCH%202025%20THA/10.jpg" group-title="Women’s World Championship 2025",Canada vs Bulgaria | Pool E | 23/08/2025 16:00 (GMT+07)
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/1qPavQKo/live.isml/.m3u8
 
+#EXTINF:-1 tvg-id="DOMvsCOL" tvg-logo="https://github.com/JameC376/TV/blob/main/WWCH%202025%20THA/11.jpg" group-title="Women’s World Championship 2025",Dominican Republic vs Colombia | Pool F | 23/08/2025 16:00 (GMT+07)
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/0hzsLpVP/live.isml/.m3u8
+
+#EXTINF:-1 tvg-id="GERvsKEN" tvg-logo="https://github.com/JameC376/TV/blob/main/WWCH%202025%20THA/13.jpg" group-title="Women’s World Championship 2025",Germany vs Kenya | Pool G | 23/08/2025 17:00 (GMT+07)
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/kVH3iPYy/live.isml/.m3u8
+
+#EXTINF:-1 tvg-id="JPNvsCMR" tvg-logo="https://github.com/JameC376/TV/blob/main/WWCH%202025%20THA/14.jpg" group-title="Women’s World Championship 2025",Japan vs Cameroon | Pool H | 23/08/2025 17:00 (GMT+07)
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/tKLlkwSE/live.isml/.m3u8
+
+#EXTINF:-1 tvg-id="TURvsESP" tvg-logo="https://github.com/JameC376/TV/blob/main/WWCH%202025%20THA/15.jpg" group-title="Women’s World Championship 2025",Turkiye vs Spain | Pool E | 23/08/2025 19:30 (GMT+07)
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/y9OlGzvm/live.isml/.m3u8
+
+#EXTINF:-1 tvg-id="CHNvsMEX" tvg-logo="https://github.com/JameC376/TV/blob/main/WWCH%202025%20THA/16.jpg" group-title="Women’s World Championship 2025",China vs Mexico | Pool F | 23/08/2025 19:30 (GMT+07)
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/OmB0NLYQ/live.isml/.m3u8
+
+#EXTINF:-1 tvg-id="SRBvsUKR" tvg-logo="https://github.com/JameC376/TV/blob/main/WWCH%202025%20THA/17.jpg" group-title="Women’s World Championship 2025",Serbia vs Ukraine | Pool H | 23/08/2025 20:30 (GMT+07)
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/LZ6A2Eon/live.isml/.m3u8
+
+#EXTINF:-1 tvg-id="POLvsVIE" tvg-logo="https://github.com/JameC376/TV/blob/main/WWCH%202025%20THA/18.jpg" group-title="Women’s World Championship 2025",Poland vs Vietnam | Pool G | 23/08/2025 20:30 (GMT+07)
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/uVvDfuFF/live.isml/.m3u8
