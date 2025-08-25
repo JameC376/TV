@@ -1,36 +1,31 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="PURvsGRE" tvg-logo="https://github.com/JameC376/TV/blob/main/WWCH%202025%20THA/19.jpg" group-title="Women’s World Championship 2025",Puerto Rico vs Greece | Pool C | 24/08/2025 16:00 (GMT+07)
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/vqrvBZf1/live.isml/.m3u8
 
-#EXTINF:-1 tvg-id="CZEvsSLO" tvg-logo="https://github.com/JameC376/TV/blob/main/WWCH%202025%20THA/20.jpg" group-title="Women’s World Championship 2025",Czechia vs Slovenia | Pool D | 24/08/2025 16:00 (GMT+07)
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/4HFXKRKk/live.isml/.m3u8
-
-#EXTINF:-1 tvg-id="ITAvsCUB" tvg-logo="https://github.com/JameC376/TV/blob/main/WWCH%202025%20THA/21.jpg" group-title="Women’s World Championship 2025",Italy vs Cuba | Pool B | 24/08/2025 17:00 (GMT+07)
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/GPY8n73m/live.isml/.m3u8
-
-#EXTINF:-1 tvg-id="NEDvsEGY" tvg-logo="https://github.com/JameC376/TV/blob/main/WWCH%202025%20THA/22.jpg" group-title="Women’s World Championship 2025",Netherlands vs Egypt | Pool A | 24/08/2025 17:00 (GMT+07)
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/XDrl3LCA/live.isml/.m3u8
-
-#EXTINF:-1 tvg-id="USAvsARG" tvg-logo="https://github.com/JameC376/TV/blob/main/WWCH%202025%20THA/23.jpg" group-title="Women’s World Championship 2025",USA vs Argentina | Pool D | 24/08/2025 19:30 (GMT+07)
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/sAOn7Wmf/live.isml/.m3u8
-
-#EXTINF:-1 tvg-id="BRAvsFRA" tvg-logo="https://github.com/JameC376/TV/blob/main/WWCH%202025%20THA/24.jpg" group-title="Women’s World Championship 2025",Brazil vs France | Pool C | 24/08/2025 19:30 (GMT+07)
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/8duniAJG/live.isml/.m3u8
-
-#EXTINF:-1 tvg-id="BELvsSVK" tvg-logo="https://github.com/JameC376/TV/blob/main/WWCH%202025%20THA/25.jpg" group-title="Women’s World Championship 2025",Belgium vs Slovakia | Pool B | 24/08/2025 20:30 (GMT+07)
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/PJrRI6uE/live.isml/.m3u8
-
-#EXTINF:-1 tvg-id="THAvsSWE" tvg-logo="https://github.com/JameC376/TV/blob/main/WWCH%202025%20THA/26.jpg" group-title="Women’s World Championship 2025",Thailand vs Sweden | Pool A | 24/08/2025 20:30 (GMT+07)
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/yFW9fvkV/live.isml/.m3u8
-
-#EXTINF:-1 tvg-id="DOMvsMEX" tvg-logo="https://github.com/JameC376/TV/blob/main/WWCH%202025%20THA/27.jpg" group-title="Women’s World Championship 2025",Dominican Republic vs Mexico | Pool F | 25/08/2025 16:00 (GMT+07)
+#EXTINF:-1 tvg-id="DOMvsMEX" tvg-logo="" group-title="Women’s World Championship 2025",Dominican Republic vs Mexico | Pool F | 25/08/2025 16:00 (GMT+07)
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/BI6XDCOr/live.isml/.m3u8
 
-#EXTINF:-1 tvg-id="CANvsESP" tvg-logo="https://github.com/JameC376/TV/blob/main/WWCH%202025%20THA/28.jpg" group-title="Women’s World Championship 2025",Canada vs Spain | Pool E | 25/08/2025 16:00 (GMT+07)
+#EXTINF:-1 tvg-id="CANvsESP" tvg-logo="" group-title="Women’s World Championship 2025",Canada vs Spain | Pool E | 25/08/2025 16:00 (GMT+07)
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/Q0RpPFtb/live.isml/.m3u8
 
-#EXTINF:-1 tvg-id="JPNvsUKR" tvg-logo="https://github.com/JameC376/TV/blob/main/WWCH%202025%20THA/20.jpg" group-title="Women’s World Championship 2025",Japan vs Ukraine | Pool H | 25/08/2025 17:00 (GMT+07)
+#EXTINF:-1 tvg-id="GERvsVIE" tvg-logo="" group-title="Women’s World Championship 2025",Germany vs Vietnam | Pool G | 25/08/2025 17:00 (GMT+07)
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/9ZxRczRd/live.isml/.m3u8
+
+#EXTINF:-1 tvg-id="JPNvsUKR" tvg-logo="" group-title="Women’s World Championship 2025",Japan vs Ukraine | Pool H | 25/08/2025 17:00 (GMT+07)
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/U55hvDBJ/live.isml/.m3u8
+
+#EXTINF:-1 tvg-id="TURvsBUL" tvg-logo="" group-title="Women’s World Championship 2025",Turkiye vs Bulgaria | Pool E | 25/08/2025 19:30 (GMT+07)
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/6mUUBbPK/live.isml/.m3u8
+
+#EXTINF:-1 tvg-id="CHNvsCOL" tvg-logo="" group-title="Women’s World Championship 2025",China vs Colombia | Pool F | 25/08/2025 19:30 (GMT+07)
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/t5upVW2u/live.isml/.m3u8
+
+#EXTINF:-1 tvg-id="POLvsKEN" tvg-logo="" group-title="Women’s World Championship 2025",Poland vs Kenya | Pool G | 25/08/2025 20:30 (GMT+07)
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/xlJGLIyM/live.isml/.m3u8
+
+#EXTINF:-1 tvg-id="SERvsCMR" tvg-logo="" group-title="Women’s World Championship 2025",Serbia vs Cameroon | Pool H | 25/08/2025 20:30 (GMT+07)
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/dmu4tthX/live.isml/.m3u8
+
+#EXTINF:-1 tvg-id="vs" tvg-logo="" group-title="Women’s World Championship 2025",| 25/08/2025 17:00 (GMT+07)
+
 
 
 
