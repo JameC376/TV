@@ -1,65 +1,39 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="TURvsCAN" tvg-logo="" group-title="Women’s World Championship 2025",Turkiye vs Canada | Pool E | 27/08/2025 16:00 (GMT+07)
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/OcKOvP3C/live.isml/.m3u8
-#EXTINF:-1 tvg-id="COLvsMEX" tvg-logo="" group-title="Women’s World Championship 2025",Colombia vs Mexico | Pool F | 27/08/2025 16:00 (GMT+07)
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/YeYOMh9k/live.isml/.m3u8
-
-#EXTINF:-1 tvg-id="JPNvsSER" tvg-logo="" group-title="Women’s World Championship 2025",Japan vs Serbia | Pool H | 27/08/2025 17:00 (GMT+07)
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/6KO23RGr/live.isml/.m3u8
-#EXTINF:-1 tvg-id="KENvsVIE" tvg-logo="" group-title="Women’s World Championship 2025",Kenya vs Vietnam | Pool G | 27/08/2025 17:00 (GMT+07)
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/tqwT0UL8/live.isml/.m3u8
-
-#EXTINF:-1 tvg-id="BULvsESP" tvg-logo="" group-title="Women’s World Championship 2025",Bulgaria vs Spain | Pool E | 27/08/2025 19:30 (GMT+07)
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/1Kbbt1SF/live.isml/.m3u8
-#EXTINF:-1 tvg-id="CHNvsDOM" tvg-logo="" group-title="Women’s World Championship 2025",China vs Dominican Republic | Pool F | 27/08/2025 19:30 (GMT+07)
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/DhX7ewT3/live.isml/.m3u8
-
-#EXTINF:-1 tvg-id="UKRvsCMR" tvg-logo="" group-title="Women’s World Championship 2025",Ukraine vs Cameroon | Pool H | 27/08/2025 20:30 (GMT+07)
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/36fETyaV/live.isml/.m3u8
-#EXTINF:-1 tvg-id="POLvsGER" tvg-logo="" group-title="Women’s World Championship 2025",Poland vs Germany | Pool G | 27/08/2025 20:30 (GMT+07)
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/sj3eITI1/live.isml/.m3u8
+#EXTINF:-1 tvg-id="vs" tvg-logo="" group-title="Women’s World Championship 2025",Netherlands vs Serbia | Round of 16 | 29/08/2025 17:00 (GMT+07)
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/ayfKKzzQ/live.isml/.m3u8
+#EXTINF:-1 tvg-id="vs" tvg-logo="" group-title="Women’s World Championship 2025",Japan vs Thailand | Round of 16 | 29/08/2025 20:30 (GMT+07)
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/OaT7xpTq/live.isml/.m3u8
 
 
-#EXTINF:-1 tvg-id="vs" tvg-logo="" group-title="Mens' U21 World Champs 2025",Thailand - Colombia | Classification 17-24 | 27/08/2025 10:00 (GMT+07)
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/0ATEX5x9/live.isml/.m3u8
-#EXTINF:-1 tvg-id="vs" tvg-logo="" group-title="Mens' U21 World Champs 2025",USA - Bulgaria | R16 | 27/08/2025 10:00 (GMT+07)
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/MlaMvqzh/live.isml/.m3u8
-#EXTINF:-1 tvg-id="vs" tvg-logo="" group-title="Mens' U21 World Champs 2025",France - Kazakhstan | R16 | 27/08/2025 10:00 (GMT+07)
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/Xlsvu77r/live.isml/.m3u8
+#EXTINF:-1 tvg-id="vs" tvg-logo="" group-title="Mens' U21 World Champs 2025",Colombia - Tunisia | Playoffs 21-24 | 29/08/2025 10:00 (GMT+07)
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/S2OQBjpk/live.isml/.m3u8
+#EXTINF:-1 tvg-id="vs" tvg-logo="" group-title="Mens' U21 World Champs 2025",France - USA | Quarter Final 1 | 29/08/2025 10:00 (GMT+07)
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/2rbMBTYZ/live.isml/.m3u8
+#EXTINF:-1 tvg-id="vs" tvg-logo="" group-title="Mens' U21 World Champs 2025",Kazakhstan - Bulgaria | Playoffs 9-16 | 29/08/2025 10:00 (GMT+07)
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/gTBC4wBs/live.isml/.m3u8
 
-#EXTINF:-1 tvg-id="vs" tvg-logo="" group-title="Mens' U21 World Champs 2025",Iran - Argentina | R16 | 26/08/2025 13:00 (GMT+07)
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/g0BaOZms/live.isml/.m3u8
-#EXTINF:-1 tvg-id="vs" tvg-logo="" group-title="Mens' U21 World Champs 2025",Brazil - Morocco | Classification 17-24 | 27/08/2025 13:00 (GMT+07)
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/FDgIhzcg/live.isml/.m3u8
-#EXTINF:-1 tvg-id="vs" tvg-logo="" group-title="Mens' U21 World Champs 2025",Egypt - Cuba | R16 | 27/08/2025 13:00 (GMT+07)
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/MvCNtLy2/live.isml/.m3u8
+#EXTINF:-1 tvg-id="vs" tvg-logo="" group-title="Mens' U21 World Champs 2025",Poland - Czechia | Quarter Final 2 || 29/08/2025 13:00 (GMT+07)
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/HugJHjam/live.isml/.m3u8
+#EXTINF:-1 tvg-id="vs" tvg-logo="" group-title="Mens' U21 World Champs 2025",Morocco - Puerto Rico | Playoffs 21-24 | 29/08/2025 13:00 (GMT+07)
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/DW3GYRpg/live.isml/.m3u8
+#EXTINF:-1 tvg-id="vs" tvg-logo="" group-title="Mens' U21 World Champs 2025",Ukraine - Turkiye | Playoffs 9-16 | 29/08/2025 13:00 (GMT+07)
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/ROszTHrb/live.isml/.m3u8
 
-#EXTINF:-1 tvg-id="vs" tvg-logo="" group-title="Mens' U21 World Champs 2025",Poland - Ukraine | R16 | 27/08/2025 16:00 (GMT+07)
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/aCjGudfn/live.isml/.m3u8
-#EXTINF:-1 tvg-id="vs" tvg-logo="" group-title="Mens' U21 World Champs 2025",Canada - Tunisia | Classification 17-24 | 27/08/2025 16:00 (GMT+07)
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/UL2Wuetb/live.isml/.m3u8
-#EXTINF:-1 tvg-id="vs" tvg-logo="" group-title="Mens' U21 World Champs 2025",Czechia - Turkiye | R16 | 27/08/2025 16:00 (GMT+07)
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/DFY1qHgg/live.isml/.m3u8
+#EXTINF:-1 tvg-id="vs" tvg-logo="" group-title="Mens' U21 World Champs 2025",Thailand - Canada | Playoffs 17-20 | 29/08/2025 16:00 (GMT+07)
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/fjXEYxCo/live.isml/.m3u8
+#EXTINF:-1 tvg-id="vs" tvg-logo="" group-title="Mens' U21 World Champs 2025",China - Iran | Quarter Final 3 | 29/08/2025 16:00 (GMT+07)
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/h3UJ3XLn/live.isml/.m3u8
+#EXTINF:-1 tvg-id="vs" tvg-logo="" group-title="Mens' U21 World Champs 2025",Japan - Argentina | Playoffs 9-16 | 29/08/2025 16:00 (GMT+07)
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/crezxiYD/live.isml/.m3u8
 
-#EXTINF:-1 tvg-id="vs" tvg-logo="" group-title="Mens' U21 World Champs 2025",Japan - China | R16 | 27/08/2025 19:00 (GMT+07)
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/Nolxr1f4/live.isml/.m3u8
-#EXTINF:-1 tvg-id="vs" tvg-logo="" group-title="Mens' U21 World Champs 2025",Indonesia - Puerto Rico | Classification 17-24 | 27/08/2025 19:00 (GMT+07)
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/APVXvjBs/live.isml/.m3u8
-#EXTINF:-1 tvg-id="vs" tvg-logo="" group-title="Mens' U21 World Champs 2025",Italy - Korea | R16 | 27/08/2025 19:00 (GMT+07)
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/wrlnv5N5/live.isml/.m3u8
+#EXTINF:-1 tvg-id="vs" tvg-logo="" group-title="Mens' U21 World Champs 2025",Brazil - Indonesia | Playoffs 17-20 | 29/08/2025 19:00 (GMT+07)
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/GoF2cmck/live.isml/.m3u8
+#EXTINF:-1 tvg-id="vs" tvg-logo="" group-title="Mens' U21 World Champs 2025",Egypt - Korea | Playoffs 9-16 | 29/08/2025 19:00 (GMT+07)
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/ekafhqBx/live.isml/.m3u8
+#EXTINF:-1 tvg-id="vs" tvg-logo="" group-title="Mens' U21 World Champs 2025",Cuba - Italy | Quarter Final 4 | 29/08/2025 19:00 (GMT+07)
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/HR5e1WVW/live.isml/.m3u8
 
-
-#EXTINF:-1 tvg-id="vs" tvg-logo="" group-title="Elite 16 Hamburg 2025",Qualification | Court 2 | 27/08/2025 13:00 (GMT+07)
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/EeBklZqd/live.isml/.m3u8
-#EXTINF:-1 tvg-id="vs" tvg-logo="" group-title="Elite 16 Hamburg 2025",Qualification | Central Court | 27/08/2025 13:00 (GMT+07)
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/HC95TJkU/live.isml/.m3u8
-#EXTINF:-1 tvg-id="vs" tvg-logo="" group-title="Elite 16 Hamburg 2025",Qualification | Court 3 | 27/08/2025 13:00 (GMT+07)
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/UFpJSyHo/live.isml/.m3u8
-#EXTINF:-1 tvg-id="vs" tvg-logo="" group-title="Elite 16 Hamburg 2025",Main Draw Day 1 | Central Court | 27/08/2025 19:30 (GMT+07)
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/uCqMpeYZ/live.isml/.m3u8
-#EXTINF:-1 tvg-id="vs" tvg-logo="" group-title="Elite 16 Hamburg 2025",Main Draw Day 1 | Court 2 | 27/08/2025 19:30 (GMT+07)
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/gTb0d8A9/live.isml/.m3u8
-#EXTINF:-1 tvg-id="vs" tvg-logo="" group-title="Elite 16 Hamburg 2025",Main Draw Day 2 | Court 2 | 28/08/2025 13:30 (GMT+07)
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/ExLYMPh2/live.isml/.m3u8
-#EXTINF:-1 tvg-id="vs" tvg-logo="" group-title="Elite 16 Hamburg 2025",Main Draw Day 2 | Central Court | 28/08/2025 13:30 (GMT+07)
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/KixyfnEo/live.isml/.m3u8
+#EXTINF:-1 tvg-id="vs" tvg-logo="" group-title="Elite 16 Hamburg 2025",Main Draw Day 3 | Court 2 | 29/08/2025 13:30 (GMT+07)
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/a1JfWNhV/live.isml/.m3u8
+#EXTINF:-1 tvg-id="vs" tvg-logo="" group-title="Elite 16 Hamburg 2025",Main Draw Day 3 | Central Court | 29/08/2025 13:30 (GMT+07)
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/KZKEB7KN/live.isml/.m3u8
