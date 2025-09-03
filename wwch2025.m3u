@@ -1,6 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="USAvsCAN" tvg-logo="" group-title="Women’s World Championship 2025",USA vs Canada | Round of 16 | 01/09/2025 17:00 (GMT+07)
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/H4QDFZPT/live.isml/.m3u8
-#EXTINF:-1 tvg-id="TURvsSLO" tvg-logo="" group-title="Women’s World Championship 2025",Turkiye vs Slovenia | Round of 16 | 01/09/2025 20:30 (GMT+07)
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/p03a5VC8/live.isml/.m3u8
-
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Women’s World Championship 2025",Netherlands vs Japan | Quarter-Finals | 03/09/2025 17:00 (GMT+07)
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/AD5B8wgQ/live.isml/.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Women’s World Championship 2025",Italy vs Poland | Quarter-Finals | 03/09/2025 20:30 (GMT+07)
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/JB568CVQ/live.isml/.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Women’s World Championship 2025",Brazil vs France | Quarter-Finals | 04/09/2025 17:00 (GMT+07)
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/byhixyLh/live.isml/.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Women’s World Championship 2025",USA vs Turkiye | Quarter-Finals | 04/09/2025 20:30 (GMT+07)
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/fZ91qpSi/live.isml/.m3u8
