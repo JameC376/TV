@@ -1,7 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Ch3HDLogo.svg/250px-Ch3HDLogo.svg.png" group-title="BEC World", 3HD
-https://ch3-33-web.cdn.byteark.com/live/playlist.m3u8?x_ark_access_id=D78MkxZFEr5Zr9PE&x_ark_auth_type=ark-v2&x_ark_expires=1755020402&x_ark_max_resolution=720p&x_ark_path_prefix=/live/&x_ark_signature=2LPFVV4CxysxY9HhsfRbTg
+https://lb1-live-mv.v2h-cdn.com/hls/ffae/muulk/muulk.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/Thai_PBS_2011.svg/revision/latest?cb=20240505231211" group-title="Thai Public Broadcasting Service", Thai PBS
 https://thaipbs-mcx0wm.cdn.byteark.com/live/playlist.m3u8
@@ -17,7 +17,7 @@ https://monomax-uiripn.cdn.byteark.com/plain/th/playlist.m3u8
 https://global-media.sooplive.com/live/workpoint/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/clhMtBU3QtreaoCWrETPNIAVjbrlgzsSzOLaspaZ2kmd_cKCgIkSggz07lBsmaGLIka0" group-title="Bangkok Media & Broadcasting Co., Ltd.", PPTV
-https://pptv36-9h0yba.cdn.byteark.com/bamm-csai/playlist.m3u8?x_ark_access_id=fleet-2966&x_ark_auth_type=ark-v2&x_ark_expires=1755841201&x_ark_path_prefix=%2Fbamm-csai%2F&x_ark_signature=sasPV3qkcn5Af8a-FlviQw
+https://lb1-live-mv.v2h-cdn.com/hls/ffab/rurumuu/rurumuu.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgs.mcot.net/images/2020/04/1586506833486-0x92.png" group-title="MCOT PCL", MCOTHD 30
 https://mcothd-streaming-edge-cdn.mcot.net/tencentmcot/smil:tencentmcot.smil/chunklist_w1497173433_b3000000.m3u8
@@ -38,26 +38,26 @@ https://lb1-live-mv.v2h-cdn.com/hls/fffa/boomerang/boomerang.m3u8
 https://lb1-live-mv.v2h-cdn.com/hls/ffbd/boomanime/boomanime.m3u8
 
 #EXTINF:-1 tvg-id="TSports7.th" tvg-name="T Sports 7" group-title="SAT" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/ce/T_Sports_7_Logo.png",T Sports 7
-https://lb1-live-mv.v2h-cdn.com/hls/ffef/tsport/tsport.m3u8
+https://lb1-live-mv.v2h-cdn.com/hls/ffef/mulxvnghf/mulxvnghf.m3u8
 
 #EXTINF:-1 tvg-logo="https://resource.nationtv.tv/images/logo-footer-v1.png" group-title="Nation TV Co., Ltd.", Nation TV
-https://nationtv-1jdcjo.cdn.byteark.com/fleetstream/nationtvlive/index.m3u8
+https://lb1-live-mv.v2h-cdn.com/hls/ffcc/goyjo/goyjo.m3u8
 
 #EXTINF:-1 tvg-id="Amarin34HD.th" tvg-name="Amarin TV" group-title="Amarin Television Co., Ltd." tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/ff/Amarin_TV_2015.svg",Amarin TV
-https://amarin-ks7jcc.cdn.byteark.com/live/playlist.m3u8?x_ark_access_id=fleet-868&x_ark_auth_type=ark-v2&x_ark_expires=1755897797&x_ark_path_prefix=%2Flive%2F&x_ark_signature=ak6nufqDUFigKtk1xMp9yg
+https://lb1-live-mv.v2h-cdn.com/hls/ffad/vibomi/vibomi.m3u8
 
 #EXTINF:-1 tvg-logo="https://true4u.com/images/logo.png" group-title="	True4U Station Co., Ltd.", true4U
-https://true4u-p4ljv2.cdn.byteark.com/live/playlist.m3u8?x_ark_access_id=fleet-1890&x_ark_auth_type=ark-v2&x_ark_expires=1754998950&x_ark_path_prefix=%2Flive%2F&x_ark_signature=bidVxHUsGjHAi5J-WV_zrQ
+https://lb1-live-mv.v2h-cdn.com/hls/ffca/mifainp/mifainp.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b4/Thaich8-2024.webp/120px-Thaich8-2024.webp.png" group-title="RS Public Company Limited", 8CH
 https://prsmedia-mykojh.cdn.byteark.com/fleetstream/live/720p/index.m3u8
 
 #EXTINF:-1 tvg-id="ThairathTV32.th" tvg-name="Thairath TV" group-title="Triple V Broadcast Co., Ltd." tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Thairath_TV32.svg/250px-Thairath_TV32.svg.png",Thairath TV
-https://lb1-live-mv.v2h-cdn.com/hls/ffaf/thairath/thairath.m3u8
+https://lb1-live-mv.v2h-cdn.com/hls/ffaf/wmpiy/wmpiy.m3u8
 
 #EXTINF:-1 tvg-chno="16" ch-number="16" tvg-id="TNN.th" tvg-name="TNN" tvg-logo="https://www.tnnthailand.com/images/logo/logo-tnn.svg" group-title="Thai News Network (TNN) Co., Ltd.", TNN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://tnnthailand-1mertz.cdn.byteark.com/live/playlist.m3u8?x_ark_access_id=fleet-1891&x_ark_auth_type=ark-v2&x_ark_expires=1754999019&x_ark_path_prefix=%2Flive&x_ark_signature=6rhIBpAFlfnA92mmSnFqWg
+https://lb1-live-mv.v2h-cdn.com/hls/ffdc/mugvhogvho/mugvhogvho.m3u8
 
 
 
@@ -730,6 +730,7 @@ https://d2ujxo1akrn26l.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hdBrzcc/fox.png" group-title="News",FOX NEWS
 https://d3tlzddkbbpp5n.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-9uzjfw11uj9nn/LiveNOW_from_FOX.m3u8
+
 
 
 
