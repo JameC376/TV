@@ -1,6 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.jwplayer.com/v2/media/2njG0JMy/poster.jpg?width=320" group-title="Men’s World Championship Philippines 2025",Philippines vs Tunisia | Pool A | 12/09/2025 18:00 (GMT+07)
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/2njG0JMy/live.isml/.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.jwplayer.com/v2/media/zuei4rG3/poster.jpg?width=320" group-title="Men’s World Championship Philippines 2025",USA vs Colombia | Pool D | 13/09/2025 09:00 (GMT+07)
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/zuei4rG3/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.jwplayer.com/v2/media/mApOBTHF/poster.jpg?width=320" group-title="Men’s World Championship Philippines 2025",Canada vs Libya | Pool G | 13/09/2025 09:30 (GMT+07)
@@ -39,5 +38,7 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/2Ux8me1o/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/n4AZ3HHD/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.jwplayer.com/v2/media/KLWHsJjO/poster.jpg?width=320" group-title="Men’s World Championship Philippines 2025",Japan vs Canada | Pool G | 15/09/2025 13:00 (GMT+07)
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/KLWHsJjO/live.isml/.m3u8
+EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/o5ELHQ0c-320.jpg" group-title="Men’s World Championship Philippines 2025", Slovenia vs Bulgaria | Pool E | 15/09/2025 16:30 (GMT+07)
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/eKhPEvBn/live.isml/.m3u8
 
 //#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Men’s World Championship Philippines 2025",| /09/2025  (GMT+07)//
