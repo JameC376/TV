@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.jwplayer.com/v2/media/NlOH91YL/poster.jpg?width=320" group-title="Men’s World Championship Philippines 2025",Cuba vs Portugal | Pool D | 13/09/2025 12:30 (GMT+07)
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/NlOH91YL/live.isml/.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.jwplayer.com/v2/media/Y5kzDTav/poster.jpg?width=320" group-title="Men’s World Championship Philippines 2025",Japan vs Turkiye | Pool G | 13/09/2025 13:00 (GMT+07)
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/Y5kzDTav/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.jwplayer.com/v2/media/xwbw1V9k/poster.jpg?width=320" group-title="Men’s World Championship Philippines 2025",Germany vs Bulgaria | Pool E | 13/09/2025 16:30 (GMT+07)
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/xwbw1V9k/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.jwplayer.com/v2/media/mNgHbyLd/poster.jpg?width=320" group-title="Men’s World Championship Philippines 2025",Netherlands vs Qatar | Pool B | 13/09/2025 17:00 (GMT+07)
@@ -41,5 +37,7 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/3uNWVqd8/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/TctFKFtM/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.jwplayer.com/v2/media/0GmdBFG4/poster.jpg?width=320" group-title="Men’s World Championship Philippines 2025",Poland vs Qatar | Pool B | 15/09/2025 20:30 (GMT+07)
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/0GmdBFG4/live.isml/.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.jwplayer.com/v2/media/h4VG4RhL/poster.jpg?width=320" group-title="Men’s World Championship Philippines 2025",Brazil vs Czechia | Pool H | 16/09/2025 09:00 (GMT+07)
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/h4VG4RhL/live.isml/.m3u8
 
 //#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Men’s World Championship Philippines 2025",| /09/2025  (GMT+07)//
