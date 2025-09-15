@@ -1,12 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.jwplayer.com/v2/media/sykxpHvR/poster.jpg?width=320" group-title="Men’s World Championship Philippines 2025",Serbia vs Czechia | Pool H | 14/09/2025 16:30 (GMT+07)
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/sykxpHvR/live.isml/.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.jwplayer.com/v2/media/ZnqEZiWB/poster.jpg?width=320" group-title="Men’s World Championship Philippines 2025",France vs Korea | Pool C | 14/09/2025 17:00 (GMT+07)
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/ZnqEZiWB/live.isml/.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.jwplayer.com/v2/media/1jxE2sLu/poster.jpg?width=320" group-title="Men’s World Championship Philippines 2025",Brazil vs China | Pool H | 14/09/2025 20:00 (GMT+07)
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/1jxE2sLu/live.isml/.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.jwplayer.com/v2/media/otl2nq1l/poster.jpg?width=320" group-title="Men’s World Championship Philippines 2025",Italy vs Algeria | Pool F | 14/09/2025 20:30 (GMT+07)
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/otl2nq1l/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.jwplayer.com/v2/media/fFXCl0bO/poster.jpg?width=320" group-title="Men’s World Championship Philippines 2025",Cuba vs Colombia | Pool D | 15/09/2025 09:00 (GMT+07)
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/fFXCl0bO/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.jwplayer.com/v2/media/2Ux8me1o/poster.jpg?width=320" group-title="Men’s World Championship Philippines 2025",Turkiye vs Libya | Pool G | 15/09/2025 09:30 (GMT+07)
@@ -39,8 +31,16 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/sf50QHFX/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/N5SLXwun/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.jwplayer.com/v2/media/wM8pg1t2/poster.jpg?width=320" group-title="Men’s World Championship Philippines 2025",Italy vs Belgium | Pool F | 16/09/2025 20:30 (GMT+07)
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/wM8pg1t2/live.isml/.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.jwplayer.com/v2/media/wAXospTq/poster.jpg?width=320" group-title="Men’s World Championship Philippines 2025",Portugal vs Colombia | Pool D | 17/09/2025 09:00 (GMT+07)
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/wAXospTq/live.isml/.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.jwplayer.com/v2/media/58MnUU0d/poster.jpg?width=320" group-title="Men’s World Championship Philippines 2025",Qatar vs Romania | Pool B | 17/09/2025 09:30 (GMT+07)
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/58MnUU0d/live.isml/.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.jwplayer.com/v2/media/0c8sYABT/poster.jpg?width=320" group-title="Men’s World Championship Philippines 2025",Bulgaria vs Chile | Pool E || 17/09/2025 12:30 (GMT+07)
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/0c8sYABT/live.isml/.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.jwplayer.com/v2/media/Ivq4AvZC/poster.jpg?width=320" group-title="Men’s World Championship Philippines 2025",Canada vs Turkiye | Pool G | 17/09/2025 13:00 (GMT+07)
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/Ivq4AvZC/live.isml/.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://assets.aws.worldathletics.org/eyJrZXkiOiI2OGM1ZTE1MGE5M2VlNTg5ZmFmZTZkY2YuanBnIiwiZWRpdHMiOnsiZXh0cmFjdCI6eyJsZWZ0IjoxOTMsInRvcCI6NCwid2lkdGgiOjE3MjQsImhlaWdodCI6MTA3Nn0sInJlc2l6ZSI6eyJ3aWR0aCI6MTYwMCwiaGVpZ2h0IjoxMDAwfX19" group-title="WHC TOKYO 2025",WHC TOKYO 2025| Day 2 Evening Session
-https://fastly.live.brightcove.com/6379362822112/eu-west-1/6415670005001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiaHgycmV3LmVncmVzcy55ODN1ZWIiLCJhY2NvdW50X2lkIjoiNjQxNTY3MDAwNTAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2NDE1NjcwMDA1MDAxIl0sImp0aSI6IjYzNzkzNjI4MjIxMTIifQ.CUIIp8S-wi014mNJ2pN3HiwbddI9M91NApcTbLiWmEs/playlist-hls.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://assets.aws.worldathletics.org/eyJrZXkiOiI2OGM2MjA0MDA0MDc4M2M4NzQ5ZWIyM2EuanBnIiwiZWRpdHMiOnsiZXh0cmFjdCI6eyJsZWZ0IjoxODQsInRvcCI6MSwid2lkdGgiOjE3MjksImhlaWdodCI6MTA3OX0sInJlc2l6ZSI6eyJ3aWR0aCI6MTYwMCwiaGVpZ2h0IjoxMDAwfX19" group-title="WHC TOKYO 2025",WHC TOKYO 2025| Day 3 Morning Session
+https://fastly.live.brightcove.com/6379428723112/eu-west-1/6415670005001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiaHgycmV3LmVncmVzcy55ODN1ZWIiLCJhY2NvdW50X2lkIjoiNjQxNTY3MDAwNTAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2NDE1NjcwMDA1MDAxIl0sImp0aSI6IjYzNzk0Mjg3MjMxMTIifQ.UeB8yI1ezM2Enp3KuRPg9NemJsQ8-mu--_lBcEGpu2w/playlist-hls.m3u8
 
 //#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Men’s World Championship Philippines 2025",| /09/2025  (GMT+07)//
