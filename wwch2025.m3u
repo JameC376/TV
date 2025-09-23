@@ -1,13 +1,16 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.jwplayer.com/v2/media/rL6cipOy/poster.jpg?width=320" group-title="Men’s World Championship Philippines 2025",Bulgaria vs Portugal | Round16 | 22/09/2025 14:30 (GMT+07)
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/rL6cipOy/live.isml/.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.jwplayer.com/v2/media/vivgmByl/poster.jpg?width=320" group-title="Men’s World Championship Philippines 2025",USA vs Slovenia | Round16 | 22/09/2025 19:00 (GMT+07)
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/vivgmByl/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.jwplayer.com/v2/media/PsomFXah/poster.jpg?width=320" group-title="Men’s World Championship Philippines 2025",Tunisia vs Czechia | Round16 | 23/09/2025 14:30 (GMT+07)
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/PsomFXah/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.jwplayer.com/v2/media/gR6H4GAN/poster.jpg?width=320" group-title="Men’s World Championship Philippines 2025",Serbia vs Iran | Round16 | 23/09/2025 19:00 (GMT+07)
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/gR6H4GAN/live.isml/.m3u8
-
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.jwplayer.com/v2/media/PsomFXah/poster.jpg?width=320" group-title="Men’s World Championship Philippines 2025",Tunisia vs Czechia | Round16 | 23/09/2025 14:30(GMT+07)
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/PsomFXah/live.isml/.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.jwplayer.com/v2/media/gR6H4GAN/poster.jpg?width=320" group-title="Men’s World Championship Philippines 2025",Serbia vs Iran | Round16 | 23/09/2025 19:00 (GMT+07)
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/gR6H4GAN/live.isml/.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.jwplayer.com/v2/media/zyQeATxI/poster.jpg?width=320" group-title="Men’s World Championship Philippines 2025",Italy vs Belgium | Quarter-Finals | 24/09/2025 14:30 (GMT+07)
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/zyQeATxI/live.isml/.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.jwplayer.com/v2/media/lbGblqaw/poster.jpg?width=320" group-title="Men’s World Championship Philippines 2025",Poland vs Turkiye | Quarter-Finals | 24/09/2025 19:00 (GMT+07)
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/lbGblqaw/live.isml/.m3u8
 
 //#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Men’s World Championship Philippines 2025",| /09/2025  (GMT+07)//
