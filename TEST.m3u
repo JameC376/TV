@@ -97,8 +97,9 @@ https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/304/304.mpd
 
 
 
-
-#EXTINF:-1 tvg-id="" tvg-name="CBS Sports Golazo Network" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/13/CBS_Sports_%282021%29.svg/revision/latest?cb=20210227221721" group-title="Paramount Skydance Corporation", CBS Sports Golazo Network
+#EXTINF:-1 tvg-id="" tvg-name="CBS Sports Network" tvg-logo="" group-title="Paramount Skydance Corporation",CBS Sports Network
+http://70a055e6.edemist.com/iptv/8855G6D98KGPCC/7324/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CBS Sports Golazo Network" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/13/CBS_Sports_%282021%29.svg/revision/latest?cb=20210227221721" group-title="Paramount Skydance Corporation",CBS Sports Golazo Network
 https://ott.udptv.xyz/stream/udptv/cbssportsgolazo/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
 #EXTINF:-1  tvg-name="Paramount Network" tvg-id="Paramount.Network.USA.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/paramount-network-us.png" group-title="Paramount Skydance Corporation",Paramount Network
 https://ott.udptv.xyz/stream/udptvus/paramountnetwork/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
@@ -766,6 +767,7 @@ https://d2ujxo1akrn26l.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hdBrzcc/fox.png" group-title="News",FOX NEWS
 https://d3tlzddkbbpp5n.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-9uzjfw11uj9nn/LiveNOW_from_FOX.m3u8
+
 
 
 
