@@ -1,10 +1,10 @@
 #EXTM3U
-======================================== event ====================================
+
 #EXTVLCOPT:http-referrer=https://ppdd02.playerktidfintkd.shop/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 ##EXTINF:-1 tvg-id="eVENT" tvg-name="Event" group-title="Event" tvg-logo="https://marketplace.canva.com/sFmL8/MAFtGRsFmL8/1/tl/canva-live-streaming-icon-MAFtGRsFmL8.png", Live Event 
 
-=============================================== Indihome =========================================
+
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #EXTINF:-1 tvg-id="--" group-title="Channel Tv Indihome" tvg-logo="https://cdnjktbpid02.transvision.co.id/image/web/channel/4028c68574537fcd0174be4f342858e9/295eb53a7aa04fbca2eeb58a3fab1f2f.png", Indosiar
 https://cdn10jtedge.indihometv.com/atm/DASH/indosiar/manifest.mpd
