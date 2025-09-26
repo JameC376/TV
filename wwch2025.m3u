@@ -1,7 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.jwplayer.com/v2/media/bnhw84uO/poster.jpg?width=320" group-title="Men’s World Championship Philippines 2025",Czechia vs Iran | Quarter-Finals | 25/09/2025 14:30 (GMT+07)
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/bnhw84uO/live.isml/.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.jwplayer.com/v2/media/xLX71xhi/poster.jpg?width=320" group-title="Men’s World Championship Philippines 2025",USA vs Bulgaria | Quarter-Finals | 25/09/2025 19:00 (GMT+07)
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/xLX71xhi/live.isml/.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.jwplayer.com/v2/media/nfhRIwHV/poster.jpg?width=320" group-title="Men’s World Championship Philippines 2025",Czechia vs Bulgaria | Semi-Finals | 27/09/2025 13:30 (GMT+07)
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/nfhRIwHV/live.isml/.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.jwplayer.com/v2/media/7hJZy46a/poster.jpg?width=320" group-title="Men’s World Championship Philippines 2025",Italy vs Poland | Semi-Finals | 27/09/2025 17:30 (GMT+07)
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/7hJZy46a/live.isml/.m3u8
+
+
 
 //#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Men’s World Championship Philippines 2025",| /09/2025  (GMT+07)//
