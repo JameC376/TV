@@ -1,8 +1,31 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.jwplayer.com/v2/media/4hiPqEi2/poster.jpg?width=320" group-title="Men’s World Championship Philippines 2025",Czechia vs Poland | Bronze Match | 28/09/2025 13:30 (GMT+07)
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/4hiPqEi2/live.isml/.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.jwplayer.com/v2/media/MA45oTy3/poster.jpg?width=320" group-title="Men’s World Championship Philippines 2025",Bulgaria vs Italy | Gold Match | 28/09/2025 17:30 (GMT+07)
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/MA45oTy3/live.isml/.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.jwplayer.com/v2/media/r4geLS2y/poster.jpg?width=320" group-title="Lega Volley Femminile A1 2025/26",Wash4green Monviso Volley -  Savino Del Bene Scandicci | Round 1 | 07/10/2025 01:30 (GMT+07)
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/r4geLS2y/live.isml/.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.jwplayer.com/v2/media/gAGCe1tz/poster.jpg?width=320" group-title="Lega Volley Femminile A1 2025/26",Omag-Mt San Giovanni In Marignano -  Igor Gorgonzola Novara | Round 1 | 07/10/2025 01:30 (GMT+07)
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/gAGCe1tz/live.isml/.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.jwplayer.com/v2/media/Dliozqj2/poster.jpg?width=320" group-title="Lega Volley Femminile A1 2025/26",Bartoccini-Mc Restauri Perugia -  Megabox Ondulati Del Savio Vallefoglia | Round 1 | 07/10/2025 01:30 (GMT+07)
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/Dliozqj2/live.isml/.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.jwplayer.com/v2/media/IWKfmqSk/poster.jpg?width=320" group-title="Lega Volley Femminile A1 2025/26",Cbf Balducci Hr Macerata -  Cuneo Granda Volley | Round 1 | 07/10/2025 01:30 (GMT+07)
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/IWKfmqSk/live.isml/.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.jwplayer.com/v2/media/Y4mVVbd3/poster.jpg?width=320" group-title="Lega Volley Femminile A1 2025/26",Eurotek Laica Uyba -  Prosecco Doc A.Carraro Imoco Conegliano | Round 1 | 07/10/2025 01:30 (GMT+07)
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/Y4mVVbd3/live.isml/.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.jwplayer.com/v2/media/AqFkvdkI/poster.jpg?width=320" group-title="Lega Volley Femminile A1 2025/26",Numia Vero Volley Milano -  Bergamo | Round 1 | 07/10/2025 01:30 (GMT+07)
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/AqFkvdkI/live.isml/.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.jwplayer.com/v2/media/HXtu7uyE/poster.jpg?width=320" group-title="Lega Volley Femminile A1 2025/26",Il Bisonte Firenze -  Reale Mutua Fenera Chieri 76 | Round 1 | 07/10/2025 01:30 (GMT+07)
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/HXtu7uyE/live.isml/.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.jwplayer.com/v2/media/xfth4hdE/poster.jpg?width=320" group-title="Women's Polish TauronLiga - 2025/26-",VolleyWroclaw - ECO HARPOON LOS Nowy Dwor Mazowiecki | Round 1 | 09/10/2025 22:30 (GMT+07)
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/xfth4hdE/live.isml/.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.jwplayer.com/v2/media/dKyD6HSy/poster.jpg?width=320" group-title="Women's Japan SV League- 2025/26 -",Kurobe Aqua Fairies - Okayama Seagulls | Round 1-A | 10/10/2025 17:05 (GMT+07)
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/dKyD6HSy/live.isml/.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.jwplayer.com/v2/media/lt7Nznte/poster.jpg?width=320" group-title="Women's Japan SV League- 2025/26 -",Osaka Marvelous - Victorina Himeji | Round 1-A | 10/10/2025 17:10 (GMT+07)
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/lt7Nznte/live.isml/.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.jwplayer.com/v2/media/TmNcJDaY/poster.jpg?width=320" group-title="Women's Polish TauronLiga - 2025/26-",PGE Budowlani Lodz - ITA TOOLS Stal Mielec | Round 1| 10/10/2025 22:30 (GMT+07)
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/TmNcJDaY/live.isml/.m3u8
 
 
-//#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Men’s World Championship Philippines 2025",| /09/2025  (GMT+07)//
+//#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Lega Volley Femminile A1 2025/26",| /10/2025  (GMT+07)//
+//#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Women's Polish TauronLiga - 2025/26-",| /10/2025  (GMT+07)//
+//#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Women's Japan SV League- 2025/26 -",| /10/2025  (GMT+07)//
