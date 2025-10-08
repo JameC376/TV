@@ -1,8 +1,53 @@
 #EXTM3U
 #EXT-X-VERSION:3
 
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=3700000
-http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/130734.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-3.png" group-title="ช่องกีฬาทั่วไป",6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
+https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL101/HLS/TL101.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-3.png" group-title="ช่องกีฬาทั่วไป",6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
+https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL102/HLS/TL102.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-3.png" group-title="ช่องกีฬาทั่วไป",6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
+https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL103/HLS/TL103.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-3.png" group-title="ช่องกีฬาทั่วไป",6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
+https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL104/HLS/TL104.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-3.png" group-title="ช่องกีฬาทั่วไป",6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
+https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL105/HLS/TL105.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-3.png" group-title="ช่องกีฬาทั่วไป",6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
+https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL106/HLS/TL106.m3u8
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-3.png" group-title="ช่องกีฬาทั่วไป",6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
+https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL107/HLS/TL107.m3u8
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-3.png" group-title="ช่องกีฬาทั่วไป",6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
+https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL108/HLS/TL108.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-3.png" group-title="ช่องกีฬาทั่วไป",6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
+https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL109/HLS/TL109.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Ch3HDLogo.svg/250px-Ch3HDLogo.svg.png" group-title="BEC World", 3HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -815,6 +860,7 @@ https://d2ujxo1akrn26l.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hdBrzcc/fox.png" group-title="News",FOX NEWS
 https://d3tlzddkbbpp5n.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-9uzjfw11uj9nn/LiveNOW_from_FOX.m3u8
+
 
 
 
