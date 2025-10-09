@@ -1,4 +1,6 @@
 #EXTM3U
+#EXT-X-VERSION:3
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.jwplayer.com/v2/media/7XrbGVL6/poster.jpg?width=320" group-title="Women's Polish TauronLiga - 2025/26-",VolleyWroclaw - ECO HARPOON LOS Nowy Dwor Mazowiecki | Round 1 | 09/10/2025 22:30 (GMT+07)
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/tPGu2R0R/live.isml/.m3u8
 
