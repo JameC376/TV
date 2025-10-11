@@ -1,15 +1,5 @@
 #EXTM3U
 #EXT-X-VERSION:3
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.jwplayer.com/v2/media/Jn8FI91D/poster.jpg?width=320" group-title="Women's Japan SV League- 2025/26 -",Kurobe Aqua Fairies - Okayama Seagulls | Round 1-A | 10/10/2025 17:05 (GMT+07)
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/z1znN4Nn/live.isml/.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.jwplayer.com/v2/media/kxBFawDl/poster.jpg?width=320" group-title="Women's Japan SV League- 2025/26 -",Osaka Marvelous - Victorina Himeji | Round 1-A | 10/10/2025 17:10 (GMT+07)
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/vUoxGwUv/live.isml/.m3u8
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.jwplayer.com/v2/media/fM5cG2Hv/poster.jpg?width=320" group-title="Women's Polish TauronLiga - 2025/26-",PGE Budowlani Lodz - ITA TOOLS Stal Mielec | Round 1| 10/10/2025 22:30 (GMT+07)
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/fM5cG2Hv/live.isml/.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.jwplayer.com/v2/media/k9ks50na/poster.jpg?width=320" group-title="Women's Japan SV League- 2025/26 -",Denso Airybees - Toray Arrows Shiga | Round 1-A | 11/10/2025 11:05 (GMT+07)
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/8DxTmXRz/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.jwplayer.com/v2/media/39etH05Z/poster.jpg?width=320" group-title="Women's Japan SV League- 2025/26 -",Saitama Ageo Medics - Pfu Bluecats Ishikawa Kahoku | Round 1-A | 11/10/2025 11:05 (GMT+07)
