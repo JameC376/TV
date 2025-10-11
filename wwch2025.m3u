@@ -1,27 +1,34 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.jwplayer.com/v2/media/k9ks50na/poster.jpg?width=320" group-title="Women's Japan SV League- 2025/26 -",Denso Airybees - Toray Arrows Shiga | Round 1-A | 11/10/2025 11:05 (GMT+07)
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/8DxTmXRz/live.isml/.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.jwplayer.com/v2/media/39etH05Z/poster.jpg?width=320" group-title="Women's Japan SV League- 2025/26 -",Saitama Ageo Medics - Pfu Bluecats Ishikawa Kahoku | Round 1-A | 11/10/2025 11:05 (GMT+07)
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/4GPyBEVZ/live.isml/.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.jwplayer.com/v2/media/MkH25rnA/poster.jpg?width=320" group-title="Women's Japan SV League- 2025/26 -",Aranmare Yamagata - Astemo Rivale Ibaraki | Round 1-A | 11/10/2025 12:05 (GMT+07)
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/qlT6Khzy/live.isml/.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.jwplayer.com/v2/media/S9GW6idE/poster.jpg?width=320" group-title="Women's Japan SV League- 2025/26 -",Nec Red Rockets Kawasaki - Saga Hisamitsu Springs | Round 1-A | 11/10/2025 12:05 (GMT+07)
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/XL21LuCF/live.isml/.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.jwplayer.com/v2/media/irw2wqmz/poster.jpg?width=320" group-title="Women's Japan SV League- 2025/26 -",Kurobe Aqua Fairies - Okayama Seagulls | Round 1-B| 11/10/2025 12:05 (GMT+07)
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/rIsHHUYt/live.isml/.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.jwplayer.com/v2/media/UzgH7ZNu/poster.jpg?width=320" group-title="Women's Japan SV League- 2025/26 -",Osaka Marvelous - Victorina Himeji | Round 1-B | 11/10/2025 13:05 (GMT+07)
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/mHbi7xjR/live.isml/.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.jwplayer.com/v2/media/k9ks50na/poster.jpg?width=320" group-title="Women's Japan SV League - 2025/26",Denso Airybees - Toray Arrows Shiga | Round 1-A | 11/10/2025 11:05 (GMT+07)
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/k9ks50na/live.isml/.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.jwplayer.com/v2/media/39etH05Z/poster.jpg?width=320" group-title="Women's Japan SV League - 2025/26",Saitama Ageo Medics - Pfu Bluecats Ishikawa Kahoku | Round 1-A | 11/10/2025 11:05 (GMT+07)
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/39etH05Z/live.isml/.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.jwplayer.com/v2/media/MkH25rnA/poster.jpg?width=320" group-title="Women's Japan SV League - 2025/26",Aranmare Yamagata - Astemo Rivale Ibaraki | Round 1-A | 11/10/2025 12:05 (GMT+07)
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/MkH25rnA/live.isml/.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.jwplayer.com/v2/media/S9GW6idE/poster.jpg?width=320" group-title="Women's Japan SV League - 2025/26",Nec Red Rockets Kawasaki - Saga Hisamitsu Springs | Round 1-A | 11/10/2025 12:05 (GMT+07)
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/S9GW6idE/live.isml/.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.jwplayer.com/v2/media/irw2wqmz/poster.jpg?width=320" group-title="Women's Japan SV League - 2025/26",Kurobe Aqua Fairies - Okayama Seagulls | Round 1-B| 11/10/2025 12:05 (GMT+07)
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/irw2wqmz/live.isml/.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.jwplayer.com/v2/media/UzgH7ZNu/poster.jpg?width=320" group-title="Women's Japan SV League - 2025/26",Osaka Marvelous - Victorina Himeji | Round 1-B | 11/10/2025 13:05 (GMT+07)
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/UzgH7ZNu/live.isml/.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.jwplayer.com/v2/media/sM1Ueu8U/poster.jpg?width=320" group-title="Women's Polish TauronLiga - 2025/26-",LOTTO Chemik Police - Sokol & Hagric Mogilno | Round 1 | 11/10/2025 17:30 (GMT+07)
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/Hw3vJjp0/live.isml/.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.jwplayer.com/v2/media/arEZisF3/poster.jpg?width=320" group-title="Women's Polish TauronLiga - 2025/26-",UNI Opole - LKS Commercecon Lodz | Round 1| 11/10/2025 19:45 (GMT+07)
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/arEZisF3/live.isml/.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.jwplayer.com/v2/media/sM1Ueu8U/poster.jpg?width=320" group-title="Women's Polish TauronLiga - 2025/26",LOTTO Chemik Police - Sokol & Hagric Mogilno | Round 1 | 11/10/2025 17:30 (GMT+07)
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/sM1Ueu8U/live.isml/.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.jwplayer.com/v2/media/arEZisF3/poster.jpg?width=320" group-title="Women's Polish TauronLiga - 2025/26",UNI Opole - LKS Commercecon Lodz | Round 1| 11/10/2025 19:45 (GMT+07)
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/jRSsPUn8/live.isml/.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.jwplayer.com/v2/media/5hdWz2XB/poster.jpg?width=320" group-title="Lega Volley Femminile A1 2025/26",Savino Del Bene Scandicci -  Bartoccini-Mc Restauri Perugia | Round 2 | 12/10/2025 01:30 (GMT+07)
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/5hdWz2XB/live.isml/.m3u8
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/Wz48uVbN/live.isml/.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.jwplayer.com/v2/media/SCMwX7vC/poster.jpg?width=320" group-title="Women's Japan SV League- 2025/26",Denso Airybees - Toray Arrows Shiga | Round 1-B | 12/10/2025 11:05 (GMT+07)
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkN/media/jGFZWLY6/live.isml/.m3u8" group-title="Women's Japan SV League- 2025/26",Saitama Ageo Medics - Pfu Bluecats Ishikawa Kahoku | Round 1-B | 12/10/2025 11:05 (GMT+07)
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/jGFZWLY6/live.isml/.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.jwplayer.com/v2/media/U7RTNveP/poster.jpg?width=320" group-title="Women's Japan SV League- 2025/26",Nec Red Rockets Kawasaki - Saga Hisamitsu Springs | Round 1-B | 12/10/2025 11:05 (GMT+07)
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/U7RTNveP/live.isml/.m3u8
 
 
 //#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Lega Volley Femminile A1 2025/26",| /10/2025  (GMT+07)//
-//#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Women's Polish TauronLiga - 2025/26-",| /10/2025  (GMT+07)//
-//#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Women's Japan SV League- 2025/26 -",| /10/2025  (GMT+07)//
+//#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Women's Polish TauronLiga - 2025/26",| /10/2025  (GMT+07)//
+//#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Women's Japan SV League- 2025/26",| /10/2025  (GMT+07)//
