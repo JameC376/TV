@@ -1,9 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.jwplayer.com/v2/media/sgBF6bZG/poster.jpg?width=320" group-title="Women's Polish TauronLiga 2025/26",MOYA Radomka Radom - VolleyWroclaw | Round 2 | 16/10/2025 22:30 (GMT+07)
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/sgBF6bZG/live.isml/.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.jwplayer.com/v2/media/KfsHk6sV/poster.jpg?width=320" group-title="Women's Polish TauronLiga 2025/26",LKS Commercecon Lodz - Metalkas Palac Bydgoszcz | Round 2 | 17/10/2025 22:30 (GMT+07)
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/KfsHk6sV/live.isml/.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.jwplayer.com/v2/media/HNvwbMvf/poster.jpg?width=320" group-title="Women's Japan SV League 2025/26",Gunma Greenwings - Nec Red Rockets Kawasaki | Round 2-A | 18/10/2025 11:05 (GMT+07)
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/HNvwbMvf/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.jwplayer.com/v2/media/R83O4lb4/poster.jpg?width=320" group-title="Women's Japan SV League 2025/26",Pfu Bluecats Ishikawa Kahoku - Okayama Seagulls | Round 2-A | 18/10/2025 11:05 (GMT+07)
@@ -42,6 +37,13 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/BgfXot7X/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/Ir5WP4xC/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.jwplayer.com/v2/media/Jm2WS9TL/poster.jpg?width=320" group-title="Women's Japan SV League 2025/26",Toray Arrows Shiga - Victorina Himeji | Round 2-B | 19/10/2025 13:05 (GMT+07)
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/Jm2WS9TL/live.isml/.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.jwplayer.com/v2/media/jHO5y81C/poster.jpg?width=320" group-title="Lega Volley Femminile A1 2025/26",Bergamo - Igor Gorgonzola Novara | Round 4 | 19/10/2025 21:00 (GMT+07)
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/jHO5y81C/live.isml/.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.jwplayer.com/v2/media/lGUeldA0/poster.jpg?width=320" group-title="Lega Volley Femminile A1 2025/26",Reale Mutua Fenera Chieri 76 - Eurotek Laica Uyba | Round 4 | 19/10/2025 22:00 (GMT+07)
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/lGUeldA0/live.isml/.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.jwplayer.com/v2/media/lsVldKKn/poster.jpg?width=320" group-title="Lega Volley Femminile A1 2025/26",Savino Del Bene Scandicci - Il Bisonte Firenze | Round 4 | 19/10/2025 22:00 (GMT+07)
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/lsVldKKn/live.isml/.m3u8
 
 //#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Lega Volley Femminile A1 2025/26",| /10/2025  (GMT+07)//
 //#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Women's Polish TauronLiga 2025/26",| /10/2025  (GMT+07)//
