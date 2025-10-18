@@ -1,27 +1,12 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.jwplayer.com/v2/media/HNvwbMvf/poster.jpg?width=320" group-title="Women's Japan SV League 2025/26",Gunma Greenwings - Nec Red Rockets Kawasaki | Round 2-A | 18/10/2025 11:05 (GMT+07)
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/HNvwbMvf/live.isml/.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.jwplayer.com/v2/media/R83O4lb4/poster.jpg?width=320" group-title="Women's Japan SV League 2025/26",Pfu Bluecats Ishikawa Kahoku - Okayama Seagulls | Round 2-A | 18/10/2025 11:05 (GMT+07)
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/R83O4lb4/live.isml/.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.jwplayer.com/v2/media/4NeURrUj/poster.jpg?width=320" group-title="Women's Japan SV League 2025/26",Saitama Ageo Medics - Kurobe Aqua Fairies | Round 2-A | 18/10/2025 11:05 (GMT+07)
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/4NeURrUj/live.isml/.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.jwplayer.com/v2/media/WkkoenFH/poster.jpg?width=320" group-title="Women's Japan SV League 2025/26",Astemo Rivale Ibaraki - Denso Airybees | Round 2-A | 18/10/2025 12:05 (GMT+07)
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/WkkoenFH/live.isml/.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.jwplayer.com/v2/media/v2tsSQk7/poster.jpg?width=320" group-title="Women's Japan SV League 2025/26",Osaka Marvelous - Aranmare Yamagata | Round 2-A | 18/10/2025 12:05 (GMT+07)
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/v2tsSQk7/live.isml/.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.jwplayer.com/v2/media/ISxxDJlw/poster.jpg?width=320" group-title="Women's Japan SV League 2025/26",Saga Hisamitsu Springs - Queenseis Kariya | Round 2-A | 18/10/2025 12:05 (GMT+07)
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/ISxxDJlw/live.isml/.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.jwplayer.com/v2/media/7cXXggZ8/poster.jpg?width=320" group-title="Women's Japan SV League 2025/26",Toray Arrows Shiga - Victorina Himeji | Round 2-A | 18/10/2025 13:05 (GMT+07)
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/7cXXggZ8/live.isml/.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.jwplayer.com/v2/media/PLhXlEqY/poster.jpg?width=320" group-title="Women's Polish TauronLiga 2025/26",ECO HARPOON LOS Nowy Dwor Mazowiecki - LOTTO Chemik Police | Round 2 | 18/10/2025 17:30 (GMT+07)
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/PLhXlEqY/live.isml/.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.jwplayer.com/v2/media/yzYiFGQI/poster.jpg?width=320" group-title="Supercoppa",Prosecco Doc A.Carraro Imoco Conegliano - Numia Vero Volley Milano | Supercoppa | 18/10/2025 22:30 (GMT+07)
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/yzYiFGQI/live.isml/.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.jwplayer.com/v2/media/D87gSyn2/poster.jpg?width=320" group-title="Women's Polish TauronLiga 2025/26",ITA TOOLS Stal Mielec - BKS BOSTIK ZGO Bielsko-Biala | Round 2 | 19/10/2025 01:30 (GMT+07)
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/D87gSyn2/live.isml/.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.jwplayer.com/v2/media/oCxP54dr/poster.jpg?width=320" group-title="Supercopa Feminina 2025",Osasco São Cristóvão Saúde x SESI Vôlei Bauru | 19/10/2025 07:30
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/oCxP54dr/live.isml/.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.jwplayer.com/v2/media/82FjCFB1/poster.jpg?width=320" group-title="Women's Japan SV League 2025/26",Pfu Bluecats Ishikawa Kahoku - Okayama Seagulls | Round 2-B | 19/10/2025 11:05 (GMT+07)
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/82FjCFB1/live.isml/.m3u8
