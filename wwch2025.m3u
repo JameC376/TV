@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.jwplayer.com/v2/media/yzYiFGQI/poster.jpg?width=320" group-title="Supercoppa",Prosecco Doc A.Carraro Imoco Conegliano - Numia Vero Volley Milano | Supercoppa | 18/10/2025 22:30 (GMT+07)
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/yzYiFGQI/live.isml/.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.jwplayer.com/v2/media/D87gSyn2/poster.jpg?width=320" group-title="Women's Polish TauronLiga 2025/26",ITA TOOLS Stal Mielec - BKS BOSTIK ZGO Bielsko-Biala | Round 2 | 19/10/2025 01:30 (GMT+07)
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/D87gSyn2/live.isml/.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.jwplayer.com/v2/media/oCxP54dr/poster.jpg?width=320" group-title="Supercopa Feminina 2025",Osasco São Cristóvão Saúde x SESI Vôlei Bauru | 19/10/2025 07:30
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/oCxP54dr/live.isml/.m3u8
 
@@ -29,7 +23,33 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/jHO5y81C/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/lGUeldA0/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.jwplayer.com/v2/media/lsVldKKn/poster.jpg?width=320" group-title="Lega Volley Femminile A1 2025/26",Savino Del Bene Scandicci - Il Bisonte Firenze | Round 4 | 19/10/2025 22:00 (GMT+07)
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/lsVldKKn/live.isml/.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.jwplayer.com/v2/media/cbUWzhou/poster.jpg?width=320" group-title="Lega Volley Femminile A1 2025/26",Megabox Ondulati Del Savio Vallefoglia - Omag-Mt San Giovanni In Marignano | Round 4 | 19/10/2025 22:00 (GMT+07)
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/cbUWzhou/live.isml/.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.jwplayer.com/v2/media/kW836rCZ/poster.jpg?width=320" group-title="Lega Volley Femminile A1 2025/26",Wash4green Monviso Volley - Cuneo Granda Volley | Round 4 | 19/10/2025 22:00 (GMT+07)
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/kW836rCZ/live.isml/.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.jwplayer.com/v2/media/9fNpIeKp/poster.jpg?width=320" group-title="Women's Polish TauronLiga 2025/26",KS DevelopRes Rzeszow - UNI Opole | Round 2 | 19/10/2025 22:30(GMT+07)
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/9fNpIeKp/live.isml/.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.jwplayer.com/v2/media/yTKOmrjg/poster.jpg?width=320" group-title="Lega Volley Femminile A1 2025/26",Cbf Balducci Hr Macerata - Bartoccini-Mc Restauri Perugia | Round 4 | 19/10/2025 23:00 (GMT+07)
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/yTKOmrjg/live.isml/.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.jwplayer.com/v2/media/ayG8g4Uu/poster.jpg?width=320" group-title="Women's Polish TauronLiga 2025/26",Sokol & Hagric Mogilno - PGE Budowlani Lodz | Round 2 | 20/10/2025 01:30 (GMT+07)
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/ayG8g4Uu/live.isml/.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.jwplayer.com/v2/media/SxEwzKHd/poster.jpg?width=320" group-title="Supercopa Masculina 2025",Sada Cruzeiro x Itambé Minas | 20/10/2025 04:30 (GMT+07)
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/SxEwzKHd/live.isml/.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.jwplayer.com/v2/media/5L4EiMaF/poster.jpg?width=320" group-title="Polish PlusLiga 2025/26",Energa Trefl Gdansk - Barkom Kazany Lwow | Round 1 | 20/10/2025 22:30 (GMT+07)
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/5L4EiMaF/live.isml/.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.jwplayer.com/v2/media/21xwakOF/poster.jpg?width=320" group-title="Superlega 2025/26",Allianz Milano - Valsa Group Modena | Round 1 | 21/10/2025 01:00 (GMT+07)
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/21xwakOF/live.isml/.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.jwplayer.com/v2/media/NUjtiCEW/poster.jpg?width=320" group-title="Superlega 2025/26",Cucine Lube Civitanova - Yuasa Battery Grottazzolina | Round 1 | 21/10/2025 01:30 (GMT+07)
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/NUjtiCEW/live.isml/.m3u8
 
 //#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Lega Volley Femminile A1 2025/26",| /10/2025  (GMT+07)//
-//#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Women's Polish TauronLiga 2025/26",| /10/2025  (GMT+07)//
+//#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Polish TauronLiga 2025/26",| /10/2025  (GMT+07)//
 //#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Women's Japan SV League 2025/26",| /10/2025  (GMT+07)//
+//#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Polish PlusLiga 2025/26",| /10/2025  (GMT+07)//
+//#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Superlega 2025/26",| /10/2025  (GMT+07)//
