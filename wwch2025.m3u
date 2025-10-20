@@ -1,27 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.jwplayer.com/v2/media/jHO5y81C/poster.jpg?width=320" group-title="Lega Volley Femminile A1 2025/26",Bergamo - Igor Gorgonzola Novara | Round 4 | 19/10/2025 21:00 (GMT+07)
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/jHO5y81C/live.isml/.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.jwplayer.com/v2/media/lGUeldA0/poster.jpg?width=320" group-title="Lega Volley Femminile A1 2025/26",Reale Mutua Fenera Chieri 76 - Eurotek Laica Uyba | Round 4 | 19/10/2025 22:00 (GMT+07)
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/lGUeldA0/live.isml/.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.jwplayer.com/v2/media/lsVldKKn/poster.jpg?width=320" group-title="Lega Volley Femminile A1 2025/26",Savino Del Bene Scandicci - Il Bisonte Firenze | Round 4 | 19/10/2025 22:00 (GMT+07)
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/lsVldKKn/live.isml/.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.jwplayer.com/v2/media/cbUWzhou/poster.jpg?width=320" group-title="Lega Volley Femminile A1 2025/26",Megabox Ondulati Del Savio Vallefoglia - Omag-Mt San Giovanni In Marignano | Round 4 | 19/10/2025 22:00 (GMT+07)
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/cbUWzhou/live.isml/.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.jwplayer.com/v2/media/eHFmH5dd/poster.jpg?width=320" group-title="Lega Volley Femminile A1 2025/26",Wash4green Monviso Volley - Cuneo Granda Volley | Round 4 | 19/10/2025 22:00 (GMT+07)
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/eHFmH5dd/live.isml/.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.jwplayer.com/v2/media/9fNpIeKp/poster.jpg?width=320" group-title="Women's Polish TauronLiga 2025/26",KS DevelopRes Rzeszow - UNI Opole | Round 2 | 19/10/2025 22:30(GMT+07)
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/9fNpIeKp/live.isml/.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.jwplayer.com/v2/media/yTKOmrjg/poster.jpg?width=320" group-title="Lega Volley Femminile A1 2025/26",Cbf Balducci Hr Macerata - Bartoccini-Mc Restauri Perugia | Round 4 | 19/10/2025 23:00 (GMT+07)
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/yTKOmrjg/live.isml/.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.jwplayer.com/v2/media/ayG8g4Uu/poster.jpg?width=320" group-title="Women's Polish TauronLiga 2025/26",Sokol & Hagric Mogilno - PGE Budowlani Lodz | Round 2 | 20/10/2025 01:30 (GMT+07)
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/ayG8g4Uu/live.isml/.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.jwplayer.com/v2/media/SxEwzKHd/poster.jpg?width=320" group-title="Supercopa Masculina 2025",Sada Cruzeiro x Itambé Minas | 20/10/2025 04:30 (GMT+07)
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/SxEwzKHd/live.isml/.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.jwplayer.com/v2/media/5L4EiMaF/poster.jpg?width=320" group-title="Polish PlusLiga 2025/26",Energa Trefl Gdansk - Barkom Kazany Lwow | Round 1 | 20/10/2025 22:30 (GMT+07)
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/5L4EiMaF/live.isml/.m3u8
 
@@ -44,6 +21,18 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/bGC4ZlK0/live.is
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.jwplayer.com/v2/media/FrknOJMN/poster.jpg?width=320" group-title="Polish PlusLiga 2025/26",PGE Projekt Warszawa - InPost ChKS Chelm | Round 1 | 22/10/2025 01:30 (GMT+07)
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/FrknOJMN/live.isml/.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.jwplayer.com/v2/media/SfoR0jtJ/poster.jpg?width=320" group-title="Polish PlusLiga 2025/26",Indykpol AZS Olsztyn - JSW Jastrzebski Wegie | Round 1 | 22/10/2025 22:30 (GMT+07)
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/SfoR0jtJ/live.isml/.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.jwplayer.com/v2/media/vKNavsWS/poster.jpg?width=320" group-title="Lega Volley Femminile A1 2025/26",Wash4green Monviso Volley - Prosecco Doc A.Carraro Imoco Conegliano | Round 13 | 23/10/2025 01:00 (GMT+07)
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/vKNavsWS/live.isml/.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.jwplayer.com/v2/media/FqRFb85T/poster.jpg?width=320" group-title="Lega Volley Femminile A1 2025/26",Savino Del Bene Scandicci - Numia Vero Volley Milano | Round 13 | 23/10/2025 01:30 (GMT+07)
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/FqRFb85T/live.isml/.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.jwplayer.com/v2/media/uQjrewbC/poster.jpg?width=320" group-title="Polish PlusLiga 2025/26",Steam Hemarpol Politechnika Częstochowa - BOGDANKA LUK Lublin | Round 1 | 23/10/2025 01:30 (GMT+07)
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/uQjrewbC/live.isml/.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.jwplayer.com/v2/media/dOGY0gg3/poster.jpg?width=320" group-title="Polish TauronLiga 2025/26",UNI Opole - ECO HARPOON LOS Nowy Dwor Mazowiecki | Round 3 | 23/10/2025 22:30 (GMT+07)
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/dOGY0gg3/live.isml/.m3u8
 
 //#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Lega Volley Femminile A1 2025/26",| /10/2025  (GMT+07)//
 //#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Polish TauronLiga 2025/26",| /10/2025  (GMT+07)//
