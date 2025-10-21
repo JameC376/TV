@@ -1,23 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.jwplayer.com/v2/media/5L4EiMaF/poster.jpg?width=320" group-title="Polish PlusLiga 2025/26",Energa Trefl Gdansk - Barkom Kazany Lwow | Round 1 | 20/10/2025 22:30 (GMT+07)
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/lr8N1ZP8/live.isml/.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.jwplayer.com/v2/media/21xwakOF/poster.jpg?width=320" group-title="Superlega 2025/26",Allianz Milano - Valsa Group Modena | Round 1 | 21/10/2025 01:00 (GMT+07)
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/WwsrcsUI/live.isml/.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.jwplayer.com/v2/media/NUjtiCEW/poster.jpg?width=320" group-title="Superlega 2025/26",Cucine Lube Civitanova - Yuasa Battery Grottazzolina | Round 1 | 21/10/2025 01:30 (GMT+07)
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/NUjtiCEW/live.isml/.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.jwplayer.com/v2/media/qL3xSg6o/poster.jpg?width=320" group-title="Superlega 2025/26",Sonepar Padova - MA Acqua S.Bernardo Cuneo | Round 1 | 21/10/2025 01:30 (GMT+07)
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/qL3xSg6o/live.isml/.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.jwplayer.com/v2/media/dfcGdfzl/poster.jpg?width=320" group-title="Superlega 2025/26",Rana Verona - Gas Sales Bluenergy Piacenza | Round 1 | 21/10/2025 01:30 (GMT+07)
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/dfcGdfzl/live.isml/.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/HCoqmUAC-320.jpg" group-title="Superlega 2025/26",Fluminense F.C. - Sancor Maringa Volei | Round 1 | 21/10/2025 04:30 (GMT+07)
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/Z2I4kUMk/live.isml/.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/hqarTiXP-320.jpg" group-title="Superlega 2025/26",SESC RJ Flamengo - Paulistano Barueri | Round 1 | 21/10/2025 04:30 (GMT+07)
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/9kzjQG8g/live.isml/.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/nFBP5rmx-320.jpg" group-title="Superlega 2025/26",Dentil Praia Clube - Brasilia Volei | Round 1 | 21/10/2025 07:00 (GMT+07)
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/wdiNbKcM/live.isml/.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.jwplayer.com/v2/media/TlxNvtiL/poster.jpg?width=320" group-title="Polish PlusLiga 2025/26",Slepsk Malow Suwalki - Asseco Resovia Rzeszow | Round 1 | 21/10/2025 22:30 (GMT+07)
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/TlxNvtiL/live.isml/.m3u8
 
@@ -28,6 +9,12 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/bGC4ZlK0/live.is
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.jwplayer.com/v2/media/FrknOJMN/poster.jpg?width=320" group-title="Polish PlusLiga 2025/26",PGE Projekt Warszawa - InPost ChKS Chelm | Round 1 | 22/10/2025 01:30 (GMT+07)
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/FrknOJMN/live.isml/.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.jwplayer.com/v2/media/eyuaGXA2/poster.jpg?width=320" group-title="Superlega 2025/26",Sada Cruzeiro Volei - JF Volei | Round 1 | 22/10/2025 04:30 (GMT+07)
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/eyuaGXA2/live.isml/.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.jwplayer.com/v2/media/jxjExfPh/poster.jpg?width=320" group-title="Superlega 2025/26",Gerdau Minas - Batavo Mackenzie | Round 1 | 22/10/2025 07:00 (GMT+07)
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/jxjExfPh/live.isml/.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.jwplayer.com/v2/media/SfoR0jtJ/poster.jpg?width=320" group-title="Polish PlusLiga 2025/26",Indykpol AZS Olsztyn - JSW Jastrzebski Wegie | Round 1 | 22/10/2025 22:30 (GMT+07)
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/SfoR0jtJ/live.isml/.m3u8
 
