@@ -1,20 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.jwplayer.com/v2/media/TlxNvtiL/poster.jpg?width=320" group-title="Polish PlusLiga 2025/26",Slepsk Malow Suwalki - Asseco Resovia Rzeszow | Round 1 | 21/10/2025 22:30 (GMT+07)
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/TlxNvtiL/live.isml/.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.jwplayer.com/v2/media/sVrcg3HW/poster.jpg?width=320" group-title="Superlega 2025/26",Vero Volley Monza - Sir Susa Scai Perugia | Round 1 | 22/10/2025 01:30 (GMT+07)
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/sVrcg3HW/live.isml/.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.jwplayer.com/v2/media/bGC4ZlK0/poster.jpg?width=320" group-title="Superlega 2025/26",Cisterna Volley - Itas Trentino | Round 1 | 22/10/2025 01:30 (GMT+07)
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/bGC4ZlK0/live.isml/.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.jwplayer.com/v2/media/FrknOJMN/poster.jpg?width=320" group-title="Polish PlusLiga 2025/26",PGE Projekt Warszawa - InPost ChKS Chelm | Round 1 | 22/10/2025 01:30 (GMT+07)
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/FrknOJMN/live.isml/.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.jwplayer.com/v2/media/eyuaGXA2/poster.jpg?width=320" group-title="Superlega 2025/26",Sada Cruzeiro Volei - JF Volei | Round 1 | 22/10/2025 04:30 (GMT+07)
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/eyuaGXA2/live.isml/.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.jwplayer.com/v2/media/jxjExfPh/poster.jpg?width=320" group-title="Superlega 2025/26",Gerdau Minas - Batavo Mackenzie | Round 1 | 22/10/2025 07:00 (GMT+07)
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/jxjExfPh/live.isml/.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.jwplayer.com/v2/media/SfoR0jtJ/poster.jpg?width=320" group-title="Polish PlusLiga 2025/26",Indykpol AZS Olsztyn - JSW Jastrzebski Wegie | Round 1 | 22/10/2025 22:30 (GMT+07)
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/SfoR0jtJ/live.isml/.m3u8
 
@@ -25,8 +9,26 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/FqRFb85T/live.is
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.jwplayer.com/v2/media/uQjrewbC/poster.jpg?width=320" group-title="Polish PlusLiga 2025/26",Steam Hemarpol Politechnika Częstochowa - BOGDANKA LUK Lublin | Round 1 | 23/10/2025 01:30 (GMT+07)
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/uQjrewbC/live.isml/.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Superlega 2025/26",Sesi Volei Bauru - Renasce Sorocaba | Round 1 | 23/10/2025 04:30 (GMT+07)
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/31JzqotA/live.isml/.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Superlega 2025/26",Tijuca Tenis Clube - Osasco Sao Cristovao Saude | Round 1 | 23/10/2025 04:30 (GMT+07)
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/6nNntYau/live.isml/.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Superlega 2025/26",Suzano Volei - Viapol Volei Sao Jose | Round 1 | 23/10/2025 07:00 (GMT+07)
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/4UqvQY4X/live.isml/.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.jwplayer.com/v2/media/dOGY0gg3/poster.jpg?width=320" group-title="Polish TauronLiga 2025/26",UNI Opole - ECO HARPOON LOS Nowy Dwor Mazowiecki | Round 3 | 23/10/2025 22:30 (GMT+07)
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/dOGY0gg3/live.isml/.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Superlega 2025/26",Volei Guarulhos - Itambe Minas | Round 1 | 24/10/2025 04:30 (GMT+07)
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/Qo1qJ7FP/live.isml/.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Superlega 2025/26",Sesi Bauru - Joinville Volei | Round 1 | 24/10/2025 04:30 (GMT+07)
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/M7Lkpii6/live.isml/.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Superlega 2025/26",Volei Renata - Azulim Sicoob Aracoop Monte Carmelo | Round 1 | 24/10/2025 07:00 (GMT+07)
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/OtrcCwg2/live.isml/.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.jwplayer.com/v2/media/GrPBMRzW/poster.jpg?width=320" group-title="Women's Japan SV League 2025/26",Nec Red Rockets Kawasaki - Osaka Marvelous | Round 3-A | 24/10/2025 16:35 (GMT+07)
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/GrPBMRzW/live.isml/.m3u8
 
 //#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Lega Volley Femminile A1 2025/26",| /10/2025  (GMT+07)//
 //#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Polish TauronLiga 2025/26",| /10/2025  (GMT+07)//
