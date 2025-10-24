@@ -118,8 +118,9 @@ https://prsmedia-mykojh.cdn.byteark.com/fleetstream/live/720p/index.m3u8
 https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/32/32.mpd
 
 #EXTINF:-1 tvg-chno="16" ch-number="16" tvg-id="TNN.th" tvg-name="TNN" tvg-logo="https://www.tnnthailand.com/images/logo/logo-tnn.svg" group-title="Thai News Network (TNN) Co., Ltd.", TNN
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://lb1-live-mv.v2h-cdn.com/hls/ffdc/mugvhogvho/mugvhogvho.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9ebedc957e934d2b9023e4e60b97af73:7bcb4363df74457bbafedec1a864e6b6
+https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/16/16.mpd
 
 #EXTINF:-1 group-title="ช่องบันเทิง" tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/101.png",Asian Hits
 #KODIPROP:inputstream.adaptive.license_type=clearkey
