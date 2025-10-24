@@ -93,7 +93,9 @@ https://lb1-live-mv.v2h-cdn.com/hls/fffa/boomerang/boomerang.m3u8
 https://lb1-live-mv.v2h-cdn.com/hls/ffbd/boomanime/boomanime.m3u8
 
 #EXTINF:-1 tvg-id="TSports7.th" tvg-name="T Sports 7" group-title="SAT" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/ce/T_Sports_7_Logo.png",T Sports 7
-https://lb1-live-mv.v2h-cdn.com/hls/ffef/mulxvnghf/mulxvnghf.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:xinputstream.adaptive.license_key=6187523f92b9475bb5b192f70cef1342:5119311f482144d58dacabc5bc1fa4ba
+https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/7/7.mpd
 
 #EXTINF:-1 tvg-logo="https://resource.nationtv.tv/images/logo-footer-v1.png" group-title="Nation TV Co., Ltd.", Nation TV
 #EXTVLCOPT:http-referrer=https://www.nationtv.tv/
