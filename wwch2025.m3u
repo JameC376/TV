@@ -1,14 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.jwplayer.com/v2/media/dOGY0gg3/poster.jpg?width=320" group-title="Polish TauronLiga 2025/26",UNI Opole - ECO HARPOON LOS Nowy Dwor Mazowiecki | Round 3 | 23/10/2025 22:30 (GMT+07)
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/dOGY0gg3/live.isml/.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.jwplayer.com/v2/media/jxLjKMXt/poster.jpg?width=320" group-title="Superlega 2025/26",Volei Guarulhos - Itambe Minas | Round 1 | 24/10/2025 04:30 (GMT+07)
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/1whYDcSx/live.isml/.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.jwplayer.com/v2/media/1whYDcSx/poster.jpg?width=320" group-title="Superlega 2025/26",Sesi Bauru - Joinville Volei | Round 1 | 24/10/2025 04:30 (GMT+07)
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/jxLjKMXt/live.isml/.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.jwplayer.com/v2/media/Xl81Z797/poster.jpg?width=320" group-title="Superlega 2025/26",Volei Renata - Azulim Sicoob Aracoop Monte Carmelo | Round 1 | 24/10/2025 07:00 (GMT+07)
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/Xl81Z797/live.isml/.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.jwplayer.com/v2/media/GrPBMRzW/poster.jpg?width=320" group-title="Women's Japan SV League 2025/26",Nec Red Rockets Kawasaki - Osaka Marvelous | Round 3-A | 24/10/2025 16:35 (GMT+07)
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/GrPBMRzW/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.jwplayer.com/v2/media/FE0kpDKt/poster.jpg?width=320" group-title="Men's Japan SV League 2025/26",Osaka Bluteon - Suntory Sunbirds Osaka | Round 1-A | 24/10/2025 17:10 (GMT+07)
@@ -36,6 +26,16 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/RvWG7q5w/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/GTgpTgW3/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.jwplayer.com/v2/media/pSz3uQxZ/poster.jpg?width=320" group-title="Men's Japan SV League 2025/26",Toray Arrows Shizuoka - Tokyo Great Bears | Round 1-A | 25/10/2025 12:05 (GMT+07)
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/pSz3uQxZ/live.isml/.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/iCJXbTrG-320.jpg" group-title="Women's Japan SV League 2025/26",Victorina Himeji - Aranmare Yamagata | Round 3-A | 25/10/2025 12:05 (GMT+07)
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/s3hYllpA/live.isml/.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/YXi72m5A-320.jpg" group-title="Women's Japan SV League 2025/26",Okayama Seagulls - Toray Arrows Shiga | Round 3-A | 25/10/2025 12:05 (GMT+07)
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/1FnzWysE/live.isml/.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/uEc2W2Fh-320.jpg" group-title="Men's Japan SV League 2025/26",Vc Nagano Tridents - Nippon Steel Sakai Blazers | Round 1-A | 25/10/2025 12:05 (GMT+07)
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/QVDAeq3q/live.isml/.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/bjQrIeL9-320.jpg" group-title="Men's Japan SV League 2025/26",Wolfdogs Nagoya - Hiroshima Thunders | Round 1-A | 25/10/2025 12:35 (GMT+07)
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/gOo8eLmo/live.isml/.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/lSdKbISh-320.jpg" group-title="Women's Japan SV League 2025/26",Nec Red Rockets Kawasaki - Osaka Marvelous | Round 3-B | 25/10/2025 13:35 (GMT+07)
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/rFrsQYlh/live.isml/.m3u8
 
 //#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Lega Volley Femminile A1 2025/26",| /10/2025  (GMT+07)//
 //#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Polish TauronLiga 2025/26",| /10/2025  (GMT+07)//
