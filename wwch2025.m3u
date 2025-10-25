@@ -4,13 +4,14 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/z81pncu5/live.is
 #EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/k88ZTfbR-320.jpg" group-title="Elite 16 Cape Town 2025",25/10/2025 14:00 Main Draw & Quarter Finals | Day 4 | Court 2
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/AsTbGb7L/live.isml/.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/1kEkQzom-320.jpg" group-title="Men's Japan SV League 2025/26",25/10/2025 17:05 Osaka Bluteon - Suntory Sunbirds Osaka | Round 1-B
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/IXtoHYYZ/live.isml/.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/pvkfKPAh-320.jpg" group-title="Polish TauronLiga 2025/26",25/10/2025 18:30 Metalkas Palac Bydgoszcz - Sokol & Hagric Mogilno | Round 3
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/nm14ACJF/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/uPGHinla-320.jpg" group-title="Polish PlusLiga 2025/26",25/10/2025 19:45 Aluron CMC Warta Zawiercie - PGE Projekt Warszawa | Round 2
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/FTn66R7A/live.isml/.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.jwplayer.com/v2/media/ZOsFVnjU/poster.jpg?width=320" group-title="",25/10/2025 22:00 van de Velde/Brouwer (NED) v Berger T./Hammarberg (AUT) | Quarter Final (M) | Cape Town 2025
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/ZOsFVnjU/live.isml/.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.jwplayer.com/v2/media/j4WIHuU2/poster.jpg?width=320" group-title="",25/10/2025 22:00 Evandro/Arthur Lanci (BRA) v Bassereau/Aye, C. (FRA) | Quarter Final (M) | Cape Town 2025
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/j4WIHuU2/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.jwplayer.com/v2/media/KbZM7kq7/poster.jpg?width=320" group-title="Polish PlusLiga 2025/26",25/10/2025 22:30 BOGDANKA LUK Lublin - ZAKSA Kedzierzyn Kozle | Round 2
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/KbZM7kq7/live.isml/.m3u8
 
@@ -26,8 +27,17 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/hdKei7E4/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/9PNYuXSP/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.jwplayer.com/v2/media/AtuXukeh/poster.jpg?width=320" group-title="",26/10/2025 02:00 Tijuca Tenis Clube - Brasilia Volei | Round 2
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/AtuXukeh/live.isml/.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.jwplayer.com/v2/media/N5VqvAUt/poster.jpg?width=320" group-title="",26/10/2025 04:30 Osasco Sao Cristovao Saude - Renasce Sorocaba | Round 2
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/N5VqvAUt/live.isml/.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",26/10/2025 04:30 Flor DE Ype Paulistano Barueri - Gerdau Minas | Round 2
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/B0xh4k9H/live.isml/.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.jwplayer.com/v2/media/bPHMtCIX/poster.jpg?width=320" group-title="",26/10/2025 07:00 Sesi Volei Bauru - Batavo Mackenzie | Round 2
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/bPHMtCIX/live.isml/.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",| /10/2025
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",| /10/2025
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",| /10/2025
 
-//#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Lega Volley Femminile A1 2025/26",| /10/2025  (GMT+07)//
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",| /10/2025
 //#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Polish TauronLiga 2025/26",| /10/2025  (GMT+07)//
 //#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Women's Japan SV League 2025/26",| /10/2025  (GMT+07)//
 //#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Polish PlusLiga 2025/26",| /10/2025  (GMT+07)//
