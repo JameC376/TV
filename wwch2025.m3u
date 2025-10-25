@@ -1,9 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.jwplayer.com/v2/media/KSw16mkj/poster.jpg?width=320" group-title="Superlega 2025/26",Saneago Goias Volei - Praia Clube Uberlandia Volei | Round 1 | 25/10/2025 04:30 (GMT+07)
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/KSw16mkj/live.isml/.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/TCr3fGUR-320.jpg" group-title="Superlega 2025/26",25/10/2025 07:00 Dentil Praia Clube - Sancor Maringa Volei | Round 2
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/z5cUosJK/live.isml/.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.jwplayer.com/v2/media/xg3rXGx2/poster.jpg?width=320" group-title="Women's Japan SV League 2025/26",Denso Airybees - Saga Hisamitsu Springs | Round 3-A | 25/10/2025 11:05 (GMT+07)
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/xg3rXGx2/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.jwplayer.com/v2/media/4SrN2yIO/poster.jpg?width=320" group-title="Men's Japan SV League 2025/26",Voreas Hokkaido - Jtekt Stings Aichi | Round 1-A | 25/10/2025 11:05 (GMT+07)
@@ -37,6 +32,8 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/IXtoHYYZ/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/nm14ACJF/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/uPGHinla-320.jpg" group-title="Polish PlusLiga 2025/26",25/10/2025 19:45 Aluron CMC Warta Zawiercie - PGE Projekt Warszawa | Round 2
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/FTn66R7A/live.isml/.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.jwplayer.com/v2/media/KbZM7kq7/poster.jpg?width=320" group-title="Polish PlusLiga 2025/26",25/10/2025 22:30 BOGDANKA LUK Lublin - ZAKSA Kedzierzyn Kozle | Round 2
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/KbZM7kq7/live.isml/.m3u8
 
 //#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Lega Volley Femminile A1 2025/26",| /10/2025  (GMT+07)//
 //#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Polish TauronLiga 2025/26",| /10/2025  (GMT+07)//
