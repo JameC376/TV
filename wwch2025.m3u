@@ -1,22 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/k88ZTfbR-320.jpg" group-title="Elite 16 Cape Town 2025",25/10/2025 14:00 Main Draw & Quarter Finals | Day 4 | Central Court
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/z81pncu5/live.isml/.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/k88ZTfbR-320.jpg" group-title="Elite 16 Cape Town 2025",25/10/2025 14:00 Main Draw & Quarter Finals | Day 4 | Court 2
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/AsTbGb7L/live.isml/.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.jwplayer.com/v2/media/KbZM7kq7/poster.jpg?width=320" group-title="Polish PlusLiga 2025/26",25/10/2025 22:30 BOGDANKA LUK Lublin - ZAKSA Kedzierzyn Kozle | Round 2
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/KbZM7kq7/live.isml/.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.jwplayer.com/v2/media/deIuVkLm/poster.jpg?width=320" group-title="",25/10/2025 23:00 Yuasa Battery Grottazzolina - Rana Verona | Round 2
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/deIuVkLm/live.isml/.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.jwplayer.com/v2/media/bnBGg4hM/poster.jpg?width=320" group-title="",26/10/2025 00:30 Honda Cuneo Granda Volley - Bartoccini-Mc Restauri Perugia | Round 5
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/bnBGg4hM/live.isml/.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.jwplayer.com/v2/media/fnEOTPnz/poster.jpg?width=320" group-title="",26/10/2025 01:30 Igor Gorgonzola Novara - Prosecco Doc A.Carraro Imoco Conegliano | Round 5
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/fnEOTPnz/live.isml/.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.jwplayer.com/v2/media/hdKei7E4/poster.jpg?width=320" group-title="",26/10/2025 01:30 Reale Mutua Fenera Chieri 76 - Bergamo | Round 5
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/hdKei7E4/live.isml/.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.jwplayer.com/v2/media/9PNYuXSP/poster.jpg?width=320" group-title="",26/10/2025 01:30 PGE GiEK SKRA Belchatow - Indykpol AZS Olsztyn | Round 2
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/9PNYuXSP/live.isml/.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.jwplayer.com/v2/media/AtuXukeh/poster.jpg?width=320" group-title="",26/10/2025 02:00 Tijuca Tenis Clube - Brasilia Volei | Round 2
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/AtuXukeh/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.jwplayer.com/v2/media/N5VqvAUt/poster.jpg?width=320" group-title="",26/10/2025 04:30 Osasco Sao Cristovao Saude - Renasce Sorocaba | Round 2
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/N5VqvAUt/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",26/10/2025 04:30 Flor DE Ype Paulistano Barueri - Gerdau Minas | Round 2
@@ -35,7 +17,16 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/nK66L7wt/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/J1KrSI1f/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/RdCHsXyl-320.jpg" group-title="",26/10/2025 11:05 Toray Arrows Shizuoka - Tokyo Great Bears | Round 1-B
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/pgj6Kmsd/live.isml/.m3u8
-
+#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/DULe8dci-320.jpg" group-title="",26/10/2025 11:05 Victorina Himeji - Aranmare Yamagata | Round 3-B
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/UdLPY54o/live.isml/.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/gKSGj0VP-320.jpg" group-title="",26/10/2025 11;05 Kurobe Aqua Fairies - Queenseis Kariya | Round 3-B
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/Tmp5uCIz/live.isml/.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/FL5tqGcf-320.jpg" group-title="",26/10/2025 11:05 Okayama Seagulls - Toray Arrows Shiga | Round 3-B
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/FmcjbNQc/live.isml/.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/mMiAvy5P-320.jpg" group-title="",26/10/2025 19:45 JSW Jastrzebski Wegie - Slepsk Malow Suwalki | Round 2
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/XvUF79zS/live.isml/.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/7kcfnB8S-320.jpg" group-title="",26/10/2025 20:00 Omag-Mt San Giovanni In Marignano - Savino Del Bene Scandicci | Round 5
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/jOffQ00Z/live.isml/.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",/10/2025
