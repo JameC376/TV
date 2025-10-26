@@ -1,14 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-logo="https://livecloud-thumb.akamaized.net/sports/livecloud/KR/stream/9159983/live/15097667/record/46318142/thumbnail/image_480.jpg" group-title="",14:00 현대건설 VS 정관장
-https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0004/fulsucyzxvdaooe25rv0qle3lgiz5llgb9/1080.stream/hdntl=exp=1761493532~acl=*%2ffulsucyzxvdaooe25rv0qle3lgiz5llgb9%2f*~data=hdntl~hmac=a8c9f85c05b93f1f91d4c07e4d12a1e589ab4dd47a981d1d127c09afd319b079/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/pi7OTB4j-320.jpg" group-title="",15:00 Semi-Finals, Bronze & Gold | Day 5 | Central Court | Elite 16 Cape Town 2025
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/ktGUjjpC/live.isml/.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/RbJJvvgX-320.jpg" group-title="",16:00 Semi-Final (M) | Cape Town 2025
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/Sy8sxVHK/live.isml/.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/QOOp983U-320.jpg" group-title="",17:00 Semi-Final (W) | Cape Town 2025
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/3tuakp2U/live.isml/.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/KCY65Zvn-320.jpg" group-title="",18:00 Semi-Final (W) | Cape Town 2025
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/HWl3pF1h/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/mMiAvy5P-320.jpg" group-title="",20:45 JSW Jastrzebski Wegie - Slepsk Malow Suwalki | Round 2
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/XvUF79zS/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/7kcfnB8S-320.jpg" group-title="",21:00 Omag-Mt San Giovanni In Marignano - Savino Del Bene Scandicci | Round 5
