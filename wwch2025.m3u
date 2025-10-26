@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.jwplayer.com/v2/media/N5VqvAUt/poster.jpg?width=320" group-title="",26/10/2025 04:30 Osasco Sao Cristovao Saude - Renasce Sorocaba | Round 2
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/N5VqvAUt/live.isml/.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",26/10/2025 04:30 Flor DE Ype Paulistano Barueri - Gerdau Minas | Round 2
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/B0xh4k9H/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.jwplayer.com/v2/media/bPHMtCIX/poster.jpg?width=320" group-title="",26/10/2025 07:00 Sesi Volei Bauru - Batavo Mackenzie | Round 2
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/bPHMtCIX/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/9dnCJWN6-320.jpg" group-title="",26/10/2025 10:05 Vc Nagano Tridents - Nippon Steel Sakai Blazers | Round 1-B
@@ -23,14 +19,13 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/UdLPY54o/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/Tmp5uCIz/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/FL5tqGcf-320.jpg" group-title="",26/10/2025 11:05 Okayama Seagulls - Toray Arrows Shiga | Round 3-B
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/FmcjbNQc/live.isml/.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/pi7OTB4j-320.jpg" group-title="",26/10/2025 14:00 Semi-Finals, Bronze & Gold | Day 5 | Central Court | Elite 16 Cape Town 2025
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/ktGUjjpC/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/mMiAvy5P-320.jpg" group-title="",26/10/2025 19:45 JSW Jastrzebski Wegie - Slepsk Malow Suwalki | Round 2
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/XvUF79zS/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/7kcfnB8S-320.jpg" group-title="",26/10/2025 20:00 Omag-Mt San Giovanni In Marignano - Savino Del Bene Scandicci | Round 5
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/jOffQ00Z/live.isml/.m3u8
-
+#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/PV2i6s3p-320.jpg" group-title="",26/10/2025 21:00 Itas Trentino - Sonepar Padova | Round 2
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/ug6WLGCJ/live.isml/.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",/10/2025
-//#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Polish TauronLiga 2025/26",| /10/2025  (GMT+07)//
-//#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Women's Japan SV League 2025/26",| /10/2025  (GMT+07)//
-//#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Polish PlusLiga 2025/26",| /10/2025  (GMT+07)//
-//#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Superlega 2025/26",| /10/2025  (GMT+07)//
