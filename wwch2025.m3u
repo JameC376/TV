@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/HUBrT4IH-320.jpg" group-title="",07:00 Sada Cruzeiro Volei - Sesi Bauru | Round 2
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/MRdIqX4W/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/Asb3Ce4y-320.jpg" group-title="",23:30 Barkom Kazany Lwow - Steam Hemarpol Politechnika Częstochowa | Round 2
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/h01ojBfY/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/Fm0ZW7Tj-320.jpg" group-title="",04:30 Volei Renata - Saneago Goias Volei | Round 2
@@ -39,8 +37,8 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/0jjcZzz6/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/PPyAwUGV/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/srRYAgSU-320.jpg" group-title="",04:30 Sancor Maringa Volei - Tijuca Tenis Clube | Round 3
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/GIRp2TZY/live.isml/.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",
-
+#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/pB0TqSPN-320.jpg" group-title="",04:30 Batavo Mackenzie - Renasce Sorocaba | Round 3
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/JHSArDWn/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",
 
 
