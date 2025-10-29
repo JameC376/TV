@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/Asb3Ce4y-320.jpg" group-title="",23:30 Barkom Kazany Lwow - Steam Hemarpol Politechnika Częstochowa | Round 2
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/h01ojBfY/live.isml/.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/Fm0ZW7Tj-320.jpg" group-title="",04:30 Volei Renata - Saneago Goias Volei | Round 2
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/lsvgxlNF/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/4m5Ncecc-320.jpg" group-title="",23:30 ZAKSA Kedzierzyn Kozle - Aluron CMC Warta Zawiercie | Round 1
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/X1JI8HcM/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/A4DZX1eT-320.jpg" group-title="",02:00 Savino Del Bene Scandicci - Eurotek Laica Uyba | Round 6
@@ -39,8 +35,10 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/PPyAwUGV/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/GIRp2TZY/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/pB0TqSPN-320.jpg" group-title="",04:30 Batavo Mackenzie - Renasce Sorocaba | Round 3
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/JHSArDWn/live.isml/.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",
+#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/glJUXVjo-320.jpg" group-title="",07:00 Brasilia Volei - Osasco Sao Cristovao Saude | Round 3
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/nUMjDRkn/live.isml/.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/bHmnljNO-320.jpg" group-title="",23:30 PGE Budowlani Lodz - LOTTO Chemik Police | Round 4
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/L1ZgHORE/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",
