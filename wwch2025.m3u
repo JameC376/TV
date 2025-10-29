@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-logo="https://livecloud-thumb.akamaized.net/sports/livecloud/KR/stream/9159983/live/15223524/record/46400983/thumbnail/image_480.jpg" group-title="",GS칼텍스 VS 흥국생명
+https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0004/fmiiyfdbudiwwzzhwscbdxqq7wrxnay9jf/1080.stream/hdntl=exp=1761763118~acl=*%2ffmiiyfdbudiwwzzhwscbdxqq7wrxnay9jf%2f*~data=hdntl~hmac=b93d4ce6c7270329cd5a4414fff7908a7c100b2eeede72fc19d06c5420d85602/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/4m5Ncecc-320.jpg" group-title="",23:30 ZAKSA Kedzierzyn Kozle - Aluron CMC Warta Zawiercie | Round 1
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/X1JI8HcM/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/A4DZX1eT-320.jpg" group-title="",02:00 Savino Del Bene Scandicci - Eurotek Laica Uyba | Round 6
