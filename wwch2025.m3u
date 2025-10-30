@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-logo="https://livecloud-thumb.akamaized.net/sports/livecloud/KR/stream/9159983/live/15223529/record/46429254/thumbnail/image_480.jpg" group-title="",페퍼저축은행 VS 현대건설
-https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0003/xmzczrnaroz43kxik7rquky4162kj75ms2/1080.stream/hdntl=exp=1761850652~acl=*%2fxmzczrnaroz43kxik7rquky4162kj75ms2%2f*~data=hdntl~hmac=b8b2a96e21fa734ca3793bc0db57c11348252052cbe0c73f644fe517835907c0/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://livecloud-thumb.akamaized.net/sports/livecloud/KR/stream/9678613/live/15221886/record/46429696/thumbnail/image_480.jpg" group-title="",KB손해보험 VS OK저축은행
-https://livecloud.akamaized.net/sports/lip2_kr/cnmssgpu0001/pxl9izwhh9n7a93uapxbbzcb39x35veeym/1080.stream/hdntl=exp=1761850664~acl=*%2fpxl9izwhh9n7a93uapxbbzcb39x35veeym%2f*~data=hdntl~hmac=3d8e5eb5f6ca43a8d8c7e4ac683f13b6e28c56ec21bd2868f7856c55e6537ba9/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/7N8jd6rj-320.jpg" group-title="",23:30 Sokol & Hagric Mogilno - UNI Opole | Round 4
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/HQ1yc38Q/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/U2hUZske-320.jpg" group-title="",02:00 Bartoccini-Mc Restauri Perugia - Numia Vero Volley Milano | Round 6
