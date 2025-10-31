@@ -1,16 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/7N8jd6rj-320.jpg" group-title="",23:30 Sokol & Hagric Mogilno - UNI Opole | Round 4
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/HQ1yc38Q/live.isml/.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/U2hUZske-320.jpg" group-title="",02:00 Bartoccini-Mc Restauri Perugia - Numia Vero Volley Milano | Round 6
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/Wr0Rt25C/live.isml/.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/ylPSo4I2-320.jpg" group-title="",02:30 Cbf Balducci Hr Macerata - Omag-Mt San Giovanni In Marignano | Round 6
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/0jjcZzz6/live.isml/.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/awULqaeI-320.jpg" group-title="",02:30 Rana Verona - Allianz Milano | Round 3
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/PPyAwUGV/live.isml/.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/srRYAgSU-320.jpg" group-title="",04:30 Sancor Maringa Volei - Tijuca Tenis Clube | Round 3
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/GIRp2TZY/live.isml/.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/pB0TqSPN-320.jpg" group-title="",04:30 Batavo Mackenzie - Renasce Sorocaba | Round 3
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/JHSArDWn/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/glJUXVjo-320.jpg" group-title="",07:00 Brasilia Volei - Osasco Sao Cristovao Saude | Round 3
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/nUMjDRkn/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/bHmnljNO-320.jpg" group-title="",23:30 PGE Budowlani Lodz - LOTTO Chemik Police | Round 4
@@ -39,12 +27,18 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/AF9hjFkI/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/IFvCTu74/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/qm8WOSlG-320.jpg" group-title="",12:05 Victorina Himeji - Saga Hisamitsu Springs | Round 4-A
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/qdSpMy9q/live.isml/.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",
+#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/yPc29XVz-320.jpg" group-title="",12:05  Vc Nagano Tridents - Wolfdogs Nagoya | Round 2-A
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/9IGanH4d/live.isml/.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/H8NNbVY2-320.jpg" group-title="",12:05 Kurobe Aqua Fairies - Gunma Greenwings | Round 4-A
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/Qxx6Dn6Y/live.isml/.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/vyLwQ5et-320.jpg" group-title="",13:05 Toray Arrows Shiga - Saitama Ageo Medics | Round 4-A
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/eU9m310n/live.isml/.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/s2njQMxS-320.jpg" group-title="",14:05 Nippon Steel Sakai Blazers - Hiroshima Thunders | Round 2-A
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/dgc6PFv9/live.isml/.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/0hJycWYW-320.jpg" group-title="",18:30 ITA TOOLS Stal Mielec - Metalkas Palac Bydgoszcz | Round 4
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/6Mqq9kel/live.isml/.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/adck4tbx-320.jpg" group-title="",20:45 JSW Jastrzebski Wegie - PGE Projekt Warszawa | Round 3
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/BnbgET8g/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",
