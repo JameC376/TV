@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-logo="https://livecloud-thumb.akamaized.net/sports/livecloud/KR/stream/9159983/live/15223534/record/46456817/thumbnail/image_480.jpg" group-title="",정관장 VS IBK기업은행
-https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0001/uczyfsgznjmjuurooajk0ncq9m2xbhiajw/1080.stream/hdntl=exp=1761936110~acl=*%2fuczyfsgznjmjuurooajk0ncq9m2xbhiajw%2f*~data=hdntl~hmac=423733f72d4220c4808b0ae653823eeee78c67a5fa4ed654daaf9352f3501e14/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://livecloud-thumb.akamaized.net/sports/livecloud/KR/stream/9678613/live/15221890/record/46457285/thumbnail/image_480.jpg" group-title="",대한항공 VS 우리카드
-https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0002/9fcfqgybyslfv5vlryxvzkaa9gl6tmdwdr/1080.stream/hdntl=exp=1761936786~acl=*%2f9fcfqgybyslfv5vlryxvzkaa9gl6tmdwdr%2f*~data=hdntl~hmac=6dfcf49ed57425e65e2de7f40a86a43117ac168189e685f99d679691a71e1965/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/bHmnljNO-320.jpg" group-title="",23:30 PGE Budowlani Lodz - LOTTO Chemik Police | Round 4
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/L1ZgHORE/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/nYfdEwJo-320.jpg" group-title="",01:00  KS DevelopRes Rzeszow - MOYA Radomka Radom | Round 4
