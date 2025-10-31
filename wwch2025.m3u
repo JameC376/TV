@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/glJUXVjo-320.jpg" group-title="",07:00 Brasilia Volei - Osasco Sao Cristovao Saude | Round 3
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/nUMjDRkn/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/bHmnljNO-320.jpg" group-title="",23:30 PGE Budowlani Lodz - LOTTO Chemik Police | Round 4
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/L1ZgHORE/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/nYfdEwJo-320.jpg" group-title="",01:00  KS DevelopRes Rzeszow - MOYA Radomka Radom | Round 4
@@ -39,7 +37,8 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/dgc6PFv9/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/6Mqq9kel/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/adck4tbx-320.jpg" group-title="",20:45 JSW Jastrzebski Wegie - PGE Projekt Warszawa | Round 3
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/BnbgET8g/live.isml/.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",
+#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/86uF95Tu-320.jpg" group-title="",23:30 Asseco Resovia Rzeszow - Cuprum Stilon Gorzow | Round 3
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/DgX1xCDa/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",
 
