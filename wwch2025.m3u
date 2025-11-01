@@ -1,14 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/adck4tbx-320.jpg" group-title="",20:45 JSW Jastrzebski Wegie - PGE Projekt Warszawa | Round 3
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/BnbgET8g/live.isml/.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/86uF95Tu-320.jpg" group-title="",23:30 Asseco Resovia Rzeszow - Cuprum Stilon Gorzow | Round 3
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/DgX1xCDa/live.isml/.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/mVKFipGo-320.jpg" group-title="",00:00 MA Acqua S.Bernardo Cuneo - Gas Sales Bluenergy Piacenza | Round 4
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/YnX7kBeP/live.isml/.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/GgpjKvVj-320.jpg" group-title="",02:30 Aluron CMC Warta Zawiercie - Steam Hemarpol Politechnika Częstochowa | Round 3
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/92IpZ9b4/live.isml/.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/2CWUy5Bp-320.jpg" group-title="",02:30 Bergamo - Prosecco Doc A.Carraro Imoco Conegliano | Round 7
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/BTbDou1f/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/QgWMlfC2-320.jpg" group-title="",04:30 Joinville Volei - Suzano Volei | Round 3
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/c1PY6ISc/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/PVaXmWId-320.jpg" group-title="",04:30 Viapol Volei Sao Jose - Volei Renata | Round 3
@@ -39,15 +29,20 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/j3hTwJD0/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/IVLWhRFJ/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/7wVFWK7b-320.jpg" group-title="",12:05 Victorina Himeji - Saga Hisamitsu Springs | Round 4-B
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/2IuaSvKn/live.isml/.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/NEDpHJLd-320.jpg" group-title="",12:05 Osaka Bluteon - Voreas Hokkaido | Round 2-B
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/IVLWhRFJ/live.isml/.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/rtONuwx1-320.jpghttps://assets-jpcust.jwpsrv.com/thumbnails/rtONuwx1-320.jpg" group-title="",13:05 Toray Arrows Shiga - Saitama Ageo Medics | Round 4-B
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/LPqzUdJg/live.isml/.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/tUyMJ2Rk-320.jpg" group-title="",20:45 BKS BOSTIK ZGO Bielsko-Biala - VolleyWroclaw | Round 4
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/z66kyiy3/live.isml/.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/1YgT43nB-320.jpg" group-title="",21:00 Numia Vero Volley Milano - Wash4green Monviso Volley | Round 7
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/MX0hPOJO/live.isml/.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/1Da15euO-320.jpg" group-title="",22:00 Igor Gorgonzola Novara - Savino Del Bene Scandicci | Round 7
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/OwMffE9d/live.isml/.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/RRhF2gZH-320.jpg" group-title="",23:00 Sonepar Padova - Yuasa Battery Grottazzolina | Round 4
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/P4TqioDB/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",
