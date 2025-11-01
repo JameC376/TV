@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/s2njQMxS-320.jpg" group-title="",14:05 Nippon Steel Sakai Blazers - Hiroshima Thunders | Round 2-A
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/dgc6PFv9/live.isml/.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/0hJycWYW-320.jpg" group-title="",18:30 ITA TOOLS Stal Mielec - Metalkas Palac Bydgoszcz | Round 4
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/6Mqq9kel/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/adck4tbx-320.jpg" group-title="",20:45 JSW Jastrzebski Wegie - PGE Projekt Warszawa | Round 3
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/BnbgET8g/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/86uF95Tu-320.jpg" group-title="",23:30 Asseco Resovia Rzeszow - Cuprum Stilon Gorzow | Round 3
@@ -39,10 +35,14 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/79VgeOtT/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/jw4Nhqa9/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/nxFCY0uW-320.jpg" group-title="",12:05 Jtekt Stings Aichi - Toray Arrows Shizuoka | Round 2-A
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/j3hTwJD0/live.isml/.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/NEDpHJLd-320.jpg" group-title="",12:05 Osaka Bluteon - Voreas Hokkaido | Round 2-B
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/IVLWhRFJ/live.isml/.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/7wVFWK7b-320.jpg" group-title="",12:05 Victorina Himeji - Saga Hisamitsu Springs | Round 4-B
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/2IuaSvKn/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",
+
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",
+
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",
