@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-logo="https://livecloud-thumb.akamaized.net/sports/livecloud/KR/stream/9159983/live/15223545/record/46571620/thumbnail/image_480.jpg" group-title="",14:00 흥국생명 VS 페퍼저축은행
-https://livecloud.akamaized.net/sports/lip2_kr/cnmssgpu0001/ibgkrgmzkm94uakf8e8dfvsqk4hy5cqi3z/1080.stream/hdntl=exp=1762098852~acl=*%2fibgkrgmzkm94uakf8e8dfvsqk4hy5cqi3z%2f*~data=hdntl~hmac=0ca0fd2620336b28d39b0575276c92873a2b0a776f1dcf65a489665b6699b130/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/tUyMJ2Rk-320.jpg" group-title="",20:45 BKS BOSTIK ZGO Bielsko-Biala - VolleyWroclaw | Round 4
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/z66kyiy3/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/1YgT43nB-320.jpg" group-title="",21:00 Numia Vero Volley Milano - Wash4green Monviso Volley | Round 7
