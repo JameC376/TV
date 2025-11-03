@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.jwplayer.com/v2/media/BmfMZkab/poster.jpg?width=320" group-title="",12:05 Jtekt Stings Aichi - Toray Arrows Shizuoka | Round 2-B
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/BmfMZkab/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.jwplayer.com/v2/media/j6f880ZQ/poster.jpg?width=320" group-title="",23:30 PGE GiEK SKRA Belchatow - ZAKSA Kedzierzyn Kozle | Round 3
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/j6f880ZQ/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.jwplayer.com/v2/media/eikdzm1c/poster.jpg?width=320" group-title="",02:30 Barkom Kazany Lwow - Indykpol AZS Olsztyn | Round 3
@@ -37,8 +35,8 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/j9lJlFge/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/19RQkIc5/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/gX1KkI40-320.jpg" group-title="",07:00 Dentil Praia Clube - Gerdau Minas | Round 4
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/wVYeoChB/live.isml/.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",
-
+#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/PkuDatYT-320.jpg" group-title="",11:05 Voreas Hokkaido - Nippon Steel Sakai Blazers | Round 3-A
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/t0w6mqbB/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",
