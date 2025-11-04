@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.jwplayer.com/v2/media/j6f880ZQ/poster.jpg?width=320" group-title="",23:30 PGE GiEK SKRA Belchatow - ZAKSA Kedzierzyn Kozle | Round 3
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/j6f880ZQ/live.isml/.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.jwplayer.com/v2/media/eikdzm1c/poster.jpg?width=320" group-title="",02:30 Barkom Kazany Lwow - Indykpol AZS Olsztyn | Round 3
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/eikdzm1c/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.jwplayer.com/v2/media/7IsRsjq0/poster.jpg?width=320" group-title="",23:30 Cuprum Stilon Gorzow - Aluron CMC Warta Zawiercie | Round 12
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/7IsRsjq0/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/FHWdBMLQ-320.jpg" group-title="",06:00 Fluminense - Dentil Praia Clube | Round 9
@@ -37,10 +33,10 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/19RQkIc5/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/wVYeoChB/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/PkuDatYT-320.jpg" group-title="",11:05 Voreas Hokkaido - Nippon Steel Sakai Blazers | Round 3-A
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/t0w6mqbB/live.isml/.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",
-
+#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/QAbdTyYa-320.jpg" group-title="",11:05 Denso Airybees - Nec Red Rockets Kawasaki | Round 5-A
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/pAvfBESc/live.isml/.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/O1WrJmqc-320.jpg" group-title="",11:05 Gunma Greenwings - Saga Hisamitsu Springs | Round 5-A
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/W96hsgQy/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",
