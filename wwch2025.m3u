@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-logo="https://livecloud-thumb.akamaized.net/sports/livecloud/KR/stream/9159983/live/15350348/record/46651015/thumbnail/image_480.jpg" group-title="",현대건설 VS IBK기업은행
-https://livecloud.akamaized.net/sports/lip2_kr/cnmssgpu0001/xwneocekc08dphrzndh0bjhuga0ktec5bw/1080.stream/hdntl=exp=1762281775~acl=*%2fxwneocekc08dphrzndh0bjhuga0ktec5bw%2f*~data=hdntl~hmac=0e837bd6950974a6326c143b9ba41432fb207cab6e2c19699570152f0f2458eb/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://livecloud-thumb.akamaized.net/sports/livecloud/KR/stream/9678613/live/15348995/record/46651002/thumbnail/image_480.jpg" group-title="",KB손해보험 VS 우리카드
-https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0002/2qk6ughpeal89pl2c2obzxd3fl368wku84/1080.stream/hdntl=exp=1762281787~acl=*%2f2qk6ughpeal89pl2c2obzxd3fl368wku84%2f*~data=hdntl~hmac=586cb8d5e6b5a6cf628eb5dc0fe43538a24b4b94e2bd7824898bd98572261a05/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.jwplayer.com/v2/media/7IsRsjq0/poster.jpg?width=320" group-title="",23:30 Cuprum Stilon Gorzow - Aluron CMC Warta Zawiercie | Round 12
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/7IsRsjq0/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/FHWdBMLQ-320.jpg" group-title="",06:00 Fluminense - Dentil Praia Clube | Round 9
