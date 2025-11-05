@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.jwplayer.com/v2/media/7IsRsjq0/poster.jpg?width=320" group-title="",23:30 Cuprum Stilon Gorzow - Aluron CMC Warta Zawiercie | Round 12
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/7IsRsjq0/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/FHWdBMLQ-320.jpg" group-title="",06:00 Fluminense - Dentil Praia Clube | Round 9
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/EGsGEZVw/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/8SfkPcq6-320.jpg" group-title="",02:30 Prosecco Doc A.Carraro Imoco Conegliano - Numia Vero Volley Milano | Round 4
@@ -37,8 +35,8 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/t0w6mqbB/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/pAvfBESc/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/O1WrJmqc-320.jpg" group-title="",11:05 Gunma Greenwings - Saga Hisamitsu Springs | Round 5-A
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/W96hsgQy/live.isml/.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",
-
+#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/O1WrJmqc-320.jpg" group-title="",11:05 Gunma Greenwings - Saga Hisamitsu Springs | Round 5-A
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/W96hsgQy/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",
