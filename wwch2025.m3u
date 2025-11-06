@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-logo="https://livecloud-thumb.akamaized.net/sports/livecloud/KR/stream/9159983/live/15350505/record/46706911/thumbnail/image_480.jpg" group-title="",페퍼저축은행 VS GS칼텍스
+https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0002/k45moonu9yvfj9odbrfaemg62i3px1be6w/1080.stream/hdntl=exp=1762454963~acl=*%2fk45moonu9yvfj9odbrfaemg62i3px1be6w%2f*~data=hdntl~hmac=82b327246a9af86af8b846e398c6328ff743522f587deedb2eb6604eee63cfc9/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://livecloud-thumb.akamaized.net/sports/livecloud/KR/stream/9678613/live/15349008/record/46706924/thumbnail/image_480.jpg" group-title="",한국전력 VS OK저축은행
+https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0003/ymacisyhqargjjcjvromwimnhnp51aqo0t/1080.stream/hdntl=exp=1762455008~acl=*%2fymacisyhqargjjcjvromwimnhnp51aqo0t%2f*~data=hdntl~hmac=f7d2a4488629ea764cf90cbeb8ee11692a0ab4b834847888af2eba4fc0c7d78f/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/7PeZJ1dH-320.jpg" group-title="",23:30 Indykpol AZS Olsztyn - Energa Trefl Gdansk | Round 4
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/G8AUnlGB/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/89VZkghC-320.jpg" group-title="",01:00 MOYA Radomka Radom - ECO HARPOON LOS Nowy Dwor Mazowiecki | Round 5
