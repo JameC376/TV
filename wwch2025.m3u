@@ -1,8 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/9pYTtUU1-1920.jpg" group-title="",18:30 Metalkas Palac Bydgoszcz - BKS BOSTIK ZGO Bielsko-Biala | Round 5
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/4PRf3H44/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/zyLXsFEh-1920.jpg" group-title="",21:00 Sicoob Monte Carmelo - Saneago Goias | Round 4
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/rWfebdAT/live.isml/.m3u8
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/KhOGhKyv/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/D86ZU0Lk-1920.jpg" group-title="",21:45 ZAKSA Kedzierzyn Kozle - JSW Jastrzebski Wegiel | Round 4
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/BiltEu5R/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/tpHkN1vb-1920.jpg" group-title="",23:30 Aluron CMC Warta Zawiercie - InPost ChKS Chelm | Round 4
@@ -39,8 +37,8 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/H5tKXFju/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/dsdUEdWJ/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/wNcMBIww-1920.jpg" group-title="",12:05 Osaka Marvelous - Kurobe Aqua Fairies | Round 5-B
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/r8IcNUTv/live.isml/.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",
-
+#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/AYYhi3wg-1920.jpg" group-title="",13:05 Saitama Ageo Medics - Victorina Himeji | Round 5-B
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/oMDZkHjO/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",
