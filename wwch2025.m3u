@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/QcUlYBQH-1920.jpg" group-title="",03:00 Praia Clube Uberlandia Volei - Joinville Volei | Round 4
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/QmvM9DHb/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/vbvudD2J-1920.jpg" group-title="",04:30  JF Volei - Viapol Sao Jose | Round 4
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/LQ2sEKrX/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/qRKAu3w9-1920.jpg" group-title="",05:30 Sesi Volei Bauru - Fluminense | Round 4
@@ -39,8 +37,8 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/IhM4jekz/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/yQQxhAeV/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/1WxdDzsn-1920.jpg" group-title="",17:05 Tokyo Great Bears - Wolfdogs Nagoya | Round 4-A
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/AjfyyDHj/live.isml/.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",
-
+#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/85x9B0Bq-1920.jpg" group-title="",23:30 Sokol & Hagric Mogilno - MOYA Radomka Radom | Round 6
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/oDZFdd09/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",
