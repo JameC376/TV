@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/iDZqQ55X-1920.jpg" group-title="",07:00 Sada Cruzeiro - Itambe Minas | Round 4
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/BeswLN0z/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/u9y0LnzC-1920.jpg" group-title="",10:05 Aranmare Yamagata - Okayama Seagulls | Round 5-B
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/ZHhEy8yu/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/6j2wIE3F-1920.jpg" group-title="",11:05 Pfu Bluecats Ishikawa Kahoku - Toray Arrows Shiga | Round 5-B
@@ -39,8 +37,8 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/CVhax7Yq/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/bwOGtUqQ/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/go7HLeXn-1920.jpg" group-title="",00:00 Cucine Lube Civitanova - Rana Verona | Round 6
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/26d9RUS7/live.isml/.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",
-
+#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/AYEyVfGx-1920.jpg" group-title="",00:00 Valsa Group Modena - Sonepar Padova | Round 6
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/w3QGet3J/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",
