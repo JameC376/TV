@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-logo="https://livecloud-thumb.akamaized.net/sports/livecloud/KR/stream/9159983/live/15510113/record/46832015/thumbnail/image_1920.jpg" group-title="",OK저축은행 vs 대한항공
+https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0002/pjonbscnphi5mm6x2riohud1r200oj8jso/1080.stream/hdntl=exp=1762697003~acl=*%2fpjonbscnphi5mm6x2riohud1r200oj8jso%2f*~data=hdntl~hmac=93482ce0e12ca0023004be2c0826361a81b8552ccbf810200b1b12bcee4c8325/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/u9y0LnzC-1920.jpg" group-title="",10:05 Aranmare Yamagata - Okayama Seagulls | Round 5-B
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/ZHhEy8yu/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/6j2wIE3F-1920.jpg" group-title="",11:05 Pfu Bluecats Ishikawa Kahoku - Toray Arrows Shiga | Round 5-B
