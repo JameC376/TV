@@ -1,28 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-logo="https://livecloud-thumb.akamaized.net/sports/livecloud/KR/stream/9159983/live/15510113/record/46832015/thumbnail/image_1920.jpg" group-title="",OK저축은행 vs 대한항공
-https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0002/pjonbscnphi5mm6x2riohud1r200oj8jso/1080.stream/hdntl=exp=1762697003~acl=*%2fpjonbscnphi5mm6x2riohud1r200oj8jso%2f*~data=hdntl~hmac=93482ce0e12ca0023004be2c0826361a81b8552ccbf810200b1b12bcee4c8325/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/u9y0LnzC-1920.jpg" group-title="",10:05 Aranmare Yamagata - Okayama Seagulls | Round 5-B
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/ZHhEy8yu/live.isml/.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/6j2wIE3F-1920.jpg" group-title="",11:05 Pfu Bluecats Ishikawa Kahoku - Toray Arrows Shiga | Round 5-B
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/hBmEoPQA/live.isml/.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/3B90sSro-1920.jpg" group-title="",11:05 Hiroshima Thunders - Jtekt Stings Aichi | Round 3-B
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/9XGWP9jG/live.isml/.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/Ohbpiwiq-1920.jpg" group-title="",11:05 Queenseis Kariya - Astemo Rivale Ibaraki | Round 5-B
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/LiOcjeV6/live.isml/.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/N7BvGmrM-1920.jpg" group-title="",11:05 Voreas Hokkaido - Nippon Steel Sakai Blazers | Round 3-B
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/rPIdcjgu/live.isml/.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/AFpyJ1j6-1920.jpg" group-title="",11:05 Denso Airybees - Nec Red Rockets Kawasaki | Round 5-B
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/W5ySARZN/live.isml/.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/nRDrJYx4-1920.jpg" group-title="",11:05 Gunma Greenwings - Saga Hisamitsu Springs | Round 5-B
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/UTphJrxv/live.isml/.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/jCbyNsct-1920.jpg" group-title="",11:35 Wolfdogs Nagoya - Suntory Sunbirds Osaka | Round 3-B
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/H5tKXFju/live.isml/.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/5ErIjlcc-1920.jpg" group-title="",12:05 Toray Arrows Shizuoka - Osaka Bluteon | Round 3-B
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/dsdUEdWJ/live.isml/.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/wNcMBIww-1920.jpg" group-title="",12:05 Osaka Marvelous - Kurobe Aqua Fairies | Round 5-B
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/r8IcNUTv/live.isml/.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/AYYhi3wg-1920.jpg" group-title="",13:05 Saitama Ageo Medics - Victorina Himeji | Round 5-B
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/oMDZkHjO/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/k44p5oDC-1920.jpg" group-title="",20:45 BOGDANKA LUK Lublin - PGE GiEK SKRA Belchatow | Round 4
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/fotOdNfX/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/uaY65Udm-1920.jpg" group-title="",22:00 Prosecco Doc A.Carraro Imoco Conegliano - Megabox Ondulati Del Savio Vallefoglia | Round 8
@@ -41,6 +17,28 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/bwOGtUqQ/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/26d9RUS7/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/AYEyVfGx-1920.jpg" group-title="",00:00 Valsa Group Modena - Sonepar Padova | Round 6
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/w3QGet3J/live.isml/.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/XsYqSByC-1920.jpg" group-title="",02:30 VolleyWroclaw - PGE Budowlani Lodz | Round 5
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/Bmiw7CUK/live.isml/.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/QLtw01qR-1920.jpg" group-title="",02:30 Gas Sales Bluenergy Piacenza - Sir Susa Scai Perugia | Round 6
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/EgGWAtdu/live.isml/.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/QcUlYBQH-1920.jpg" group-title="",03:00 Praia Clube Uberlandia Volei - Joinville Volei | Round 4
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/QmvM9DHb/live.isml/.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/vbvudD2J-1920.jpg" group-title="",04:30  JF Volei - Viapol Sao Jose | Round 4
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/LQ2sEKrX/live.isml/.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/qRKAu3w9-1920.jpg" group-title="",05:30 Sesi Volei Bauru - Fluminense | Round 4
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/cQVItD68/live.isml/.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/LNjsYZNG-1920.jpg" group-title="",23:30 UNI Opole - ITA TOOLS Stal Mielec | Round 5
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/zbfePJR5/live.isml/.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/qLG9VXar-1920.jpg" group-title="",02:30 LKS Commercecon Lodz - Sokol & Hagric Mogilno | Round 5
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/HiEjPHSf/live.isml/.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/QzaBatYI-1920.jpg" group-title="",04:30 Sesi Bauru - Suzano Volei | Round 4
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/vBcrweFx/live.isml/.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/qTucp0TR-1920.jpg" group-title="",23:30 Barkom Kazany Lwow - PGE Projekt Warszawa | Round 5
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/e6gI1luR/live.isml/.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/YFW68sNF-1920.jpg" group-title="",02:30 Energa Trefl Gdansk - Cuprum Stilon Gorzow | Round 5
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/GSKLs6Oh/live.isml/.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/tgGULTMq-1920.jpg" group-title="",23:30 Slepsk Malow Suwalki - Indykpol AZS Olsztyn | Round 5
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/kJPcbeTN/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",
