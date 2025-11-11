@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-logo="https://livecloud-thumb.akamaized.net/sports/livecloud/KR/stream/9678613/live/15481376/record/46894026/thumbnail/image_480.jpg" group-title="",현대건설 VS GS칼텍스
-https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0003/inma6xsnbp1fwkl4oljbfvzqiz1f3a5bv6/1080.stream/hdntl=exp=1762886682~acl=*%2finma6xsnbp1fwkl4oljbfvzqiz1f3a5bv6%2f*~data=hdntl~hmac=b1cea244add4386dd8ca1da283d3ca2bf33afeeac749bf9fb1ddb238a2f9360b/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://livecloud-thumb.akamaized.net/sports/livecloud/KR/stream/9159983/live/15479433/record/46894055/thumbnail/image_480.jpg" group-title="",KB손해보험 VS 한국전력
-https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0001/8ljtoa6qvbdymtvgzcz5web94hkwoei4ps/1080.stream/hdntl=exp=1762886789~acl=*%2f8ljtoa6qvbdymtvgzcz5web94hkwoei4ps%2f*~data=hdntl~hmac=afc71353a2d11c7f75cd050cf60e1af194c46de128a5948a3259df36aeaa7489/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/qTucp0TR-1920.jpg" group-title="",23:30 Barkom Kazany Lwow - PGE Projekt Warszawa | Round 5
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/e6gI1luR/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/YFW68sNF-1920.jpg" group-title="",02:30 Energa Trefl Gdansk - Cuprum Stilon Gorzow | Round 5
