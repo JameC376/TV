@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-logo="https://livecloud-thumb.akamaized.net/sports/livecloud/KR/stream/9159983/live/15481393/record/46921027/thumbnail/image_480.jpg" group-title="",정관장 VS 한국도로공사
-https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0003/x4gtunr7vdg6nuzyo3sccqva1i1q5drnz6/1080.stream/hdntl=exp=1762973672~acl=*%2fx4gtunr7vdg6nuzyo3sccqva1i1q5drnz6%2f*~data=hdntl~hmac=f0ac469aa82d9c8df4985ff3a035f11d57e68582323c3c220030c680dffc3965/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://livecloud-thumb.akamaized.net/sports/livecloud/KR/stream/9678613/live/15479439/record/46921036/thumbnail/image_480.jpg" group-title="",대한항공 VS 삼성화재
-https://livecloud.akamaized.net/sports/lip2_kr/cnmssgpu0001/0chjsyoeyoq1datdjdhkj1rln33ff77cg9/1080.stream/hdntl=exp=1762973694~acl=*%2f0chjsyoeyoq1datdjdhkj1rln33ff77cg9%2f*~data=hdntl~hmac=98f8b5dd1cf196132e04cae378e72931ca1029f8eb086ad141004c3fce19f185/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/tgGULTMq-1920.jpg" group-title="",23:30 Slepsk Malow Suwalki - Indykpol AZS Olsztyn | Round 5
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/kJPcbeTN/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/JtpCXLvF-1920.jpg" group-title="",02:00 Numia Vero Volley Milano - Il Bisonte Firenze | Round 9
