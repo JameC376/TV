@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/n0qeVqf1-1920.jpg" group-title="",07:25 Sancor Seguros Volei - Osasco Sao Cristovao Saude | Round 5
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/k4Zh7zHC/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/9VBzLaK3-1920.jpg" group-title="",17:00 Tokyo Great Bears - Wolfdogs Nagoya | Round 4-B
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/O21W9wdj/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/M8QcFJGT-1920.jpg" group-title="",23:25 PGE Budowlani Lodz - Metalkas Palac Bydgoszcz | Round 6
@@ -27,12 +25,12 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/d5Ck3PxM/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/QtP7KRAm/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/0s7swdQD-1920.jpg" group-title="",12:00 Aranmare Yamagata - Gunma Greenwings | Round 6-A
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/IUby4nnK/live.isml/.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",
-
+#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/GhUhBVes-1920.jpg" group-title="",12:00 Nec Red Rockets Kawasaki - Pfu Bluecats Ishikawa Kahoku | Round 6-A
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/P1fOTd8v/live.isml/.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/nyf04QlE-1920.jpg" group-title="",12:00 Okayama Seagulls - Victorina Himeji | Round 6-A
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/QtP7KRAm/live.isml/.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/AZKGjx8Z-1920.jpg" group-title="",12:00 Hiroshima Thunders - Voreas Hokkaido | Round 4-A
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/d5Ck3PxM/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",
