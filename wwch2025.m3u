@@ -1,18 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/85x9B0Bq-1920.jpg" group-title="",23:25 Sokol & Hagric Mogilno - MOYA Radomka Radom | Round 6
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/oDZFdd09/live.isml/.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/gaZJ3AOm-1920.jpg" group-title="",02:25  Sir Susa Scai Perugia - MA Acqua S.Bernardo Cuneo | Round 11
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/YrzyjNI0/live.isml/.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/Q3Y2iQ5g-1920.jpg" group-title="",04:25 Fluminense - Renasce Sorocaba | Round 5
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/gDtaHsm2/live.isml/.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/IWM6fiPM-1920.jpg" group-title="",04:55 Viapol Sao Jose - Sicoob Monte Carmelo | Round 5
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/oFZ1WmU4/live.isml/.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/sHqhZdVa-1920.jpg" group-title="",05:25 Pool Phase Day 1 | Center Court | BWCH Adelaide 2025
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/Je3fhCuJ/live.isml/.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/NJ5cC4Y4-1920.jpg" group-title="",05:25 Pool Phase Day 1 | Court 3 | BWCH Adelaide 2025
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/8zLW6muL/live.isml/.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/t3mCrCS0-1920.jpg" group-title="",05:25 Pool Phase Day 1 | Court 2 | BWCH Adelaide 2025
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/3jZfLKfJ/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/n0qeVqf1-1920.jpg" group-title="",07:25 Sancor Seguros Volei - Osasco Sao Cristovao Saude | Round 5
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/k4Zh7zHC/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/9VBzLaK3-1920.jpg" group-title="",17:00 Tokyo Great Bears - Wolfdogs Nagoya | Round 4-B
@@ -25,58 +11,22 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/K4YV2xpu/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/ioHedNXY/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/0KZE1R0I-1920.jpg" group-title="",04:55 Paulistano Barueri - Batavo Mackenzie | Round 5
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/fA3oSL6F/live.isml/.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/o3Dpqzha-1920.jpg" group-title="",05:25 Pool Phase Day 2 | Center Court | BWCH Adelaide 2025
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/Oc5T6OF0/live.isml/.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/I0btpavy-1920.jpg" group-title="",05:25 Pool Phase Day 2 | Court 3 | BWCH Adelaide 2025
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/4MCCengP/live.isml/.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/6rbs2GdF-1920.jpg" group-title="",05:25 Pool Phase Day 2 | Court 2 | BWCH Adelaide 2025
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/4K1FyCoK/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/EeDL4BKC-1920.jpg" group-title="",07:25 Dentil Praia Clube - Sesi Volei Bauru | Round 5
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/7xci0DR0/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/jdaI9Kx1-1920.jpg" group-title="",10:00 Osaka Marvelous - Queenseis Kariya | Round 6-A
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/yaUllfuv/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/DW7p4ViX-1920.jpg" group-title="",10:00 Denso Airybees - Saitama Ageo Medics | Round 6-A
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/FHIa0oCT/live.isml/.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/ldg3x3RJ-1920.jpg" group-title="",12:00  Vc Nagano Tridents - Toray Arrows Shizuoka | Round 4-A
+#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/QBfR0LZP-1920.jpg" group-title="",12:00 Saga Hisamitsu Springs - Astemo Rivale Ibaraki | Round 6-A
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/Pc9z07IB/live.isml/.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/ldg3x3RJ-1920.jpg" group-title="",12:00 Vc Nagano Tridents - Toray Arrows Shizuoka | Round 4-A
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/r8Jro67t/live.isml/.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/rKQPjQ93-1920.jpg" group-title="",05:25 Pool Phase Day 3 | Center Court | BWCH Adelaide 2025
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/B4mOh5j5/live.isml/.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/idl5ZgdP-1920.jpg" group-title="",05:25 Pool Phase Day 3 | Court 2 | BWCH Adelaide 2025
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/4VyvBxDC/live.isml/.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/4b49ITCD-1920.jpg" group-title="",05:25 Pool Phase Day 3 | Court 3 | BWCH Adelaide 2025
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/jxI3XC6b/live.isml/.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/cJd1dyow-1920.jpg" group-title="",05:25 Pool Phase Day 4 | Court 2 | BWCH Adelaide 2025
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/eoD1eR1h/live.isml/.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/ynpDdmpL-1920.jpg" group-title="",05:25 Pool Phase Day 4 | Court 3 | BWCH Adelaide 2025
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/HxhslsaD/live.isml/.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/Vnjlvf1N-1920.jpg" group-title="",05:25 Pool Phase Day 4 | Center Court | BWCH Adelaide 2025
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/n44hdo0J/live.isml/.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/K3qtrQc4-1920.jpg" group-title="",09:55 Lucky Losers Day 5 | Court 3 | BWCH Adelaide 2025
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/dRZCaNxO/live.isml/.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/vxch8USW-1920.jpg" group-title="",09:55 Lucky Losers Day 5 | Center Court | BWCH Adelaide 2025
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/cFMFBTeb/live.isml/.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/J765TjPY-1920.jpg" group-title="",09:55 Lucky Losers Day 5 | Court 2 | BWCH Adelaide 2025
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/OkcIAgsW/live.isml/.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/IzbFpKDE-1920.jpg" group-title="",09:55 Round of 32 Day 6 | Centre Court | BWCH Adelaide 2025
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/e3rJYAUD/live.isml/.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/Ww3NOGTP-1920.jpg" group-title="",09:55 Round of 32 Day 6 | Court 2 | BWCH Adelaide 2025
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/5cTdwLJM/live.isml/.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/HUVVSU4t-1920.jpg" group-title="",09:55 Round of 16 Day 7 | Centre Court | BWCH Adelaide 2025
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/vF2ZdBnn/live.isml/.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/vBznRU5M-1920.jpg" group-title="",09:55 Round of 16 Day 7 | Court 2 | BWCH Adelaide 2025
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/QdlGnrup/live.isml/.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/Hy3YtbuW-1920.jpg" group-title="",09:50 Quarter-Finals Day 8 | Centre Court | BWCH Adelaide 2025
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/JoJXmmuV/live.isml/.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/meEXgpC1-1920.jpg" group-title="",11:20 Semi-Finals Day 9 | Centre Court | BWCH Adelaide 2025
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/Nix1TG2Z/live.isml/.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/3VkkMV9P-1920.jpg" group-title="",11:20 Finals Day 10 | Centre Court | BWCH Adelaide 2025
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/rCAMYnLS/live.isml/.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",
-
+#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/AZKGjx8Z-1920.jpg" group-title="",12:00 Hiroshima Thunders - Voreas Hokkaido | Round 4-A
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/d5Ck3PxM/live.isml/.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/nyf04QlE-1920.jpg" group-title="",12:00 Okayama Seagulls - Victorina Himeji | Round 6-A
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/QtP7KRAm/live.isml/.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/0s7swdQD-1920.jpg" group-title="",12:00 Aranmare Yamagata - Gunma Greenwings | Round 6-A
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/IUby4nnK/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",
