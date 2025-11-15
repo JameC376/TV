@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/kHZCt3Q8-1920.jpg" group-title="",02:25 BKS BOSTIK ZGO Bielsko-Biala - UNI Opole | Round 6
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/K4YV2xpu/live.isml/.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/cCqvOOCq-1920.jpg" group-title="",04:25 SESC RJ Flamengo - Brasilia Volei | Round 5
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/ioHedNXY/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/0KZE1R0I-1920.jpg" group-title="",04:55 Paulistano Barueri - Batavo Mackenzie | Round 5
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/fA3oSL6F/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/EeDL4BKC-1920.jpg" group-title="",07:25 Dentil Praia Clube - Sesi Volei Bauru | Round 5
@@ -33,10 +29,10 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/GFokubDT/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/YLPYgIrC/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/1zTbPAca-1920.jpg" group-title="",20:35 Aluron CMC Warta Zawiercie - JSW Jastrzebski Wegiel | Round 6
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/uymUJCH1/live.isml/.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",
-
+#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/5nQZBkVE-1920.jpg" group-title="",23:30 Steam Hemarpol Politechnika Częstochowa - Indykpol AZS Olsztyn | Round 6
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/wfwLToqk/live.isml/.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/LogtAMmJ-1920.jpg" group-title="",23:50 Sonepar Padova - Allianz Milano | Round 5
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/cYrommOc/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",
