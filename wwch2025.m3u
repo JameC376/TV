@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="SV.League" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/5STD6SCa-1920.jpg" group-title="",11:55 Jtekt Stings Aichi - Osaka Bluteon | Round 4-B
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/P8nKbtqW/live.isml/.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://livecloud-thumb.akamaized.net/sports/livecloud/KR/stream/9678613/live/15481417/record/47084852/thumbnail/image_1920.jpg" group-title="",14:00 흥국생명 VS 정관장
-https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0004/jpdoj7jyb6sqd8lyd1qnrzwaqdso2mrh60/1080.stream/hdntl=exp=1763308756~acl=*%2fjpdoj7jyb6sqd8lyd1qnrzwaqdso2mrh60%2f*~data=hdntl~hmac=9a042c061268b6325a06df15530710eb8295c58eacec97472fe8df1ddd3d29a8/chunklist.m3u8
 #EXTINF:-1 tvg-id="SV.League" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/IkoLWG9k-1920.jpg" group-title="",14:55 Suntory Sunbirds Osaka - Nippon Steel Sakai Blazers | Round 4-B
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/7jDUFQDl/live.isml/.m3u8
 #EXTINF:-1 tvg-id="PlusLiga" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/DcZneRND-1920.jpg" group-title="",20:35 BOGDANKA LUK Lublin - Asseco Resovia Rzeszow | Round 6
@@ -35,8 +31,8 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/Y2DZiEhh/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/LtH6JWY7/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/wCox7HmH-1920.jpg" group-title="",02:55 Joinville Volei - Volei Renata | Round 5
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/i5ahlmwy/live.isml/.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",
-
+#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/IimNu7fN-1920.jpg" group-title="",04:20 Bateubet Volei Guarulhos - JF Volei | Round 5
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/JGRZTx4U/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",
