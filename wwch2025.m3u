@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="SV.League" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/IkoLWG9k-1920.jpg" group-title="",14:55 Suntory Sunbirds Osaka - Nippon Steel Sakai Blazers | Round 4-B
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/7jDUFQDl/live.isml/.m3u8
 #EXTINF:-1 tvg-id="PlusLiga" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/DcZneRND-1920.jpg" group-title="",20:35 BOGDANKA LUK Lublin - Asseco Resovia Rzeszow | Round 6
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/MAAqxm0f/live.isml/.m3u8
 #EXTINF:-1 tvg-id="Lega Volley Femminile (LVF)" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/yU3nsF05-1920.jpg" group-title="",21:55 Prosecco Doc A.Carraro Imoco Conegliano - Savino Del Bene Scandicci | Round 10
@@ -33,8 +31,8 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/LtH6JWY7/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/i5ahlmwy/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/IimNu7fN-1920.jpg" group-title="",04:20 Bateubet Volei Guarulhos - JF Volei | Round 5
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/JGRZTx4U/live.isml/.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",
-
+#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/ovGEj09r-1920.jpg" group-title="",23:20 ITA TOOLS Stal Mielec - LKS Commercecon Lodz | Round 6
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/tCC9w8vh/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",
