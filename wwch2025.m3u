@@ -1,14 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/3xf9ergq-1920.jpg" group-title="",23:20 InPost ChKS Chelm - Steam Hemarpol Politechnika Częstochowa | Round 5
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/QJnRFbIC/live.isml/.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/JIa3gl51-1920.jpg" group-title="",00:55 LOTTO Chemik Police - VolleyWroclaw | Round 6
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/0zshIPj2/live.isml/.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/TrgpytqL-1920.jpg" group-title="",01:55 Indykpol AZS Olsztyn - Aluron CMC Warta Zawiercie | Round 11
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/xv5NNkXw/live.isml/.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/WKdIbwMm-1920.jpg" group-title="",04:20 Brasilia Volei - Gerdau Minas | Round 6
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/WbwbMPsx/live.isml/.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/LDerc2cp-1920.jpg" group-title="",04:55 Batavo Mackenzie - Fluminense | Round 6
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/lshnp4rT/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/7ilUDiF8-1920.jpg" group-title="",07:20 Sancor Seguros Volei - SESC RJ Flamengo | Round 6
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/ob68iWNo/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/eGE9WWF6-1920.jpg" group-title="",23:20 JSW Jastrzebski Wegiel - BOGDANKA LUK Lublin | Round 5
@@ -25,20 +15,20 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/0jvQpNdp/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/KFgnDheM/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/5r1nx0jV-1920.jpg" group-title="",23:20 ECO HARPOON LOS Nowy Dwor Mazowiecki - Sokol & Hagric Mogilno | Round 7
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/31pXwYNy/live.isml/.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",
-
+#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/gahSt5rM-1920.jpg" group-title="",04:20 Saneago Goias - Viapol Sao Jose | Round 6
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/I529ZXlu/live.isml/.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/hzhRWJSx-1920.jpg" group-title="",05:20 Sicoob Monte Carmelo - Bateubet Volei Guarulhos | Round 6
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/qtn38N04/live.isml/.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/YiF7vsch-1920.jpg" group-title="",16:55 Saga Hisamitsu Springs - Toray Arrows Shiga | Round 7-A
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/dRY8Uayc/live.isml/.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/CSk5GnUl-1920.jpg" group-title="",21:55 LKS Commercecon Lodz - BKS BOSTIK ZGO Bielsko-Biala | Round 7
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/CGGtf4gT/live.isml/.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/RVuC5LX6-1920.jpg" group-title="",23:20 ITA TOOLS Stal Mielec - MOYA Radomka Radom | Round 7
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/yHaP2PC3/live.isml/.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/eoeQfRd3-1920.jpg" group-title="",01:55 PGE GiEK SKRA Belchatow - Steam Hemarpol Politechnika Częstochowa | Round 7
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/PRCLXFM0/live.isml/.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/slcQeDNQ-1920.jpg" group-title="",04:20 Praia Clube Uberlandia Volei - Itambe Minas | Round 6
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/olhhJABC/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",
