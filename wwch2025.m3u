@@ -1,30 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/DlWubDH1-1920.jpg" group-title="",20:35 Indykpol AZS Olsztyn - Cuprum Stilon Gorzow | Round 7
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/xqadGJtw/live.isml/.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/TkIDdxI4-1920.jpg" group-title="",21:55 MA Acqua S.Bernardo Cuneo - Valsa Group Modena | Round 7
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/OENeVbYS/live.isml/.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/0eZQodpR-1920.jpg" group-title="",21:55 Omag-Mt San Giovanni In Marignano - Numia Vero Volley Milano | Round 11
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/2K3Wy5Tj/live.isml/.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/NkiBsh67-1920.jpg" group-title="",22:55 Bergamo - Honda Cuneo Granda Volley | Round 11
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/RlXOeKFt/live.isml/.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/zAGlJWW9-1920.jpg" group-title="",22:55 Sonepar Padova - Cucine Lube Civitanova | Round 7
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/Y0NFQOZJ/live.isml/.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/LxK5Ku3n-1920.jpg" group-title="",22:55 Reale Mutua Fenera Chieri 76 - Wash4green Monviso Volley | Round 11
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/V3pvFg1g/live.isml/.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/Vv6hmeU7-1920.jpg" group-title="",22:55 Savino Del Bene Scandicci - Megabox Ondulati Del Savio Vallefoglia | Round 11
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/H69sIPyK/live.isml/.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/KI1jiPtf-1920.jpg" group-title="",22:55 Eurotek Laica Uyba - Bartoccini-Mc Restauri Perugia | Round 11
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/gkWkgzpa/live.isml/.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/HQc41nJ1-1920.jpg" group-title="",23:20 PGE Projekt Warszawa - Slepsk Malow Suwalki | Round 7
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/NEDs10qb/live.isml/.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/PktojTuY-1920.jpg" group-title="",23:55 Itas Trentino - Sir Susa Scai Perugia | Round 7
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/NBxKQLZZ/live.isml/.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/3QFD8M8O-1920.jpg" group-title="",00:55 Yuasa Battery Grottazzolina - Gas Sales Bluenergy Piacenza | Round 7
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/ZAu0cfU2/live.isml/.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/wTxSBCYm-1920.jpg" group-title="",00:55 Rana Verona - Vero Volley Monza | Round 7
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/au3UFILc/live.isml/.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/RkInsdm2-1920.jpg" group-title="",01:55 Barkom Kazany Lwow - BOGDANKA LUK Lublin | Round 7
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/gqNBVtr1/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/lDpBtIb1-1920.jpg" group-title="",05:20 Praia Clube Uberlandia Volei - Sicoob Monte Carmelo | Round 10
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/dvcxRO2d/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/gI5KWMHz-1920.jpg" group-title="",23:20 Energa Trefl Gdansk - ZAKSA Kedzierzyn Kozle | Round 7
@@ -37,32 +11,32 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/1N1Hrgd5/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/d1J3MO0P/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/LllP7FHT-1920.jpg" group-title="",23:20 PGE GiEK SKRA Belchatow - JSW Jastrzebski Wegiel | Round 8
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/orOagUCl/live.isml/.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",
-
+#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/HZsr7e1x-1920.jpg" group-title="",01:55 Aluron CMC Warta Zawiercie - Barkom Kazany Lwow | Round 8
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/VExlWxhY/live.isml/.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/nljsI4j3-1920.jpg" group-title="",04:20 Bateubet Volei Guarulhos - Saneago Goias | Round 7
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/6OqTeU94/live.isml/.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/k84M987V-1920.jpg" group-title="",04:20 Dentil Praia Clube - Batavo Mackenzie | Round 7
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/VsOdw7Yh/live.isml/.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/IE5K9nnr-1920.jpg" group-title="",06:55 Sesi Volei Bauru - Brasilia Volei | Round 7
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/PGCwVKZt/live.isml/.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/RiDv8GSu-1920.jpg" group-title="",23:20 PGE Projekt Warszawa - Indykpol AZS Olsztyn | Round 8
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/mTC6J0ZG/live.isml/.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/eVdxrkAq-320.jpg" group-title="",01:55 Steam Hemarpol Politechnika Częstochowa - Cuprum Stilon Gorzow | Round 8
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/GcVS0hir/live.isml/.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo=""https://assets-jpcust.jwpsrv.com/thumbnails/a9VwjH0F-1920.jpg group-title="",02:20 Sir Susa Scai Perugia - Vero Volley Monza | Round 12
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/cwn9z7v2/live.isml/.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/CVhvPK2t-1920.jpg" group-title="",04:20 Tijuca Tenis Clube - Renasce Sorocaba | Round 7
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/oqUpUP3h/live.isml/.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/18TNswTU-1920.jpg" group-title="",04:20 Suzano Volei - Praia Clube Uberlandia Volei | Round 7
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/6dRzQiN9/live.isml/.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/Yxr0xqcQ-1920.jpg" group-title="",04:20 Viapol Sao Jose - Sada Cruzeiro | Round 7
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/wN342doH/live.isml/.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/McY8kSXE-1920.jpg" group-title="",06:55 Itambe Minas - Volei Renata | Round 7
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/8t4eCNTW/live.isml/.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/XVHyjhYh-1920.jpg" group-title="",16:55 Nippon Steel Sakai Blazers - Jtekt Stings Aichi | Round 6-A
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/2D0y6alL/live.isml/.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/wrej67rI-1920.jpg" group-title="",23:20 VolleyWroclaw - Metalkas Palac Bydgoszcz | Round 8
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/2s1do9Sa/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",
