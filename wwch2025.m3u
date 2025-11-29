@@ -1,22 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/wdbfLpYt-1920.jpg" group-title="VBTV",10:55 Suntory Sunbirds Osaka - Vc Nagano Tridents | Round 6-A
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/qlpvIVIU/live.isml/.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/RSZJ5Rss-1920.jpg" group-title="VBTV",10:55 Gunma Greenwings - Toray Arrows Shiga | Round 8-A
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/YolGZb7v/live.isml/.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/17DItJWG-1920.jpg" group-title="VBTV",10:55 Pfu Bluecats Ishikawa Kahoku - Aranmare Yamagata | Round 8-A
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/Und2usKl/live.isml/.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/eNa2GRKW-1920.jpg" group-title="VBTV",10:55 Denso Airybees - Okayama Seagulls | Round 8-A
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/Gnx1famm/live.isml/.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/qnmOgazS-1920.jpg" group-title="VBTV",11:55 Osaka Bluteon - Hiroshima Thunders | Round 6-A
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/cWRDFBIb/live.isml/.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/uDqwOak5-1920.jpg" group-title="VBTV",11:55 Osaka Marvelous - Astemo Rivale Ibaraki | Round 8-A
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/Kfj2IUg7/live.isml/.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/anJoMYaR-1920.jpg" group-title="VBTV",11:55 Nec Red Rockets Kawasaki - Saitama Ageo Medics | Round 8-A
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/H4ozxENd/live.isml/.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/hb0v0B2Y-1920.jpg" group-title="VBTV",11:55 Kurobe Aqua Fairies - Saga Hisamitsu Springs | Round 8-A
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/TXL8OP4w/live.isml/.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/xBsfxksf-1920.jpg" group-title="VBTV",12:20 Wolfdogs Nagoya - Voreas Hokkaido | Round 6-A
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/SaO6sAXH/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/WkPvq3IP-1920.jpg" group-title="VBTV",15:55 Queenseis Kariya - Victorina Himeji | Round 8-A
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/b99MRnTQ/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/5NAqXqmh-1920.jpg" group-title="VBTV",18:20 ITA TOOLS Stal Mielec - ECO HARPOON LOS Nowy Dwor Mazowiecki | Round 8
@@ -39,24 +21,24 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/QSUDEOBZ/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/bNnvcvrp/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/UmWZHc6O-1920.jpg" group-title="VBTV",06:55 Sesi Bauru - JF Volei | Round 7
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/1P3SLlzW/live.isml/.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="VBTV",
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="VBTV",
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="VBTV",
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="VBTV",
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="VBTV",
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="VBTV",
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="VBTV",
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="VBTV",
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="VBTV",
-
+#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/TInz7Shu-1920.jpg" group-title="VBTV",10:55 Denso Airybees - Okayama Seagulls | Round 8-B
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/HSntrX6Y/live.isml/.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/uZHQgD4Q-1920.jpg" group-title="VBTV",10:55 Gunma Greenwings - Toray Arrows Shiga | Round 8-B
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/Ooyb62SR/live.isml/.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/BRYiOH3y-1920.jpg" group-title="VBTV",10:55 Nec Red Rockets Kawasaki - Saitama Ageo Medics | Round 8-B
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/kpeh20DT/live.isml/.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/B77JGPgU-1920.jpg" group-title="VBTV",10:55 Suntory Sunbirds Osaka - Vc Nagano Tridents | Round 6-B
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/gYil5KDs/live.isml/.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/Pk9l9CtG-1920.jpg" group-title="VBTV",10:55 Kurobe Aqua Fairies - Saga Hisamitsu Springs | Round 8-B
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/GgKXGxhv/live.isml/.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/ZopXUXZ5-1920.jpg" group-title="VBTV",10:55 Pfu Bluecats Ishikawa Kahoku - Aranmare Yamagata | Round 8-B
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/dyH5NprZ/live.isml/.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/hFkNqYhU-1920.jpg" group-title="VBTV",11:25 Wolfdogs Nagoya - Voreas Hokkaido | Round 6-B
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/orFgDu3F/live.isml/.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/BdbTBBq8-1920.jpg" group-title="VBTV",11:55 Osaka Marvelous - Astemo Rivale Ibaraki | Round 8-B
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/dq3hZQit/live.isml/.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/OsAjJba1-1920.jpg" group-title="VBTV",11:55 Osaka Bluteon - Hiroshima Thunders | Round 6-B
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/fibPUVJh/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="VBTV",
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="VBTV",
