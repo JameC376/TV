@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/UmWZHc6O-1920.jpg" group-title="VBTV",06:55 Sesi Bauru - JF Volei | Round 7
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/1P3SLlzW/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/TInz7Shu-1920.jpg" group-title="VBTV",10:55 Denso Airybees - Okayama Seagulls | Round 8-B
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/HSntrX6Y/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/uZHQgD4Q-1920.jpg" group-title="VBTV",10:55 Gunma Greenwings - Toray Arrows Shiga | Round 8-B
@@ -39,8 +37,8 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/iSLeMhyS/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/1JszbFdG/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/CyARFe98-1920.jpg" group-title="VBTV",22:55 Sonepar Padova - Rana Verona | Round 8
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/rFyRCBcx/live.isml/.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="VBTV",
-
+#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/y0Sl7xxV-1920.jpg" group-title="VBTV",23:20 Energa Trefl Gdansk - Aluron CMC Warta Zawiercie | Round 9
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/c2H192OX/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="VBTV",
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="VBTV",
