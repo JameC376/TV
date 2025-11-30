@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/NiULwtZR-1920.jpg" group-title="VBTV",12:55 Queenseis Kariya - Victorina Himeji | Round 8-B
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/Y2GY73iH/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/gG5p6nhH-1920.jpg" group-title="VBTV",20:35 Cuprum Stilon Gorzow - PGE Projekt Warszawa | Round 9
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/5yp0e98q/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/ERNuLftO-1920.jpg" group-title="VBTV",21:20 Wash4green Monviso Volley - Megabox Ondulati Del Savio Vallefoglia | Round 12
@@ -39,8 +37,8 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/egmcIPzG/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/8CwnJZWL/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/Q2HMTPd5-1920.jpg" group-title="VBTV",04:20 Volei Renata - Suzano Volei | Round 8
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/Y5rnXpgL/live.isml/.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="VBTV",
-
+#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/CR61Uazn-1920.jpg" group-title="VBTV",04:55 Sancor Seguros Volei - Sesi Volei Bauru | Round 8
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/v8OQe1tA/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="VBTV",
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="VBTV",
