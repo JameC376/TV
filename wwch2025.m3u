@@ -1,14 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/9yxc7VxL-1920.jpg" group-title="VBTV",23:20 JSW Jastrzebski Wegiel - Steam Hemarpol Politechnika Częstochowa | Round 9
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/egmcIPzG/live.isml/.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/u7NA8bwW-1920.jpg" group-title="VBTV",01:55 LOTTO Chemik Police - UNI Opole | Round 8
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/8CwnJZWL/live.isml/.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/Q2HMTPd5-1920.jpg" group-title="VBTV",04:20 Volei Renata - Suzano Volei | Round 8
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/Y5rnXpgL/live.isml/.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/CR61Uazn-1920.jpg" group-title="VBTV",04:55 Sancor Seguros Volei - Sesi Volei Bauru | Round 8
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/v8OQe1tA/live.isml/.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/pK6cNNRA-1920.jpg" group-title="VBTV",07:20 Brasilia Volei - Renasce Sorocaba | Round 8
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/F61rgffE/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/Yog305YB-1920.jpg" group-title="VBTV",23:20 InPost ChKS Chelm - Asseco Resovia Rzeszow | Round 8
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/NBx62vWY/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/6t6xm673-1920.jpg" group-title="VBTV",01:55 Barkom Kazany Lwow - Cuprum Stilon Gorzow | Round 4
@@ -31,12 +21,12 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/yM1wRS59/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/cODMgIlY/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/VycHZkPf-1920.jpg" group-title="VBTV",04:20 Sicoob Monte Carmelo - Sesi Bauru | Round 8
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/k7m9nrHd/live.isml/.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="VBTV",
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="VBTV",
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="VBTV",
-
+#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/OCTHnepY-1920.jpg" group-title="VBTV",04:55 JF Volei - Itambe Minas | Round 8
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/gimOEqYE/live.isml/.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/na78KuSH-1920.jpg" group-title="VBTV",07:20 Saneago Goias - Joinville Volei | Round 8
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/Of4wyRac/live.isml/.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/j7PNezJS-1920.jpg" group-title="VBTV",23:20 ZAKSA Kedzierzyn Kozle - Slepsk Malow Suwalki | Round 8
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/moY6lTmj/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="VBTV",
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="VBTV",
