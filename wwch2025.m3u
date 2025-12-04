@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/na78KuSH-1920.jpg" group-title="VBTV",07:20 Saneago Goias - Joinville Volei | Round 8
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/Of4wyRac/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/j7PNezJS-1920.jpg" group-title="VBTV",23:20 ZAKSA Kedzierzyn Kozle - Slepsk Malow Suwalki | Round 8
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/moY6lTmj/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/aLVrpT28-1920.jpg" group-title="VBTV",02:35 MA Acqua S.Bernardo Cuneo - Allianz Milano | Round 9
@@ -31,8 +29,8 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/bjQ4sTnh/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/UtHhKq8E/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/KrrbiR0j-1920.jpg" group-title="VBTV",11:55 Astemo Rivale Ibaraki - Kurobe Aqua Fairies | Round 9-A
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/z1EUafK2/live.isml/.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="VBTV",
-
+#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/yrgwaBOu-1920.jpg" group-title="VBTV",11:55 Victorina Himeji - Gunma Greenwings | Round 9-A
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/xXSadXgN/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="VBTV",
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="VBTV",
