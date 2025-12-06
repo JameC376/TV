@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/Wpxpvixl-1920.jpg" group-title="VBTV",14:55 Osaka Bluteon - Tokyo Great Bears | Round 7-A
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/nfhME3H6/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/K5rMJV3t-1920.jpg" group-title="VBTV",18:20 Aluron CMC Warta Zawiercie - Slepsk Malow Suwalki | Round 10
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/A1APgL7E/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/HQK0A3Ci-1920.jpg" group-title="VBTV",18:55 Main Draw & Quater Final | Court 2 | Day 4 | Elite 16 Itapema 2025
@@ -39,8 +37,8 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/EAUOy4x6/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/g7nE1PEO/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/zyQTzpmL-1920.jpg" group-title="VBTV",12:55 Toray Arrows Shiga - Queenseis Kariya | Round 9-B
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/bAm1CBbH/live.isml/.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="VBTV",
-
+#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/f5oMPBUz-1920.jpg" group-title="VBTV",14:55 Osaka Bluteon - Tokyo Great Bears | Round 7-B
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/hIcFxZAH/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="VBTV",
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="VBTV",
