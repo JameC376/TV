@@ -1,16 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/6dMvpmiG-1920.jpg" group-title="VBTV",18:55 Main Draw | Court 2 | Day 3 | Elite 16 Itapema 2025
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/Js1SACo1/live.isml/.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/Iizcs10B-1920.jpg" group-title="VBTV",18:55 Main Draw | Central Court | Day 3 | Elite 16 Itapema 2025
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/CTzscuwH/live.isml/.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/CG2Fal4j-1920.jpg" group-title="VBTV",23:20 Sokol & Hagric Mogilno - ITA TOOLS Stal Mielec | Round 9
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/uto28eyv/live.isml/.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/qIbjYvrc-1920.jpg" group-title="VBTV",01:55 InPost ChKS Chelm - Energa Trefl Gdansk | Round 10
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/XB60vL35/live.isml/.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/ovaQ69Mi-1920.jpg" group-title="VBTV",04:20 Renasce Sorocaba - Sancor Seguros Volei | Round 9
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/ssgSn5MJ/live.isml/.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/uoS2DhTP-1920.jpg" group-title="VBTV",04:20 Brasilia Volei - Batavo Mackenzie | Round 9
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/ZEkaR2QT/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/28q6ihqi-1920.jpg" group-title="VBTV",06:55 Sesi Volei Bauru - SESC RJ Flamengo | Round 9
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/CHHlcPWA/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/FUKIOjVZ-1920.jpg" group-title="VBTV",10:55 Denso Airybees - Osaka Marvelous | Round 9-A
@@ -39,18 +27,18 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/Eu15P7or/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/nfhME3H6/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/K5rMJV3t-1920.jpg" group-title="VBTV",18:20 Aluron CMC Warta Zawiercie - Slepsk Malow Suwalki | Round 10
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/A1APgL7E/live.isml/.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="VBTV",
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="VBTV",
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="VBTV",
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="VBTV",
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="VBTV",
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="VBTV",
-
+#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/HQK0A3Ci-1920.jpg" group-title="VBTV",18:55 Main Draw & Quater Final | Court 2 | Day 4 | Elite 16 Itapema 2025
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/Zx0caQq0/live.isml/.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/eUDvYoxM-1920.jpg" group-title="VBTV",18:55 Main Draw & Quater Final | Central Court | Day 4 | Elite 16 Itapema 2025
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/J4wv88Bm/live.isml/.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/86K3zwyw-1920.jpg" group-title="VBTV",20:35 Steam Hemarpol Politechnika Częstochowa - PGE Projekt Warszawa | Round 10
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/2DZRC1Gr/live.isml/.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/xNxgbGDB-1920.jpg" group-title="VBTV",23:20 JSW Jastrzebski Wegiel - Asseco Resovia Rzeszow | Round 10
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/l4tlznCr/live.isml/.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/K3mFy4KK-1920.jpg" group-title="VBTV",23:55 Valsa Group Modena - Cucine Lube Civitanova | Round 10
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/xdFzQsWX/live.isml/.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/EWQARa4w-1920.jpg" group-title="VBTV",01:55 BOGDANKA LUK Lublin - Indykpol AZS Olsztyn | Round 10
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/i7PRBwJg/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="VBTV",
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="VBTV",
