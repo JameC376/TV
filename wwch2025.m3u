@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/FUKIOjVZ-1920.jpg" group-title="VBTV",10:55 Denso Airybees - Osaka Marvelous | Round 9-A
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/mL3yBEq0/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/F5SdhkpB-1920.jpg" group-title="VBTV",11:55 Jtekt Stings Aichi - Wolfdogs Nagoya | Round 7-A
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/zIyBY3QH/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/C1mB4rMw-1920.jpg" group-title="VBTV",11:55 Okayama Seagulls - Saitama Ageo Medics | Round 9-A
@@ -11,10 +9,6 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/bjQ4sTnh/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/UtHhKq8E/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/KrrbiR0j-1920.jpg" group-title="VBTV",11:55 Astemo Rivale Ibaraki - Kurobe Aqua Fairies | Round 9-A
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/z1EUafK2/live.isml/.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/yrgwaBOu-1920.jpg" group-title="VBTV",11:55 Victorina Himeji - Gunma Greenwings | Round 9-A
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/xXSadXgN/live.isml/.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/jWrzygBF-1920.jpg" group-title="VBTV",11:55 Toray Arrows Shizuoka - Suntory Sunbirds Osaka | Round 7-A
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/bO5f3EF7/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/fVgKCmYa-1920.jpg" group-title="VBTV",11:55 Aranmare Yamagata - Nec Red Rockets Kawasaki | Round 9-A
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/kuUqWA7u/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/7NWErowf-1920.jpg" group-title="VBTV",11:55 Saga Hisamitsu Springs - Pfu Bluecats Ishikawa Kahoku | Round 9-A
@@ -39,12 +33,12 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/xdFzQsWX/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/i7PRBwJg/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/HDlLFVYK-1920.jpg" group-title="VBTV",02:55 Cbf Balducci Hr Macerata - Bergamo | Round 13
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/qN3vnYcL/live.isml/.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="VBTV",
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="VBTV",
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="VBTV",
-
+#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/FYECweJk-1920.jpg" group-title="VBTV",10:55 Vc Nagano Tridents - Voreas Hokkaido | Round 7-B
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/kCoOz2D5/live.isml/.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/Y7ILqqm1-1920.jpg" group-title="VBTV",10:55 Hiroshima Thunders - Nippon Steel Sakai Blazers | Round 7-B
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/dfMvzo2O/live.isml/.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/sAb16k2S-1920.jpg" group-title="VBTV",10:55 Aranmare Yamagata - Nec Red Rockets Kawasaki | Round 9-B
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/pIAKmrMr/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="VBTV",
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="VBTV",
