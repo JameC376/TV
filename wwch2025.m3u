@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/28q6ihqi-1920.jpg" group-title="VBTV",06:55 Sesi Volei Bauru - SESC RJ Flamengo | Round 9
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/CHHlcPWA/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/FUKIOjVZ-1920.jpg" group-title="VBTV",10:55 Denso Airybees - Osaka Marvelous | Round 9-A
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/mL3yBEq0/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/F5SdhkpB-1920.jpg" group-title="VBTV",11:55 Jtekt Stings Aichi - Wolfdogs Nagoya | Round 7-A
@@ -39,8 +37,8 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/l4tlznCr/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/xdFzQsWX/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/EWQARa4w-1920.jpg" group-title="VBTV",01:55 BOGDANKA LUK Lublin - Indykpol AZS Olsztyn | Round 10
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/i7PRBwJg/live.isml/.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="VBTV",
-
+#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/HDlLFVYK-1920.jpg" group-title="VBTV",02:55 Cbf Balducci Hr Macerata - Bergamo | Round 13
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/qN3vnYcL/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="VBTV",
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="VBTV",
