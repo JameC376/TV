@@ -1,12 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/lQ4SB8mo-1920.jpg" group-title="VBTV",11:55 Jtekt Stings Aichi - Wolfdogs Nagoya | Round 7-B
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/oftOv5Ac/live.isml/.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/IwhQIkab-1920.jpg" group-title="VBTV",11:55 Victorina Himeji - Gunma Greenwings | Round 9-B
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/ANxtLSnC/live.isml/.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/9wUalVWV-1920.jpg" group-title="VBTV",11:55 Astemo Rivale Ibaraki - Kurobe Aqua Fairies | Round 9-B
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/g7nE1PEO/live.isml/.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/zyQTzpmL-1920.jpg" group-title="VBTV",12:55 Toray Arrows Shiga - Queenseis Kariya | Round 9-B
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/bAm1CBbH/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/f5oMPBUz-1920.jpg" group-title="VBTV",14:55 Osaka Bluteon - Tokyo Great Bears | Round 7-B
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/hIcFxZAH/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/GEazJqHx-1920.jpg" group-title="VBTV",18:55 Semi Final | Central Court | Day 5 | Elite 16 Itapema 2025
@@ -39,14 +31,14 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/FSc8rdnW/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/IQejzPsp/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/2KQQaNIt-1920.jpg" group-title="VBTV",23:20 Metalkas Palac Bydgoszcz - KS DevelopRes Rzeszow | Round 9
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/ilOKvrTn/live.isml/.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="VBTV",
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="VBTV",
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="VBTV",
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="VBTV",
-
+#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/aA5l9SHp-1920.jpg" group-title="VBTV",00:55 LKS Commercecon Lodz - LOTTO Chemik Police | Round 9
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/oSR4e8EK/live.isml/.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/k7Euhxxq-1920.jpg" group-title="VBTV",01:55 MOYA Radomka Radom - PGE Budowlani Lodz | Round 9
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/kIpnVJU6/live.isml/.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/DW5ek8As-1920.jpg" group-title="VBTV",04:20 Bateubet Volei Guarulhos - Sada Cruzeiro | Round 9
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/JnmfftxH/live.isml/.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/qgf1w1yF-1920.jpg" group-title="VBTV",04:20 JF Volei - Suzano Volei | Round 9
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/a7Xlzwni/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="VBTV",
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="VBTV",
