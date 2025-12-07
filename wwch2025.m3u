@@ -1,12 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/FYECweJk-1920.jpg" group-title="VBTV",10:55 Vc Nagano Tridents - Voreas Hokkaido | Round 7-B
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/kCoOz2D5/live.isml/.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/Y7ILqqm1-1920.jpg" group-title="VBTV",10:55 Hiroshima Thunders - Nippon Steel Sakai Blazers | Round 7-B
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/dfMvzo2O/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/q924xoJA-1920.jpg" group-title="VBTV",10:55 Saga Hisamitsu Springs - Pfu Bluecats Ishikawa Kahoku | Round 9-B
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/mt4yJDwT/live.isml/.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/6DAxwoNY-1920.jpg" group-title="VBTV",10:55 Denso Airybees - Osaka Marvelous | Round 9-B
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/Ov4zH9zM/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/lQ4SB8mo-1920.jpg" group-title="VBTV",11:55 Jtekt Stings Aichi - Wolfdogs Nagoya | Round 7-B
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/oftOv5Ac/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/IwhQIkab-1920.jpg" group-title="VBTV",11:55 Victorina Himeji - Gunma Greenwings | Round 9-B
@@ -39,10 +35,10 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/u7OT5BSE/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/XAChxxIp/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/RH19ryZT-1920.jpg" group-title="VBTV",23:55  Allianz Milano - Sir Susa Scai Perugia | Round 10
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/KQ80oRVX/live.isml/.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="VBTV",
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="VBTV",
-
+#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/dPOhmTzI-1920.jpg" group-title="VBTV",23:55  MA Acqua S.Bernardo Cuneo - Rana Verona | Round 10
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/Up8kvO3f/live.isml/.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/DjoHZMHX-1920.jpg" group-title="VBTV",23:55  Cisterna Volley - Gas Sales Bluenergy Piacenza | Round 10
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/RuvfTn4v/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="VBTV",
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="VBTV",
