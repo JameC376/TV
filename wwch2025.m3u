@@ -1,16 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/LhDpsgHp-1920.jpg" group-title="VBTV",23:20 Sonepar Padova - Vero Volley Monza | Round 10
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/IQejzPsp/live.isml/.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/2KQQaNIt-1920.jpg" group-title="VBTV",23:20 Metalkas Palac Bydgoszcz - KS DevelopRes Rzeszow | Round 9
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/ilOKvrTn/live.isml/.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/aA5l9SHp-1920.jpg" group-title="VBTV",00:55 LKS Commercecon Lodz - LOTTO Chemik Police | Round 9
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/oSR4e8EK/live.isml/.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/k7Euhxxq-1920.jpg" group-title="VBTV",01:55 MOYA Radomka Radom - PGE Budowlani Lodz | Round 9
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/kIpnVJU6/live.isml/.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/DW5ek8As-1920.jpg" group-title="VBTV",04:20 Bateubet Volei Guarulhos - Sada Cruzeiro | Round 9
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/JnmfftxH/live.isml/.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/qgf1w1yF-1920.jpg" group-title="VBTV",04:20 JF Volei - Suzano Volei | Round 9
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/a7Xlzwni/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/86B39CTC-1920.jpg" group-title="VBTV",06:55 Praia Clube Uberlandia Volei - Volei Renata | Round 9
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/zEPlTtfb/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/gBMs6Ve9-1920.jpg" group-title="VBTV",19:55 Dentil Praia Clube (BRA) - Zamalek Sporting Club (EGY)
@@ -39,18 +27,18 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/TzXJRb0C/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/P8vLdniV/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/WZvzK9eB-1920.jpg" group-title="VBTV",05:20 Itambe Minas - Sicoob Monte Carmelo | Round 9
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/vq9JlNJ2/live.isml/.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="VBTV",
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="VBTV",
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="VBTV",
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="VBTV",
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="VBTV",
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="VBTV",
-
+#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/K7dxvyqn-1920.jpg" group-title="VBTV",06:20 Osasco Sao Cristovao Saude (BRA) - Savino Del Bene Scandicci (ITA)
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/nVCA9EyH/live.isml/.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/fEUbCazB-1920.jpg" group-title="VBTV",19:55 Zamalek Sporting Club (EGY) - Orlando Valkyries (USA)
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/w2sOx52j/live.isml/.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/2CAndmrQ-1920.jpg" group-title="VBTV",23:20 Prosecco DOC Imoco Conegliano (ITA) - Dentil Praia Clube (BRA)
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/kovbC1kR/live.isml/.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/JtOohmj1-1920.jpg" group-title="VBTV",23:20 Energa Trefl Gdansk - PGE GiEK SKRA Belchatow | Round 11
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/G3E9Vtnn/live.isml/.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/eyalmges-1920.jpg" group-title="VBTV",02:55 Savino Del Bene Scandicci (ITA) - Alianza Lima (PER)
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/vMCYwP4G/live.isml/.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/xswjdNm9-1920.jpg" group-title="VBTV",04:20 Paulistano Barueri - Brasilia Volei | Round 10
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/W71v2eZv/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="VBTV",
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="VBTV",
