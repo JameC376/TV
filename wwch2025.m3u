@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/86B39CTC-1920.jpg" group-title="VBTV",06:55 Praia Clube Uberlandia Volei - Volei Renata | Round 9
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/zEPlTtfb/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/gBMs6Ve9-1920.jpg" group-title="VBTV",19:55 Dentil Praia Clube (BRA) - Zamalek Sporting Club (EGY)
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/m86aicxV/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/NjTVs9rv-1920.jpg" group-title="VBTV",23:20 Prosecco DOC Imoco Conegliano (ITA) - Orlando Valkyries (USA)
@@ -39,8 +37,8 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/G3E9Vtnn/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/vMCYwP4G/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/xswjdNm9-1920.jpg" group-title="VBTV",04:20 Paulistano Barueri - Brasilia Volei | Round 10
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/W71v2eZv/live.isml/.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="VBTV",
-
+#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/ETBf4jbR-1920.jpg" group-title="VBTV",06:20 Osasco Sao Cristovao Saude (BRA) - Zhetysu VC (KAZ)
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/58J1z6N1/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="VBTV",
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="VBTV",
