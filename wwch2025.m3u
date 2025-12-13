@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/2mGiDYr0-1920.jpg" group-title="VBTV",07:20 SESC RJ Flamengo - Renasce Sorocaba | Round 10
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/u8ptN9EP/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/1bXqEZnM-1920.jpg" group-title="VBTV",18:20 Metalkas Palac Bydgoszcz - UNI Opole | Round 10
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/h1OJrhHa/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/9LCe9pBG-1920.jpg" group-title="VBTV",20:35 Asseco Resovia Rzeszow - Steam Hemarpol Politechnika Częstochowa | Round 11
@@ -39,8 +37,8 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/b1zKw4D0/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/3cbsMUqI/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/EzQERrOc-1920.jpg" group-title="VBTV",23:55 Cucine Lube Civitanova - Allianz Milano | Round 11
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/VNoMgRH4/live.isml/.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="VBTV",
-
+#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/Luww4A9t-1920.jpg" group-title="VBTV",00:55 PGE Budowlani Lodz - ECO HARPOON LOS Nowy Dwor Mazowiecki | Round 10
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/ZRAIneav/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="VBTV",
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="VBTV",
