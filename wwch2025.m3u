@@ -1,14 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/1So37m06-1920.jpg" group-title="VBTV",23:20 VolleyWroclaw - LKS Commercecon Lodz | Round 10
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/8EzdcvFF/live.isml/.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/UiF6pg4a-1920.jpg" group-title="VBTV",01:55 LOTTO Chemik Police - MOYA Radomka Radom | Round 10
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/AbdCVSfX/live.isml/.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/89EEiAVd-1920.jpg" group-title="VBTV",04:20 Gerdau Minas - Sesi Volei Bauru | Round 10
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/f648ajQW/live.isml/.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/1Sbblokb-1920.jpg" group-title="VBTV",04:20 Volei Renata - JF Volei | Round 10
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/f21P0lPR/live.isml/.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/wBIP9NYK-1920.jpg" group-title="VBTV",04:55 Sancor Seguros Volei - Batavo Mackenzie | Round 10
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/gQj5S1Hh/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/2mGiDYr0-1920.jpg" group-title="VBTV",07:20 SESC RJ Flamengo - Renasce Sorocaba | Round 10
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/u8ptN9EP/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/1bXqEZnM-1920.jpg" group-title="VBTV",18:20 Metalkas Palac Bydgoszcz - UNI Opole | Round 10
@@ -31,7 +21,7 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/GaucprWt/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/5pQVcsrE/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/Y6hfiZEw-1920.jpg" group-title="VBTV",20:35 Cuprum Stilon Gorzow - BOGDANKA LUK Lublin | Round 11
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/A0GKnFIM/live.isml/.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/5U18Kgfg-1920.jpg" group-title="VBTV",22:55
+#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/5U18Kgfg-1920.jpg" group-title="VBTV",22:55 Honda Cuneo Granda Volley - Cbf Balducci Hr Macerata | Round 14
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/52ORF3ky/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/My2KE5NF-1920.jpg" group-title="VBTV",22:55 Igor Gorgonzola Novara - Omag-Mt San Giovanni In Marignano | Round 14
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/NHsPi2Ti/live.isml/.m3u8
@@ -39,16 +29,16 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/NHsPi2Ti/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/hHaWU3VT/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/otvl8r02-1920.jpg" group-title="VBTV",22:55 Bronze: TBC - TBC
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/J3EUBPhu/live.isml/.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="VBTV",
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="VBTV",
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="VBTV",
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="VBTV",
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="VBTV",
-
+#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/ImefpEaa-1920.jpg" group-title="VBTV",23:20 PGE Projekt Warszawa - ZAKSA Kedzierzyn Kozle | Round 11
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/o26BfV88/live.isml/.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/dasklsNi-1920.jpg" group-title="VBTV",23:55 Rana Verona - Valsa Group Modena | Round 11
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/wdAdkbws/live.isml/.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/IxKTfF6p-1920.jpg" group-title="VBTV",23:55 Cisterna Volley - Sonepar Padova | Round 11
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/b1zKw4D0/live.isml/.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/lVBXSANC-1920.jpg" group-title="VBTV",23;55 Itas Trentino - Gas Sales Bluenergy Piacenza | Round 11
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/3cbsMUqI/live.isml/.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/EzQERrOc-1920.jpg" group-title="VBTV",23:55 Cucine Lube Civitanova - Allianz Milano | Round 11
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/VNoMgRH4/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="VBTV",
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="VBTV",
