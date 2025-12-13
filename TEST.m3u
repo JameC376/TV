@@ -206,9 +206,12 @@ https://media-tyo.hls.nhkworld.jp/hls/w/live/master.m3u8
 #EXTVLCOPT:http-referrer=https://www.channelnewsasia.com/
 https://mediacorp-nca-prod-videos-bclive.akamaized.net/6379472319112/ap-southeast-1/6057994443001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoicGE2ODB1LmVncmVzcy5wcHRpOHciLCJhY2NvdW50X2lkIjoiNjA1Nzk5NDQ0MzAwMSIsImVobiI6Im1lZGlhY29ycC1uY2EtcHJvZC12aWRlb3MtYmNsaXZlLmFrYW1haXplZC5uZXQiLCJpc3MiOiJibGl2ZS1wbGF5YmFjay1zb3VyY2UtYXBpIiwic3ViIjoicGF0aG1hcHRva2VuIiwiYXVkIjpbIjYwNTc5OTQ0NDMwMDEiXSwianRpIjoiNjM3OTQ3MjMxOTExMiJ9.Cw77amOc6efNO32Sw9nD0SOhjQUc5ewKN8ZWJOPt15Y/playlist-hls.m3u8
 
-#EXTINF:-1 tvg-logo="https://s.abcnews.com/assets/dtci/images/abcnewslive-banner-navy.svg" group-title="",abc News
-#EXTVLCOPT:http-referrer=https://abcnews.go.com/
-https://linear-abcnews-ftc-na-east-1.media.dssott.com/dvt2=exp=1765694334~url=%2Fclt1%2Fva02%2Fdisneyplus%2Fchannel%2F79449312-79dd-473d-873c-515ebf4b5e5f-1762950430222%2F~psid=551a7f1f-fae4-4df5-8dda-844add436e24~did=aef758dc-deeb-44a8-89f8-42d8c016a294~country=TH~kid=k02~hmac=ac673119a77c17918e5f9631ba3d621c22370917b2b0353e8a27063ae5f2b365/clt1/va02/disneyplus/channel/79449312-79dd-473d-873c-515ebf4b5e5f-1762950430222/ctr-all-hdri-sliding.m3u8?v=1&hash=1bf20d7b53d48f7e41256666d1ff236f7dab7918
+#EXTINF:-1 tvg-logo="https://www.aljazeera.com/images/icon-dark-loader.svg" group-title="",Al Jazeera
+#EXTVLCOPT:http-referrer=https://www.aljazeera.com/
+https://live-hls-web-aje-gcp.thehlive.com/AJE/index.m3u8
+
+
+
 
 
 
