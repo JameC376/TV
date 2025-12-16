@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/bbefxKUo-1920.jpg" group-title="VBTV",23:20 BKS BOSTIK ZGO Bielsko-Biala - Sokol & Hagric Mogilno | Round 10
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/9HpI1M4E/live.isml/.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/M1hAkIsP-1920.jpg" group-title="VBTV",04:20 Tijuca Tenis Clube - Fluminense | Round 10
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/GKiHguiI/live.isml/.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/IY1cFqlC-1920.jpg" group-title="VBTV",06:55 Sancor Seguros Volei - Batavo Mackenzie | Round 10
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/TwZzK2oU/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/7oR5aDQY-1920.jpg" group-title="VBTV",19:55 Sada Cruzeiro (BRA) - Osaka Bluteon (JPN)
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/RqS4tsZn/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/L2Y06R5t-1920.jpg" group-title="VBTV",23:20 Sir Sicoma Monini Perugia (ITA) - Swehly Sports Club (LBA)
@@ -39,12 +33,12 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/mnUvn3W0/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/mQoSlUZF/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/uPLipQ82-1920.jpg" group-title="VBTV",00:20 Barkom Kazany Lwow - Asseco Resovia Rzeszow | Round 12
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/Z5Gh4VI7/live.isml/.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="VBTV",
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="VBTV",
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="VBTV",
-
+#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/Wd4JE3pw-1920.jpg" group-title="VBTV",02:55 Praia (BRA) - Aluron CMC Warta Zawiercie (POL)
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/SRYJcJVr/live.isml/.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/WAaBLy7H-1920.jpg" group-title="VBTV",04:55 Dentil Praia Clube - Osasco Sao Cristovao Saude | Round 10
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/tTv8Ayl3/live.isml/.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/u90UQNey-1920.jpg" group-title="VBTV",06:20 Volei Renata Campinas (BRA) - Al-Rayyan Sports Club (QAT)
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/eVBqDGNU/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="VBTV",
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="VBTV",
