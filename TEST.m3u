@@ -112,9 +112,6 @@ https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/34/34.mpd
 
 #EXTINF:-1 tvg-logo="https://true4u.com/images/logo.png" group-title="True4U Station Co., Ltd.",true4U
 https://iptv36.vercel.app/api/true.m3u8?channel=true4u
-#EXTINF:-1 tvg-logo="https://true4u.com/images/logo.png" group-title="True4U Station Co., Ltd.",true4U web
-#EXTVLCOPT:http-referrer=https://true4u.com/
-https://true4u-p4ljv2.cdn.byteark.com/live/playlist.m3u8?x_ark_access_id=fleet-1890&x_ark_auth_type=ark-v2&x_ark_expires=1765628202&x_ark_path_prefix=%2Flive%2F&x_ark_signature=jxoNnOmd-NKejpLe6xmA4Q
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b4/Thaich8-2024.webp/120px-Thaich8-2024.webp.png" group-title="RS Public Company Limited", 8CH
 https://prsmedia-mykojh.cdn.byteark.com/fleetstream/live/720p/index.m3u8
@@ -128,9 +125,6 @@ https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/32/32.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9ebedc957e934d2b9023e4e60b97af73:7bcb4363df74457bbafedec1a864e6b6
 https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/16/16.mpd
-#EXTINF:-1 tvg-logo="https://www.tnnthailand.com/images/logo/logo-tnn.svg" group-title="Thai News Network (TNN) Co., Ltd.",TNN
-#EXTVLCOPT:http-referrer=https://www.tnnthailand.com/
-https://tnnthailand-1mertz.cdn.byteark.com/live/playlist.m3u8?x_ark_access_id=fleet-1891&x_ark_auth_type=ark-v2&x_ark_expires=1765612419&x_ark_path_prefix=%2Flive&x_ark_signature=2T3bI4ftc5VJBvcxsuYkmQ
 
 
 #EXTINF:-1 group-title="ช่องบันเทิง" tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/101.png",Asian Hits
@@ -197,18 +191,6 @@ https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL007/HLS/
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL008/HLS/TL008.m3u8
-
-#EXTINF:-1 tvg-logo="https://www3.nhk.or.jp/nhkworld/common/assets/parts/images/logo-world_rect.svg" group-title="",NHK WORLD
-#EXTVLCOPT:http-referrer=https://www3.nhk.or.jp/
-https://media-tyo.hls.nhkworld.jp/hls/w/live/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.channelnewsasia.com/sites/default/themes/mc_cna_theme/images/logo.svg?v=2" group-title="",CNA
-#EXTVLCOPT:http-referrer=https://www.channelnewsasia.com/
-https://mediacorp-nca-prod-videos-bclive.akamaized.net/6379472319112/ap-southeast-1/6057994443001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoicGE2ODB1LmVncmVzcy5wcHRpOHciLCJhY2NvdW50X2lkIjoiNjA1Nzk5NDQ0MzAwMSIsImVobiI6Im1lZGlhY29ycC1uY2EtcHJvZC12aWRlb3MtYmNsaXZlLmFrYW1haXplZC5uZXQiLCJpc3MiOiJibGl2ZS1wbGF5YmFjay1zb3VyY2UtYXBpIiwic3ViIjoicGF0aG1hcHRva2VuIiwiYXVkIjpbIjYwNTc5OTQ0NDMwMDEiXSwianRpIjoiNjM3OTQ3MjMxOTExMiJ9.Cw77amOc6efNO32Sw9nD0SOhjQUc5ewKN8ZWJOPt15Y/playlist-hls.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.aljazeera.com/images/icon-dark-loader.svg" group-title="",Al Jazeera
-#EXTVLCOPT:http-referrer=https://www.aljazeera.com/
-https://live-hls-web-aje-gcp.thehlive.com/AJE/index.m3u8
 
 #EXTINF:-1  tvg-id="576059" group-title="SEA Games 2025" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='10298961'&EntityType='Item'&EntityId='576059'&Width=289&Height=250", SEA Games CH01_ott.navigator
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -571,6 +553,7 @@ http://fastopen.live:8080/MLS003/qZj4zbPNDn/102396
 http://fastopen.live:8080/MLS003/qZj4zbPNDn/102395
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/2YspMjBW/shareext-logo-australia.png" group-title="SHAREEXT@ AUS_NEWZEALAND || SPORTS", SkySport Select HD 
 http://fastopen.live:8080/MLS003/qZj4zbPNDn/102394
+
 
 
 
