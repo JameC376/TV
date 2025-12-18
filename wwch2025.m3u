@@ -1,16 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/02z6jV97-1920.jpg" group-title="VBTV",19:55 Sada Cruzeiro (BRA) - Swehly Sports Club (LBA)
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/N1jXYi58/live.isml/.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/uPbySK1T-1920.jpg" group-title="VBTV",23:20 Sir Sicoma Monini Perugia (ITA) - Osaka Bluteon (JPN)
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/U6GtdlbB/live.isml/.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/FIDx8mMj-1920.jpg" group-title="VBTV",23:20 Steam Hemarpol Politechnika Częstochowa - ZAKSA Kedzierzyn Kozle | Round 12
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/rrFKgWYr/live.isml/.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/Ce5xDBTJ-1920.jpg" group-title="VBTV",02:55 Al-Rayyan Sports Club (QAT) - Aluron CMC Warta Zawiercie (POL)
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/VjiLeOQB/live.isml/.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/ipfQncpU-1920.jpg" group-title="VBTV",04:55 Itambe Minas - Sesi Bauru | Round 3
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/aWQTyTsJ/live.isml/.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/bLidTqQx-1920.jpg" group-title="VBTV",06:20 Volei Renata Campinas (BRA) - Praia (BRA)
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/5nzJgG4E/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/9m2VPlL9-1920.jpg" group-title="VBTV",19:55 Sada Cruzeiro (BRA) - Sir Sicoma Monini Perugia (ITA)
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/tqZjp8Nt/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/vN5GG9ld-1920.jpg" group-title="VBTV",23:20 Swehly Sports Club (LBA) - Osaka Bluteon (JPN)
@@ -39,10 +27,10 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/W3UCcp4v/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/hzDlJ8Fb/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/Q3rWpDVv-1920.jpg" group-title="VBTV",20:35 Indykpol AZS Olsztyn - Asseco Resovia Rzeszow | Round 13
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/PLXQxEhp/live.isml/.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="VBTV",
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="VBTV",
-
+#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/pOJqSjp6-1920.jpg" group-title="VBTV",23:20 ZAKSA Kedzierzyn Kozle - InPost ChKS Chelm | Round 13
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/FBnkJS6q/live.isml/.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/vBmfJV8f-1920.jpg" group-title="VBTV",23:55 Gas Sales Bluenergy Piacenza - Rana Verona | Round 12
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/yVC9tN8P/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="VBTV",
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="VBTV",
