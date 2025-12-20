@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/fpIKmIe7-1920.jpg" group-title="VBTV",06:55 Sancor Seguros Volei - Paulistano Barueri | Round 11
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/W3UCcp4v/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/rM3FIA4I-1920.jpg" group-title="VBTV",18:20 Slepsk Malow Suwalki - Barkom Kazany Lwow | Round 13
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/hzDlJ8Fb/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/Q3rWpDVv-1920.jpg" group-title="VBTV",20:35 Indykpol AZS Olsztyn - Asseco Resovia Rzeszow | Round 13
@@ -39,8 +37,8 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/fiMGxo5y/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/rjowpahN/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/7Jbu8YSA-1920.jpg" group-title="VBTV",20:55 Saneago Goias - Itambe Minas | Round 11
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/kZhjfZUc/live.isml/.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="VBTV",
-
+#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/228j6MuA-1920.jpg" group-title="VBTV",22:55 MA Acqua S.Bernardo Cuneo - Cucine Lube Civitanova | Round 12
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/9zcjQFYp/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="VBTV",
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="VBTV",
