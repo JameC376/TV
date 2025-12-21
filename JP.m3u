@@ -1,0 +1,167 @@
+#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_JP2.xml.gz, https://mytvsuperepg.860775.xyz/epg.xml"
+
+#EXTINF:-1 tvg-chno="1" tvg-id="ＮＨＫ総合１・東京.jp" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/nhk_general_tv.jpg", NHKG
+http://nl.utako.moe/NHK_G/index.m3u8
+https://stream02.willfonk.com/live_playlist.m3u8?cid=BS291&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd01
+
+#EXTINF:-1 tvg-chno="2" tvg-id="ＮＨＫＥテレ１・東京.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/NHK_logo.svg/530px-NHK_logo.svg.png", NHKE
+http://nl.utako.moe/NHK_E/index.m3u8
+https://stream02.willfonk.com/live_playlist.m3u8?cid=BS292&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd02
+
+#EXTINF:-1 tvg-chno="3" tvg-id="日テレ.jp" tvg-logo="https://wikizilla.org/w/images/thumb/0/07/Nippon_tv_logo_2014.png/250px-Nippon_tv_logo_2014.png", 日テレ
+http://nl.utako.moe/Nippon_TV/index.m3u8
+https://stream02.willfonk.com/live_playlist.m3u8?cid=BS294&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd03
+
+#EXTINF:-1 tvg-chno="4" tvg-id="ＴＢＳ.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/8/8e/TBS_Television_logo.svg/100px-TBS_Television_logo.svg.png", TBS
+http://nl.utako.moe/TBS/index.m3u8
+https://stream02.willfonk.com/live_playlist.m3u8?cid=BS296&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd04
+
+#EXTINF:-1 tvg-chno="5" tvg-id="フジテレビ.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e9/Fuji_TV_logo.svg/225px-Fuji_TV_logo.svg.png", Fujiテレビ
+http://nl.utako.moe/Fuji_TV/index.m3u8
+https://stream02.willfonk.com/live_playlist.m3u8?cid=BS298&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd05
+
+#EXTINF:-1 tvg-chno="6" tvg-id="テレビ朝日.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/1200px-TV_Asahi_Logo.svg.png", テレビ朝日
+http://nl.utako.moe/TV_Asahi/index.m3u8
+https://stream02.willfonk.com/live_playlist.m3u8?cid=BS295&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd06
+
+#EXTINF:-1 tvg-chno="7" tvg-id="テレビ東京.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/TV_Tokyo_logo_20110629.svg/330px-TV_Tokyo_logo_20110629.svg.png", テレビ東京
+http://nl.utako.moe/TV_Tokyo/index.m3u8
+https://stream02.willfonk.com/live_playlist.m3u8?cid=BS297&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd07
+
+#EXTINF:-1 tvg-chno="8" tvg-id="ＴＯＫＹＯ　ＭＸ１.jp", Tokyo MX1
+http://nl.utako.moe/Tokyo_MX1/index.m3u8
+#http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd08
+
+#EXTINF:-1 tvg-chno="9" tvg-id="ＴＯＫＹＯ　ＭＸ2.jp", Tokyo MX2
+http://nl.utako.moe/Tokyo_MX2/index.m3u8
+
+#EXTINF:-1 tvg-chno="10" tvg-id="ＭＢＳ毎日放送・大阪.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Mainichi_Broadcasting_System_logo.svg/2560px-Mainichi_Broadcasting_System_logo.svg.png", MBS
+http://nl.utako.moe/mbs/index.m3u8
+#http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx01&isp=10&bind=0&uin=159413&playseek=0
+
+#EXTINF:-1 tvg-chno="11" tvg-id="ＡＢＣテレビ・大阪.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Asahi_Broadcasting_Corporation_Logo.svg/2560px-Asahi_Broadcasting_Corporation_Logo.svg.png", ABC
+http://nl.utako.moe/abc/index.m3u8
+#http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx02&isp=10&bind=0&uin=159413&playseek=0
+
+#EXTINF:-1 tvg-chno="12" tvg-id="関西テレビ・大阪.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Ktv_logo.svg/2560px-Ktv_logo.svg.png", Kansai TV
+http://nl.utako.moe/kansaitv/index.m3u8
+#http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx03&isp=10&bind=0&uin=159413&playseek=0
+
+#EXTINF:-1 tvg-chno="13" tvg-id="よみうりテレビ・大阪.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Yomiuri_Telecasting_Corporation_Logo.svg/2560px-Yomiuri_Telecasting_Corporation_Logo.svg.png", Yomiuri TV
+http://nl.utako.moe/ytv/index.m3u8
+#http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx04&isp=10&bind=0&uin=159413&playseek=0
+
+#EXTINF:-1 tvg-chno="14" tvg-id="テレビ大阪・大阪.jp" tvg-logo="https://seeklogo.com/images/T/tv-osaka-logo-8BA164D52E-seeklogo.com.png", TV Osaka
+http://nl.utako.moe/tvo/index.m3u8
+#http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx05&isp=10&bind=0&uin=159413&playseek=0
+
+#EXTINF:-1 tvg-chno="15" tvg-id="kbs", KBS京都
+http://us1001.utako.moe/kbs/index.m3u8
+
+#EXTINF:-1 tvg-chno="16" tvg-id="suntv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/SUN-TV_wordmark_2019.png", SUN TV
+http://nl.utako.moe/suntv/index.m3u8
+#http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx07&isp=10&bind=0&uin=159413&playseek=0
+
+#EXTINF:-1 tvg-chno="20", NHK World
+https://master.nhkworld.jp/nhkworld-tv/playlist/live.m3u8
+
+#EXTINF:-1 tvg-chno="21", NHK Premium
+https://cdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
+
+#EXTINF:-1 tvg-chno="22", NHK BS
+http://nl.utako.moe/NHK_BS/index.m3u8
+
+#EXTINF:-1 tvg-chno="23", NHK BSP 4K
+http://nl.utako.moe/bsp4k/index.m3u8
+
+#EXTINF:-1 tvg-chno="24", BSテレ東 4K
+http://nl.utako.moe/bstx4k/index.m3u8
+
+#EXTINF:-1 tvg-chno="30" tvg-id="CRE" tvg-name="創世電視" tvg-logo="https://xiaotan.860775.xyz/創世電視.png" group-title="其它頻道", 創世電視
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=adef00c5ba927d01642b1e6f3cedc9fb:b45d912fec43b5bbd418ea7ea1fbcb60
+https://mytvsuper.27481716.xyz/mytvsuper/CRE
+
+#EXTINF:-1 tvg-chno="31" tvg-id="31" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/RTHK_TV_31.svg/240px-RTHK_TV_31.svg.png", RTHK31
+http://rthklive1-lh.akamaihd.net:80/i/rthk31_1@167495/index_5400_av-p.m3u8
+
+#EXTINF:-1 tvg-chno="32" tvg-id="32" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/RTHK_TV_32.svg/330px-RTHK_TV_32.svg.png", RTHK32
+https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/master.m3u8
+
+#EXTINF:-1 tvg-chno="77" tvg-id="77" tvg-logo="http://www.hkopentv.com/assets/images/opentv_logo.png", HoyTV
+https://hoytv-live-stream.hoy.tv/ch77/index-fhd.m3u8
+http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
+
+#EXTINF:-1 tvg-chno="78" tvg-id="78", HoyTV 78
+https://hoytv-live-stream.hoy.tv/ch78/index-fhd.m3u8
+
+#EXTINF:-1 tvg-chno="81" tvg-id="J" tvg-name="翡翠台" tvg-logo="https://assets.livednow.com/logo/翡翠台.png" group-title="綜合頻道", 翡翠台
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0958b9c657622c465a6205eb2252b8ed:2d2fd7b1661b1e28de38268872b48480
+https://mytvsuper.27481716.xyz/mytvsuper/J
+
+#EXTINF:-1 tvg-chno="82" tvg-id="B" tvg-name="TVB Plus" tvg-logo="https://xiaotan.860775.xyz/TVB Plus.png" group-title="綜合頻道", TVB Plus
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=56603b65fa1d7383b6ef0e73b9ae69fa:5d9d8e957d2e45d8189a56fe8665aaaa
+https://mytvsuper.27481716.xyz/mytvsuper/B
+
+#EXTINF:-1 tvg-chno="83" tvg-id="C" tvg-name="無線新聞台" tvg-logo="https://assets.livednow.com/logo/無線新聞台.png" group-title="新聞財經", 無線新聞台
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=90a0bd01d9f6cbb39839cd9b68fc26bc:51546d1f2af0547f0e961995b60a32a1
+https://mytvsuper.27481716.xyz/mytvsuper/C
+
+#EXTINF:-1 tvg-chno="84" tvg-id="P" tvg-name="明珠台" tvg-logo="https://assets.livednow.com/logo/明珠台.png" group-title="新聞財經", 明珠台
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e04facdd91354deee318c674993b74c1:8f97a629de680af93a652c3102b65898
+https://mytvsuper.27481716.xyz/mytvsuper/P
+
+#EXTINF:-1 tvg-chno="86" tvg-id="CTVS" tvg-name="亞洲劇台" tvg-logo="https://assets.livednow.com/logo/亞洲劇台.png" group-title="電影戲劇", 亞洲劇台
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=df5c0e617dffc3e3c44cb733dccb33c0:7d00ec9cd4f54d5baf94c03edc8cfe25
+https://mytvsuper.27481716.xyz/mytvsuper/CTVS
+
+#EXTINF:-1 tvg-chno="87" tvg-id="CCLM" tvg-name="粵語片台" tvg-logo="https://assets.livednow.com/logo/粵語片台.png" group-title="電影戲劇", 粵語片台
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5b90da7fd2f018bf85a757241075626f:75c0897b4cf5ce154ddae86eddb79cd3
+https://mytvsuper.27481716.xyz/mytvsuper/CCLM
+
+#EXTINF:-1 tvg-chno="88" tvg-id="CANI" tvg-name="Animax" tvg-logo="https://php.946985.xyz/logo/Animax.png" group-title="電影戲劇", Animax
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b1a073dbd8272b0c99940db624ce8d74:9fec26ff4c6774a8bde881e5cb0fe82e
+https://mytvsuper.27481716.xyz/mytvsuper/CANI
+
+#EXTINF:-1 tvg-chno="96" tvg-id="viu6" tvg-name="Viu 6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ViuTVsix-logo.svg/420px-ViuTVsix-logo.svg.png" group-title="", Viu 6
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=91ba752a446148c68400d78374b178b4:a01d7dc4edf582496b7e73d67e9e6899
+https://ewcdn104.nowe.com/session/p8-5-e20287551dd-4627c24058d4476/Content/DASH_VOS3/Live/channel(VOS_CH096)/manifest.mpd?token=58e0754e7b153795d2f5341c0db0cf20_1750705571
+
+#EXTINF:-1 tvg-chno="99" tvg-id="viutv" tvg-name="Viu TV" tvg-logo="https://viu.tv/staticV3/images/nav/icon_viutv.png" group-title="", Viu TV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=91ba752a446148c68400d78374b178b4:a01d7dc4edf582496b7e73d67e9e6899
+https://ewcdn16.nowe.com/session/p8-1-eedd154d3b6-0000anonymous_u/Content/HLS_VOS1/Live/channel(VOS_CH099)/index.m3u8?token=885510f9c3c6c97d5b84ed8fdb119882_1752662297
+
+#EXTINF:-1 tvg-chno="331" tvg-id="now331" tvg-name="Now 331" tvg-logo="" group-title="", Now 331
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=94c69900700132fe80a89664b69db743:038f7a70a1e701e8f64bfc9978155dba
+https://ewcdn101.nowe.com/session/10-3b7edb300166714ac2a74d11481e5/Content/DASH_VOS3/Live/channel(VOS_CH331)/manifest.mpd?token=27565f9020474369d37a413e456c7c23_1750706211
+
+#EXTINF:-1 tvg-chno="332" tvg-id="now332" tvg-name="Now 332" tvg-logo="" group-title="", Now 332
+https://ewcdn16.nowe.com/session/10-a61efaaebeeeab165a586a7dee2ea/Content/DASH_VOS3/Live/channel(VOS_CH332N)/manifest.mpd?token=a8d69c8f9ce85012e97968e5a12ff2f1_1751205712|Origin=https://news.now.com|Referer=https://news.now.com|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.7151.104 Safari/537.36
