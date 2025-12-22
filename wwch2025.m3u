@@ -1,26 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/bH1n5lEH-1920.jpg" group-title="VBTV",20:35 Cuprum Stilon Gorzow - JSW Jastrzebski Wegiel | Round 13
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/rjowpahN/live.isml/.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/7Jbu8YSA-1920.jpg" group-title="VBTV",20:55 Saneago Goias - Itambe Minas | Round 11
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/kZhjfZUc/live.isml/.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/228j6MuA-1920.jpg" group-title="VBTV",22:55 MA Acqua S.Bernardo Cuneo - Cucine Lube Civitanova | Round 12
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/9zcjQFYp/live.isml/.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/SgLle3IS-1920.jpg" group-title="VBTV",23:20 Steam Hemarpol Politechnika Częstochowa - Energa Trefl Gdansk | Round 13
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/nRHeqzSh/live.isml/.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/ZT4YNPrO-1920.jpg" group-title="VBTV",23:55 Sonepar Padova - Itas Trentino | Round 12
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/EUFERs6z/live.isml/.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/Sjq3OdVb-1920.jpg" group-title="VBTV",23:55 Yuasa Battery Grottazzolina - Allianz Milano | Round 12
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/SRmFmc8y/live.isml/.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/bTRs5ZGJ-1920.jpg" group-title="VBTV",00:55 Valsa Group Modena - Cisterna Volley | Round 12
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/tIiyjjUu/live.isml/.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/jbh7v9Zz-1920.jpg" group-title="VBTV",00:55 3rd place match: Aluron CMC Warta Zawiercie (POL) - Volei Renata Campinas (BRA)
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/6bAkDDtJ/live.isml/.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/C4uLMsjN-1920.jpg" group-title="VBTV",01:55 ITA TOOLS Stal Mielec - LOTTO Chemik Police | Round 11
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/wXCLmBsH/live.isml/.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/BXbeBOnS-1920.jpg" group-title="VBTV",04:20 Brasilia Volei - Fluminense | Round 11
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/BleraAp2/live.isml/.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/imsUOgSg-1920.jpg" group-title="VBTV",04:20 Final: Osaka Bluteon (JPN) - Sir Sicoma Monini Perugia (ITA)
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/1ZfvCQ1O/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/oUQpqP0G-1920.jpg" group-title="VBTV",23:20 LKS Commercecon Lodz - KS DevelopRes Rzeszow | Round 11
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/6MqTiSQu/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/rm8XR7zU-1920.jpg" group-title="VBTV",01:55 ECO HARPOON LOS Nowy Dwor Mazowiecki - Metalkas Palac Bydgoszcz | Round 11
@@ -39,28 +17,28 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/GvCrP2sT/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/rv2pWWyL/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/14PEu2ny-1920.jpg" group-title="VBTV",02:20 Prosecco Doc A.Carraro Imoco Conegliano - Omag-Mt San Giovanni In Marignano | Round 16
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/jUgZ7thl/live.isml/.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="VBTV",
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="VBTV",
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="VBTV",
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="VBTV",
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="VBTV",
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="VBTV",
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="VBTV",
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="VBTV",
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="VBTV",
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="VBTV",
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="VBTV",
-
+#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/xMNSSxWb-1920.jpg" group-title="VBTV",02:20 Bergamo - Eurotek Laica Uyba | Round 16
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/aW5yP7qY/live.isml/.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/Ky4UM21p-1920.jpg" group-title="VBTV",02:20 Cbf Balducci Hr Macerata - Il Bisonte Firenze | Round 16
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/5Lp5iXuC/live.isml/.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/WlkATRM9-1920.jpg" group-title="VBTV",02:20 Savino Del Bene Scandicci - Honda Cuneo Granda Volley | Round 16
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/86DsJAMb/live.isml/.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/POCEkOAh-1920.jpg" group-title="VBTV",02:20 Wash4green Monviso Volley - Bartoccini-Mc Restauri Perugia | Round 16
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/7VKXoDUm/live.isml/.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/QDcsxvCN-1920.jpg" group-title="VBTV",21:55 Omag-Mt San Giovanni In Marignano - Megabox Ondulati Del Savio Vallefoglia | Round 17
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/zM4Kt1TD/live.isml/.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/1mWGgErf-1920.jpg" group-title="VBTV",21:55 Cucine Lube Civitanova - Gas Sales Bluenergy Piacenza | Round 13
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/KIy4RDnl/live.isml/.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/Jug5Y6gY-1920.jpg" group-title="VBTV",22:55 Igor Gorgonzola Novara - Bergamo | Round 17
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/Gor7njpJ/live.isml/.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/0q2aRDmf-1920.jpg" group-title="VBTV",22:55 Bartoccini-Mc Restauri Perugia - Cbf Balducci Hr Macerata | Round 17
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/PrGvtlI7/live.isml/.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/2oFP3gUj-1920.jpg" group-title="VBTV",22:55 Honda Cuneo Granda Volley - Wash4green Monviso Volley | Round 17
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/wA5OdIMb/live.isml/.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/ugO84dcY-1920.jpg" group-title="VBTV",22:55 Rana Verona - Yuasa Battery Grottazzolina | Round 13
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/4bWfSlCv/live.isml/.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/sRm2w7Hc-1920.jpg" group-title="VBTV",23:55 Eurotek Laica Uyba - Reale Mutua Fenera Chieri 76 | Round 17
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/T2tOxKUw/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="VBTV",
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="VBTV",
