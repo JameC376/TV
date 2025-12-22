@@ -84,6 +84,21 @@ http://nl.utako.moe/bsp4k/index.m3u8
 #EXTINF:-1 tvg-chno="24", BSテレ東 4K
 http://nl.utako.moe/bstx4k/index.m3u8
 
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-logo="https://www.starcat.co.jp/ch/upload/channel/69/jsports1_logo.jpg",JSport 1
+https://nl.utako.moe/js1/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-logo="https://www.starcat.co.jp/ch/upload/channel/70/jsports2_logo.jpg",JSport 2
+https://nl.utako.moe/js2/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-logo="https://www.starcat.co.jp/ch/upload/channel/70/jsports3_logo.jpg",JSport 3
+https://nl.utako.moe/js3/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-logo="https://www.starcat.co.jp/ch/upload/channel/70/jsports4_logo.jpg",JSport 4
+https://nl.utako.moe/js4/index.m3u8
+
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-logo="https://www.bs-asahi.co.jp/wp-content/uploads/2021/06/oglogo.jpg",BS朝日
+https://nl.utako.moe/bsasahi/index.m3u8
+
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/BS-TBS_2020.svg/1920px-BS-TBS_2020.svg.png",BS TBS
+https://nl.utako.moe/bstbs/index.m3u8
+
 #EXTINF:-1 tvg-chno="30" tvg-id="CRE" tvg-name="創世電視" tvg-logo="https://xiaotan.860775.xyz/創世電視.png" group-title="其它頻道", 創世電視
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
