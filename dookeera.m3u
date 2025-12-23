@@ -112,10 +112,17 @@ https://live2.stream.liveplayback.net/dookeela/truetennis/playlist.m3u8?wmsAuthS
 #EXTINF:-1 tvg-id="" tvg-logo="https://dookeela4.live/uploads/1753040687.png" group-title="Sports",W-Sport
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://dookeela4.live/
-https://live2.stream.liveplayback.net/dookeela/w-sport/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjIvMjAyNSwgNjowNjo0MiBBTSZoYXNoX3ZhbHVlPXptekJTSHQxYUJTQVZ3ZmZHb24xenc9PSZ2YWxpZG1pbnV0ZXM9MSZpZD03OTgzZjJmNzM2OTc5Zjk3YTg5MWQxODRmMzlkMzYzNiZjaGVja2lwPXRydWUmc3RybV9sZW49MTY=
+#EXTINF:-1 tvg-id="" tvg-logo="https://dookeela4.live/uploads/1664802455.png" group-title="Sports",truesports 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://dookeela4.live/
+https://live2.stream.liveplayback.net/dookeela/tsp1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjMvMjAyNSwgMzozMTowOSBBTSZoYXNoX3ZhbHVlPU53STNpdko3VVNGVW1raEJsUkp1NEE9PSZ2YWxpZG1pbnV0ZXM9MSZpZD03OTgzZjJmNzM2OTc5Zjk3YTg5MWQxODRmMzlkMzYzNiZjaGVja2lwPXRydWUmc3RybV9sZW49MTM=https://live2.stream.liveplayback.net/dookeela/w-sport/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjIvMjAyNSwgNjowNjo0MiBBTSZoYXNoX3ZhbHVlPXptekJTSHQxYUJTQVZ3ZmZHb24xenc9PSZ2YWxpZG1pbnV0ZXM9MSZpZD03OTgzZjJmNzM2OTc5Zjk3YTg5MWQxODRmMzlkMzYzNiZjaGVja2lwPXRydWUmc3RybV9sZW49MTY=
 #EXTINF:-1 tvg-id="" tvg-logo="https://dookeela4.live/uploads/1664802480.png" group-title="Sports",truesports 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://dookeela4.live/
+#EXTINF:-1 tvg-id="" tvg-logo="https://dookeela4.live/uploads/1664847910.png" group-title="Sports",truesports 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://dookeela4.live/
+https://live2.stream.liveplayback.net/dookeela/tsp5/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjMvMjAyNSwgMzozMjo1OSBBTSZoYXNoX3ZhbHVlPTd2dkNSZEY3SlBCVXJqZHJFV1hOVGc9PSZ2YWxpZG1pbnV0ZXM9MSZpZD03OTgzZjJmNzM2OTc5Zjk3YTg5MWQxODRmMzlkMzYzNiZjaGVja2lwPXRydWUmc3RybV9sZW49MTM=
 https://live2.stream.liveplayback.net/dookeela/tsp3/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjIvMjAyNSwgNjowNzo1OCBBTSZoYXNoX3ZhbHVlPTkvRXNad0VORyt1L3pVcTl4MG9KdXc9PSZ2YWxpZG1pbnV0ZXM9MSZpZD03OTgzZjJmNzM2OTc5Zjk3YTg5MWQxODRmMzlkMzYzNiZjaGVja2lwPXRydWUmc3RybV9sZW49MTM=
 #EXTINF:-1 tvg-id="" tvg-logo="https://dookeela4.live/uploads/1664847921.png" group-title="Sports",truesports 7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
@@ -126,10 +133,24 @@ https://live2.stream.liveplayback.net/dookeela/tsp7/playlist.m3u8?wmsAuthSign=c2
 #EXTVLCOPT:http-referrer=https://dookeela4.live/
 https://live2.stream.liveplayback.net/dookeela/bein1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjIvMjAyNSwgNjowOTozMCBBTSZoYXNoX3ZhbHVlPTVRUmZ3blY1NGhCb0lVY0JaNUtsZnc9PSZ2YWxpZG1pbnV0ZXM9MSZpZD03OTgzZjJmNzM2OTc5Zjk3YTg5MWQxODRmMzlkMzYzNiZjaGVja2lwPXRydWUmc3RybV9sZW49MTQ=
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sports",NBA Peacock
+#EXTINF:-1 tvg-id="" tvg-logo="https://corporate.comcast.com/media/img/1000w/2025/10/corporate_NBA-Sales-on-NBC-16x9-Thumbnail.jpg" group-title="Sports",NBA Peacock
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://dookeela4.live/
 https://live2.stream.liveplayback.net/dookeela/nbalpevent5/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjMvMjAyNSwgMzoxNTo1NyBBTSZoYXNoX3ZhbHVlPVEzckxXS0pGSFFsQzRyUzRiU3ptMWc9PSZ2YWxpZG1pbnV0ZXM9MSZpZD03OTgzZjJmNzM2OTc5Zjk3YTg5MWQxODRmMzlkMzYzNiZjaGVja2lwPXRydWUmc3RybV9sZW49MjA=
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.altitudesports.com/images/alttv-logo.svg" group-title="Sports",Altitude Sports
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://dookeela4.live/
+https://live2.stream.liveplayback.net/dookeela/nbalpevent4/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjMvMjAyNSwgMzoxODoyMyBBTSZoYXNoX3ZhbHVlPXhNczFHYzZ3SjUzbk5HSkEzaGUrZmc9PSZ2YWxpZG1pbnV0ZXM9MSZpZD03OTgzZjJmNzM2OTc5Zjk3YTg5MWQxODRmMzlkMzYzNiZjaGVja2lwPXRydWUmc3RybV9sZW49MjA=
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sports",NFL Play Sports 51
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://dookeela4.live/
+https://live2.stream.liveplayback.net/dookeela/playsports51/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjMvMjAyNSwgMzoyMjo0MSBBTSZoYXNoX3ZhbHVlPWRzM1VxR1o0WkxEV2twcHZDNkNaNUE9PSZ2YWxpZG1pbnV0ZXM9MSZpZD03OTgzZjJmNzM2OTc5Zjk3YTg5MWQxODRmMzlkMzYzNiZjaGVja2lwPXRydWUmc3RybV9sZW49MjE=
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sports",
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://dookeela4.live/
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sports",
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
