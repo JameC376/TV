@@ -18,3 +18,8 @@ https://tv.trueid.net/th-th/live/tnn16
 #EXTVLCOPT:http-referrer=https://tv.trueid.net/th-th
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://tv.trueid.net/th-th/live/true4u
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Ch3HDLogo.png" group-title="",3HD AIS
+#EXTVLCOPT:http-referrer=https://aisplay.ais.co.th/portal/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://aisplay.ais.co.th/portal/live?vid=59592e08bf6aee4e3ecce051
