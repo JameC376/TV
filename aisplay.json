@@ -4,12 +4,7 @@
   "url": "https://pastebin.com/edit/Gs7u1aVK",
   "image": "https://play-lh.googleusercontent.com/ZitE6e8xo2ptVNJRX8M0MEyDr5btN4yARlPy3VDntZGk48PIVLvdqafKMZ0p98huuA",
   "imageScale": "center",
-  "groups": [
-    {
-      "name": "TV",
-      "author": "",
-      "image": "https://ais-s.ais-vidnt.com/ais/play/origin/VOD/images/LIVE_TV_192.png",
-      "stations": [
+  "groups":
         {
           "name": "",
           "info": "NBT 2 HD",
