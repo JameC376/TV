@@ -46,7 +46,7 @@
           "name": "",
           "info": "T-Sports7",
           "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/T-SPorts_7_Final.png",
-          "url": "https://aisplay.ais.co.th/portal/live?vid=627a27b26dbfe345cfc8a27f",
+          "url": "https://aisplay.ais.co.th/portal/live/?vid=627a27b26dbfe345cfc8a27f",
           "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/601.3.9 (KHTML, like Gecko) Version/9.0.2 Safari/601.3.9",
           "isHost": true
         },
@@ -407,4 +407,5 @@
     },
     null
   ]
+
 }
