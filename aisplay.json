@@ -172,6 +172,16 @@
         },
         {
           "name": "",
+          "info": "Boomerang",
+          "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/Boomerang_2025.png",
+          "url": "https://aisplay.ais.co.th/portal/live?vid=597dfea47ed5a24e46f67259",
+          "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/601.3.9 (KHTML, like Gecko) Version/9.0.2 Safari/601.3.9",
+          "isHost": true
+        },
+
+        
+        {
+          "name": "",
           "info": "Video to Home 9",
           "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/V2H9TV.png",
           "url": "https://aisplay.ais.co.th/portal/live?vid=5fdb33c120ccacf849c813ef",
