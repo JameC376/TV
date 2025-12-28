@@ -1,10 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/lflwuBeG-1920.jpg" group-title="VBTV",11:55 Jtekt Stings Aichi - Hiroshima Thunders | Round 8-B
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/ZBGePPsU/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/fK1qzbzL-1920.jpg" group-title="VBTV",11:55 Victorina Himeji - Nec Red Rockets Kawasaki | Round 10-B
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/eRpLGuDD/live.isml/.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/pLwDw0Zt-1920.jpg" group-title="VBTV",11:55 Saga Hisamitsu Springs - Okayama Seagulls | Round 10-B
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/u6r47AV4/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/YtsgBnjW-1920.jpg" group-title="VBTV",11:55 Kurobe Aqua Fairies - Aranmare Yamagata | Round 10-B
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/PjvatoUT/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/cqMBwcdf-1920.jpg" group-title="VBTV",16:55 Voreas Hokkaido - Toray Arrows Shizuoka | Round 8-B
@@ -39,10 +35,10 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/GEmu0mJB/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/v6FpQtuh/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/LIs1Ceoz-1920.jpg" group-title="VBTV",10:55 Suntory Sunbirds Osaka - Tokyo Great Bears | Round 9-A
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/XPLhhLHd/live.isml/.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="VBTV",
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="VBTV",
-
+#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/VZxi66xq-1920.jpg" group-title="VBTV",10:55 Gunma Greenwings - Astemo Rivale Ibaraki | Round 11-A
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/yH4XTjqE/live.isml/.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/aFyaYYpx-1920.jpg" group-title="VBTV",10:55 Saitama Ageo Medics - Queenseis Kariya | Round 11-A
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/Lc6k74Bm/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="VBTV",
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="VBTV",
