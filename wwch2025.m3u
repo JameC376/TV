@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/O885hWgQ-1920.jpg" group-title="VBTV",23:55 Numia Vero Volley Milano - Prosecco Doc A.Carraro Imoco Conegliano | Round 17
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/LRV8wCLK/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/FKLfSokw-1920.jpg" group-title="VBTV",10:55 Suntory Sunbirds Osaka - Osaka Bluteon | Round 8-B
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/GCztHX2X/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/eqipWnH8-1920.jpg" group-title="VBTV",10:55 Saitama Ageo Medics - Gunma Greenwings | Round 10-A
@@ -39,8 +37,8 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/2ChvIoVj/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/Ymw27YqM/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/BfZloAIU-1920.jpg" group-title="VBTV",00:55 Rana Verona - Allianz Milano | Coppa Italia - Quarter-Finals
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/SjY9CRxD/live.isml/.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="VBTV",
-
+#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/bCFggcEj-1920.jpg" group-title="VBTV",00:55 ECO HARPOON LOS Nowy Dwor Mazowiecki - VolleyWroclaw | Round 12
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/TA5c8l3n/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="VBTV",
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="VBTV",
