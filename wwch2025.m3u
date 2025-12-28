@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/YtsgBnjW-1920.jpg" group-title="VBTV",11:55 Kurobe Aqua Fairies - Aranmare Yamagata | Round 10-B
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/PjvatoUT/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/cqMBwcdf-1920.jpg" group-title="VBTV",16:55 Voreas Hokkaido - Toray Arrows Shizuoka | Round 8-B
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/fflZkZAW/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/trNQ1LNO-1920.jpg" group-title="VBTV",20:35 KS DevelopRes Rzeszow - BKS BOSTIK ZGO Bielsko-Biala | Round 12
@@ -39,8 +37,8 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/yH4XTjqE/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/Lc6k74Bm/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/st9VrQNq-1920.jpg" group-title="VBTV",11:55 Victorina Himeji - Osaka Marvelous | Round 11-A
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/ZpfzK6Ew/live.isml/.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="VBTV",
-
+#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/gAoLnLxy-1920.jpg" group-title="VBTV",11:55 Jtekt Stings Aichi - Osaka Bluteon | Round 9-A
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/LTxSr0gI/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="VBTV",
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="VBTV",
