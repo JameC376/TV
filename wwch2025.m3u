@@ -1,14 +1,10 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/eqipWnH8-1920.jpg" group-title="VBTV",10:55 Saitama Ageo Medics - Gunma Greenwings | Round 10-A
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/rckPLe5y/live.isml/.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/HZY2pHPK-1920.jpg" group-title="VBTV",10:55 Queenseis Kariya - Denso Airybees | Round 10-B
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/JqERWxeP/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/fx3dbkDD-1920.jpg" group-title="VBTV",10:55 Vc Nagano Tridents - Tokyo Great Bears | Round 8-B
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/dPFmVVJT/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/qDFJK8Cc-1920.jpg" group-title="VBTV",10:55 Pfu Bluecats Ishikawa Kahoku - Osaka Marvelous | Round 10-B
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/iwGTHgrA/live.isml/.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/WRvqwPlX-1920.jpg" group-title="VBTV",11:25 Wolfdogs Nagoya - Nippon Steel Sakai Blazers | Round 8-B
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/OSXgXFf7/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/95Oslir9-1920.jpg" group-title="VBTV",11:55 Astemo Rivale Ibaraki - Toray Arrows Shiga | Round 10-B
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/opfpjpXg/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/lflwuBeG-1920.jpg" group-title="VBTV",11:55 Jtekt Stings Aichi - Hiroshima Thunders | Round 8-B
@@ -39,10 +35,10 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/SjY9CRxD/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/TA5c8l3n/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/RxcojGrV-1920.jpg" group-title="VBTV",01:20 Gas Sales Bluenergy Piacenza - Valsa Group Modena | Coppa Italia - Quarter-Finals
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/PJZVr8yv/live.isml/.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="VBTV",
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="VBTV",
-
+#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/eDWivfMT-1920.jpg" group-title="VBTV",01:55 Prosecco Doc A.Carraro Imoco Conegliano - Bergamo | Coppa Italia - Quarter-Finals
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/ho57eSm4/live.isml/.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/Y6ghcO3F-1920.jpg" group-title="VBTV",01:55 Igor Gorgonzola Novara - Numia Vero Volley Milano | Coppa Italia - Quarter-Finals
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/87UQBMHk/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="VBTV",
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="VBTV",
