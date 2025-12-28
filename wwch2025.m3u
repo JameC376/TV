@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/eqipWnH8-1920.jpg" group-title="VBTV",10:55 Saitama Ageo Medics - Gunma Greenwings | Round 10-A
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/rckPLe5y/live.isml/.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/fx3dbkDD-1920.jpg" group-title="VBTV",10:55 Vc Nagano Tridents - Tokyo Great Bears | Round 8-B
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/dPFmVVJT/live.isml/.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/95Oslir9-1920.jpg" group-title="VBTV",11:55 Astemo Rivale Ibaraki - Toray Arrows Shiga | Round 10-B
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/opfpjpXg/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/lflwuBeG-1920.jpg" group-title="VBTV",11:55 Jtekt Stings Aichi - Hiroshima Thunders | Round 8-B
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/ZBGePPsU/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/fK1qzbzL-1920.jpg" group-title="VBTV",11:55 Victorina Himeji - Nec Red Rockets Kawasaki | Round 10-B
@@ -39,12 +33,12 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/ho57eSm4/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/87UQBMHk/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/GA6pdnzS-1920.jpg" group-title="VBTV",02:20 Sir Susa Scai Perugia - Cucine Lube Civitanova | Coppa Italia - Quarter-Finals
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/oTAowGpd/live.isml/.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="VBTV",
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="VBTV",
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="VBTV",
-
+#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/xSSJyEUA-1920.jpg" group-title="VBTV",02:20 Reale Mutua Fenera Chieri 76 - Eurotek Laica Uyba | Coppa Italia - Quarter-Finals
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/GEmu0mJB/live.isml/.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/B6dx5ITu-1920.jpg" group-title="VBTV",23:20 Energa Trefl Gdansk - Asseco Resovia Rzeszow | Round 15
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/v6FpQtuh/live.isml/.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/LIs1Ceoz-1920.jpg" group-title="VBTV",10:55 Suntory Sunbirds Osaka - Tokyo Great Bears | Round 9-A
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/XPLhhLHd/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="VBTV",
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="VBTV",
