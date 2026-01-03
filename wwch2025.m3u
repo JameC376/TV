@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/B6dx5ITu-1920.jpg" group-title="VBTV",23:20 Energa Trefl Gdansk - Asseco Resovia Rzeszow | Round 15
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/v6FpQtuh/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/LIs1Ceoz-1920.jpg" group-title="VBTV",10:55 Suntory Sunbirds Osaka - Tokyo Great Bears | Round 9-A
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/XPLhhLHd/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/VZxi66xq-1920.jpg" group-title="VBTV",10:55 Gunma Greenwings - Astemo Rivale Ibaraki | Round 11-A
@@ -39,8 +37,8 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/SROXye7D/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/I0rTjwBp/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/5d5LRzAR-1920.jpg" group-title="VBTV",11:25 Wolfdogs Nagoya - Vc Nagano Tridents | Round 9-B
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/anyMPogL/live.isml/.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="VBTV",
-
+#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/ClgzZSj8-1920.jpg" group-title="VBTV",11:55 Jtekt Stings Aichi - Osaka Bluteon | Round 9-B
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/KN5n6H2C/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="VBTV",
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="VBTV",
