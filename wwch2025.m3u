@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/oifQyHPF-1920.jpg" group-title="VBTV",20:35 Indykpol AZS Olsztyn - PGE GiEK SKRA Belchatow | Round 15
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/D6iARKBF/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/zdmCW8Iy-1920.jpg" group-title="VBTV",21:55 Megabox Ondulati Del Savio Vallefoglia - Eurotek Laica Uyba | Round 18
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/oLV2slXk/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/xUW08DFV-1920.jpg" group-title="VBTV",21:55 Sir Susa Scai Perugia - Allianz Milano | Round 14
@@ -39,8 +37,8 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/HwAiEhsg/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/jePiBNSL/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/ZKNkip36-1920.jpg" group-title="VBTV",06:55 Osasco Sao Cristovao Saude - Tijuca Tenis Clube | Round 12
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/dHsi42Rd/live.isml/.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="VBTV",
-
+#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/SZfPrIou-1920.jpg" group-title="VBTV",23:20 PGE Budowlani Lodz - Sokol & Hagric Mogilno | Round 13
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/vSBJdusK/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="VBTV",
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="VBTV",
