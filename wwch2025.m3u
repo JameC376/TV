@@ -1,18 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/yCmZsKCr-1920.jpg" group-title="VBTV",10:55 Suntory Sunbirds Osaka - Tokyo Great Bears | Round 9-B
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/Z5nWGeFn/live.isml/.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/gFTEkN7f-1920.jpg" group-title="VBTV",10:55 Nippon Steel Sakai Blazers - Toray Arrows Shizuoka | Round 9-B
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/Ncg0GwQt/live.isml/.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/yPWjcYfa-1920.jpg" group-title="VBTV",10:55 Saitama Ageo Medics - Queenseis Kariya | Round 11-B
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/SROXye7D/live.isml/.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/960p4zqs-1920.jpg" group-title="VBTV",10:55 Gunma Greenwings - Astemo Rivale Ibaraki | Round 11-B
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/I0rTjwBp/live.isml/.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/5d5LRzAR-1920.jpg" group-title="VBTV",11:25 Wolfdogs Nagoya - Vc Nagano Tridents | Round 9-B
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/anyMPogL/live.isml/.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/ClgzZSj8-1920.jpg" group-title="VBTV",11:55 Jtekt Stings Aichi - Osaka Bluteon | Round 9-B
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/KN5n6H2C/live.isml/.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/ZtoiPZim-1920.jpg" group-title="VBTV",11:55 Victorina Himeji - Osaka Marvelous | Round 11-B
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/aCIsRXW2/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/oifQyHPF-1920.jpg" group-title="VBTV",20:35 Indykpol AZS Olsztyn - PGE GiEK SKRA Belchatow | Round 15
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/D6iARKBF/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/zdmCW8Iy-1920.jpg" group-title="VBTV",21:55 Megabox Ondulati Del Savio Vallefoglia - Eurotek Laica Uyba | Round 18
@@ -39,20 +25,20 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/5n9eAQEM/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/YURHrEDY/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/Wx6D5xfW-1920.jpg" group-title="VBTV",20:55 Indykpol AZS Olsztyn - Barkom Kazany Lwow | Round 16
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/05litHWP/live.isml/.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="VBTV",
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="VBTV",
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="VBTV",
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="VBTV",
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="VBTV",
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="VBTV",
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="VBTV",
-
+#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/E6ICDWLK-1920.jpg" group-title="VBTV",22:20 Sokol & Hagric Mogilno - LOTTO Chemik Police | Round 12
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/cZ1J6j7z/live.isml/.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/2HgL3f4O-1920.jpg" group-title="VBTV",04:20 Batavo Mackenzie - Gerdau Minas | Round 12
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/Ig4B3wKQ/live.isml/.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/eHxhfh77-1920.jpg" group-title="VBTV",05:55 Sancor Seguros Volei - Fluminense | Round 12
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/28UOVQJT/live.isml/.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/dLCACtjA-1920.jpg" group-title="VBTV",06:55 Brasilia Volei - Dentil Praia Clube | Round 12
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/czLkt2xC/live.isml/.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/gAKYXkaw-1920.jpg" group-title="VBTV",04:20 Renasce Sorocaba - Sesi Volei Bauru | Round 12
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/HwAiEhsg/live.isml/.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/IxKX3XR6-1920.jpg" group-title="VBTV",06:55 Paulistano Barueri - SESC RJ Flamengo | Round 12
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/jePiBNSL/live.isml/.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/ZKNkip36-1920.jpg" group-title="VBTV",06:55 Osasco Sao Cristovao Saude - Tijuca Tenis Clube | Round 12
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/dHsi42Rd/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="VBTV",
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="VBTV",
