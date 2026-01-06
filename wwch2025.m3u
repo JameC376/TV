@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/1PyyRS0u-1920.jpg" group-title="VBTV",23:20 Cuprum Stilon Gorzow - InPost ChKS Chelm | Round 15
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/YURHrEDY/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/Wx6D5xfW-1920.jpg" group-title="VBTV",20:55 Indykpol AZS Olsztyn - Barkom Kazany Lwow | Round 16
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/05litHWP/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/E6ICDWLK-1920.jpg" group-title="VBTV",22:20 Sokol & Hagric Mogilno - LOTTO Chemik Police | Round 12
@@ -39,8 +37,8 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/gDLaHHoi/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/9yEygoWV/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/ed22zlYG-1920.jpg" group-title="VBTV",11:55 Kurobe Aqua Fairies - Denso Airybees | Round 12-A
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/FmemBncA/live.isml/.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="VBTV",
-
+#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/wMPNWb10-1920.jpg" group-title="VBTV",11:55 Astemo Rivale Ibaraki - Victorina Himeji | Round 12-A
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/Vk0mgZqm/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="VBTV",
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="VBTV",
