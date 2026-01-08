@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/gAKYXkaw-1920.jpg" group-title="VBTV",04:20 Renasce Sorocaba - Sesi Volei Bauru | Round 12
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/HwAiEhsg/live.isml/.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/IxKX3XR6-1920.jpg" group-title="VBTV",06:55 Paulistano Barueri - SESC RJ Flamengo | Round 12
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/jePiBNSL/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/ZKNkip36-1920.jpg" group-title="VBTV",06:55 Osasco Sao Cristovao Saude - Tijuca Tenis Clube | Round 12
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/dHsi42Rd/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/SZfPrIou-1920.jpg" group-title="VBTV",23:20 PGE Budowlani Lodz - Sokol & Hagric Mogilno | Round 13
@@ -39,10 +35,10 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/jqmtbl2u/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/6Y5LPrx5/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/BdXrsLj1-1920.jpg" group-title="VBTV",12:55 Nippon Steel Sakai Blazers - Vc Nagano Tridents | Round 10-A
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/qVfpZIGt/live.isml/.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="VBTV",
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="VBTV",
-
+#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/8B3gN9ei-1920.jpg" group-title="VBTV",12:55 Toray Arrows Shiga - Nec Red Rockets Kawasaki | Round 12-A
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/jJzxMfA1/live.isml/.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/VC7dnpux-1920.jpg" group-title="VBTV",18:20 LOTTO Chemik Police - ECO HARPOON LOS Nowy Dwor Mazowiecki | Round 13
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/6iTXQ5hi/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="VBTV",
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="VBTV",
