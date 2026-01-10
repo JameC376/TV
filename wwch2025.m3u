@@ -1,12 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/XZJMmG3g-1920.jpg" group-title="VBTV",01:55 Energa Trefl Gdansk - Slepsk Malow Suwalki | Round 16
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/IDHchQJj/live.isml/.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/XFjnm4Bm-1920.jpg" group-title="VBTV",04:20 Joinville Volei - Sesi Bauru | Round 12
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/nFd4vsnU/live.isml/.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/SIytkyFq-1920.jpg" group-title="VBTV",04:20 JF Volei - Sada Cruzeiro | Round 12
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/4tq9p6tz/live.isml/.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/JYFCEDfO-1920.jpg" group-title="VBTV",05:55 Sicoob Monte Carmelo - Volei Renata | Round 12
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/Y9suKV09/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/yhgHq0Q4-1920.jpg" group-title="VBTV",06:55 Itambe Minas - Bateubet Volei Guarulhos | Round 12
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/NhUtaDD9/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/trZr3lnb-1920.jpg" group-title="VBTV",10:55 Saitama Ageo Medics - Aranmare Yamagata | Round 12-A
@@ -37,16 +29,16 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/jJzxMfA1/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/6iTXQ5hi/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/XFUGutzj-1920.jpg" group-title="VBTV",20:35 BOGDANKA LUK Lublin - Indykpol AZS Olsztyn | Polish Cup Semi-Final 1
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/INmNWsnF/live.isml/.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="VBTV",
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="VBTV",
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="VBTV",
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="VBTV",
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="VBTV",
-
+#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/istqyQL8-1920.jpg" group-title="VBTV",23:55 PGE Projekt Warszawa - Asseco Resovia Rzeszow | Polish Cup Semi-Final 2
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/EPyeZBwz/live.isml/.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/emhBW2UI-1920.jpg" group-title="VBTV",00:20 MA Acqua S.Bernardo Cuneo - Yuasa Battery Grottazzolina | Round 15
+\https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/jbd0boCT/live.isml/.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/xpxrTP2g-1920.jpg" group-title="VBTV",02:20 Omag-Mt San Giovanni In Marignano - Cbf Balducci Hr Macerata | Round 19
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/ZRfXAKTa/live.isml/.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/Q1VvfQ1b-1920.jpg" group-title="VBTV",02:20 Metalkas Palac Bydgoszcz - LKS Commercecon Lodz | Round 13
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/1z0kX98C/live.isml/.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/WVVTJ12q-1920.jpg" group-title="VBTV",04:20 Praia Clube Uberlandia Volei - Saneago Goias | Round 12
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/D9Quqt0s/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="VBTV",
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="VBTV",
