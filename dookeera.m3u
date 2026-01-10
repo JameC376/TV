@@ -147,13 +147,15 @@ https://live2.stream.liveplayback.net/dookeela/playsports51/playlist.m3u8?wmsAut
 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sports",
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sports",Roku Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://dookeela4.live/
+#EXTVLCOPT:http-referrer=https://therokuchannel.roku.com/
+https://osm-use1.sr.roku.com/osm/v1/dash/use1/manifest/6af100daf33945c0b2178d0868e909a4/aa2b924269c645b997bfd26902d112c7/index.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sports",
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://dookeela4.live/
+
 
 
 
