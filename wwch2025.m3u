@@ -1,12 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/lKgKqPzC-1920.jpg" group-title="VBTV",11:55 Tokyo Great Bears - Wolfdogs Nagoya | Round 10-A
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/9yEygoWV/live.isml/.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/ftU2TmYe-1920.jpg" group-title="VBTV",11:55 Toray Arrows Shizuoka - Jtekt Stings Aichi | Round 10-A
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/02IVIrYt/live.isml/.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/BdXrsLj1-1920.jpg" group-title="VBTV",12:55 Nippon Steel Sakai Blazers - Vc Nagano Tridents | Round 10-A
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/qVfpZIGt/live.isml/.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/8B3gN9ei-1920.jpg" group-title="VBTV",12:55 Toray Arrows Shiga - Nec Red Rockets Kawasaki | Round 12-A
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/jJzxMfA1/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/VC7dnpux-1920.jpg" group-title="VBTV",18:20 LOTTO Chemik Police - ECO HARPOON LOS Nowy Dwor Mazowiecki | Round 13
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/6iTXQ5hi/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/XFUGutzj-1920.jpg" group-title="VBTV",20:35 BOGDANKA LUK Lublin - Indykpol AZS Olsztyn | Polish Cup Semi-Final 1
@@ -43,10 +35,10 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/ddCZaiZm/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/wuX2LanZ/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/rAi9boL0-1920.jpg" group-title="VBTV",11:55 Tokyo Great Bears - Wolfdogs Nagoya | Round 10-B
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/1QlvyykF/live.isml/.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="VBTV",
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="VBTV",
-
+#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/k5LrlzQK-1920.jpg" group-title="VBTV",11:55 Okayama Seagulls - Pfu Bluecats Ishikawa Kahoku | Round 12-B
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/TgjBDFg3/live.isml/.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/xAVzQM3r-1920.jpg" group-title="VBTV",12:55 Toray Arrows Shiga - Nec Red Rockets Kawasaki | Round 12-B
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/FZ1aLED1/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="VBTV",
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="VBTV",
