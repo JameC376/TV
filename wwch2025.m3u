@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/yhgHq0Q4-1920.jpg" group-title="VBTV",06:55 Itambe Minas - Bateubet Volei Guarulhos | Round 12
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/NhUtaDD9/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/trZr3lnb-1920.jpg" group-title="VBTV",10:55 Saitama Ageo Medics - Aranmare Yamagata | Round 12-A
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/oaKUDfmj/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/BLXSdTrE-1920.jpg" group-title="VBTV",10:55 Gunma Greenwings - Queenseis Kariya | Round 12-A
@@ -39,8 +37,8 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/ZRfXAKTa/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/1z0kX98C/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/WVVTJ12q-1920.jpg" group-title="VBTV",04:20 Praia Clube Uberlandia Volei - Saneago Goias | Round 12
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/D9Quqt0s/live.isml/.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="VBTV",
-
+#EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/6fQbqW2x-1920.jpg" group-title="VBTV",06:55 Viapol Sao Jose - Suzano Volei | Round 12
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/Ed9omIv2/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="VBTV",
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="VBTV",
