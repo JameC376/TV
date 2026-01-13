@@ -1,0 +1,69 @@
+name: Auto Update M3U Playlist
+on:
+  schedule:
+    - cron: '0 * * * *' # ทำงานนาทีที่ 0 ของทุกๆ 1 ชั่วโมง
+  workflow_dispatch:      
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Install Dependencies
+        run: pip install requests beautifulsoup4
+
+      - name: Fetch Data and Process
+        run: |
+          python - <<EOF
+          import requests
+          from bs4 import BeautifulSoup
+
+          url = "https://halu.serv00.net/poli.php"
+          try:
+              response = requests.get(url, timeout=30)
+              response.encoding = 'utf-8'
+              soup = BeautifulSoup(response.text, 'html.parser')
+              
+              channels = []
+              for a in soup.find_all('a', href=True):
+                  if '.m3u8' in a['href']:
+                      name = a.get_text(strip=True) or "Unknown"
+                      raw_link = a['href']
+                      
+                      # เปลี่ยนตัวอักษรลำดับที่ 58 (index 57) เป็น n
+                      if len(raw_link) >= 58:
+                          link = raw_link[:57] + 'n' + raw_link[58:]
+                      else:
+                          link = raw_link
+
+                      img_tag = a.find_previous('img') or a.find('img')
+                      img = img_tag['src'] if img_tag else "https://via.placeholder.com/100?text=TV"
+                      
+                      channels.append(f'#EXTINF:-1 tvg-logo="{img}",{name}\n{link}')
+
+              if channels:
+                  with open("wwch2025.m3u", "w", encoding="utf-8") as f:
+                      f.write("#EXTM3U\n" + "\n".join(channels))
+                  print("Update successful!")
+              else:
+                  print("No channels found.")
+
+          except Exception as e:
+              print(f"Error: {e}")
+          EOF
+
+      - name: Commit and Push
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add wwch2025.m3u
+          git commit -m "Hourly Auto-update: Modified char 58" || exit 0
+          git push
+
