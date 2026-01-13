@@ -1,7 +1,7 @@
 name: Auto Update M3U Playlist
 on:
   schedule:
-    - cron: '*/30 * * * *' # ทำงานทุกๆ 30 นาที
+    - cron: '*/10 * * * *' # ทำงานทุกๆ 30 นาที
   workflow_dispatch:
 
 jobs:
