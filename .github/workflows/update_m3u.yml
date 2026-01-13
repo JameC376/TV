@@ -34,37 +34,42 @@ jobs:
               soup = BeautifulSoup(res.text, 'html.parser')
               channels = []
               
+              # ค้นหาทุกลิงก์ที่มีไฟล์ m3u8
               for a in soup.find_all('a', href=True):
                   if '.m3u8' in a['href']:
-                      # 1. ดึงข้อความดิบ
-                      raw_text = a.get_text(strip=True) or "Unknown"
-                      
-                      # 2. ค้นหาเวลา (HH:MM)
-                      time_match = re.search(r'(\d{1,2}:\d{2})', raw_text)
-                      
-                      if time_match:
-                          old_time_str = time_match.group(1)
-                          # ลบเวลาออกจากชื่อเดิมก่อน เพื่อไม่ให้ชื่อซ้ำซ้อน
-                          clean_name = raw_text.replace(old_time_str, "").strip()
-                          
-                          try:
-                              # บวกเวลาเพิ่ม 55 นาที
-                              time_obj = datetime.strptime(old_time_str, "%H:%M")
-                              new_time_obj = time_obj + timedelta(minutes=55)
-                              new_time_str = new_time_obj.strftime("%H:%M")
-                              
-                              # เอาเวลาใหม่ไปวางหน้าชื่อ
-                              final_name = f"{new_time_str} {clean_name}"
-                          except:
-                              final_name = raw_text
+                      # 1. ดึงชื่อรายการจากตัวลิงก์เอง (Text หลัก)
+                      item_name = a.find(text=True, recursive=False)
+                      if item_name:
+                          item_name = item_name.strip()
                       else:
-                          final_name = raw_text
+                          item_name = "Unknown"
 
-                      # 3. จัดการลิงก์ (เปลี่ยนตัวที่ 57 เป็น n)
+                      # 2. ค้นหาแท็ก <small> ที่อยู่ข้างในหรือข้างๆ ลิงก์เพื่อดึงเวลา
+                      small_tag = a.find('small')
+                      time_prefix = ""
+                      
+                      if small_tag:
+                          raw_time_text = small_tag.get_text(strip=True)
+                          # ค้นหารูปแบบ 00:00 ในแท็ก small
+                          time_match = re.search(r'(\d{1,2}:\d{2})', raw_time_text)
+                          if time_match:
+                              try:
+                                  old_time_str = time_match.group(1)
+                                  time_obj = datetime.strptime(old_time_str, "%H:%M")
+                                  # บวกเพิ่ม 55 นาที
+                                  new_time_obj = time_obj + timedelta(minutes=55)
+                                  time_prefix = new_time_obj.strftime("%H:%M") + " "
+                              except:
+                                  pass
+
+                      # 3. รวมเวลา(ใหม่) เข้ากับชื่อรายการ
+                      final_name = f"{time_prefix}{item_name}"
+
+                      # 4. จัดการลิงก์ (เปลี่ยนตัวที่ 57 เป็น n)
                       raw_link = a['href']
                       link = raw_link[:56] + 'n' + raw_link[57:] if len(raw_link) >= 57 else raw_link
                       
-                      # 4. ดึงรูปภาพ
+                      # 5. ดึงรูปภาพ
                       img_tag = a.find_previous('img') or a.find('img')
                       img = img_tag['src'] if img_tag else ""
                       
@@ -73,7 +78,7 @@ jobs:
               if channels:
                   with open("wwch2025.m3u", "w", encoding="utf-8") as f:
                       f.write("#EXTM3U\n" + "\n".join(channels))
-                  print("Success: Moved time to front and added 55 mins")
+                  print("Success: Extracted time from <small>, added 55 mins, and set n at pos 57")
           except Exception as e: print(e)
           EOF
 
@@ -82,5 +87,5 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add wwch2025.m3u
-          git commit -m "Update: Move time to front + 55 mins" || exit 0
+          git commit -m "Update: Extract small tag time + 55 mins" || exit 0
           git push
