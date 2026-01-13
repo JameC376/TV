@@ -23,32 +23,57 @@ jobs:
         run: |
           python - <<EOF
           import requests
+          import re
           from bs4 import BeautifulSoup
+          from datetime import datetime, timedelta
+
           url = "https://halu.serv00.net/poli.php"
           try:
               res = requests.get(url, timeout=30)
               res.encoding = 'utf-8'
               soup = BeautifulSoup(res.text, 'html.parser')
               channels = []
+              
               for a in soup.find_all('a', href=True):
                   if '.m3u8' in a['href']:
-                      name = a.get_text(strip=True) or "Unknown"
-                      raw_link = a['href']
+                      # 1. ดึงข้อความดิบ
+                      raw_text = a.get_text(strip=True) or "Unknown"
                       
-                      # แก้ไข: เปลี่ยนตัวอักษรลำดับที่ 57 เป็น n (พิมพ์เล็ก)
-                      if len(raw_link) >= 57:
-                          # index 56 คือตำแหน่งที่ 57
-                          link = raw_link[:56] + 'n' + raw_link[57:]
-                      else:
-                          link = raw_link
+                      # 2. ค้นหาเวลา (HH:MM)
+                      time_match = re.search(r'(\d{1,2}:\d{2})', raw_text)
+                      
+                      if time_match:
+                          old_time_str = time_match.group(1)
+                          # ลบเวลาออกจากชื่อเดิมก่อน เพื่อไม่ให้ชื่อซ้ำซ้อน
+                          clean_name = raw_text.replace(old_time_str, "").strip()
                           
+                          try:
+                              # บวกเวลาเพิ่ม 55 นาที
+                              time_obj = datetime.strptime(old_time_str, "%H:%M")
+                              new_time_obj = time_obj + timedelta(minutes=55)
+                              new_time_str = new_time_obj.strftime("%H:%M")
+                              
+                              # เอาเวลาใหม่ไปวางหน้าชื่อ
+                              final_name = f"{new_time_str} {clean_name}"
+                          except:
+                              final_name = raw_text
+                      else:
+                          final_name = raw_text
+
+                      # 3. จัดการลิงก์ (เปลี่ยนตัวที่ 57 เป็น n)
+                      raw_link = a['href']
+                      link = raw_link[:56] + 'n' + raw_link[57:] if len(raw_link) >= 57 else raw_link
+                      
+                      # 4. ดึงรูปภาพ
                       img_tag = a.find_previous('img') or a.find('img')
                       img = img_tag['src'] if img_tag else ""
-                      channels.append(f'#EXTINF:-1 tvg-logo="{img}",{name}\n{link}')
+                      
+                      channels.append(f'#EXTINF:-1 tvg-logo="{img}",{final_name}\n{link}')
+              
               if channels:
                   with open("wwch2025.m3u", "w", encoding="utf-8") as f:
                       f.write("#EXTM3U\n" + "\n".join(channels))
-                  print("Update successful with 'n' at pos 57")
+                  print("Success: Moved time to front and added 55 mins")
           except Exception as e: print(e)
           EOF
 
@@ -57,5 +82,5 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add wwch2025.m3u
-          git commit -m "Update: Change position 57 to n lowercase" || exit 0
+          git commit -m "Update: Move time to front + 55 mins" || exit 0
           git push
