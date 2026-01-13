@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Jinair K.V League",Live 정관장 VS 페퍼저축은행
+https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0001/miu6dqzzubta4cz9pqdlbvpbu3aiyj143z8z/playlist.m3u8?hdnts=st=1768297716~exp=1768330126~acl=*/miu6dqzzubta4cz9pqdlbvpbu3aiyj143z8z/*~hmac=cee1ec7a079878fad66c2f5191964b93c663c514d757daa8b925fe10921908b0
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Jinair K.V League",Live 대한항공 VS OK저축은행
+https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0002/f0rfl06gahnqmjikt58egijyy3o467fud69l/playlist.m3u8?hdnts=st=1768297755~exp=1768330165~acl=*/f0rfl06gahnqmjikt58egijyy3o467fud69l/*~hmac=88adb2a46f3798bf7d79e157c3c89e8f0223caee650d080d056f9806a696157d
 #EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/I2yZAin6-1920.jpg" group-title="VBTV",23:20 ZAKSA Kedzierzyn Kozle - PGE GiEK SKRA Belchatow | Round 16
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/XJ09LZwx/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/N5czIeI0-1920.jpg" group-title="VBTV",01:55 BOGDANKA LUK Lublin - InPost ChKS Chelm | Round 16
