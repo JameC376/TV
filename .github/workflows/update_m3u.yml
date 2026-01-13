@@ -34,13 +34,21 @@ jobs:
                   if '.m3u8' in a['href']:
                       name = a.get_text(strip=True) or "Unknown"
                       raw_link = a['href']
-                      link = raw_link[:57] + 'n' + raw_link[58:] if len(raw_link) >= 58 else raw_link
+                      
+                      # แก้ไข: เปลี่ยนตัวอักษรลำดับที่ 57 เป็น n (พิมพ์เล็ก)
+                      if len(raw_link) >= 57:
+                          # index 56 คือตำแหน่งที่ 57
+                          link = raw_link[:56] + 'n' + raw_link[57:]
+                      else:
+                          link = raw_link
+                          
                       img_tag = a.find_previous('img') or a.find('img')
                       img = img_tag['src'] if img_tag else ""
                       channels.append(f'#EXTINF:-1 tvg-logo="{img}",{name}\n{link}')
               if channels:
                   with open("wwch2025.m3u", "w", encoding="utf-8") as f:
                       f.write("#EXTM3U\n" + "\n".join(channels))
+                  print("Update successful with 'n' at pos 57")
           except Exception as e: print(e)
           EOF
 
@@ -49,6 +57,5 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add wwch2025.m3u
-          git commit -m "Auto Update" || exit 0
+          git commit -m "Update: Change position 57 to n lowercase" || exit 0
           git push
-
