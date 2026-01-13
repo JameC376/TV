@@ -34,6 +34,7 @@ jobs:
               soup = BeautifulSoup(res.text, 'html.parser')
               channels = []
               
+              # ค้นหาทุกลิ้งค์รายการที่มีไฟล์ m3u8
               for a in soup.find_all('a', href=True):
                   if '.m3u8' in a['href']:
                       # 1. ดึงชื่อจาก alt ของรูปภาพ
@@ -42,29 +43,31 @@ jobs:
                       if img_tag and img_tag.get('alt'):
                           item_name = img_tag.get('alt').strip()
 
-                      # 2. ดึงเวลาจากแท็ก <small> และบวก 55 นาที
+                      # 2. เจาะจงดึงเวลาจาก <small> ที่อยู่หลัง <br> ในหน้าเว็บ
                       small_tag = a.find('small')
                       time_prefix = ""
                       if small_tag:
                           raw_time_text = small_tag.get_text(strip=True)
+                          # ค้นหาตัวเลขรูปแบบ 00:00
                           time_match = re.search(r'(\d{1,2}:\d{2})', raw_time_text)
                           if time_match:
                               try:
                                   old_time_str = time_match.group(1)
                                   time_obj = datetime.strptime(old_time_str, "%H:%M")
+                                  # บวกเพิ่ม 55 นาที
                                   new_time_obj = time_obj + timedelta(minutes=55)
-                                  time_prefix = new_time_obj.strftime("%H:%M") + " "
+                                  time_prefix = f"[{new_time_obj.strftime('%H:%M')}] "
                               except:
                                   pass
 
-                      # 3. จัดรูปแบบ: [เวลาใหม่] [ชื่อจาก alt]
+                      # 3. รวมร่าง: [เวลาใหม่] ชื่อรายการ
                       final_name = f"{time_prefix}{item_name}"
 
-                      # 4. แก้ไขลิงก์: เปลี่ยนตำแหน่งที่ 57 เป็น n (index 56)
+                      # 4. จัดการลิ้งค์: เปลี่ยนตัวอักษรตำแหน่งที่ 57 เป็น n
                       raw_link = a['href']
                       link = raw_link[:56] + 'n' + raw_link[57:] if len(raw_link) >= 57 else raw_link
                       
-                      # 5. ดึงที่อยู่รูปภาพ
+                      # 5. ดึงรูปภาพ src
                       img_src = img_tag.get('src') if img_tag else ""
                       
                       channels.append(f'#EXTINF:-1 tvg-logo="{img_src}",{final_name}\n{link}')
@@ -72,9 +75,9 @@ jobs:
               if channels:
                   with open("wwch2025.m3u", "w", encoding="utf-8") as f:
                       f.write("#EXTM3U\n" + "\n".join(channels))
-                  print("บันทึกไฟล์ wwch2025.m3u เรียบร้อยแล้ว")
+                  print("อัปเดตไฟล์ wwch2025.m3u สำเร็จ (ดึงเวลาจาก <small> และชื่อจาก alt)")
           except Exception as e:
-              print(f"เกิดข้อผิดพลาด: {e}")
+              print(f"Error: {e}")
           EOF
 
       - name: Commit and Push
@@ -82,5 +85,5 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add wwch2025.m3u
-          git commit -m "Auto Update: Time+55m and Name from alt" || exit 0
+          git commit -m "Auto Update: Move small-tag time to front + 55m" || exit 0
           git push
