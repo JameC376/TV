@@ -1,0 +1,253 @@
+<!DOCTYPE html>
+<html lang="th">
+<head>
+<meta charset="UTF-8">
+<title>M3U HLS Player</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<!-- Video.js -->
+<link href="https://vjs.zencdn.net/8.10.0/video-js.css" rel="stylesheet" />
+<script src="https://vjs.zencdn.net/8.10.0/video.min.js"></script>
+
+<!-- Quality Selector -->
+<script src="https://cdn.jsdelivr.net/npm/videojs-contrib-quality-levels@4.1.0/dist/videojs-contrib-quality-levels.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/videojs-hls-quality-selector@2.0.0/dist/videojs-hls-quality-selector.min.js"></script>
+
+<style>
+:root{
+  --bg:#0b0b0b;
+  --card:#161616;
+  --primary:#ff3e3e;
+  --text:#ffffff;
+  --muted:#9ca3af;
+}
+
+body{
+  margin:0;
+  background:var(--bg);
+  color:var(--text);
+  font-family:system-ui,-apple-system,BlinkMacSystemFont,sans-serif;
+}
+
+.wrapper{
+  max-width:900px;
+  margin:auto;
+  padding-bottom:50px;
+}
+
+/* Player */
+.player-box{
+  position:sticky;
+  top:0;
+  z-index:999;
+  background:var(--bg);
+  box-shadow:0 10px 30px rgba(0,0,0,.6);
+}
+
+#status{
+  text-align:center;
+  font-size:13px;
+  padding:8px;
+  background:#111;
+  color:#00ff9c;
+  border-bottom:1px solid #222;
+}
+
+/* Channel List */
+.list{
+  padding:16px;
+}
+
+.list h2{
+  font-size:18px;
+  margin:0 0 14px;
+  border-left:4px solid var(--primary);
+  padding-left:10px;
+  color:var(--muted);
+}
+
+.grid{
+  display:flex;
+  flex-direction:column;
+  gap:12px;
+}
+
+.card{
+  display:flex;
+  align-items:center;
+  background:var(--card);
+  border:1px solid #222;
+  border-radius:14px;
+  padding:12px;
+  cursor:pointer;
+  transition:.25s;
+}
+
+.card:hover{
+  transform:scale(1.02);
+  border-color:var(--primary);
+}
+
+.card.active{
+  background:#2a1010;
+  border-color:var(--primary);
+  box-shadow:0 0 18px rgba(255,62,62,.25);
+}
+
+.logo{
+  width:90px;
+  height:50px;
+  background:#000;
+  border-radius:8px;
+  overflow:hidden;
+  flex-shrink:0;
+  margin-right:14px;
+}
+
+.logo img{
+  width:100%;
+  height:100%;
+  object-fit:contain;
+}
+
+.name{
+  font-size:16px;
+  font-weight:600;
+  white-space:nowrap;
+  overflow:hidden;
+  text-overflow:ellipsis;
+}
+
+.loading{
+  text-align:center;
+  padding:40px;
+  color:#666;
+}
+
+/* Video.js theme */
+.video-js .vjs-big-play-button{
+  background:var(--primary);
+  border:none;
+  border-radius:50%;
+}
+</style>
+</head>
+
+<body>
+<div class="wrapper">
+
+  <div class="player-box">
+    <video
+      id="player"
+      class="video-js vjs-16-9 vjs-big-play-centered"
+      controls
+      preload="auto"
+      playsinline>
+    </video>
+    <div id="status">🚀 พร้อมรับชม เลือกรายการด้านล่าง</div>
+  </div>
+
+  <div class="list">
+    <h2>รายการช่องทั้งหมด</h2>
+    <div id="grid" class="grid">
+      <div class="loading">กำลังดึงข้อมูลจาก GitHub...</div>
+    </div>
+  </div>
+
+</div>
+
+<script>
+/* ===== CONFIG ===== */
+const M3U_URL =
+"https://raw.githubusercontent.com/JameC376/TV/main/wwch2025.m3u";
+
+/* ===== PLAYER ===== */
+const player = videojs("player", {
+  fluid:true,
+  liveui:true,
+  controlBar:{
+    children:[
+      "playToggle",
+      "volumePanel",
+      "currentTimeDisplay",
+      "timeDivider",
+      "durationDisplay",
+      "progressControl",
+      "liveDisplay",
+      "audioTrackButton",   // 🔊 เลือกภาษาเสียง
+      "qualitySelector",    // ⚙️ เลือกความชัด
+      "fullscreenToggle"
+    ]
+  }
+});
+
+player.hlsQualitySelector({
+  displayCurrentQuality:true
+});
+
+/* ===== LOAD & PARSE M3U ===== */
+async function loadM3U(){
+  try{
+    const res = await fetch(M3U_URL + "?t=" + Date.now());
+    const text = await res.text();
+    buildList(text);
+  }catch(e){
+    document.getElementById("grid").innerHTML =
+      "<div class='loading'>❌ โหลด playlist ไม่ได้</div>";
+  }
+}
+
+function buildList(text){
+  const lines = text.split(/\r?\n/);
+  const grid = document.getElementById("grid");
+  grid.innerHTML = "";
+
+  for(let i=0;i<lines.length;i++){
+    if(lines[i].startsWith("#EXTINF")){
+      const info = lines[i];
+      const url = lines[i+1]?.trim();
+      if(!url || !url.startsWith("http")) continue;
+
+      const name = info.split(",").pop().trim();
+      const logo = info.match(/tvg-logo=\"([^\"]+)\"/)?.[1] || "";
+
+      const card = document.createElement("div");
+      card.className="card";
+      card.innerHTML=`
+        <div class="logo">
+          <img src="${logo}"
+          onerror="this.src='https://via.placeholder.com/90x50?text=NO+IMG'">
+        </div>
+        <div class="name">${name}</div>
+      `;
+
+      card.onclick=()=>{
+        document.querySelectorAll(".card")
+          .forEach(c=>c.classList.remove("active"));
+        card.classList.add("active");
+        playStream(url,name);
+      };
+
+      grid.appendChild(card);
+    }
+  }
+}
+
+/* ===== PLAY ===== */
+function playStream(url,name){
+  document.getElementById("status").innerText =
+    "📺 กำลังรับชม: " + name;
+
+  player.src({
+    src:url,
+    type:"application/vnd.apple.mpegurl"
+  });
+
+  player.play();
+  window.scrollTo({top:0,behavior:"smooth"});
+}
+
+loadM3U();
+</script>
+</body>
+</html>
