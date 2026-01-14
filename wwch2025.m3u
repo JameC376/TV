@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/jaWW9MJJ/poster.jpg?width=320",Allianz Milano - Gas Sales Bluenergy Piacenza | Round 16
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/jaWW9MJJ/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/7EODKSu6/poster.jpg?width=320",PGE Projekt Warszawa - JSW Jastrzebski Wegiel | Round 16
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/7EODKSu6/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/frez3Kf5/poster.jpg?width=320",Rana Verona - Sonepar Padova | Round 16
@@ -39,3 +37,5 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/1LA8tQpc/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/MRlwiKkd/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/GjBkYSig/poster.jpg?width=320",Sesi Volei Bauru - Paulistano Barueri | Round 14
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/GjBkYSig/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/TiJUPEpg/poster.jpg?width=320",Osaka Bluteon - Vc Nagano Tridents | Round 11-A
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/TiJUPEpg/live.isml/.m3u8
