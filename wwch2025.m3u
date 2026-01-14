@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/7EODKSu6/poster.jpg?width=320",PGE Projekt Warszawa - JSW Jastrzebski Wegiel | Round 16
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/7EODKSu6/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/csRz7Jza/poster.jpg?width=320",MA Acqua S.Bernardo Cuneo - Sir Susa Scai Perugia | Round 16
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/csRz7Jza/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/uCEjEWhs/poster.jpg?width=320",Valsa Group Modena - Itas Trentino | Round 16
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/uCEjEWhs/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/V16PaMem/poster.jpg?width=320",Viapol Sao Jose - Praia Clube Uberlandia Volei | Round 13
@@ -39,3 +35,7 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/TiJUPEpg/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/kAAkuJqW/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/ULAQ9hr7/poster.jpg?width=320",Astemo Rivale Ibaraki - Saitama Ageo Medics | Round 13-A
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/ULAQ9hr7/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/yZN9nfqO/poster.jpg?width=320",Hiroshima Thunders - Toray Arrows Shizuoka | Round 11-A
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/yZN9nfqO/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/NJscTpTL/poster.jpg?width=320",Victorina Himeji - Pfu Bluecats Ishikawa Kahoku | Round 13-A
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/NJscTpTL/live.isml/.m3u8
