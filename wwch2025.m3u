@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/uCEjEWhs/poster.jpg?width=320",Valsa Group Modena - Itas Trentino | Round 16
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/uCEjEWhs/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/V16PaMem/poster.jpg?width=320",Viapol Sao Jose - Praia Clube Uberlandia Volei | Round 13
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/V16PaMem/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/3YfkLEru/poster.jpg?width=320",Bateubet Volei Guarulhos - Suzano Volei | Round 13
@@ -39,3 +37,5 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/ULAQ9hr7/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/yZN9nfqO/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/NJscTpTL/poster.jpg?width=320",Victorina Himeji - Pfu Bluecats Ishikawa Kahoku | Round 13-A
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/NJscTpTL/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/6sL68eBJ/poster.jpg?width=320",Nec Red Rockets Kawasaki - Kurobe Aqua Fairies | Round 13-A
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/6sL68eBJ/live.isml/.m3u8
