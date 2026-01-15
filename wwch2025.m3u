@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/1KWmrzk5/poster.jpg?width=320",Cuprum Stilon Gorzow - Asseco Resovia Rzeszow | Round 16
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/1KWmrzk5/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/1Rd0t7yM/poster.jpg?width=320",Cisterna Volley - Vero Volley Monza | Round 16
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/1Rd0t7yM/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/wLmffiWC/poster.jpg?width=320",Sicoob Monte Carmelo - JF Volei | Round 13
@@ -39,3 +37,5 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/BC4c0uvv/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/hb7FhvVW/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/fkHMEHyR/poster.jpg?width=320",Voreas Hokkaido - Jtekt Stings Aichi | Round 11-A
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/fkHMEHyR/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/sYej4pDy/poster.jpg?width=320",Osaka Marvelous - Okayama Seagulls | Round 13-A
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/sYej4pDy/live.isml/.m3u8
