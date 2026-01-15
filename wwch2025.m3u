@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/4xinFtAT/poster.jpg?width=320",Sokol & Hagric Mogilno - Metalkas Palac Bydgoszcz | Round 14
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/4xinFtAT/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/1KWmrzk5/poster.jpg?width=320",Cuprum Stilon Gorzow - Asseco Resovia Rzeszow | Round 16
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/1KWmrzk5/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/1Rd0t7yM/poster.jpg?width=320",Cisterna Volley - Vero Volley Monza | Round 16
@@ -39,3 +37,5 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/ziIlmTC9/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/BC4c0uvv/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/hb7FhvVW/poster.jpg?width=320",Wolfdogs Nagoya - Suntory Sunbirds Osaka | Round 11-A
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/hb7FhvVW/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/fkHMEHyR/poster.jpg?width=320",Voreas Hokkaido - Jtekt Stings Aichi | Round 11-A
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/fkHMEHyR/live.isml/.m3u8
