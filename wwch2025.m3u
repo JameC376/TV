@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/1Rd0t7yM/poster.jpg?width=320",Cisterna Volley - Vero Volley Monza | Round 16
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/1Rd0t7yM/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/wLmffiWC/poster.jpg?width=320",Sicoob Monte Carmelo - JF Volei | Round 13
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/wLmffiWC/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/9CaBSlZf/poster.jpg?width=320",Joinville Volei - Itambe Minas | Round 13
@@ -21,10 +19,10 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/GjBkYSig/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/TiJUPEpg/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/kAAkuJqW/poster.jpg?width=320",Denso Airybees - Gunma Greenwings | Round 13-A
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/kAAkuJqW/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/ULAQ9hr7/poster.jpg?width=320",Astemo Rivale Ibaraki - Saitama Ageo Medics | Round 13-A
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/ULAQ9hr7/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/yZN9nfqO/poster.jpg?width=320",Hiroshima Thunders - Toray Arrows Shizuoka | Round 11-A
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/yZN9nfqO/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/ULAQ9hr7/poster.jpg?width=320",Astemo Rivale Ibaraki - Saitama Ageo Medics | Round 13-A
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/ULAQ9hr7/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/NJscTpTL/poster.jpg?width=320",Victorina Himeji - Pfu Bluecats Ishikawa Kahoku | Round 13-A
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/NJscTpTL/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/6sL68eBJ/poster.jpg?width=320",Nec Red Rockets Kawasaki - Kurobe Aqua Fairies | Round 13-A
@@ -39,3 +37,5 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/hb7FhvVW/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/fkHMEHyR/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/sYej4pDy/poster.jpg?width=320",Osaka Marvelous - Okayama Seagulls | Round 13-A
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/sYej4pDy/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/jTrnGedN/poster.jpg?width=320",Queenseis Kariya - Saga Hisamitsu Springs | Round 13-A
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/jTrnGedN/live.isml/.m3u8
