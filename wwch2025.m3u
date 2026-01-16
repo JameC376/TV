@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/s3nWatRV/poster.jpg?width=320",Slepsk Malow Suwalki - Steam Hemarpol Politechnika Częstochowa | Round 17
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/s3nWatRV/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/XcHijQ3o/poster.jpg?width=320",InPost ChKS Chelm - Aluron CMC Warta Zawiercie | Round 17
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/XcHijQ3o/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/1LA8tQpc/poster.jpg?width=320",Tijuca Tenis Clube - Sancor Seguros Volei | Round 14
@@ -39,3 +37,5 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/qas3Nu4S/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/JCYJl0Go/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/srY0ChOQ/poster.jpg?width=320",ECO HARPOON LOS Nowy Dwor Mazowiecki - UNI Opole | Round 14
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/srY0ChOQ/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/mVhYNsl3/poster.jpg?width=320",JSW Jastrzebski Wegiel - ZAKSA Kedzierzyn Kozle | Round 17
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/mVhYNsl3/live.isml/.m3u8
