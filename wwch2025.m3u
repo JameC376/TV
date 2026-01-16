@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/9CaBSlZf/poster.jpg?width=320",Joinville Volei - Itambe Minas | Round 13
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/9CaBSlZf/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/UCRI3cHp/poster.jpg?width=320",Sesi Bauru - Sada Cruzeiro | Round 13
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/UCRI3cHp/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/s3nWatRV/poster.jpg?width=320",Slepsk Malow Suwalki - Steam Hemarpol Politechnika Częstochowa | Round 17
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/s3nWatRV/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/XcHijQ3o/poster.jpg?width=320",InPost ChKS Chelm - Aluron CMC Warta Zawiercie | Round 17
@@ -39,3 +35,7 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/sYej4pDy/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/jTrnGedN/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/qas3Nu4S/poster.jpg?width=320",BKS BOSTIK ZGO Bielsko-Biala - LOTTO Chemik Police | Round 14
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/qas3Nu4S/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/JCYJl0Go/poster.jpg?width=320",PGE GiEK SKRA Belchatow - BOGDANKA LUK Lublin | Round 17
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/JCYJl0Go/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/srY0ChOQ/poster.jpg?width=320",ECO HARPOON LOS Nowy Dwor Mazowiecki - UNI Opole | Round 14
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/srY0ChOQ/live.isml/.m3u8
