@@ -1,10 +1,8 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/kAAkuJqW/poster.jpg?width=320",Denso Airybees - Gunma Greenwings | Round 13-A
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/kAAkuJqW/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/yZN9nfqO/poster.jpg?width=320",Hiroshima Thunders - Toray Arrows Shizuoka | Round 11-A
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/yZN9nfqO/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/ULAQ9hr7/poster.jpg?width=320",Astemo Rivale Ibaraki - Saitama Ageo Medics | Round 13-A
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/ULAQ9hr7/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/yZN9nfqO/poster.jpg?width=320",Hiroshima Thunders - Toray Arrows Shizuoka | Round 11-A
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/yZN9nfqO/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/NJscTpTL/poster.jpg?width=320",Victorina Himeji - Pfu Bluecats Ishikawa Kahoku | Round 13-A
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/NJscTpTL/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/6sL68eBJ/poster.jpg?width=320",Nec Red Rockets Kawasaki - Kurobe Aqua Fairies | Round 13-A
@@ -39,3 +37,5 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/HmLr0zno/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/8Oy58v1j/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/qrgU6dDt/poster.jpg?width=320",Reale Mutua Fenera Chieri 76 - Megabox Ondulati Del Savio Vallefoglia | Round 20
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/qrgU6dDt/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/8eXk5xj9/poster.jpg?width=320",Prosecco Doc A.Carraro Imoco Conegliano - Bergamo | Round 20
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/8eXk5xj9/live.isml/.m3u8
