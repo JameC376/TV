@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/fkHMEHyR/poster.jpg?width=320",Voreas Hokkaido - Jtekt Stings Aichi | Round 11-A
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/fkHMEHyR/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/sYej4pDy/poster.jpg?width=320",Osaka Marvelous - Okayama Seagulls | Round 13-A
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/sYej4pDy/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/jTrnGedN/poster.jpg?width=320",Queenseis Kariya - Saga Hisamitsu Springs | Round 13-A
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/jTrnGedN/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/qas3Nu4S/poster.jpg?width=320",BKS BOSTIK ZGO Bielsko-Biala - LOTTO Chemik Police | Round 14
@@ -21,10 +19,10 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/6Up6pVje/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/HmLr0zno/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/8Oy58v1j/poster.jpg?width=320",Cuprum Stilon Gorzow - Barkom Kazany Lwow | Round 17
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/8Oy58v1j/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/8eXk5xj9/poster.jpg?width=320",Prosecco Doc A.Carraro Imoco Conegliano - Bergamo | Round 20
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/8eXk5xj9/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/qrgU6dDt/poster.jpg?width=320",Reale Mutua Fenera Chieri 76 - Megabox Ondulati Del Savio Vallefoglia | Round 20
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/qrgU6dDt/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/8eXk5xj9/poster.jpg?width=320",Prosecco Doc A.Carraro Imoco Conegliano - Bergamo | Round 20
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/8eXk5xj9/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/Y8kjydtf/poster.jpg?width=320",Wash4green Monviso Volley - Numia Vero Volley Milano | Round 20
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/Y8kjydtf/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/cffzkFEU/poster.jpg?width=320",Bartoccini-Mc Restauri Perugia - Il Bisonte Firenze | Round 20
@@ -39,3 +37,5 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/pURSPxLD/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/ZPcssEya/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/eGBbYosH/poster.jpg?width=320",Osaka Bluteon - Vc Nagano Tridents | Round 11-B
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/eGBbYosH/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/vQwtA8AP/poster.jpg?width=320",Nec Red Rockets Kawasaki - Kurobe Aqua Fairies | Round 13-B
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/vQwtA8AP/live.isml/.m3u8
