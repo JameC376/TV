@@ -1,18 +1,16 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/mVhYNsl3/poster.jpg?width=320",JSW Jastrzebski Wegiel - ZAKSA Kedzierzyn Kozle | Round 17
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/mVhYNsl3/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/xNEiGW3N/poster.jpg?width=320",Rana Verona - MA Acqua S.Bernardo Cuneo | Round 17
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/xNEiGW3N/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/6Up6pVje/poster.jpg?width=320",Honda Cuneo Granda Volley - Omag-Mt San Giovanni In Marignano | Round 20
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/6Up6pVje/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/HmLr0zno/poster.jpg?width=320",Savino Del Bene Scandicci - Igor Gorgonzola Novara | Round 20
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/HmLr0zno/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/8Oy58v1j/poster.jpg?width=320",Cuprum Stilon Gorzow - Barkom Kazany Lwow | Round 17
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/8Oy58v1j/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/8eXk5xj9/poster.jpg?width=320",Prosecco Doc A.Carraro Imoco Conegliano - Bergamo | Round 20
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/8eXk5xj9/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/qrgU6dDt/poster.jpg?width=320",Reale Mutua Fenera Chieri 76 - Megabox Ondulati Del Savio Vallefoglia | Round 20
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/qrgU6dDt/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/8eXk5xj9/poster.jpg?width=320",Prosecco Doc A.Carraro Imoco Conegliano - Bergamo | Round 20
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/8eXk5xj9/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/Y8kjydtf/poster.jpg?width=320",Wash4green Monviso Volley - Numia Vero Volley Milano | Round 20
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/Y8kjydtf/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/v6UjvkNC/poster.jpg?width=320",Cbf Balducci Hr Macerata - Eurotek Laica Uyba | Round 20
@@ -39,3 +37,5 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/rS82Gr8Y/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/2QokFVmW/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/fyY4v7X6/poster.jpg?width=320",Astemo Rivale Ibaraki - Saitama Ageo Medics | Round 13-B
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/fyY4v7X6/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/rHKNknz4/poster.jpg?width=320",Queenseis Kariya - Saga Hisamitsu Springs | Round 13-B
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/rHKNknz4/live.isml/.m3u8
