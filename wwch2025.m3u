@@ -1,18 +1,10 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/HmLr0zno/poster.jpg?width=320",Savino Del Bene Scandicci - Igor Gorgonzola Novara | Round 20
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/HmLr0zno/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/8Oy58v1j/poster.jpg?width=320",Cuprum Stilon Gorzow - Barkom Kazany Lwow | Round 17
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/8Oy58v1j/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/8eXk5xj9/poster.jpg?width=320",Prosecco Doc A.Carraro Imoco Conegliano - Bergamo | Round 20
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/8eXk5xj9/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/qrgU6dDt/poster.jpg?width=320",Reale Mutua Fenera Chieri 76 - Megabox Ondulati Del Savio Vallefoglia | Round 20
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/qrgU6dDt/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/Y8kjydtf/poster.jpg?width=320",Wash4green Monviso Volley - Numia Vero Volley Milano | Round 20
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/Y8kjydtf/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/v6UjvkNC/poster.jpg?width=320",Cbf Balducci Hr Macerata - Eurotek Laica Uyba | Round 20
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/v6UjvkNC/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/cffzkFEU/poster.jpg?width=320",Bartoccini-Mc Restauri Perugia - Il Bisonte Firenze | Round 20
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/cffzkFEU/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/uI4oqsGk/poster.jpg?width=320",Osasco Sao Cristovao Saude - Brasilia Volei | Round 14
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/uI4oqsGk/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/pURSPxLD/poster.jpg?width=320",Renasce Sorocaba - Batavo Mackenzie | Round 14
@@ -39,3 +31,11 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/rHKNknz4/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/RbQbMnwZ/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/6hjfkwkH/poster.jpg?width=320",Toray Arrows Shiga - Aranmare Yamagata | Round 13-B
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/6hjfkwkH/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/V6kgsaHT/poster.jpg?width=320",Voreas Hokkaido - Jtekt Stings Aichi | Round 11-B
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/V6kgsaHT/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/eiZEagcm/poster.jpg?width=320",Osaka Marvelous - Okayama Seagulls | Round 13-B
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/eiZEagcm/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/9kVu5TCZ/poster.jpg?width=320",Asseco Resovia Rzeszow - PGE Projekt Warszawa | Round 17
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/9kVu5TCZ/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/NJykkH0m/poster.jpg?width=320",Itas Trentino - Allianz Milano | Round 17
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/NJykkH0m/live.isml/.m3u8
