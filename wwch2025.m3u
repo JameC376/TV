@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/ZPcssEya/poster.jpg?width=320",Fluminense - Gerdau Minas | Round 14
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/ZPcssEya/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/eGBbYosH/poster.jpg?width=320",Osaka Bluteon - Vc Nagano Tridents | Round 11-B
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/eGBbYosH/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/vQwtA8AP/poster.jpg?width=320",Nec Red Rockets Kawasaki - Kurobe Aqua Fairies | Round 13-B
@@ -11,10 +9,10 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/tUCKCgnd/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/pNj190Tz/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/rS82Gr8Y/poster.jpg?width=320",Victorina Himeji - Pfu Bluecats Ishikawa Kahoku | Round 13-B
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/rS82Gr8Y/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/2QokFVmW/poster.jpg?width=320",Nippon Steel Sakai Blazers - Tokyo Great Bears | Round 11-B
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/2QokFVmW/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/fyY4v7X6/poster.jpg?width=320",Astemo Rivale Ibaraki - Saitama Ageo Medics | Round 13-B
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/fyY4v7X6/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/2QokFVmW/poster.jpg?width=320",Nippon Steel Sakai Blazers - Tokyo Great Bears | Round 11-B
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/2QokFVmW/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/rHKNknz4/poster.jpg?width=320",Queenseis Kariya - Saga Hisamitsu Springs | Round 13-B
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/rHKNknz4/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/RbQbMnwZ/poster.jpg?width=320",Wolfdogs Nagoya - Suntory Sunbirds Osaka | Round 11-B
@@ -39,3 +37,5 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/vM1XJN4I/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/NgCbDwKa/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/RIIWpr5K/poster.jpg?width=320",Vero Volley Monza - Valsa Group Modena | Round 17
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/RIIWpr5K/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/VDQ8sdih/poster.jpg?width=320",ITA TOOLS Stal Mielec - VolleyWroclaw | Round 14
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/VDQ8sdih/live.isml/.m3u8
