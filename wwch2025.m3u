@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/L5kAGMxY/poster.jpg?width=320",Energa Trefl Gdansk - Indykpol AZS Olsztyn | Round 17
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/L5kAGMxY/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/vM1XJN4I/poster.jpg?width=320",Cucine Lube Civitanova - Sir Susa Scai Perugia | Round 17
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/vM1XJN4I/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/NgCbDwKa/poster.jpg?width=320",Sonepar Padova - Cisterna Volley | Round 17
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/NgCbDwKa/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/RIIWpr5K/poster.jpg?width=320",Vero Volley Monza - Valsa Group Modena | Round 17
@@ -39,3 +37,5 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/kDigbKZj/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/9AfSqz71/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/TGmNq3O5/poster.jpg?width=320",Sada Cruzeiro - Sicoob Monte Carmelo | Round 14
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/TGmNq3O5/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/UuMXv4rm/poster.jpg?width=320",Sesi Bauru - Itambe Minas | Round 14
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/UuMXv4rm/live.isml/.m3u8
