@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/vvoNuKZ4/poster.jpg?width=320",ITA TOOLS Stal Mielec - VolleyWroclaw | Round 14
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/vvoNuKZ4/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/USYB5C9B/poster.jpg?width=320",KS DevelopRes Rzeszow - PGE Budowlani Lodz | Round 14
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/USYB5C9B/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/CSzKDdwT/poster.jpg?width=320",MOYA Radomka Radom - LKS Commercecon Lodz | Round 14
@@ -39,3 +37,5 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/N1IdV63F/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/zw6seJCQ/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/ikNjntyE/poster.jpg?width=320",VolleyWroclaw - BKS BOSTIK ZGO Bielsko-Biala | Round 15
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/ikNjntyE/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/ZmypNJ9O/poster.jpg?width=320",Osaka Marvelous - Toray Arrows Shiga | Round 14-A
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/ZmypNJ9O/live.isml/.m3u8
