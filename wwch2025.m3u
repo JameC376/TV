@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/RIIWpr5K/poster.jpg?width=320",Vero Volley Monza - Valsa Group Modena | Round 17
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/RIIWpr5K/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/vvoNuKZ4/poster.jpg?width=320",ITA TOOLS Stal Mielec - VolleyWroclaw | Round 14
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/vvoNuKZ4/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/USYB5C9B/poster.jpg?width=320",KS DevelopRes Rzeszow - PGE Budowlani Lodz | Round 14
@@ -39,3 +37,5 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/UuMXv4rm/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/N1IdV63F/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/zw6seJCQ/poster.jpg?width=320",Metalkas Palac Bydgoszcz - ITA TOOLS Stal Mielec | Round 15
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/zw6seJCQ/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/ikNjntyE/poster.jpg?width=320",VolleyWroclaw - BKS BOSTIK ZGO Bielsko-Biala | Round 15
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/ikNjntyE/live.isml/.m3u8
