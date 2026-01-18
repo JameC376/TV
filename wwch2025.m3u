@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/L5kAGMxY/poster.jpg?width=320",Energa Trefl Gdansk - Indykpol AZS Olsztyn | Round 17
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/L5kAGMxY/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/0320Zkk0/poster.jpg?width=320",Gas Sales Bluenergy Piacenza - Yuasa Battery Grottazzolina | Round 17
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/0320Zkk0/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/vM1XJN4I/poster.jpg?width=320",Cucine Lube Civitanova - Sir Susa Scai Perugia | Round 17
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/vM1XJN4I/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/NgCbDwKa/poster.jpg?width=320",Sonepar Padova - Cisterna Volley | Round 17
@@ -23,10 +21,10 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/T9Fuxr7A/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/6yWeaiKz/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/5o7Gpnhq/poster.jpg?width=320",Eurotek Laica Uyba - Wash4green Monviso Volley | Round 21
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/5o7Gpnhq/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/wX7YwUOx/poster.jpg?width=320",Numia Vero Volley Milano - Honda Cuneo Granda Volley | Round 21
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/wX7YwUOx/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/VqKRuVJE/poster.jpg?width=320",Bergamo - Savino Del Bene Scandicci | Round 21
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/VqKRuVJE/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/wX7YwUOx/poster.jpg?width=320",Numia Vero Volley Milano - Honda Cuneo Granda Volley | Round 21
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/wX7YwUOx/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/By4aqXhX/poster.jpg?width=320",Igor Gorgonzola Novara - Bartoccini-Mc Restauri Perugia | Round 21
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/By4aqXhX/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/pdqp4Rs2/poster.jpg?width=320",Suzano Volei - Joinville Volei | Round 14
@@ -39,3 +37,5 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/E1gv4eLn/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/kDigbKZj/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/9AfSqz71/poster.jpg?width=320",JF Volei - Saneago Goias | Round 14
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/9AfSqz71/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/TGmNq3O5/poster.jpg?width=320",Sada Cruzeiro - Sicoob Monte Carmelo | Round 14
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/TGmNq3O5/live.isml/.m3u8
