@@ -1,14 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/T9Fuxr7A/poster.jpg?width=320",Cbf Balducci Hr Macerata - Reale Mutua Fenera Chieri 76 | Round 21
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/T9Fuxr7A/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/6yWeaiKz/poster.jpg?width=320",Megabox Ondulati Del Savio Vallefoglia - Prosecco Doc A.Carraro Imoco Conegliano | Round 21
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/6yWeaiKz/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/5o7Gpnhq/poster.jpg?width=320",Eurotek Laica Uyba - Wash4green Monviso Volley | Round 21
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/5o7Gpnhq/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/wX7YwUOx/poster.jpg?width=320",Numia Vero Volley Milano - Honda Cuneo Granda Volley | Round 21
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/wX7YwUOx/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/By4aqXhX/poster.jpg?width=320",Igor Gorgonzola Novara - Bartoccini-Mc Restauri Perugia | Round 21
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/By4aqXhX/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/pdqp4Rs2/poster.jpg?width=320",Suzano Volei - Joinville Volei | Round 14
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/pdqp4Rs2/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/lC1FFoph/poster.jpg?width=320",Praia Clube Uberlandia Volei - Bateubet Volei Guarulhos | Round 14
@@ -35,7 +27,15 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/ZmypNJ9O/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/8s3WjbSo/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/rMDMDE5J/poster.jpg?width=320",Tokyo Great Bears - Voreas Hokkaido | Round 12-A
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/rMDMDE5J/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/BsZwhYGG/poster.jpg?width=320",Nec Red Rockets Kawasaki - Astemo Rivale Ibaraki | Round 14-A
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/BsZwhYGG/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/AOZtuxur/poster.jpg?width=320",Aranmare Yamagata - Queenseis Kariya | Round 14-A
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/AOZtuxur/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/PCuYehUe/poster.jpg?width=320",Okayama Seagulls - Kurobe Aqua Fairies | Round 14-A
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/PCuYehUe/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/ynbnDNPU/poster.jpg?width=320",Victorina Himeji - Saitama Ageo Medics | Round 14-A
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/ynbnDNPU/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/cVN5wVzT/poster.jpg?width=320",Saga Hisamitsu Springs - Denso Airybees | Round 14-A
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/cVN5wVzT/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/PUOI7tPW/poster.jpg?width=320",Jtekt Stings Aichi - Nippon Steel Sakai Blazers | Round 12-A
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/PUOI7tPW/live.isml/.m3u8
