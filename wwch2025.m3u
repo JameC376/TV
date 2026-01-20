@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/l64aZQgN/poster.jpg?width=320",Omag-Mt San Giovanni In Marignano - Il Bisonte Firenze | Round 21
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/l64aZQgN/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/T9Fuxr7A/poster.jpg?width=320",Cbf Balducci Hr Macerata - Reale Mutua Fenera Chieri 76 | Round 21
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/T9Fuxr7A/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/6yWeaiKz/poster.jpg?width=320",Megabox Ondulati Del Savio Vallefoglia - Prosecco Doc A.Carraro Imoco Conegliano | Round 21
@@ -39,3 +37,5 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/ZmypNJ9O/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/8s3WjbSo/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/rMDMDE5J/poster.jpg?width=320",Tokyo Great Bears - Voreas Hokkaido | Round 12-A
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/rMDMDE5J/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/BsZwhYGG/poster.jpg?width=320",Nec Red Rockets Kawasaki - Astemo Rivale Ibaraki | Round 14-A
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/BsZwhYGG/live.isml/.m3u8
