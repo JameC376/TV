@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/kDigbKZj/poster.jpg?width=320",Cuprum Stilon Gorzow - Energa Trefl Gdansk | Round 18
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/kDigbKZj/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/9AfSqz71/poster.jpg?width=320",JF Volei - Saneago Goias | Round 14
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/9AfSqz71/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/TGmNq3O5/poster.jpg?width=320",Sada Cruzeiro - Sicoob Monte Carmelo | Round 14
@@ -31,11 +29,13 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/AOZtuxur/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/PCuYehUe/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/ynbnDNPU/poster.jpg?width=320",Victorina Himeji - Saitama Ageo Medics | Round 14-A
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/ynbnDNPU/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/cVN5wVzT/poster.jpg?width=320",Saga Hisamitsu Springs - Denso Airybees | Round 14-A
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/cVN5wVzT/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/YWxEwwli/poster.jpg?width=320",Vc Nagano Tridents - Hiroshima Thunders | Round 12-A
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/YWxEwwli/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/PUOI7tPW/poster.jpg?width=320",Jtekt Stings Aichi - Nippon Steel Sakai Blazers | Round 12-A
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/PUOI7tPW/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/cVN5wVzT/poster.jpg?width=320",Saga Hisamitsu Springs - Denso Airybees | Round 14-A
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/cVN5wVzT/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/AotdOm8J/poster.jpg?width=320",Osaka Bluteon - Wolfdogs Nagoya | Round 12-A
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/AotdOm8J/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/RxMmkgut/poster.jpg?width=320",Suntory Sunbirds Osaka - Toray Arrows Shizuoka | Round 12-A
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/RxMmkgut/live.isml/.m3u8
