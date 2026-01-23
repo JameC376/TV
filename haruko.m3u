@@ -1,12 +1,22 @@
 #EXTM3U
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/JameC376/TV/refs/heads/main/cover/78th%20haruko.jpg" group-title="",D5 Semifinal
-https://ssai-manifest.streaks.jp/v6/haruko-sportsbull/7e424b454f0e4ab686f9104a6fe727a6/9c4eb39fb908474e82b852254171aac5/hls/v3/manifest.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJwcCI6IjA4NDdmODg5ZWEyODQyZmQ4YTZjMGY1MzMzN2JmM2Y5IiwiZGMiOiJhNDQ3YjMwNTBhOGY0ZmNkYjU2YzYwYjUwYjQzY2NmNCIsImVkZ2UiOiIzNGNhNjdmYmE2YTM0MmNiYWI0MmFmNTNhYTMzY2IyYyIsImNvZGVjcyI6ImF1dG8iLCJleHAiOjE3NjgxODMyMDAsInZwOSI6MSwicHB3IjoiNGUzIn0.AzLkwIn871rhKFVzp-W87E0dkGgGQW8euXXkx5Djrag&session=62edd078-3eac-407f-bb0d-62ab9c2bfc96
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/JameC376/TV/refs/heads/main/cover/78th%20haruko.jpg" group-title="",D4 M2
-https://ssai-manifest.streaks.jp/v6/haruko-sportsbull/39d48eb912a5446c8c61ccda4f0953e0/a2f5e666191b4dd182b82af6fddf26ed/hls/v3/manifest.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJwcCI6IjA4NDdmODg5ZWEyODQyZmQ4YTZjMGY1MzMzN2JmM2Y5IiwiZGMiOiJhNDQ3YjMwNTBhOGY0ZmNkYjU2YzYwYjUwYjQzY2NmNCIsImVkZ2UiOiIzNGNhNjdmYmE2YTM0MmNiYWI0MmFmNTNhYTMzY2IyYyIsImNvZGVjcyI6ImF1dG8iLCJleHAiOjE3NjgwMDY4MDAsInZwOSI6MSwicHB3IjoiNGUzIn0.zJePeg5Je_Y3Tb9paler6SSudQhaFY7yDG4UmegoWgM&session=09e7d9fa-538b-4a38-a88f-d3be1ba2512d
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/JameC376/TV/refs/heads/main/cover/78th%20haruko.jpg" group-title="",D4 W1
-https://ssai-manifest.streaks.jp/v6/haruko-sportsbull/7e424b454f0e4ab686f9104a6fe727a6/bc8351058daa4bed829782df84cc1d2e/hls/v3/manifest.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJwcCI6IjA4NDdmODg5ZWEyODQyZmQ4YTZjMGY1MzMzN2JmM2Y5IiwiZGMiOiJhNDQ3YjMwNTBhOGY0ZmNkYjU2YzYwYjUwYjQzY2NmNCIsImVkZ2UiOiIzNGNhNjdmYmE2YTM0MmNiYWI0MmFmNTNhYTMzY2IyYyIsImNvZGVjcyI6ImF1dG8iLCJleHAiOjE3NjgwMDY4MDAsInZwOSI6MSwicHB3IjoiNGUzIn0.zJePeg5Je_Y3Tb9paler6SSudQhaFY7yDG4UmegoWgM&session=2ac81808-2cc9-4e94-861d-352a180edf87
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/JameC376/TV/refs/heads/main/cover/78th%20haruko.jpg" group-title="",D4 W2
-https://ssai-manifest.streaks.jp/v6/haruko-sportsbull/8d4388572a1e42b4bc8c860172f7633c/9d131c732ecf4051889c3cf4ac9e0fd3/hls/v3/manifest.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJwcCI6IjA4NDdmODg5ZWEyODQyZmQ4YTZjMGY1MzMzN2JmM2Y5IiwiZGMiOiJhNDQ3YjMwNTBhOGY0ZmNkYjU2YzYwYjUwYjQzY2NmNCIsImVkZ2UiOiIzNGNhNjdmYmE2YTM0MmNiYWI0MmFmNTNhYTMzY2IyYyIsImNvZGVjcyI6ImF1dG8iLCJleHAiOjE3NjgwMDY4MDAsInZwOSI6MSwicHB3IjoiNGUzIn0.zJePeg5Je_Y3Tb9paler6SSudQhaFY7yDG4UmegoWgM&session=9b6bc635-1d77-42f5-9748-49608cee9f99
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fUmQkL5.jpg" group-title="SPORTS | Vip 1",TNT Sports 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1061be12d303247426ec25e8369b2647:bd622b0e610295de3b0bccb850ccaaaa
+http://tv.8dott.xyz:80/live/samuel/samuel123456/697057.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/c3syDfk.jpg" group-title="SPORTS | Vip 1",TNT Sports 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ae26845bd33038a9c0774a0981007294:63ac662dde310cfb4cc6f9b43b34196d
+http://tv.8dott.xyz:80/live/samuel/samuel123456/697056.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qCVx6Xn.jpg" group-title="SPORTS | Vip 1",TNT Sports 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6d1708b185c6c4d7b37600520c7cc93c:1aace05f58d8edef9697fd52cb09f441
+http://tv.8dott.xyz:80/live/samuel/samuel123456/697055.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZFke1fA.jpg" group-title="SPORTS | Vip 1",TNT Sports 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4e993aa8c1f295f8b94e8e9e6f6d0bfe:86a1ed6e96caab8eb1009fe530d2cf4f
+http://tv.8dott.xyz:80/live/samuel/samuel123456/697060.ts
 
 
