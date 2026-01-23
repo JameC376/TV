@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/N1IdV63F/poster.jpg?width=320",MOYA Radomka Radom - KS DevelopRes Rzeszow | Round 15
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/N1IdV63F/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/zw6seJCQ/poster.jpg?width=320",Metalkas Palac Bydgoszcz - ITA TOOLS Stal Mielec | Round 15
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/zw6seJCQ/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/ikNjntyE/poster.jpg?width=320",VolleyWroclaw - BKS BOSTIK ZGO Bielsko-Biala | Round 15
@@ -23,12 +21,12 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/PCuYehUe/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/AOZtuxur/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/ynbnDNPU/poster.jpg?width=320",Victorina Himeji - Saitama Ageo Medics | Round 14-A
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/ynbnDNPU/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/cVN5wVzT/poster.jpg?width=320",Saga Hisamitsu Springs - Denso Airybees | Round 14-A
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/cVN5wVzT/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/YWxEwwli/poster.jpg?width=320",Vc Nagano Tridents - Hiroshima Thunders | Round 12-A
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/YWxEwwli/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/PUOI7tPW/poster.jpg?width=320",Jtekt Stings Aichi - Nippon Steel Sakai Blazers | Round 12-A
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/PUOI7tPW/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/cVN5wVzT/poster.jpg?width=320",Saga Hisamitsu Springs - Denso Airybees | Round 14-A
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/cVN5wVzT/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/AotdOm8J/poster.jpg?width=320",Osaka Bluteon - Wolfdogs Nagoya | Round 12-A
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/AotdOm8J/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/RxMmkgut/poster.jpg?width=320",Suntory Sunbirds Osaka - Toray Arrows Shizuoka | Round 12-A
@@ -39,3 +37,5 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/dcRSINof/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/LDbShY6L/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/0tFbDGza/poster.jpg?width=320",ZAKSA Kedzierzyn Kozle - Asseco Resovia Rzeszow | Round 18
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/0tFbDGza/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/AN0xRLGn/poster.jpg?width=320",Savino Del Bene Scandicci - Reale Mutua Fenera Chieri ’76 | Coppa Italia - F4
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/AN0xRLGn/live.isml/.m3u8
