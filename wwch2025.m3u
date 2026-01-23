@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/TGmNq3O5/poster.jpg?width=320",Sada Cruzeiro - Sicoob Monte Carmelo | Round 14
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/TGmNq3O5/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/UuMXv4rm/poster.jpg?width=320",Sesi Bauru - Itambe Minas | Round 14
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/UuMXv4rm/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/N1IdV63F/poster.jpg?width=320",MOYA Radomka Radom - KS DevelopRes Rzeszow | Round 15
@@ -39,3 +37,5 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/AotdOm8J/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/RxMmkgut/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/dcRSINof/poster.jpg?width=320",Aluron CMC Warta Zawiercie - PGE GiEK SKRA Belchatow | Round 18
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/dcRSINof/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/LDbShY6L/poster.jpg?width=320",Prosecco Doc A. Carraro Imoco Conegliano - Igor Gorgonzola Novara | Coppa Italia - F4
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/LDbShY6L/live.isml/.m3u8
