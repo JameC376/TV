@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/ZmypNJ9O/poster.jpg?width=320",Osaka Marvelous - Toray Arrows Shiga | Round 14-A
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/ZmypNJ9O/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/8s3WjbSo/poster.jpg?width=320",Pfu Bluecats Ishikawa Kahoku - Gunma Greenwings | Round 14-A
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/8s3WjbSo/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/rMDMDE5J/poster.jpg?width=320",Tokyo Great Bears - Voreas Hokkaido | Round 12-A
@@ -39,3 +37,5 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/lRhSWB1r/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/BCdyhrkn/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/Lirt5Hp8/poster.jpg?width=320",Dentil Praia Clube - Sesi Volei Bauru | Copa Brasil - Quarter-Finals
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/Lirt5Hp8/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/T0UUYRNS/poster.jpg?width=320",Osaka Marvelous - Toray Arrows Shiga | Round 14-B
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/T0UUYRNS/live.isml/.m3u8
