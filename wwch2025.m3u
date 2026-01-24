@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/RxMmkgut/poster.jpg?width=320",Suntory Sunbirds Osaka - Toray Arrows Shizuoka | Round 12-A
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/RxMmkgut/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/dcRSINof/poster.jpg?width=320",Aluron CMC Warta Zawiercie - PGE GiEK SKRA Belchatow | Round 18
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/dcRSINof/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/LDbShY6L/poster.jpg?width=320",Prosecco Doc A. Carraro Imoco Conegliano - Igor Gorgonzola Novara | Coppa Italia - F4
@@ -39,3 +37,5 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/VmSgLrFL/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/dGFQdBjq/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/YnoJMgvK/poster.jpg?width=320",Osaka Bluteon - Wolfdogs Nagoya | Round 12-B
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/YnoJMgvK/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/PP1w8ewW/poster.jpg?width=320",Suntory Sunbirds Osaka - Toray Arrows Shizuoka | Round 12-B
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/PP1w8ewW/live.isml/.m3u8
