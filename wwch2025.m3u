@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/dcRSINof/poster.jpg?width=320",Aluron CMC Warta Zawiercie - PGE GiEK SKRA Belchatow | Round 18
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/dcRSINof/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/LDbShY6L/poster.jpg?width=320",Prosecco Doc A. Carraro Imoco Conegliano - Igor Gorgonzola Novara | Coppa Italia - F4
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/LDbShY6L/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/0tFbDGza/poster.jpg?width=320",ZAKSA Kedzierzyn Kozle - Asseco Resovia Rzeszow | Round 18
@@ -21,14 +19,14 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/T0UUYRNS/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/AcAqJ9F3/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/Eu8FEHHL/poster.jpg?width=320",Vc Nagano Tridents - Hiroshima Thunders | Round 12-B
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/Eu8FEHHL/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/2BPzKPvJ/poster.jpg?width=320",Pfu Bluecats Ishikawa Kahoku - Gunma Greenwings | Round 14-B
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/2BPzKPvJ/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/JeOEHJWa/poster.jpg?width=320",Aranmare Yamagata - Queenseis Kariya | Round 14-B
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/JeOEHJWa/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/CRNQ0uBJ/poster.jpg?width=320",Saga Hisamitsu Springs - Denso Airybees | Round 14-B
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/CRNQ0uBJ/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/2BPzKPvJ/poster.jpg?width=320",Pfu Bluecats Ishikawa Kahoku - Gunma Greenwings | Round 14-B
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/2BPzKPvJ/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/7Jb3oJ8G/poster.jpg?width=320",Victorina Himeji - Saitama Ageo Medics | Round 14-B
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/7Jb3oJ8G/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/CRNQ0uBJ/poster.jpg?width=320",Saga Hisamitsu Springs - Denso Airybees | Round 14-B
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/CRNQ0uBJ/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/lArWYWcA/poster.jpg?width=320",Tokyo Great Bears - Voreas Hokkaido | Round 12-B
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/lArWYWcA/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/VmSgLrFL/poster.jpg?width=320",Okayama Seagulls - Kurobe Aqua Fairies | Round 14-B
@@ -39,3 +37,5 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/dGFQdBjq/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/YnoJMgvK/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/PP1w8ewW/poster.jpg?width=320",Suntory Sunbirds Osaka - Toray Arrows Shizuoka | Round 12-B
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/PP1w8ewW/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/SWopIeZX/poster.jpg?width=320",BOGDANKA LUK Lublin - JSW Jastrzebski Wegiel | Round 18
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/SWopIeZX/live.isml/.m3u8
