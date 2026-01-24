@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/yCqZG6HM/poster.jpg?width=320",Savino Del Bene Scandicci - Reale Mutua Fenera Chieri 76 | Coppa Italia - F4
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/yCqZG6HM/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/YaRuYZnm/poster.jpg?width=320",PGE Projekt Warszawa - Barkom Kazany Lwow | Round 18
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/YaRuYZnm/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/lRhSWB1r/poster.jpg?width=320",Valsa Group Modena - Gas Sales Bluenergy Piacenza | Round 18
@@ -23,10 +21,10 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/2BPzKPvJ/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/7Jb3oJ8G/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/CRNQ0uBJ/poster.jpg?width=320",Saga Hisamitsu Springs - Denso Airybees | Round 14-B
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/CRNQ0uBJ/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/lArWYWcA/poster.jpg?width=320",Tokyo Great Bears - Voreas Hokkaido | Round 12-B
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/lArWYWcA/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/VmSgLrFL/poster.jpg?width=320",Okayama Seagulls - Kurobe Aqua Fairies | Round 14-B
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/VmSgLrFL/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/lArWYWcA/poster.jpg?width=320",Tokyo Great Bears - Voreas Hokkaido | Round 12-B
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/lArWYWcA/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/dGFQdBjq/poster.jpg?width=320",Jtekt Stings Aichi - Nippon Steel Sakai Blazers | Round 12-B
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/dGFQdBjq/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/YnoJMgvK/poster.jpg?width=320",Osaka Bluteon - Wolfdogs Nagoya | Round 12-B
@@ -39,3 +37,5 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/SWopIeZX/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/DEMnul6m/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/fzzgJivN/poster.jpg?width=320",Allianz Milano - Cucine Lube Civitanova | Round 18
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/fzzgJivN/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/5Nuual6r/poster.jpg?width=320",LKS Commercecon Lodz - ECO HARPOON LOS Nowy Dwor Mazowiecki | Round 15
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/5Nuual6r/live.isml/.m3u8
