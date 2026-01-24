@@ -1,18 +1,16 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/X307f6zZ/poster.jpg?width=320",Osasco Sao Cristovao Saude - Fluminense | Copa Brasil - Quarter-Finals
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/X307f6zZ/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/ZmypNJ9O/poster.jpg?width=320",Osaka Marvelous - Toray Arrows Shiga | Round 14-A
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/ZmypNJ9O/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/8s3WjbSo/poster.jpg?width=320",Pfu Bluecats Ishikawa Kahoku - Gunma Greenwings | Round 14-A
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/8s3WjbSo/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/rMDMDE5J/poster.jpg?width=320",Tokyo Great Bears - Voreas Hokkaido | Round 12-A
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/rMDMDE5J/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/BsZwhYGG/poster.jpg?width=320",Nec Red Rockets Kawasaki - Astemo Rivale Ibaraki | Round 14-A
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/BsZwhYGG/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/AOZtuxur/poster.jpg?width=320",Aranmare Yamagata - Queenseis Kariya | Round 14-A
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/AOZtuxur/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/PCuYehUe/poster.jpg?width=320",Okayama Seagulls - Kurobe Aqua Fairies | Round 14-A
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/PCuYehUe/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/BsZwhYGG/poster.jpg?width=320",Nec Red Rockets Kawasaki - Astemo Rivale Ibaraki | Round 14-A
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/BsZwhYGG/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/cVN5wVzT/poster.jpg?width=320",Saga Hisamitsu Springs - Denso Airybees | Round 14-A
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/cVN5wVzT/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/YWxEwwli/poster.jpg?width=320",Vc Nagano Tridents - Hiroshima Thunders | Round 12-A
@@ -39,3 +37,5 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/YaRuYZnm/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/lRhSWB1r/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/BCdyhrkn/poster.jpg?width=320",Gerdau Minas - Sancor Seguros Volei | Copa Brasil - Quarter-Finals
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/BCdyhrkn/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/Lirt5Hp8/poster.jpg?width=320",Dentil Praia Clube - Sesi Volei Bauru | Copa Brasil - Quarter-Finals
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/Lirt5Hp8/live.isml/.m3u8
