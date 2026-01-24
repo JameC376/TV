@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/BCdyhrkn/poster.jpg?width=320",Gerdau Minas - Sancor Seguros Volei | Copa Brasil - Quarter-Finals
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/BCdyhrkn/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/Lirt5Hp8/poster.jpg?width=320",Dentil Praia Clube - Sesi Volei Bauru | Copa Brasil - Quarter-Finals
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/Lirt5Hp8/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/T0UUYRNS/poster.jpg?width=320",Osaka Marvelous - Toray Arrows Shiga | Round 14-B
@@ -13,10 +11,10 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/Eu8FEHHL/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/JeOEHJWa/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/2BPzKPvJ/poster.jpg?width=320",Pfu Bluecats Ishikawa Kahoku - Gunma Greenwings | Round 14-B
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/2BPzKPvJ/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/CRNQ0uBJ/poster.jpg?width=320",Saga Hisamitsu Springs - Denso Airybees | Round 14-B
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/CRNQ0uBJ/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/7Jb3oJ8G/poster.jpg?width=320",Victorina Himeji - Saitama Ageo Medics | Round 14-B
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/7Jb3oJ8G/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/CRNQ0uBJ/poster.jpg?width=320",Saga Hisamitsu Springs - Denso Airybees | Round 14-B
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/CRNQ0uBJ/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/lArWYWcA/poster.jpg?width=320",Tokyo Great Bears - Voreas Hokkaido | Round 12-B
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/lArWYWcA/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/VmSgLrFL/poster.jpg?width=320",Okayama Seagulls - Kurobe Aqua Fairies | Round 14-B
@@ -39,3 +37,5 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/5Nuual6r/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/2oPsuUyq/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/dguBYhna/poster.jpg?width=320",Sir Susa Scai Perugia - Itas Trentino | Round 18
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/dguBYhna/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/R1LihlHp/poster.jpg?width=320",MA Acqua S.Bernardo Cuneo - Vero Volley Monza | Round 18
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/R1LihlHp/live.isml/.m3u8
