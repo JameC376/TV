@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/CRNQ0uBJ/poster.jpg?width=320",Saga Hisamitsu Springs - Denso Airybees | Round 14-B
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/CRNQ0uBJ/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/dGFQdBjq/poster.jpg?width=320",Jtekt Stings Aichi - Nippon Steel Sakai Blazers | Round 12-B
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/dGFQdBjq/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/aDdoACwv/poster.jpg?width=320",Victorina Himeji - Saitama Ageo Medics | Round 14-B
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/aDdoACwv/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/YnoJMgvK/poster.jpg?width=320",Osaka Bluteon - Wolfdogs Nagoya | Round 12-B
@@ -39,3 +35,7 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/LRZCv96B/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/C6tl8K9O/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/2CQwzpn6/poster.jpg?width=320",Volei Renata - Sesi Bauru | Copa Brasil - Quarter-Finals
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/2CQwzpn6/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/qDcdKW4y/poster.jpg?width=320",SESC RJ Flamengo - Osasco Sao Cristovao Saude | Round 18
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/qDcdKW4y/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/t0AHFdrb/poster.jpg?width=320",Itambe Minas - Saneago Goias | Copa Brasil - Quarter-Finals
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/t0AHFdrb/live.isml/.m3u8
