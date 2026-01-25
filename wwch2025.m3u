@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/5Nuual6r/poster.jpg?width=320",LKS Commercecon Lodz - ECO HARPOON LOS Nowy Dwor Mazowiecki | Round 15
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/5Nuual6r/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/iSNfffL2/poster.jpg?width=320",Yuasa Battery Grottazzolina - Sonepar Padova | Round 18
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/iSNfffL2/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/R1LihlHp/poster.jpg?width=320",MA Acqua S.Bernardo Cuneo - Vero Volley Monza | Round 18
@@ -39,3 +37,5 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/Jiq9rTLd/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/TcHOVYS9/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/nK2MDgj4/poster.jpg?width=320",Gerdau Minas - Dentil Praia Clube | Round 15
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/nK2MDgj4/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/dPEeioxK/poster.jpg?width=320",Tokyo Great Bears - Hiroshima Thunders | Round 13-B
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/dPEeioxK/live.isml/.m3u8
