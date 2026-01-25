@@ -1,10 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/AcAqJ9F3/poster.jpg?width=320",Nec Red Rockets Kawasaki - Astemo Rivale Ibaraki | Round 14-B
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/AcAqJ9F3/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/CRNQ0uBJ/poster.jpg?width=320",Saga Hisamitsu Springs - Denso Airybees | Round 14-B
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/CRNQ0uBJ/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/7Jb3oJ8G/poster.jpg?width=320",Victorina Himeji - Saitama Ageo Medics | Round 14-B
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/7Jb3oJ8G/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/lArWYWcA/poster.jpg?width=320",Tokyo Great Bears - Voreas Hokkaido | Round 12-B
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/lArWYWcA/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/VmSgLrFL/poster.jpg?width=320",Okayama Seagulls - Kurobe Aqua Fairies | Round 14-B
@@ -39,3 +35,7 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/6oZyKXMA/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/IF4gQOWl/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/JHMlwBEJ/poster.jpg?width=320",UNI Opole - Sokol & Hagric Mogilno | Round 15
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/JHMlwBEJ/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/zJSpIVtV/poster.jpg?width=320",Praia Clube Uberlandia Volei - Suzano Volei | Copa Brasil - Quarter-Finals
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/zJSpIVtV/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/LRZCv96B/poster.jpg?width=320",Indykpol AZS Olsztyn - Slepsk Malow Suwalki | Round 18
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/LRZCv96B/live.isml/.m3u8
