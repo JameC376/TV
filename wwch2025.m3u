@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/AcAqJ9F3/poster.jpg?width=320",Nec Red Rockets Kawasaki - Astemo Rivale Ibaraki | Round 14-B
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/AcAqJ9F3/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/Eu8FEHHL/poster.jpg?width=320",Vc Nagano Tridents - Hiroshima Thunders | Round 12-B
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/Eu8FEHHL/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/2BPzKPvJ/poster.jpg?width=320",Pfu Bluecats Ishikawa Kahoku - Gunma Greenwings | Round 14-B
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/2BPzKPvJ/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/CRNQ0uBJ/poster.jpg?width=320",Saga Hisamitsu Springs - Denso Airybees | Round 14-B
@@ -31,11 +29,13 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/5Nuual6r/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/2oPsuUyq/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/dguBYhna/poster.jpg?width=320",Sir Susa Scai Perugia - Itas Trentino | Round 18
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/dguBYhna/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/iSNfffL2/poster.jpg?width=320",Yuasa Battery Grottazzolina - Sonepar Padova | Round 18
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/iSNfffL2/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/R1LihlHp/poster.jpg?width=320",MA Acqua S.Bernardo Cuneo - Vero Volley Monza | Round 18
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/R1LihlHp/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/iSNfffL2/poster.jpg?width=320",Yuasa Battery Grottazzolina - Sonepar Padova | Round 18
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/iSNfffL2/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/6oZyKXMA/poster.jpg?width=320",Steam Hemarpol Politechnika Częstochowa - InPost ChKS Chelm | Round 18
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/6oZyKXMA/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/IF4gQOWl/poster.jpg?width=320",LOTTO Chemik Police - PGE Budowlani Lodz | Round 15
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/IF4gQOWl/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/JHMlwBEJ/poster.jpg?width=320",UNI Opole - Sokol & Hagric Mogilno | Round 15
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/JHMlwBEJ/live.isml/.m3u8
