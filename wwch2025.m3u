@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/aDdoACwv/poster.jpg?width=320",Victorina Himeji - Saitama Ageo Medics | Round 14-B
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/aDdoACwv/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/SWopIeZX/poster.jpg?width=320",BOGDANKA LUK Lublin - JSW Jastrzebski Wegiel | Round 18
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/SWopIeZX/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/vQpU2dT6/poster.jpg?width=320",Prosecco Doc A.Carraro Imoco Conegliano - Savino Del Bene Scandicci | Coppa Italia - F4
@@ -13,10 +11,10 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/5Nuual6r/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/2oPsuUyq/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/dguBYhna/poster.jpg?width=320",Sir Susa Scai Perugia - Itas Trentino | Round 18
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/dguBYhna/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/iSNfffL2/poster.jpg?width=320",Yuasa Battery Grottazzolina - Sonepar Padova | Round 18
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/iSNfffL2/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/R1LihlHp/poster.jpg?width=320",MA Acqua S.Bernardo Cuneo - Vero Volley Monza | Round 18
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/R1LihlHp/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/iSNfffL2/poster.jpg?width=320",Yuasa Battery Grottazzolina - Sonepar Padova | Round 18
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/iSNfffL2/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/6oZyKXMA/poster.jpg?width=320",Steam Hemarpol Politechnika Częstochowa - InPost ChKS Chelm | Round 18
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/6oZyKXMA/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/IF4gQOWl/poster.jpg?width=320",LOTTO Chemik Police - PGE Budowlani Lodz | Round 15
@@ -39,3 +37,5 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/t0AHFdrb/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/0Hde248Y/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/N8hOBovM/poster.jpg?width=320",Paulistano Barueri - Renasce Sorocaba | Round 15
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/N8hOBovM/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/22eZY1wo/poster.jpg?width=320",Tokyo Great Bears - Hiroshima Thunders | Round 13-A
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/22eZY1wo/live.isml/.m3u8
