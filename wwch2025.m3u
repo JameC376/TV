@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/iSNfffL2/poster.jpg?width=320",Yuasa Battery Grottazzolina - Sonepar Padova | Round 18
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/iSNfffL2/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/R1LihlHp/poster.jpg?width=320",MA Acqua S.Bernardo Cuneo - Vero Volley Monza | Round 18
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/R1LihlHp/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/6oZyKXMA/poster.jpg?width=320",Steam Hemarpol Politechnika Częstochowa - InPost ChKS Chelm | Round 18
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/6oZyKXMA/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/IF4gQOWl/poster.jpg?width=320",LOTTO Chemik Police - PGE Budowlani Lodz | Round 15
@@ -39,3 +35,7 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/TcHOVYS9/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/nK2MDgj4/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/dPEeioxK/poster.jpg?width=320",Tokyo Great Bears - Hiroshima Thunders | Round 13-B
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/dPEeioxK/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/KbTWX97v/poster.jpg?width=320",ECO HARPOON LOS Nowy Dwor Mazowiecki - MOYA Radomka Radom | Round 16
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/KbTWX97v/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/JWkVIw5p/poster.jpg?width=320",JSW Jastrzebski Wegiel - Aluron CMC Warta Zawiercie | Round 19
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/JWkVIw5p/live.isml/.m3u8
