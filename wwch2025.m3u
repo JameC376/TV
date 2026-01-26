@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/IF4gQOWl/poster.jpg?width=320",LOTTO Chemik Police - PGE Budowlani Lodz | Round 15
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/IF4gQOWl/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/LjQ9by5y/poster.jpg?width=320",UNI Opole - Sokol & Hagric Mogilno | Round 15
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/LjQ9by5y/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/zJSpIVtV/poster.jpg?width=320",Praia Clube Uberlandia Volei - Suzano Volei | Copa Brasil - Quarter-Finals
@@ -39,3 +37,5 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/dPEeioxK/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/KbTWX97v/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/JWkVIw5p/poster.jpg?width=320",JSW Jastrzebski Wegiel - Aluron CMC Warta Zawiercie | Round 19
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/JWkVIw5p/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/dvWLKeqc/poster.jpg?width=320",BKS BOSTIK ZGO Bielsko-Biala - Metalkas Palac Bydgoszcz | Round 16
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/dvWLKeqc/live.isml/.m3u8
