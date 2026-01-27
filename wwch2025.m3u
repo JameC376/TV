@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/C6tl8K9O/poster.jpg?width=320",Brasilia Volei - Sesi Volei Bauru | Round 18
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/C6tl8K9O/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/2CQwzpn6/poster.jpg?width=320",Volei Renata - Sesi Bauru | Copa Brasil - Quarter-Finals
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/2CQwzpn6/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/qDcdKW4y/poster.jpg?width=320",SESC RJ Flamengo - Osasco Sao Cristovao Saude | Round 18
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/qDcdKW4y/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/t0AHFdrb/poster.jpg?width=320",Itambe Minas - Saneago Goias | Copa Brasil - Quarter-Finals
@@ -39,3 +37,5 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/R4E7j640/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/Gba1NWJe/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/sb1eVeIo/poster.jpg?width=320",KS DevelopRes Rzeszow - LOTTO Chemik Police | Round 16
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/sb1eVeIo/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/WA0igW9D/poster.jpg?width=320",Honda Cuneo Granda Volley - Eurotek Laica Uyba | Round 22
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/WA0igW9D/live.isml/.m3u8
