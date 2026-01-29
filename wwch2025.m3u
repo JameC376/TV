@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/t0AHFdrb/poster.jpg?width=320",Itambe Minas - Saneago Goias | Copa Brasil - Quarter-Finals
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/t0AHFdrb/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/0Hde248Y/poster.jpg?width=320",Sada Cruzeiro - Bateubet Volei Guarulhos | Copa Brasil - Quarter-Finals
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/0Hde248Y/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/N8hOBovM/poster.jpg?width=320",Paulistano Barueri - Renasce Sorocaba | Round 15
@@ -39,3 +37,5 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/WA0igW9D/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/eyyStsZb/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/QqLkahKJ/poster.jpg?width=320",Brasilia Volei - Sancor Seguros Volei | Round 15
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/QqLkahKJ/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/6RC8Conp/poster.jpg?width=320",Batavo Mackenzie - Osasco Sao Cristovao Saude | Round 15
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/6RC8Conp/live.isml/.m3u8
