@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/N8hOBovM/poster.jpg?width=320",Paulistano Barueri - Renasce Sorocaba | Round 15
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/N8hOBovM/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/22eZY1wo/poster.jpg?width=320",Tokyo Great Bears - Hiroshima Thunders | Round 13-A
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/22eZY1wo/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/ndbOZZMe/poster.jpg?width=320",PGE GiEK SKRA Belchatow - InPost ChKS Chelm | Round 19
@@ -39,3 +37,5 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/QqLkahKJ/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/6RC8Conp/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/hUFEttqN/poster.jpg?width=320",All Star Game
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/hUFEttqN/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/MjRfxffl/poster.jpg?width=320",Asseco Resovia Rzeszow - BOGDANKA LUK Lublin | Round 19
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/MjRfxffl/live.isml/.m3u8
