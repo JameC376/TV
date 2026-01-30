@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/ndbOZZMe/poster.jpg?width=320",PGE GiEK SKRA Belchatow - InPost ChKS Chelm | Round 19
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/ndbOZZMe/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/EMPceEsN/poster.jpg?width=320",Barkom Kazany Lwow - ZAKSA Kedzierzyn Kozle | Round 19
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/EMPceEsN/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/Jiq9rTLd/poster.jpg?width=320",SESC RJ Flamengo - Tijuca Tenis Clube | Round 15
@@ -39,3 +37,5 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/hUFEttqN/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/MjRfxffl/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/ih9h1LzF/poster.jpg?width=320",Saneago Goias - Sicoob Monte Carmelo | Round 15
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/ih9h1LzF/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/0fTNStLE/poster.jpg?width=320",Wash4green Monviso Volley - Omag-Mt San Giovanni In Marignano | Round 22
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/0fTNStLE/live.isml/.m3u8
