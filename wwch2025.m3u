@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/R4E7j640/poster.jpg?width=320",Yuasa Battery Grottazzolina - Vero Volley Monza | Round 19
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/R4E7j640/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/Gba1NWJe/poster.jpg?width=320",Sokol & Hagric Mogilno - LKS Commercecon Lodz | Round 16
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/Gba1NWJe/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/sb1eVeIo/poster.jpg?width=320",KS DevelopRes Rzeszow - LOTTO Chemik Police | Round 16
@@ -39,3 +37,5 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/1PoCJMrX/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/MF8m1iRs/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/hkNLhV91/poster.jpg?width=320",Gas Sales Bluenergy Piacenza - Cisterna Volley | Round 19
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/hkNLhV91/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/g37qIUDM/poster.jpg?width=320",Valsa Group Modena - Allianz Milano | Round 19
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/g37qIUDM/live.isml/.m3u8
