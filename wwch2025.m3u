@@ -1,14 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/1PoCJMrX/poster.jpg?width=320",Energa Trefl Gdansk - PGE Projekt Warszawa | Round 19
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/1PoCJMrX/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/MF8m1iRs/poster.jpg?width=320",Megabox Ondulati Del Savio Vallefoglia - Igor Gorgonzola Novara | Round 22
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/MF8m1iRs/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/g37qIUDM/poster.jpg?width=320",Valsa Group Modena - Allianz Milano | Round 19
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/g37qIUDM/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/hkNLhV91/poster.jpg?width=320",Gas Sales Bluenergy Piacenza - Cisterna Volley | Round 19
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/hkNLhV91/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/giXzQYjh/poster.jpg?width=320",Rana Verona - Cucine Lube Civitanova | Round 19
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/giXzQYjh/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/WaBs0qsb/poster.jpg?width=320",Indykpol AZS Olsztyn - Steam Hemarpol Politechnika Częstochowa | Round 19
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/WaBs0qsb/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/5JxPfvEH/poster.jpg?width=320",Viapol Sao Jose - JF Volei | Round 15
@@ -39,3 +29,13 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/3jy5PU0D/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/pz1ND4nd/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/rG2r09mG/poster.jpg?width=320",Tijuca Tenis Clube - Gerdau Minas | Round 16
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/rG2r09mG/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/T95l8R4n/poster.jpg?width=320",Brasilia Volei - SESC RJ Flamengo | Round 16
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/T95l8R4n/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/Hjp6NumW/poster.jpg?width=320",Sesi Volei Bauru - Dentil Praia Clube | Round 16
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/Hjp6NumW/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/W0cgd8Au/poster.jpg?width=320",Queenseis Kariya - Okayama Seagulls | Round 15-A
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/W0cgd8Au/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/0mkoesPp/poster.jpg?width=320",Denso Airybees - Victorina Himeji | Round 15-A
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/0mkoesPp/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/DKu7rNds/poster.jpg?width=320",Pfu Bluecats Ishikawa Kahoku - Saitama Ageo Medics | Round 15-A
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/DKu7rNds/live.isml/.m3u8
