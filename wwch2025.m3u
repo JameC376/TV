@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/MjRfxffl/poster.jpg?width=320",Asseco Resovia Rzeszow - BOGDANKA LUK Lublin | Round 19
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/MjRfxffl/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/ih9h1LzF/poster.jpg?width=320",Saneago Goias - Sicoob Monte Carmelo | Round 15
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/ih9h1LzF/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/0fTNStLE/poster.jpg?width=320",Wash4green Monviso Volley - Omag-Mt San Giovanni In Marignano | Round 22
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/0fTNStLE/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/FV3sJBgs/poster.jpg?width=320",Prosecco Doc A.Carraro Imoco Conegliano - Cbf Balducci Hr Macerata | Round 22
@@ -21,10 +17,10 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/P9Vbrxa2/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/1PoCJMrX/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/MF8m1iRs/poster.jpg?width=320",Megabox Ondulati Del Savio Vallefoglia - Igor Gorgonzola Novara | Round 22
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/MF8m1iRs/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/hkNLhV91/poster.jpg?width=320",Gas Sales Bluenergy Piacenza - Cisterna Volley | Round 19
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/hkNLhV91/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/g37qIUDM/poster.jpg?width=320",Valsa Group Modena - Allianz Milano | Round 19
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/g37qIUDM/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/hkNLhV91/poster.jpg?width=320",Gas Sales Bluenergy Piacenza - Cisterna Volley | Round 19
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/hkNLhV91/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/giXzQYjh/poster.jpg?width=320",Rana Verona - Cucine Lube Civitanova | Round 19
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/giXzQYjh/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/WaBs0qsb/poster.jpg?width=320",Indykpol AZS Olsztyn - Steam Hemarpol Politechnika Częstochowa | Round 19
@@ -39,3 +35,7 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/ZCrlBKuF/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/tRLrIk49/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/nwUpZeq3/poster.jpg?width=320",Joinville Volei - Praia Clube Uberlandia Volei | Round 15
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/nwUpZeq3/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/reuFEqlc/poster.jpg?width=320",Suzano Volei - Sesi Bauru | Round 15
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/reuFEqlc/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/88MZGFQH/poster.jpg?width=320",Steam Hemarpol Politechnika Częstochowa - Aluron CMC Warta Zawiercie | Round 16
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/88MZGFQH/live.isml/.m3u8
