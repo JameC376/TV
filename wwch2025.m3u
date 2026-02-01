@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/RPa4JR8z/poster.jpg?width=320",Sonepar Padova - Sir Susa Scai Perugia | Round 19
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/RPa4JR8z/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/YZfpaERy/poster.jpg?width=320",Reale Mutua Fenera Chieri 76 - Savino Del Bene Scandicci | Round 22
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/YZfpaERy/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/1PoCJMrX/poster.jpg?width=320",Energa Trefl Gdansk - PGE Projekt Warszawa | Round 19
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/1PoCJMrX/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/MF8m1iRs/poster.jpg?width=320",Megabox Ondulati Del Savio Vallefoglia - Igor Gorgonzola Novara | Round 22
@@ -39,3 +35,7 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/z6CJkUOn/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/UkqSLM82/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/3jy5PU0D/poster.jpg?width=320",Slepsk Malow Suwalki - PGE Projekt Warszawa | Round 20
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/3jy5PU0D/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/pz1ND4nd/poster.jpg?width=320",BOGDANKA LUK Lublin - Barkom Kazany Lwow | Round 20
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/pz1ND4nd/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/rG2r09mG/poster.jpg?width=320",Tijuca Tenis Clube - Gerdau Minas | Round 16
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/rG2r09mG/live.isml/.m3u8
