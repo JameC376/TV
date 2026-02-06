@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/pz1ND4nd/poster.jpg?width=320",BOGDANKA LUK Lublin - Barkom Kazany Lwow | Round 20
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/pz1ND4nd/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/rG2r09mG/poster.jpg?width=320",Tijuca Tenis Clube - Gerdau Minas | Round 16
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/rG2r09mG/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/T95l8R4n/poster.jpg?width=320",Brasilia Volei - SESC RJ Flamengo | Round 16
@@ -13,10 +11,10 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/W0cgd8Au/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/0mkoesPp/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/DKu7rNds/poster.jpg?width=320",Pfu Bluecats Ishikawa Kahoku - Saitama Ageo Medics | Round 15-A
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/DKu7rNds/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/5FSGZ8wO/poster.jpg?width=320",Voreas Hokkaido - Wolfdogs Nagoya | Round 13-A
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/5FSGZ8wO/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/sGGCF7Iw/poster.jpg?width=320",Gunma Greenwings - Osaka Marvelous | Round 15-A
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/sGGCF7Iw/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/5FSGZ8wO/poster.jpg?width=320",Voreas Hokkaido - Wolfdogs Nagoya | Round 13-A
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/5FSGZ8wO/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/KmaPmrwL/poster.jpg?width=320",Saga Hisamitsu Springs - Nec Red Rockets Kawasaki | Round 15-A
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/KmaPmrwL/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/xtwVBwij/poster.jpg?width=320",Jtekt Stings Aichi - Suntory Sunbirds Osaka | Round 13-A
@@ -39,3 +37,5 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/Zi9xYN2g/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/KMSP9M8I/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/h4RAwIH4/poster.jpg?width=320",Semi-Final: BKS BOSTIK ZGO Bielsko-Biala - NETLAND MKS Kalisz | Polish Cup - F4
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/h4RAwIH4/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/ZcYSXgdu/poster.jpg?width=320",Bergamo - Wash4green Monviso Volley | Round 23
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/ZcYSXgdu/live.isml/.m3u8
