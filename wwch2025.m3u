@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/9c6KoMnJ/poster.jpg?width=320",Aluron CMC Warta Zawiercie - Asseco Resovia Rzeszow | Round 20
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/9c6KoMnJ/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/HNmMNW0Z/poster.jpg?width=320",Omag-Mt San Giovanni In Marignano - Bartoccini-Mc Restauri Perugia | Round 23
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/HNmMNW0Z/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/3U5tD5IE/poster.jpg?width=320",Sada Cruzeiro - Saneago Goias | Round 16
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/3U5tD5IE/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/PyamWqVZ/poster.jpg?width=320",Suzano Volei - Itambe Minas | Round 16
@@ -39,3 +35,7 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/WND1wXDW/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/dWevgFz7/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/iwE8fC4E/poster.jpg?width=320",Reale Mutua Fenera Chieri 76 - Honda Cuneo Granda Volley | Round 23
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/iwE8fC4E/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/0mo5y7vI/poster.jpg?width=320",Savino Del Bene Scandicci - Prosecco Doc A.Carraro Imoco Conegliano | Round 23
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/0mo5y7vI/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/pQeE9NCB/poster.jpg?width=320",Cbf Balducci Hr Macerata - Megabox Ondulati Del Savio Vallefoglia | Round 23
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/pQeE9NCB/live.isml/.m3u8
