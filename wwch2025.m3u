@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/KMSP9M8I/poster.jpg?width=320",Semi-Final: Rana Verona - Sir Susa Scai Perugia | Coppa Italia - F4
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/KMSP9M8I/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/h4RAwIH4/poster.jpg?width=320",Semi-Final: BKS BOSTIK ZGO Bielsko-Biala - NETLAND MKS Kalisz | Polish Cup - F4
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/h4RAwIH4/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/ZcYSXgdu/poster.jpg?width=320",Bergamo - Wash4green Monviso Volley | Round 23
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/ZcYSXgdu/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/9c6KoMnJ/poster.jpg?width=320",Aluron CMC Warta Zawiercie - Asseco Resovia Rzeszow | Round 20
@@ -21,21 +17,25 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/g50DpB7G/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/dd1zOEJn/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/ZHJ2YglE/poster.jpg?width=320",Pfu Bluecats Ishikawa Kahoku - Saitama Ageo Medics | Round 15-B
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/ZHJ2YglE/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/DmEpx6IM/poster.jpg?width=320",Denso Airybees - Victorina Himeji | Round 15-B
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/DmEpx6IM/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/lyPMN4ph/poster.jpg?width=320",Vc Nagano Tridents - Toray Arrows Shizuoka | Round 13-B
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/lyPMN4ph/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/DmEpx6IM/poster.jpg?width=320",Denso Airybees - Victorina Himeji | Round 15-B
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/DmEpx6IM/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/o40OuRfx/poster.jpg?width=320",Nippon Steel Sakai Blazers - Osaka Bluteon | Round 13-B
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/o40OuRfx/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/CWgMna9N/poster.jpg?width=320",Queenseis Kariya - Okayama Seagulls | Round 15-B
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/CWgMna9N/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/90iOzVKq/poster.jpg?width=320",Kurobe Aqua Fairies - Toray Arrows Shiga | Round 15-B
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/90iOzVKq/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/vC1Rgh2Y/poster.jpg?width=320",Saga Hisamitsu Springs - Nec Red Rockets Kawasaki | Round 15-B
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/vC1Rgh2Y/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/qaynniQD/poster.jpg?width=320",Astemo Rivale Ibaraki - Aranmare Yamagata | Round 15-B
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/qaynniQD/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/90iOzVKq/poster.jpg?width=320",Kurobe Aqua Fairies - Toray Arrows Shiga | Round 15-B
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/90iOzVKq/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/HBoONcRH/poster.jpg?width=320",Jtekt Stings Aichi - Suntory Sunbirds Osaka | Round 13-B
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/HBoONcRH/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/qaynniQD/poster.jpg?width=320",Astemo Rivale Ibaraki - Aranmare Yamagata | Round 15-B
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/qaynniQD/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/BsKcmeds/poster.jpg?width=320",Final: tbc - tbc | Polish Cup - F4
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/BsKcmeds/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/WND1wXDW/poster.jpg?width=320",Igor Gorgonzola Novara - Numia Vero Volley Milano | Round 23
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/WND1wXDW/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/dWevgFz7/poster.jpg?width=320",Eurotek Laica Uyba - Il Bisonte Firenze | Round 23
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/dWevgFz7/live.isml/.m3u8
