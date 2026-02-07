@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/1kPzG6c6/poster.jpg?width=320",Nippon Steel Sakai Blazers - Osaka Bluteon | Round 13-A
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/1kPzG6c6/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/UCLuMtj5/poster.jpg?width=320",ZAKSA Kedzierzyn Kozle - Energa Trefl Gdansk | Round 20
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/UCLuMtj5/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/ccHK5Zqy/poster.jpg?width=320",Semi-Final: KS DevelopRes Rzeszow - PGE Budowlani Lodz | Polish Cup - F4
@@ -37,5 +35,7 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/DmEpx6IM/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/o40OuRfx/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/CWgMna9N/poster.jpg?width=320",Queenseis Kariya - Okayama Seagulls | Round 15-B
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/CWgMna9N/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/90iOzVKq/poster.jpg?width=320",Kurobe Aqua Fairies - Toray Arrows Shiga | Round 15-B
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/90iOzVKq/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/vC1Rgh2Y/poster.jpg?width=320",Saga Hisamitsu Springs - Nec Red Rockets Kawasaki | Round 15-B
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/vC1Rgh2Y/live.isml/.m3u8
