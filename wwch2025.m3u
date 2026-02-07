@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/Zi9xYN2g/poster.jpg?width=320",Semi-Final: Itas Trentino - Gas Sales Bluenergy Piacenza | Coppa Italia - F4
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/Zi9xYN2g/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/KMSP9M8I/poster.jpg?width=320",Semi-Final: Rana Verona - Sir Susa Scai Perugia | Coppa Italia - F4
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/KMSP9M8I/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/h4RAwIH4/poster.jpg?width=320",Semi-Final: BKS BOSTIK ZGO Bielsko-Biala - NETLAND MKS Kalisz | Polish Cup - F4
@@ -39,3 +37,5 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/vC1Rgh2Y/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/qaynniQD/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/HBoONcRH/poster.jpg?width=320",Jtekt Stings Aichi - Suntory Sunbirds Osaka | Round 13-B
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/HBoONcRH/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/BsKcmeds/poster.jpg?width=320",Final: tbc - tbc | Polish Cup - F4
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/BsKcmeds/live.isml/.m3u8
