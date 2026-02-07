@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/0mkoesPp/poster.jpg?width=320",Denso Airybees - Victorina Himeji | Round 15-A
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/0mkoesPp/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/W0cgd8Au/poster.jpg?width=320",Queenseis Kariya - Okayama Seagulls | Round 15-A
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/W0cgd8Au/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/DKu7rNds/poster.jpg?width=320",Pfu Bluecats Ishikawa Kahoku - Saitama Ageo Medics | Round 15-A
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/DKu7rNds/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/5FSGZ8wO/poster.jpg?width=320",Voreas Hokkaido - Wolfdogs Nagoya | Round 13-A
@@ -39,3 +37,5 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/HNmMNW0Z/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/3U5tD5IE/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/PyamWqVZ/poster.jpg?width=320",Suzano Volei - Itambe Minas | Round 16
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/PyamWqVZ/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/XXbBSxLD/poster.jpg?width=320",Volei Renata - Joinville Volei | Round 16
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/XXbBSxLD/live.isml/.m3u8
