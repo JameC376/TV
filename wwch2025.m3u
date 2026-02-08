@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/vC1Rgh2Y/poster.jpg?width=320",Saga Hisamitsu Springs - Nec Red Rockets Kawasaki | Round 15-B
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/vC1Rgh2Y/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/BsKcmeds/poster.jpg?width=320",Final: tbc - tbc | Polish Cup - F4
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/BsKcmeds/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/WND1wXDW/poster.jpg?width=320",Igor Gorgonzola Novara - Numia Vero Volley Milano | Round 23
@@ -39,3 +37,5 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/M49ZVrDF/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/aECAdnIv/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/3R35jQlG/poster.jpg?width=320",Honda Cuneo Granda Volley - Bergamo | Round 24
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/3R35jQlG/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/fGHPbXQI/poster.jpg?width=320",Bartoccini-Mc Restauri Perugia - Eurotek Laica Uyba | Round 24
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/fGHPbXQI/live.isml/.m3u8
