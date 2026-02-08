@@ -1,12 +1,10 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/cfmYFDsC/poster.jpg?width=320",Final: PGE Budowlani Lodz - BKS BOSTIK ZGO Bielsko-Biala | Polish Cup - F4
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/cfmYFDsC/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/WND1wXDW/poster.jpg?width=320",Igor Gorgonzola Novara - Numia Vero Volley Milano | Round 23
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/WND1wXDW/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/dWevgFz7/poster.jpg?width=320",Eurotek Laica Uyba - Il Bisonte Firenze | Round 23
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/dWevgFz7/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/iwE8fC4E/poster.jpg?width=320",Reale Mutua Fenera Chieri 76 - Honda Cuneo Granda Volley | Round 23
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/iwE8fC4E/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/dWevgFz7/poster.jpg?width=320",Eurotek Laica Uyba - Il Bisonte Firenze | Round 23
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/dWevgFz7/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/pQeE9NCB/poster.jpg?width=320",Cbf Balducci Hr Macerata - Megabox Ondulati Del Savio Vallefoglia | Round 23
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/pQeE9NCB/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/0mo5y7vI/poster.jpg?width=320",Savino Del Bene Scandicci - Prosecco Doc A.Carraro Imoco Conegliano | Round 23
@@ -39,3 +37,5 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/aECAdnIv/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/3R35jQlG/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/fGHPbXQI/poster.jpg?width=320",Bartoccini-Mc Restauri Perugia - Eurotek Laica Uyba | Round 24
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/fGHPbXQI/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/07N8J3wj/poster.jpg?width=320",Numia Vero Volley Milano - Omag-Mt San Giovanni In Marignano | Round 24
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/07N8J3wj/live.isml/.m3u8
