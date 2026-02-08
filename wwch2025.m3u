@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/WND1wXDW/poster.jpg?width=320",Igor Gorgonzola Novara - Numia Vero Volley Milano | Round 23
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/WND1wXDW/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/iwE8fC4E/poster.jpg?width=320",Reale Mutua Fenera Chieri 76 - Honda Cuneo Granda Volley | Round 23
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/iwE8fC4E/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/dWevgFz7/poster.jpg?width=320",Eurotek Laica Uyba - Il Bisonte Firenze | Round 23
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/dWevgFz7/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/pQeE9NCB/poster.jpg?width=320",Cbf Balducci Hr Macerata - Megabox Ondulati Del Savio Vallefoglia | Round 23
@@ -39,3 +35,7 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/3R35jQlG/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/fGHPbXQI/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/07N8J3wj/poster.jpg?width=320",Numia Vero Volley Milano - Omag-Mt San Giovanni In Marignano | Round 24
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/07N8J3wj/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/OpLggB5H/poster.jpg?width=320",Slepsk Malow Suwalki - ZAKSA Kedzierzyn Kozle | Round 21
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/OpLggB5H/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/0pV009jP/poster.jpg?width=320",BKS BOSTIK ZGO Bielsko-Biala - ITA TOOLS Stal Mielec | Round 13
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/0pV009jP/live.isml/.m3u8
