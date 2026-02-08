@@ -1,22 +1,10 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/g50DpB7G/poster.jpg?width=320",Voreas Hokkaido - Wolfdogs Nagoya | Round 13-B
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/g50DpB7G/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/dd1zOEJn/poster.jpg?width=320",Gunma Greenwings - Osaka Marvelous | Round 15-B
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/dd1zOEJn/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/DmEpx6IM/poster.jpg?width=320",Denso Airybees - Victorina Himeji | Round 15-B
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/DmEpx6IM/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/CWgMna9N/poster.jpg?width=320",Queenseis Kariya - Okayama Seagulls | Round 15-B
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/CWgMna9N/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/o40OuRfx/poster.jpg?width=320",Nippon Steel Sakai Blazers - Osaka Bluteon | Round 13-B
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/o40OuRfx/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/vC1Rgh2Y/poster.jpg?width=320",Saga Hisamitsu Springs - Nec Red Rockets Kawasaki | Round 15-B
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/vC1Rgh2Y/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/90iOzVKq/poster.jpg?width=320",Kurobe Aqua Fairies - Toray Arrows Shiga | Round 15-B
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/90iOzVKq/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/vC1Rgh2Y/poster.jpg?width=320",Saga Hisamitsu Springs - Nec Red Rockets Kawasaki | Round 15-B
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/vC1Rgh2Y/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/HBoONcRH/poster.jpg?width=320",Jtekt Stings Aichi - Suntory Sunbirds Osaka | Round 13-B
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/HBoONcRH/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/qaynniQD/poster.jpg?width=320",Astemo Rivale Ibaraki - Aranmare Yamagata | Round 15-B
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/qaynniQD/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/BsKcmeds/poster.jpg?width=320",Final: tbc - tbc | Polish Cup - F4
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/BsKcmeds/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/WND1wXDW/poster.jpg?width=320",Igor Gorgonzola Novara - Numia Vero Volley Milano | Round 23
@@ -39,3 +27,15 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/3cHIcu4c/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/6v48iXQE/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/eYpI0B5W/poster.jpg?width=320",Metalkas Palac Bydgoszcz - LKS Commercecon Lodz | Round 13
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/eYpI0B5W/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/DPgcI1He/poster.jpg?width=320",Sicoob Monte Carmelo - Viapol Sao Jose | Round 16
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/DPgcI1He/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/pUHluWop/poster.jpg?width=320",Praia Clube Uberlandia Volei - Sesi Bauru | Round 16
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/pUHluWop/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/oaCYwQRu/poster.jpg?width=320",Il Bisonte Firenze - Prosecco Doc A.Carraro Imoco Conegliano | Round 24
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/oaCYwQRu/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/YpiKBkyc/poster.jpg?width=320",Fluminense - Batavo Mackenzie | Round 17
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/YpiKBkyc/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/9dAQNhGO/poster.jpg?width=320",Paulistano Barueri - Osasco Sao Cristovao Saude | Round 17
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/9dAQNhGO/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/M49ZVrDF/poster.jpg?width=320",VolleyWroclaw - MOYA Radomka Radom | Round 13
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/M49ZVrDF/live.isml/.m3u8
