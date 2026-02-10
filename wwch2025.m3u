@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/DPgcI1He/poster.jpg?width=320",Sicoob Monte Carmelo - Viapol Sao Jose | Round 16
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/DPgcI1He/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/pUHluWop/poster.jpg?width=320",Praia Clube Uberlandia Volei - Sesi Bauru | Round 16
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/pUHluWop/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/oaCYwQRu/poster.jpg?width=320",Il Bisonte Firenze - Prosecco Doc A.Carraro Imoco Conegliano | Round 24
@@ -25,10 +23,10 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/OpLggB5H/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/0pV009jP/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/3XOSixYs/poster.jpg?width=320",Wash4green Monviso Volley - Reale Mutua Fenera Chieri 76 | Round 24
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/3XOSixYs/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/PYBs5oCu/poster.jpg?width=320",Cbf Balducci Hr Macerata - Igor Gorgonzola Novara | Round 24
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/PYBs5oCu/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/Y0A5sTwK/poster.jpg?width=320",Megabox Ondulati Del Savio Vallefoglia - Savino Del Bene Scandicci | Round 24
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/Y0A5sTwK/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/PYBs5oCu/poster.jpg?width=320",Cbf Balducci Hr Macerata - Igor Gorgonzola Novara | Round 24
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/PYBs5oCu/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/1cbibSsR/poster.jpg?width=320",Dentil Praia Clube - Renasce Sorocaba | Round 17
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/1cbibSsR/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/LI9pUtxM/poster.jpg?width=320",Gerdau Minas - Brasilia Volei | Round 17
@@ -39,3 +37,5 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/D1Q5ZBMy/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/r7fst3de/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/Nf6Vw0rB/poster.jpg?width=320",Viapol Sao Jose - Saneago Goias | Round 17
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/Nf6Vw0rB/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/dCcCUN7P/poster.jpg?width=320",SESC RJ Flamengo - Sancor Seguros Volei | Round 17
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/dCcCUN7P/live.isml/.m3u8
