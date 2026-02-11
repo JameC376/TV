@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/YpiKBkyc/poster.jpg?width=320",Fluminense - Batavo Mackenzie | Round 17
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/YpiKBkyc/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/9dAQNhGO/poster.jpg?width=320",Paulistano Barueri - Osasco Sao Cristovao Saude | Round 17
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/9dAQNhGO/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/M49ZVrDF/poster.jpg?width=320",VolleyWroclaw - MOYA Radomka Radom | Round 13
@@ -39,3 +37,5 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/dCcCUN7P/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/UOjiwOPi/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/FkTOOgBc/poster.jpg?width=320",Suzano Volei - Sada Cruzeiro | Round 17
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/FkTOOgBc/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/WzxjQl20/poster.jpg?width=320",JSW Jastrzebski Wegiel - PGE GiEK SKRA Belchatow | Round 21
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/WzxjQl20/live.isml/.m3u8
