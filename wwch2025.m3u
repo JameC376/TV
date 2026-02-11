@@ -1,14 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/fGHPbXQI/poster.jpg?width=320",Bartoccini-Mc Restauri Perugia - Eurotek Laica Uyba | Round 24
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/fGHPbXQI/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/OpLggB5H/poster.jpg?width=320",Slepsk Malow Suwalki - ZAKSA Kedzierzyn Kozle | Round 21
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/OpLggB5H/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/0pV009jP/poster.jpg?width=320",BKS BOSTIK ZGO Bielsko-Biala - ITA TOOLS Stal Mielec | Round 13
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/0pV009jP/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/3XOSixYs/poster.jpg?width=320",Wash4green Monviso Volley - Reale Mutua Fenera Chieri 76 | Round 24
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/3XOSixYs/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/PYBs5oCu/poster.jpg?width=320",Cbf Balducci Hr Macerata - Igor Gorgonzola Novara | Round 24
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/PYBs5oCu/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/1cbibSsR/poster.jpg?width=320",Dentil Praia Clube - Renasce Sorocaba | Round 17
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/1cbibSsR/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/pHM5bjdA/poster.jpg?width=320",Gerdau Minas - Brasilia Volei | Round 17
@@ -39,3 +29,13 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/GIjxpvtK/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/I3nggayc/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/X30enFbe/poster.jpg?width=320",Osaka Bluteon - Hiroshima Thunders | Round 14-A
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/X30enFbe/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/LRCjDPcc/poster.jpg?width=320",Suntory Sunbirds Osaka - Vc Nagano Tridents | Round 14-A
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/LRCjDPcc/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/ulEkBpUK/poster.jpg?width=320",Pfu Bluecats Ishikawa Kahoku - Queenseis Kariya | Round 16-A
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/ulEkBpUK/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/UDOH3DjY/poster.jpg?width=320",Gunma Greenwings - Kurobe Aqua Fairies | Round 16-A
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/UDOH3DjY/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/zdps5WRf/poster.jpg?width=320",Okayama Seagulls - Astemo Rivale Ibaraki | Round 16-A
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/zdps5WRf/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/rSb7WhBE/poster.jpg?width=320",Toray Arrows Shizuoka - Wolfdogs Nagoya | Round 14-A
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/rSb7WhBE/live.isml/.m3u8
