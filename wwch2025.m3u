@@ -1,18 +1,12 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/3R35jQlG/poster.jpg?width=320",Honda Cuneo Granda Volley - Bergamo | Round 24
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/3R35jQlG/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/fGHPbXQI/poster.jpg?width=320",Bartoccini-Mc Restauri Perugia - Eurotek Laica Uyba | Round 24
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/fGHPbXQI/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/07N8J3wj/poster.jpg?width=320",Numia Vero Volley Milano - Omag-Mt San Giovanni In Marignano | Round 24
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/07N8J3wj/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/OpLggB5H/poster.jpg?width=320",Slepsk Malow Suwalki - ZAKSA Kedzierzyn Kozle | Round 21
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/OpLggB5H/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/0pV009jP/poster.jpg?width=320",BKS BOSTIK ZGO Bielsko-Biala - ITA TOOLS Stal Mielec | Round 13
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/0pV009jP/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/3XOSixYs/poster.jpg?width=320",Wash4green Monviso Volley - Reale Mutua Fenera Chieri 76 | Round 24
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/3XOSixYs/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/Y0A5sTwK/poster.jpg?width=320",Megabox Ondulati Del Savio Vallefoglia - Savino Del Bene Scandicci | Round 24
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/Y0A5sTwK/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/PYBs5oCu/poster.jpg?width=320",Cbf Balducci Hr Macerata - Igor Gorgonzola Novara | Round 24
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/PYBs5oCu/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/1cbibSsR/poster.jpg?width=320",Dentil Praia Clube - Renasce Sorocaba | Round 17
@@ -39,3 +33,9 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/hlMF2fBZ/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/LNLSPjIq/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/aueLjXez/poster.jpg?width=320",Bateubet Volei Guarulhos - Sicoob Monte Carmelo | Round 17
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/aueLjXez/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/GIjxpvtK/poster.jpg?width=320",Sesi Bauru - Volei Renata | Round 17
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/GIjxpvtK/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/I3nggayc/poster.jpg?width=320",Victorina Himeji - Toray Arrows Shiga | Round 16-A
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/I3nggayc/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/X30enFbe/poster.jpg?width=320",Osaka Bluteon - Hiroshima Thunders | Round 14-A
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/X30enFbe/live.isml/.m3u8
