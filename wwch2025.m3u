@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/r7fst3de/poster.jpg?width=320",Sokol & Hagric Mogilno - KS DevelopRes Rzeszow | Round 19
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/r7fst3de/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/Nf6Vw0rB/poster.jpg?width=320",Viapol Sao Jose - Saneago Goias | Round 17
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/Nf6Vw0rB/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/dCcCUN7P/poster.jpg?width=320",SESC RJ Flamengo - Sancor Seguros Volei | Round 17
@@ -39,3 +37,5 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/MEf2jr19/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/CavCxMxR/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/dEVMudF1/poster.jpg?width=320",Tokyo Great Bears - Jtekt Stings Aichi | Round 14-A
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/dEVMudF1/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/pwEPEqGW/poster.jpg?width=320",Saga Hisamitsu Springs - Saitama Ageo Medics | Round 16-A
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/pwEPEqGW/live.isml/.m3u8
