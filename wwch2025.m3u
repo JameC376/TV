@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/LNLSPjIq/poster.jpg?width=320",Itambe Minas - Praia Clube Uberlandia Volei | Round 17
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/LNLSPjIq/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/aueLjXez/poster.jpg?width=320",Bateubet Volei Guarulhos - Sicoob Monte Carmelo | Round 17
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/aueLjXez/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/GIjxpvtK/poster.jpg?width=320",Sesi Bauru - Volei Renata | Round 17
@@ -39,3 +37,5 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/9N5du7io/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/P2HWFwh1/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/5Mxg3rRU/poster.jpg?width=320",ECO HARPOON LOS Nowy Dwor Mazowiecki - KS DevelopRes Rzeszow | Round 17
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/5Mxg3rRU/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/jlt5uEGK/poster.jpg?width=320",Cucine Lube Civitanova - Valsa Group Modena | Round 20
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/jlt5uEGK/live.isml/.m3u8
