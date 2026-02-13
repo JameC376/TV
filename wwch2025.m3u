@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/WzxjQl20/poster.jpg?width=320",JSW Jastrzebski Wegiel - PGE GiEK SKRA Belchatow | Round 21
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/WzxjQl20/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/hlMF2fBZ/poster.jpg?width=320",Cuprum Stilon Gorzow - Steam Hemarpol Politechnika Częstochowa | Round 21
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/hlMF2fBZ/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/LNLSPjIq/poster.jpg?width=320",Itambe Minas - Praia Clube Uberlandia Volei | Round 17
@@ -39,3 +37,5 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/E4Re89ko/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/V69XK4U4/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/9N5du7io/poster.jpg?width=320",Asseco Resovia Rzeszow - InPost ChKS Chelm | Round 21
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/9N5du7io/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/P2HWFwh1/poster.jpg?width=320",Vero Volley Monza - Sonepar Padova | Round 20
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/P2HWFwh1/live.isml/.m3u8
