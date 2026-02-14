@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/9N5du7io/poster.jpg?width=320",Asseco Resovia Rzeszow - InPost ChKS Chelm | Round 21
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/9N5du7io/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/P2HWFwh1/poster.jpg?width=320",Vero Volley Monza - Sonepar Padova | Round 20
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/P2HWFwh1/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/jlt5uEGK/poster.jpg?width=320",Cucine Lube Civitanova - Valsa Group Modena | Round 20
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/jlt5uEGK/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/eVJg6bQC/poster.jpg?width=320",Eurotek Laica Uyba - Numia Vero Volley Milano | Round 25
@@ -27,10 +23,10 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/5hgca9yv/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/xwx59oja/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/2y8O272C/poster.jpg?width=320",Okayama Seagulls - Astemo Rivale Ibaraki | Round 16-B
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/2y8O272C/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/YN7ioBmS/poster.jpg?width=320",Toray Arrows Shizuoka - Wolfdogs Nagoya | Round 14-B
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/YN7ioBmS/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/8kmWFYsW/poster.jpg?width=320",Saga Hisamitsu Springs - Saitama Ageo Medics | Round 16-B
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/8kmWFYsW/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/YN7ioBmS/poster.jpg?width=320",Toray Arrows Shizuoka - Wolfdogs Nagoya | Round 14-B
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/YN7ioBmS/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/twT2z7Kx/poster.jpg?width=320",Indykpol AZS Olsztyn - PGE Projekt Warszawa | Round 21
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/twT2z7Kx/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/jzc8wOME/poster.jpg?width=320",Prosecco Doc A.Carraro Imoco Conegliano - Bartoccini-Mc Restauri Perugia | Round 25
@@ -39,3 +35,7 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/jzc8wOME/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/bS7YR7NE/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/8RUrqhUa/poster.jpg?width=320",Bergamo - Il Bisonte Firenze | Round 25
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/8RUrqhUa/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/7493y0Zx/poster.jpg?width=320",Megabox Ondulati Del Savio Vallefoglia - Wash4green Monviso Volley | Round 25
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/7493y0Zx/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/j95x94Nw/poster.jpg?width=320",Reale Mutua Fenera Chieri 76 - Omag-Mt San Giovanni In Marignano | Round 25
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/j95x94Nw/live.isml/.m3u8
