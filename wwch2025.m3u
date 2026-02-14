@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/E4Re89ko/poster.jpg?width=320",VolleyWroclaw - LOTTO Chemik Police | Round 17
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/E4Re89ko/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/V69XK4U4/poster.jpg?width=320",Barkom Kazany Lwow - Aluron CMC Warta Zawiercie | Round 21
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/V69XK4U4/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/9N5du7io/poster.jpg?width=320",Asseco Resovia Rzeszow - InPost ChKS Chelm | Round 21
@@ -31,11 +29,13 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/5hgca9yv/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/2y8O272C/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/xwx59oja/poster.jpg?width=320",Tokyo Great Bears - Jtekt Stings Aichi | Round 14-B
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/xwx59oja/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/8kmWFYsW/poster.jpg?width=320",Saga Hisamitsu Springs - Saitama Ageo Medics | Round 16-B
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/8kmWFYsW/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/YN7ioBmS/poster.jpg?width=320",Toray Arrows Shizuoka - Wolfdogs Nagoya | Round 14-B
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/YN7ioBmS/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/8kmWFYsW/poster.jpg?width=320",Saga Hisamitsu Springs - Saitama Ageo Medics | Round 16-B
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/8kmWFYsW/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/twT2z7Kx/poster.jpg?width=320",Indykpol AZS Olsztyn - PGE Projekt Warszawa | Round 21
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/twT2z7Kx/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/jzc8wOME/poster.jpg?width=320",Prosecco Doc A.Carraro Imoco Conegliano - Bartoccini-Mc Restauri Perugia | Round 25
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/jzc8wOME/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/bS7YR7NE/poster.jpg?width=320",Savino Del Bene Scandicci - Cbf Balducci Hr Macerata | Round 25
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/bS7YR7NE/live.isml/.m3u8
