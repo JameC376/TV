@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/aueLjXez/poster.jpg?width=320",Bateubet Volei Guarulhos - Sicoob Monte Carmelo | Round 17
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/aueLjXez/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/GIjxpvtK/poster.jpg?width=320",Sesi Bauru - Volei Renata | Round 17
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/GIjxpvtK/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/I3nggayc/poster.jpg?width=320",Victorina Himeji - Toray Arrows Shiga | Round 16-A
@@ -9,10 +7,10 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/I3nggayc/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/X30enFbe/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/ulEkBpUK/poster.jpg?width=320",Pfu Bluecats Ishikawa Kahoku - Queenseis Kariya | Round 16-A
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/ulEkBpUK/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/LRCjDPcc/poster.jpg?width=320",Suntory Sunbirds Osaka - Vc Nagano Tridents | Round 14-A
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/LRCjDPcc/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/UDOH3DjY/poster.jpg?width=320",Gunma Greenwings - Kurobe Aqua Fairies | Round 16-A
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/UDOH3DjY/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/LRCjDPcc/poster.jpg?width=320",Suntory Sunbirds Osaka - Vc Nagano Tridents | Round 14-A
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/LRCjDPcc/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/zdps5WRf/poster.jpg?width=320",Okayama Seagulls - Astemo Rivale Ibaraki | Round 16-A
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/zdps5WRf/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/rSb7WhBE/poster.jpg?width=320",Toray Arrows Shizuoka - Wolfdogs Nagoya | Round 14-A
@@ -39,3 +37,5 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/P2HWFwh1/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/5Mxg3rRU/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/jlt5uEGK/poster.jpg?width=320",Cucine Lube Civitanova - Valsa Group Modena | Round 20
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/jlt5uEGK/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/eVJg6bQC/poster.jpg?width=320",Eurotek Laica Uyba - Numia Vero Volley Milano | Round 25
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/eVJg6bQC/live.isml/.m3u8
