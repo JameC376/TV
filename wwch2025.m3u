@@ -1,10 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/X30enFbe/poster.jpg?width=320",Osaka Bluteon - Hiroshima Thunders | Round 14-A
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/X30enFbe/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/LRCjDPcc/poster.jpg?width=320",Suntory Sunbirds Osaka - Vc Nagano Tridents | Round 14-A
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/LRCjDPcc/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/ulEkBpUK/poster.jpg?width=320",Pfu Bluecats Ishikawa Kahoku - Queenseis Kariya | Round 16-A
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/ulEkBpUK/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/UDOH3DjY/poster.jpg?width=320",Gunma Greenwings - Kurobe Aqua Fairies | Round 16-A
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/UDOH3DjY/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/zdps5WRf/poster.jpg?width=320",Okayama Seagulls - Astemo Rivale Ibaraki | Round 16-A
@@ -39,3 +35,7 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/eVJg6bQC/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/G2eGIoS3/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/W7uz6Dnu/poster.jpg?width=320",Osaka Bluteon - Hiroshima Thunders | Round 14-B
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/W7uz6Dnu/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/YBm3jOdX/poster.jpg?width=320",Pfu Bluecats Ishikawa Kahoku - Queenseis Kariya | Round 16-B
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/YBm3jOdX/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/xRE20gYL/poster.jpg?width=320",Suntory Sunbirds Osaka - Vc Nagano Tridents | Round 14-B
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/xRE20gYL/live.isml/.m3u8
