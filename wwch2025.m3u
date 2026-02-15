@@ -1,28 +1,14 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/YBm3jOdX/poster.jpg?width=320",Pfu Bluecats Ishikawa Kahoku - Queenseis Kariya | Round 16-B
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/YBm3jOdX/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/BqqvcZMl/poster.jpg?width=320",Nippon Steel Sakai Blazers - Voreas Hokkaido | Round 14-B
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/BqqvcZMl/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/IzQFkV2S/poster.jpg?width=320",Nec Red Rockets Kawasaki - Denso Airybees | Round 16-B
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/IzQFkV2S/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/xRE20gYL/poster.jpg?width=320",Suntory Sunbirds Osaka - Vc Nagano Tridents | Round 14-B
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/xRE20gYL/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/xwx59oja/poster.jpg?width=320",Tokyo Great Bears - Jtekt Stings Aichi | Round 14-B
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/xwx59oja/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/2y8O272C/poster.jpg?width=320",Okayama Seagulls - Astemo Rivale Ibaraki | Round 16-B
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/2y8O272C/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/YN7ioBmS/poster.jpg?width=320",Toray Arrows Shizuoka - Wolfdogs Nagoya | Round 14-B
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/YN7ioBmS/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/8kmWFYsW/poster.jpg?width=320",Saga Hisamitsu Springs - Saitama Ageo Medics | Round 16-B
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/8kmWFYsW/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/twT2z7Kx/poster.jpg?width=320",Indykpol AZS Olsztyn - PGE Projekt Warszawa | Round 21
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/twT2z7Kx/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/jzc8wOME/poster.jpg?width=320",Prosecco Doc A.Carraro Imoco Conegliano - Bartoccini-Mc Restauri Perugia | Round 25
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/jzc8wOME/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/bS7YR7NE/poster.jpg?width=320",Savino Del Bene Scandicci - Cbf Balducci Hr Macerata | Round 25
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/bS7YR7NE/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/8RUrqhUa/poster.jpg?width=320",Bergamo - Il Bisonte Firenze | Round 25
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/8RUrqhUa/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/bS7YR7NE/poster.jpg?width=320",Savino Del Bene Scandicci - Cbf Balducci Hr Macerata | Round 25
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/bS7YR7NE/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/j95x94Nw/poster.jpg?width=320",Reale Mutua Fenera Chieri 76 - Omag-Mt San Giovanni In Marignano | Round 25
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/j95x94Nw/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/7493y0Zx/poster.jpg?width=320",Megabox Ondulati Del Savio Vallefoglia - Wash4green Monviso Volley | Round 25
@@ -39,3 +25,17 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/60UbqtwN/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/TgUfTIm6/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/S4EiRAYh/poster.jpg?width=320",Sir Susa Scai Perugia - Gas Sales Bluenergy Piacenza | Round 20
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/S4EiRAYh/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/IXcbxa0F/poster.jpg?width=320",Metalkas Palac Bydgoszcz - PGE Budowlani Lodz | Round 17
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/IXcbxa0F/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/am71jbDG/poster.jpg?width=320",LKS Commercecon Lodz - ITA TOOLS Stal Mielec | Round 17
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/am71jbDG/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/nOnd7h5l/poster.jpg?width=320",MOYA Radomka Radom - Sokol & Hagric Mogilno | Round 17
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/nOnd7h5l/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/EksBdoU8/poster.jpg?width=320",Sokol & Hagric Mogilno - ECO HARPOON LOS Nowy Dwor Mazowiecki | Round 18
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/EksBdoU8/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/mTGegCkw/poster.jpg?width=320",Sancor Seguros Volei - Gerdau Minas | Round 18
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/mTGegCkw/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/8SYahO1B/poster.jpg?width=320",MOYA Radomka Radom - ITA TOOLS Stal Mielec | Round 18
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/8SYahO1B/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/QwTwo4d6/poster.jpg?width=320",LOTTO Chemik Police - Metalkas Palac Bydgoszcz | Round 18
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/QwTwo4d6/live.isml/.m3u8
