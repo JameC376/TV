@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/TgUfTIm6/poster.jpg?width=320",Igor Gorgonzola Novara - Honda Cuneo Granda Volley | Round 25
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/TgUfTIm6/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/O26KMojN/poster.jpg?width=320",Metalkas Palac Bydgoszcz - PGE Budowlani Lodz | Round 17
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/O26KMojN/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/am71jbDG/poster.jpg?width=320",LKS Commercecon Lodz - ITA TOOLS Stal Mielec | Round 17
@@ -39,3 +37,5 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/xBQmOcaI/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/CiqtbMl8/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/9jEVwuug/poster.jpg?width=320",KS DevelopRes Rzeszow - VolleyWroclaw | Round 18
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/9jEVwuug/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/Lhx5sHyT/poster.jpg?width=320",Aluron CMC Warta Zawiercie - Energa Trefl Gdansk | Round 22
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/Lhx5sHyT/live.isml/.m3u8
