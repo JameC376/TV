@@ -1,10 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/bS7YR7NE/poster.jpg?width=320",Savino Del Bene Scandicci - Cbf Balducci Hr Macerata | Round 25
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/bS7YR7NE/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/8RUrqhUa/poster.jpg?width=320",Bergamo - Il Bisonte Firenze | Round 25
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/8RUrqhUa/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/j95x94Nw/poster.jpg?width=320",Reale Mutua Fenera Chieri 76 - Omag-Mt San Giovanni In Marignano | Round 25
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/j95x94Nw/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/7493y0Zx/poster.jpg?width=320",Megabox Ondulati Del Savio Vallefoglia - Wash4green Monviso Volley | Round 25
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/7493y0Zx/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/J4CmdJmP/poster.jpg?width=320",Cisterna Volley - MA Acqua S.Bernardo Cuneo | Round 20
@@ -39,3 +35,7 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/AGTtdapA/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/JltHgl0u/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/v21CsAWW/poster.jpg?width=320",Renasce Sorocaba - Tijuca Tenis Clube | Round 18
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/v21CsAWW/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/ywAV1Xcv/poster.jpg?width=320",Batavo Mackenzie - Dentil Praia Clube | Round 18
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/ywAV1Xcv/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/nWvewRvu/poster.jpg?width=320",Voreas Hokkaido - Hiroshima Thunders | Round 9-A
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/nWvewRvu/live.isml/.m3u8
