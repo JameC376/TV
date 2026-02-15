@@ -1,14 +1,10 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/7493y0Zx/poster.jpg?width=320",Megabox Ondulati Del Savio Vallefoglia - Wash4green Monviso Volley | Round 25
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/7493y0Zx/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/60UbqtwN/poster.jpg?width=320",Allianz Milano - Rana Verona | Round 20
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/60UbqtwN/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/TgUfTIm6/poster.jpg?width=320",Igor Gorgonzola Novara - Honda Cuneo Granda Volley | Round 25
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/TgUfTIm6/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/S4EiRAYh/poster.jpg?width=320",Sir Susa Scai Perugia - Gas Sales Bluenergy Piacenza | Round 20
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/S4EiRAYh/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/IXcbxa0F/poster.jpg?width=320",Metalkas Palac Bydgoszcz - PGE Budowlani Lodz | Round 17
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/IXcbxa0F/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/O26KMojN/poster.jpg?width=320",Metalkas Palac Bydgoszcz - PGE Budowlani Lodz | Round 17
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/O26KMojN/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/am71jbDG/poster.jpg?width=320",LKS Commercecon Lodz - ITA TOOLS Stal Mielec | Round 17
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/am71jbDG/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/nOnd7h5l/poster.jpg?width=320",MOYA Radomka Radom - Sokol & Hagric Mogilno | Round 17
@@ -37,5 +33,9 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/kkfo9aUc/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/TFUzUanG/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/csTLc5j9/poster.jpg?width=320",Tokyo Great Bears - Toray Arrows Shizuoka | Round 6-A
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/csTLc5j9/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/iRcngyGh/poster.jpg?width=320",Aranmare Yamagata - Saga Hisamitsu Springs | Round 11-A
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/iRcngyGh/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/xBQmOcaI/poster.jpg?width=320",Kurobe Aqua Fairies - Pfu Bluecats Ishikawa Kahoku | Round 11-A
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/xBQmOcaI/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/CiqtbMl8/poster.jpg?width=320",Toray Arrows Shiga - Denso Airybees | Round 11-A
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/CiqtbMl8/live.isml/.m3u8
