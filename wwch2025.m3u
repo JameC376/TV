@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/am71jbDG/poster.jpg?width=320",LKS Commercecon Lodz - ITA TOOLS Stal Mielec | Round 17
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/am71jbDG/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/nOnd7h5l/poster.jpg?width=320",MOYA Radomka Radom - Sokol & Hagric Mogilno | Round 17
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/nOnd7h5l/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/EksBdoU8/poster.jpg?width=320",Sokol & Hagric Mogilno - ECO HARPOON LOS Nowy Dwor Mazowiecki | Round 18
@@ -39,3 +37,5 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/9jEVwuug/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/Lhx5sHyT/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/9Q3t4jBX/poster.jpg?width=320",BOGDANKA LUK Lublin - Slepsk Malow Suwalki | Round 22
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/9Q3t4jBX/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/0SY1o5Kl/poster.jpg?width=320",Steam Hemarpol Politechnika Częstochowa - JSW Jastrzebski Wegiel | Round 22
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/0SY1o5Kl/live.isml/.m3u8
