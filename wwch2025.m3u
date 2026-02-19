@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/EksBdoU8/poster.jpg?width=320",Sokol & Hagric Mogilno - ECO HARPOON LOS Nowy Dwor Mazowiecki | Round 18
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/EksBdoU8/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/mTGegCkw/poster.jpg?width=320",Sancor Seguros Volei - Gerdau Minas | Round 18
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/mTGegCkw/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/8SYahO1B/poster.jpg?width=320",MOYA Radomka Radom - ITA TOOLS Stal Mielec | Round 18
@@ -23,10 +21,10 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/kkfo9aUc/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/TFUzUanG/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/csTLc5j9/poster.jpg?width=320",Tokyo Great Bears - Toray Arrows Shizuoka | Round 6-A
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/csTLc5j9/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/xBQmOcaI/poster.jpg?width=320",Kurobe Aqua Fairies - Pfu Bluecats Ishikawa Kahoku | Round 11-A
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/xBQmOcaI/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/iRcngyGh/poster.jpg?width=320",Aranmare Yamagata - Saga Hisamitsu Springs | Round 11-A
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/iRcngyGh/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/xBQmOcaI/poster.jpg?width=320",Kurobe Aqua Fairies - Pfu Bluecats Ishikawa Kahoku | Round 11-A
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/xBQmOcaI/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/CiqtbMl8/poster.jpg?width=320",Toray Arrows Shiga - Denso Airybees | Round 11-A
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/CiqtbMl8/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/9jEVwuug/poster.jpg?width=320",KS DevelopRes Rzeszow - VolleyWroclaw | Round 18
@@ -39,3 +37,5 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/9Q3t4jBX/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/0SY1o5Kl/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/suxlCOmr/poster.jpg?width=320",Honda Cuneo Granda Volley - Megabox Ondulati Del Savio Vallefoglia | Round 26
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/suxlCOmr/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/AJmvPSlQ/poster.jpg?width=320",Omag-Mt San Giovanni In Marignano - Eurotek Laica Uyba | Round 26
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/AJmvPSlQ/live.isml/.m3u8
