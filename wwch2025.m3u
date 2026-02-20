@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/8SYahO1B/poster.jpg?width=320",MOYA Radomka Radom - ITA TOOLS Stal Mielec | Round 18
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/8SYahO1B/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/QwTwo4d6/poster.jpg?width=320",LOTTO Chemik Police - Metalkas Palac Bydgoszcz | Round 18
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/QwTwo4d6/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/AGTtdapA/poster.jpg?width=320",ZAKSA Kedzierzyn Kozle - Indykpol AZS Olsztyn | Round 22
@@ -39,3 +37,5 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/suxlCOmr/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/AJmvPSlQ/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/qNNgIXo5/poster.jpg?width=320",Numia Vero Volley Milano - Savino Del Bene Scandicci | Round 26
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/qNNgIXo5/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/62bC0i8Y/poster.jpg?width=320",Rana Verona - Sir Susa Scai Perugia | Round 21
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/62bC0i8Y/live.isml/.m3u8
