@@ -1,10 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/nWvewRvu/poster.jpg?width=320",Voreas Hokkaido - Hiroshima Thunders | Round 9-A
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/nWvewRvu/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/TFUzUanG/poster.jpg?width=320",Saitama Ageo Medics - Astemo Rivale Ibaraki | Round 3-A
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/TFUzUanG/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/rTdYHvwC/poster.jpg?width=320",Okayama Seagulls - Nec Red Rockets Kawasaki | Round 11-A
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/rTdYHvwC/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/xBQmOcaI/poster.jpg?width=320",Kurobe Aqua Fairies - Pfu Bluecats Ishikawa Kahoku | Round 11-A
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/xBQmOcaI/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/csTLc5j9/poster.jpg?width=320",Tokyo Great Bears - Toray Arrows Shizuoka | Round 6-A
@@ -23,10 +19,10 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/9Q3t4jBX/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/0SY1o5Kl/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/suxlCOmr/poster.jpg?width=320",Honda Cuneo Granda Volley - Megabox Ondulati Del Savio Vallefoglia | Round 26
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/suxlCOmr/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/AJmvPSlQ/poster.jpg?width=320",Omag-Mt San Giovanni In Marignano - Eurotek Laica Uyba | Round 26
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/AJmvPSlQ/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/qNNgIXo5/poster.jpg?width=320",Numia Vero Volley Milano - Savino Del Bene Scandicci | Round 26
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/qNNgIXo5/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/AJmvPSlQ/poster.jpg?width=320",Omag-Mt San Giovanni In Marignano - Eurotek Laica Uyba | Round 26
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/AJmvPSlQ/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/62bC0i8Y/poster.jpg?width=320",Rana Verona - Sir Susa Scai Perugia | Round 21
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/62bC0i8Y/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/iJLl4LBJ/poster.jpg?width=320",Bartoccini-Mc Restauri Perugia - Reale Mutua Fenera Chieri 76 | Round 26
@@ -39,3 +35,7 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/qU6vjCOU/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/GUdm5dFt/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/TfXUZyEY/poster.jpg?width=320",Sada Cruzeiro - Viapol Sao Jose | Round 18
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/TfXUZyEY/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/9yHS4N1R/poster.jpg?width=320",Praia Clube Uberlandia Volei - Suzano Volei | Round 18
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/9yHS4N1R/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/4gVyrM27/poster.jpg?width=320",Volei Renata - Itambe Minas | Round 18
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/4gVyrM27/live.isml/.m3u8
