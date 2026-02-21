@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/AJmvPSlQ/poster.jpg?width=320",Omag-Mt San Giovanni In Marignano - Eurotek Laica Uyba | Round 26
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/AJmvPSlQ/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/suxlCOmr/poster.jpg?width=320",Honda Cuneo Granda Volley - Megabox Ondulati Del Savio Vallefoglia | Round 26
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/suxlCOmr/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/TfXUZyEY/poster.jpg?width=320",Sada Cruzeiro - Viapol Sao Jose | Round 18
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/TfXUZyEY/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/9yHS4N1R/poster.jpg?width=320",Praia Clube Uberlandia Volei - Suzano Volei | Round 18
@@ -39,3 +35,7 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/R6d1I3i0/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/m5vlD0DR/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/XH9XqrgK/poster.jpg?width=320",Vero Volley Monza - Allianz Milano | Round 21
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/XH9XqrgK/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/tuUBHZcR/poster.jpg?width=320",Barkom Kazany Lwow - InPost ChKS Chelm | Round 22
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/tuUBHZcR/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/eqQNw3Am/poster.jpg?width=320",JF Volei - Sesi Bauru | Round 18
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/eqQNw3Am/live.isml/.m3u8
