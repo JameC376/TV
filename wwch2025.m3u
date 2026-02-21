@@ -1,18 +1,16 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/ywAV1Xcv/poster.jpg?width=320",Batavo Mackenzie - Dentil Praia Clube | Round 18
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/ywAV1Xcv/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/nWvewRvu/poster.jpg?width=320",Voreas Hokkaido - Hiroshima Thunders | Round 9-A
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/nWvewRvu/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/kkfo9aUc/poster.jpg?width=320",Okayama Seagulls - Nec Red Rockets Kawasaki | Round 11-A
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/kkfo9aUc/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/TFUzUanG/poster.jpg?width=320",Saitama Ageo Medics - Astemo Rivale Ibaraki | Round 3-A
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/TFUzUanG/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/rTdYHvwC/poster.jpg?width=320",Okayama Seagulls - Nec Red Rockets Kawasaki | Round 11-A
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/rTdYHvwC/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/csTLc5j9/poster.jpg?width=320",Tokyo Great Bears - Toray Arrows Shizuoka | Round 6-A
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/csTLc5j9/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/iRcngyGh/poster.jpg?width=320",Aranmare Yamagata - Saga Hisamitsu Springs | Round 11-A
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/iRcngyGh/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/xBQmOcaI/poster.jpg?width=320",Kurobe Aqua Fairies - Pfu Bluecats Ishikawa Kahoku | Round 11-A
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/xBQmOcaI/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/iRcngyGh/poster.jpg?width=320",Aranmare Yamagata - Saga Hisamitsu Springs | Round 11-A
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/iRcngyGh/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/CiqtbMl8/poster.jpg?width=320",Toray Arrows Shiga - Denso Airybees | Round 11-A
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/CiqtbMl8/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/9jEVwuug/poster.jpg?width=320",KS DevelopRes Rzeszow - VolleyWroclaw | Round 18
@@ -39,3 +37,5 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/GUdm5dFt/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/ZPy7iFTB/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/qU6vjCOU/poster.jpg?width=320",Bergamo - Cbf Balducci Hr Macerata | Round 26
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/qU6vjCOU/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/TfXUZyEY/poster.jpg?width=320",Sada Cruzeiro - Viapol Sao Jose | Round 18
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/TfXUZyEY/live.isml/.m3u8
