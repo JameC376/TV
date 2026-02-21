@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/TfXUZyEY/poster.jpg?width=320",Sada Cruzeiro - Viapol Sao Jose | Round 18
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/TfXUZyEY/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/9yHS4N1R/poster.jpg?width=320",Praia Clube Uberlandia Volei - Suzano Volei | Round 18
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/9yHS4N1R/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/4gVyrM27/poster.jpg?width=320",Volei Renata - Itambe Minas | Round 18
@@ -39,3 +37,5 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/XH9XqrgK/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/tuUBHZcR/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/eqQNw3Am/poster.jpg?width=320",JF Volei - Sesi Bauru | Round 18
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/eqQNw3Am/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/zXivqeSw/poster.jpg?width=320",Saneago Goias - Bateubet Volei Guarulhos | Round 18
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/zXivqeSw/live.isml/.m3u8
