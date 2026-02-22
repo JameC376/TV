@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/XH9XqrgK/poster.jpg?width=320",Vero Volley Monza - Allianz Milano | Round 21
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/XH9XqrgK/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/tuUBHZcR/poster.jpg?width=320",Barkom Kazany Lwow - InPost ChKS Chelm | Round 22
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/tuUBHZcR/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/eqQNw3Am/poster.jpg?width=320",JF Volei - Sesi Bauru | Round 18
@@ -21,12 +19,12 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/V7Ww3r7e/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/tyRsVimX/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/PPQc7TzM/poster.jpg?width=320",PGE Projekt Warszawa - Steam Hemarpol Politechnika Częstochowa | Round 23
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/PPQc7TzM/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/P9GSEMvj/poster.jpg?width=320",Valsa Group Modena - Rana Verona | Round 22
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/P9GSEMvj/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/HLem3lj9/poster.jpg?width=320",Sir Susa Scai Perugia - Yuasa Battery Grottazzolina | Round 22
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/HLem3lj9/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/a8ssX535/poster.jpg?width=320",Cucine Lube Civitanova - Vero Volley Monza | Round 22
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/a8ssX535/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/P9GSEMvj/poster.jpg?width=320",Valsa Group Modena - Rana Verona | Round 22
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/P9GSEMvj/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/HcxcU7fK/poster.jpg?width=320",Allianz Milano - MA Acqua S.Bernardo Cuneo | Round 22
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/HcxcU7fK/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/w76IjUMc/poster.jpg?width=320",Itas Trentino - Cisterna Volley | Round 22
@@ -39,3 +37,5 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/eRfT1Sjn/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/m2whYsKJ/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/WPq1NiK6/poster.jpg?width=320",ECO HARPOON LOS Nowy Dwor Mazowiecki - ITA TOOLS Stal Mielec | Round 19
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/WPq1NiK6/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/TelNp5Hy/poster.jpg?width=320",Suntory Sunbirds Osaka - Voreas Hokkaido | Round 15-A
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/TelNp5Hy/live.isml/.m3u8
