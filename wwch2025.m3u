@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/wrLqGubh/poster.jpg?width=320",Aranmare Yamagata - Saga Hisamitsu Springs | Round 11-B
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/wrLqGubh/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/JBJUkdRC/poster.jpg?width=320",Voreas Hokkaido - Hiroshima Thunders | Round 9-B
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/JBJUkdRC/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/Tf6iLYXn/poster.jpg?width=320",Kurobe Aqua Fairies - Pfu Bluecats Ishikawa Kahoku | Round 11-B
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/Tf6iLYXn/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/PI8Mzve9/poster.jpg?width=320",Tokyo Great Bears - Toray Arrows Shizuoka | Round 6-B
@@ -39,3 +35,7 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/4Q8EpwZG/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/V6QlcKHN/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/svXeTkdl/poster.jpg?width=320",VolleyWroclaw - MOYA Radomka Radom | Round 13
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/svXeTkdl/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/V7Ww3r7e/poster.jpg?width=320",Slepsk Malow Suwalki - Aluron CMC Warta Zawiercie | Round 23
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/V7Ww3r7e/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/tyRsVimX/poster.jpg?width=320",Energa Trefl Gdansk - InPost ChKS Chelm | Round 23
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/tyRsVimX/live.isml/.m3u8
