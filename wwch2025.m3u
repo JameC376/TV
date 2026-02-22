@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/tuUBHZcR/poster.jpg?width=320",Barkom Kazany Lwow - InPost ChKS Chelm | Round 22
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/tuUBHZcR/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/TEJyKdYt/poster.jpg?width=320",JF Volei - Sesi Bauru | Round 18
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/TEJyKdYt/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/zXivqeSw/poster.jpg?width=320",Saneago Goias - Bateubet Volei Guarulhos | Round 18
@@ -39,3 +37,5 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/m2whYsKJ/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/WPq1NiK6/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/TelNp5Hy/poster.jpg?width=320",Suntory Sunbirds Osaka - Voreas Hokkaido | Round 15-A
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/TelNp5Hy/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/kclcrtf0/poster.jpg?width=320",Wolfdogs Nagoya - Vc Nagano Tridents | Round 15-A
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/kclcrtf0/live.isml/.m3u8
