@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/iQ3sMQpZ/poster.jpg?width=320",MA Acqua S.Bernardo Cuneo - Sonepar Padova | Round 21
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/iQ3sMQpZ/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/m5vlD0DR/poster.jpg?width=320",Gas Sales Bluenergy Piacenza - Itas Trentino | Round 21
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/m5vlD0DR/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/XH9XqrgK/poster.jpg?width=320",Vero Volley Monza - Allianz Milano | Round 21
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/XH9XqrgK/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/tuUBHZcR/poster.jpg?width=320",Barkom Kazany Lwow - InPost ChKS Chelm | Round 22
@@ -39,3 +35,7 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/w76IjUMc/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/jwZeOVXV/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/eRfT1Sjn/poster.jpg?width=320",JSW Jastrzebski Wegiel - Barkom Kazany Lwow | Round 24
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/eRfT1Sjn/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/m2whYsKJ/poster.jpg?width=320",Metalkas Palac Bydgoszcz - VolleyWroclaw | Round 19
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/m2whYsKJ/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/WPq1NiK6/poster.jpg?width=320",ECO HARPOON LOS Nowy Dwor Mazowiecki - ITA TOOLS Stal Mielec | Round 19
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/WPq1NiK6/live.isml/.m3u8
