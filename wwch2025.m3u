@@ -1,12 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/rqVdNnsg/poster.jpg?width=320",Cisterna Volley - Cucine Lube Civitanova | Round 21
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/rqVdNnsg/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/z4hEMXBP/poster.jpg?width=320",BKS BOSTIK ZGO Bielsko-Biala - LKS Commercecon Lodz | Round 18
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/z4hEMXBP/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/iQ3sMQpZ/poster.jpg?width=320",MA Acqua S.Bernardo Cuneo - Sonepar Padova | Round 21
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/iQ3sMQpZ/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/R6d1I3i0/poster.jpg?width=320",Yuasa Battery Grottazzolina - Valsa Group Modena | Round 21
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/R6d1I3i0/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/m5vlD0DR/poster.jpg?width=320",Gas Sales Bluenergy Piacenza - Itas Trentino | Round 21
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/m5vlD0DR/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/XH9XqrgK/poster.jpg?width=320",Vero Volley Monza - Allianz Milano | Round 21
@@ -39,3 +33,9 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/HLem3lj9/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/a8ssX535/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/HcxcU7fK/poster.jpg?width=320",Allianz Milano - MA Acqua S.Bernardo Cuneo | Round 22
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/HcxcU7fK/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/w76IjUMc/poster.jpg?width=320",Itas Trentino - Cisterna Volley | Round 22
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/w76IjUMc/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/jwZeOVXV/poster.jpg?width=320",Sonepar Padova - Gas Sales Bluenergy Piacenza | Round 22
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/jwZeOVXV/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/eRfT1Sjn/poster.jpg?width=320",JSW Jastrzebski Wegiel - Barkom Kazany Lwow | Round 24
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/eRfT1Sjn/live.isml/.m3u8
