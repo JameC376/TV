@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/7MIO4AY9/poster.jpg?width=320",Toray Arrows Shiga - Denso Airybees | Round 11-B
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/7MIO4AY9/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/HUOBXIg7/poster.jpg?width=320",UNI Opole - PGE Budowlani Lodz | Round 18
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/HUOBXIg7/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/fiVfE7Ft/poster.jpg?width=320",PGE GiEK SKRA Belchatow - Asseco Resovia Rzeszow | Round 22
@@ -39,3 +37,5 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/tyRsVimX/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/PPQc7TzM/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/HLem3lj9/poster.jpg?width=320",Sir Susa Scai Perugia - Yuasa Battery Grottazzolina | Round 22
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/HLem3lj9/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/a8ssX535/poster.jpg?width=320",Cucine Lube Civitanova - Vero Volley Monza | Round 22
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/a8ssX535/live.isml/.m3u8
