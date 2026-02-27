@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/ut6hJjXM/poster.jpg?width=320",Semi-Final: SESC RJ Flamengo - Osasco Sao Cristovao Saude | Copa Brasil F4
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/ut6hJjXM/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/95PlNMwe/poster.jpg?width=320",Semi-Final: Gerdau Minas - Dentil Praia Clube | Copa Brasil F4
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/95PlNMwe/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/TelNp5Hy/poster.jpg?width=320",Suntory Sunbirds Osaka - Voreas Hokkaido | Round 15-A
@@ -39,3 +37,5 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/8NlSDkBP/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/VDH5O8lq/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/wYWbYVMn/poster.jpg?width=320",Il Bisonte Firenze - Cbf Balducci Hr Macerata | Challenge Play Off - Round 1
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/wYWbYVMn/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/QR1GVIRl/poster.jpg?width=320",BOGDANKA LUK Lublin - Cuprum Stilon Gorzow | Round 24
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/QR1GVIRl/live.isml/.m3u8
