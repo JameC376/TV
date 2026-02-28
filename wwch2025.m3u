@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/FJjypbbH/poster.jpg?width=320",Astemo Rivale Ibaraki - Pfu Bluecats Ishikawa Kahoku | Round 17-A
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/FJjypbbH/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/f0Eqpe1P/poster.jpg?width=320",Tokyo Great Bears - Osaka Bluteon | Round 15-A
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/f0Eqpe1P/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/3p0zJzE8/poster.jpg?width=320",Toray Arrows Shiga - Saga Hisamitsu Springs | Round 17-A
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/3p0zJzE8/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/STzxL44H/poster.jpg?width=320",Aluron CMC Warta Zawiercie - Indykpol AZS Olsztyn | Round 24
@@ -23,12 +19,12 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/QR1GVIRl/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/8iv4qM9f/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/wGoCBZYn/poster.jpg?width=320",Wolfdogs Nagoya - Vc Nagano Tridents | Round 15-B
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/wGoCBZYn/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/NL2nRnyc/poster.jpg?width=320",Aranmare Yamagata - Victorina Himeji | Round 17-B
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/NL2nRnyc/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/vqWCazP8/poster.jpg?width=320",Queenseis Kariya - Kurobe Aqua Fairies | Round 17-B
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/vqWCazP8/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/EvTZ9C3F/poster.jpg?width=320",Nec Red Rockets Kawasaki - Gunma Greenwings | Round 17-B
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/EvTZ9C3F/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/NL2nRnyc/poster.jpg?width=320",Aranmare Yamagata - Victorina Himeji | Round 17-B
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/NL2nRnyc/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/cTBX6dKf/poster.jpg?width=320",Suntory Sunbirds Osaka - Voreas Hokkaido | Round 15-B
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/cTBX6dKf/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/Ro44BY8n/poster.jpg?width=320",Okayama Seagulls - Denso Airybees | Round 17-B
@@ -39,3 +35,7 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/9oLC4gRO/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/dERGCB6g/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/o0aPyzOF/poster.jpg?width=320",Toray Arrows Shizuoka - Nippon Steel Sakai Blazers | Round 15-B
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/o0aPyzOF/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/87egKaCS/poster.jpg?width=320",Astemo Rivale Ibaraki - Pfu Bluecats Ishikawa Kahoku | Round 17-B
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/87egKaCS/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/NXjBxjQu/poster.jpg?width=320",Tokyo Great Bears - Osaka Bluteon | Round 15-B
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/NXjBxjQu/live.isml/.m3u8
