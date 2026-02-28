@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/zqghFHlX/poster.jpg?width=320",ZAKSA Kedzierzyn Kozle - PGE Projekt Warszawa | Round 24
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/zqghFHlX/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/P0fLOvSu/poster.jpg?width=320",Semi-Final: Itas Trentino - Sir Susa Scai Perugia | Supercoppa
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/P0fLOvSu/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/8NlSDkBP/poster.jpg?width=320",Steam Hemarpol Politechnika Częstochowa - Asseco Resovia Rzeszow | Round 24
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/8NlSDkBP/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/VDH5O8lq/poster.jpg?width=320",Semi-Final: Cucine Lube Civitanova - Rana Verona | Supercoppa
@@ -39,3 +37,5 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/NXjBxjQu/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/PZMH5CIh/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/XISvFH1b/poster.jpg?width=320",PGE GiEK SKRA Belchatow - Energa Trefl Gdansk | Round 24
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/XISvFH1b/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/J78K2jbv/poster.jpg?width=320",Final: tbc - tbc | Supercoppa
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/J78K2jbv/live.isml/.m3u8
