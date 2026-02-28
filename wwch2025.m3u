@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/zqghFHlX/poster.jpg?width=320",ZAKSA Kedzierzyn Kozle - PGE Projekt Warszawa | Round 24
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/zqghFHlX/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/8NlSDkBP/poster.jpg?width=320",Steam Hemarpol Politechnika Częstochowa - Asseco Resovia Rzeszow | Round 24
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/8NlSDkBP/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/VDH5O8lq/poster.jpg?width=320",Semi-Final: Cucine Lube Civitanova - Rana Verona | Supercoppa
@@ -15,10 +13,10 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/Kbxw8uj4/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/wGoCBZYn/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/NL2nRnyc/poster.jpg?width=320",Aranmare Yamagata - Victorina Himeji | Round 17-B
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/NL2nRnyc/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/EvTZ9C3F/poster.jpg?width=320",Nec Red Rockets Kawasaki - Gunma Greenwings | Round 17-B
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/EvTZ9C3F/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/vqWCazP8/poster.jpg?width=320",Queenseis Kariya - Kurobe Aqua Fairies | Round 17-B
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/vqWCazP8/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/EvTZ9C3F/poster.jpg?width=320",Nec Red Rockets Kawasaki - Gunma Greenwings | Round 17-B
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/EvTZ9C3F/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/cTBX6dKf/poster.jpg?width=320",Suntory Sunbirds Osaka - Voreas Hokkaido | Round 15-B
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/cTBX6dKf/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/Ro44BY8n/poster.jpg?width=320",Okayama Seagulls - Denso Airybees | Round 17-B
@@ -29,13 +27,15 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/9oLC4gRO/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/dERGCB6g/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/o0aPyzOF/poster.jpg?width=320",Toray Arrows Shizuoka - Nippon Steel Sakai Blazers | Round 15-B
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/o0aPyzOF/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/87egKaCS/poster.jpg?width=320",Astemo Rivale Ibaraki - Pfu Bluecats Ishikawa Kahoku | Round 17-B
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/87egKaCS/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/NXjBxjQu/poster.jpg?width=320",Tokyo Great Bears - Osaka Bluteon | Round 15-B
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/NXjBxjQu/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/87egKaCS/poster.jpg?width=320",Astemo Rivale Ibaraki - Pfu Bluecats Ishikawa Kahoku | Round 17-B
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/87egKaCS/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/PZMH5CIh/poster.jpg?width=320",Toray Arrows Shiga - Saga Hisamitsu Springs | Round 17-B
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/PZMH5CIh/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/XISvFH1b/poster.jpg?width=320",PGE GiEK SKRA Belchatow - Energa Trefl Gdansk | Round 24
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/XISvFH1b/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/J78K2jbv/poster.jpg?width=320",Final: tbc - tbc | Supercoppa
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/J78K2jbv/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/t2tAKH25/poster.jpg?width=320",Savino Del Bene Scandicci - Bergamo | Play Off - QF Round 1
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/t2tAKH25/live.isml/.m3u8
