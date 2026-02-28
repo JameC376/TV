@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/95PlNMwe/poster.jpg?width=320",Semi-Final: Gerdau Minas - Dentil Praia Clube | Copa Brasil F4
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/95PlNMwe/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/TelNp5Hy/poster.jpg?width=320",Suntory Sunbirds Osaka - Voreas Hokkaido | Round 15-A
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/TelNp5Hy/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/kclcrtf0/poster.jpg?width=320",Wolfdogs Nagoya - Vc Nagano Tridents | Round 15-A
@@ -9,10 +7,10 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/kclcrtf0/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/wcWRsWXX/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/DY9arxRe/poster.jpg?width=320",Aranmare Yamagata - Victorina Himeji | Round 17-A
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/DY9arxRe/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/pZCf5NDe/poster.jpg?width=320",Hiroshima Thunders - Jtekt Stings Aichi | Round 15-A
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/pZCf5NDe/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/mMlsUK1F/poster.jpg?width=320",Osaka Marvelous - Saitama Ageo Medics | Round 17-A
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/mMlsUK1F/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/pZCf5NDe/poster.jpg?width=320",Hiroshima Thunders - Jtekt Stings Aichi | Round 15-A
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/pZCf5NDe/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/2H7cYeYi/poster.jpg?width=320",Toray Arrows Shizuoka - Nippon Steel Sakai Blazers | Round 15-A
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/2H7cYeYi/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/FJjypbbH/poster.jpg?width=320",Astemo Rivale Ibaraki - Pfu Bluecats Ishikawa Kahoku | Round 17-A
@@ -39,3 +37,5 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/VDH5O8lq/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/wYWbYVMn/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/QR1GVIRl/poster.jpg?width=320",BOGDANKA LUK Lublin - Cuprum Stilon Gorzow | Round 24
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/QR1GVIRl/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/8iv4qM9f/poster.jpg?width=320",Final: tbc - tbc | Copa Brasil F4
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/8iv4qM9f/live.isml/.m3u8
