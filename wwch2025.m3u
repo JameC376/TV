@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/N1vnonq2/poster.jpg?width=320",Final: Sir Susa Scai Perugia - Rana Verona | Supercoppa
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/N1vnonq2/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/t2tAKH25/poster.jpg?width=320",Savino Del Bene Scandicci - Bergamo | Play Off - QF Round 1
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/t2tAKH25/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/HjOuMGpQ/poster.jpg?width=320",Prosecco Doc A.Carraro Imoco Conegliano - Eurotek Laica UYBA | Play Off - QF Round 1
@@ -39,3 +37,5 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/pEx3ARiJ/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/7T2Xxl25/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/0TLRIn8o/poster.jpg?width=320",ITA TOOLS Stal Mielec - Sokol & Hagric Mogilno | Round 20
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/0TLRIn8o/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/IDIB951I/poster.jpg?width=320",Bergamo - Savino Del Bene Scandicci | Play Off - QF Round 2
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/IDIB951I/live.isml/.m3u8
