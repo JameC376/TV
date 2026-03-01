@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/GyOXRMbo/poster.jpg?width=320",UNI Opole - LOTTO Chemik Police | Round 19
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/GyOXRMbo/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/WiCSqmdE/poster.jpg?width=320",InPost ChKS Chelm - Slepsk Malow Suwalki | Round 24
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/WiCSqmdE/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/5Mxg3rRU/poster.jpg?width=320",ECO HARPOON LOS Nowy Dwor Mazowiecki - KS DevelopRes Rzeszow | Round 17
@@ -39,3 +37,5 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/IpVQJNT3/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/Tf8CiDaA/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/wUIIk2XR/poster.jpg?width=320",LOTTO Chemik Police - LKS Commercecon Lodz | Round 20
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/wUIIk2XR/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/rj4isCfR/poster.jpg?width=320",ZAKSA Kedzierzyn Kozle - Steam Hemarpol Politechnika Częstochowa | Round 25
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/rj4isCfR/live.isml/.m3u8
