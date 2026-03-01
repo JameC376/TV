@@ -1,12 +1,8 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/t2tAKH25/poster.jpg?width=320",Savino Del Bene Scandicci - Bergamo | Play Off - QF Round 1
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/t2tAKH25/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/HjOuMGpQ/poster.jpg?width=320",Prosecco Doc A.Carraro Imoco Conegliano - Eurotek Laica UYBA | Play Off - QF Round 1
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/HjOuMGpQ/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/pC5A8WOO/poster.jpg?width=320",Honda Cuneo Granda Volley - Omag-Mt San Giovanni In Marignano | Challenge Play Off - Round 1
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/pC5A8WOO/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/wXFlm2L7/poster.jpg?width=320",Numia Vero Volley Milano - Megabox Ond. Savio Vallefoglia | Play Off - QF Round 1
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/wXFlm2L7/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/iNIwyhSp/poster.jpg?width=320",LKS Commercecon Lodz - PGE Budowlani Lodz | Round 19
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/iNIwyhSp/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/2pWFYSOA/poster.jpg?width=320",Igor Gorgonzola Novara - Reale Mutua Fenera Chieri 76 | Play Off - QF Round 1
@@ -19,10 +15,10 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/WiCSqmdE/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/5Mxg3rRU/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/aYcIQBar/poster.jpg?width=320",Viapol Sao Jose - Bateubet Volei Guarulhos | Round 19
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/aYcIQBar/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/rYcIO6on/poster.jpg?width=320",Sesi Bauru - Sicoob Monte Carmelo | Round 19
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/rYcIO6on/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/7fYTRMel/poster.jpg?width=320",Joinville Volei - Saneago Goias | Round 19
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/7fYTRMel/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/rYcIO6on/poster.jpg?width=320",Sesi Bauru - Sicoob Monte Carmelo | Round 19
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/rYcIO6on/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/zcP9R2XH/poster.jpg?width=320",Indykpol AZS Olsztyn - PGE GiEK SKRA Belchatow | Round 15
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/zcP9R2XH/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/nBeYIn1g/poster.jpg?width=320",Reale Mutua Fenera Chieri 76 - Igor Gorgonzola Novara | Play Off - QF Round 2
@@ -39,3 +35,7 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/7T2Xxl25/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/0TLRIn8o/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/IDIB951I/poster.jpg?width=320",Bergamo - Savino Del Bene Scandicci | Play Off - QF Round 2
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/IDIB951I/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/17XCkU9i/poster.jpg?width=320",Renasce Sorocaba - Brasilia Volei | Round 19
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/17XCkU9i/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/ivFywjXv/poster.jpg?width=320",Tijuca Tenis Clube - Batavo Mackenzie | Round 19
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/ivFywjXv/live.isml/.m3u8
