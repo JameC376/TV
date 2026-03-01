@@ -1,18 +1,14 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/nHuNBnpT/poster.jpg?width=320",Tokyo Great Bears - Osaka Bluteon | Round 15-B
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/nHuNBnpT/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/PZMH5CIh/poster.jpg?width=320",Toray Arrows Shiga - Saga Hisamitsu Springs | Round 17-B
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/PZMH5CIh/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/XISvFH1b/poster.jpg?width=320",PGE GiEK SKRA Belchatow - Energa Trefl Gdansk | Round 24
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/XISvFH1b/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/J78K2jbv/poster.jpg?width=320",Final: tbc - tbc | Supercoppa
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/J78K2jbv/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/t2tAKH25/poster.jpg?width=320",Savino Del Bene Scandicci - Bergamo | Play Off - QF Round 1
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/t2tAKH25/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/HjOuMGpQ/poster.jpg?width=320",Prosecco Doc A.Carraro Imoco Conegliano - Eurotek Laica UYBA | Play Off - QF Round 1
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/HjOuMGpQ/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/pC5A8WOO/poster.jpg?width=320",Honda Cuneo Granda Volley - Omag-Mt San Giovanni In Marignano | Challenge Play Off - Round 1
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/pC5A8WOO/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/HjOuMGpQ/poster.jpg?width=320",Prosecco Doc A.Carraro Imoco Conegliano - Eurotek Laica UYBA | Play Off - QF Round 1
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/HjOuMGpQ/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/wXFlm2L7/poster.jpg?width=320",Numia Vero Volley Milano - Megabox Ond. Savio Vallefoglia | Play Off - QF Round 1
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/wXFlm2L7/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/iNIwyhSp/poster.jpg?width=320",LKS Commercecon Lodz - PGE Budowlani Lodz | Round 19
@@ -39,3 +35,7 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/nBeYIn1g/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/AvERcBtG/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/cerVZuQ5/poster.jpg?width=320",Megabox Ond. Savio Vallefoglia - Numia Vero Volley Milano | Play Off - QF Round 2
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/cerVZuQ5/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/pEx3ARiJ/poster.jpg?width=320",Eurotek Laica Uyba - Prosecco Doc A.Carraro Imoco Conegliano | Play Off - QF Round 2
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/pEx3ARiJ/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/7T2Xxl25/poster.jpg?width=320",Nippon Steel Sakai Blazers - Suntory Sunbirds Osaka | Round 16-A
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/7T2Xxl25/live.isml/.m3u8
