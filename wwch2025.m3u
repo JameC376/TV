@@ -1,12 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/wGoCBZYn/poster.jpg?width=320",Wolfdogs Nagoya - Vc Nagano Tridents | Round 15-B
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/wGoCBZYn/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/EvTZ9C3F/poster.jpg?width=320",Nec Red Rockets Kawasaki - Gunma Greenwings | Round 17-B
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/EvTZ9C3F/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/Ro44BY8n/poster.jpg?width=320",Okayama Seagulls - Denso Airybees | Round 17-B
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/Ro44BY8n/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/dERGCB6g/poster.jpg?width=320",Osaka Marvelous - Saitama Ageo Medics | Round 17-B
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/dERGCB6g/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/o0aPyzOF/poster.jpg?width=320",Toray Arrows Shizuoka - Nippon Steel Sakai Blazers | Round 15-B
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/o0aPyzOF/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/87egKaCS/poster.jpg?width=320",Astemo Rivale Ibaraki - Pfu Bluecats Ishikawa Kahoku | Round 17-B
@@ -39,3 +33,9 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/WiCSqmdE/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/5Mxg3rRU/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/aYcIQBar/poster.jpg?width=320",Viapol Sao Jose - Bateubet Volei Guarulhos | Round 19
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/aYcIQBar/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/7fYTRMel/poster.jpg?width=320",Joinville Volei - Saneago Goias | Round 19
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/7fYTRMel/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/rYcIO6on/poster.jpg?width=320",Sesi Bauru - Sicoob Monte Carmelo | Round 19
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/rYcIO6on/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/zcP9R2XH/poster.jpg?width=320",Indykpol AZS Olsztyn - PGE GiEK SKRA Belchatow | Round 15
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/zcP9R2XH/live.isml/.m3u8
