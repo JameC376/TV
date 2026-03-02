@@ -1,16 +1,14 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/WiCSqmdE/poster.jpg?width=320",InPost ChKS Chelm - Slepsk Malow Suwalki | Round 24
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/WiCSqmdE/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/NYsQ0idt/poster.jpg?width=320",ECO HARPOON LOS Nowy Dwor Mazowiecki - KS DevelopRes Rzeszow | Round 17
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/NYsQ0idt/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/yxqbMrBH/poster.jpg?width=320",MOYA Radomka Radom - BKS BOSTIK ZGO Bielsko-Biala | Round 19
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/yxqbMrBH/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/aYcIQBar/poster.jpg?width=320",Viapol Sao Jose - Bateubet Volei Guarulhos | Round 19
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/aYcIQBar/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/rYcIO6on/poster.jpg?width=320",Sesi Bauru - Sicoob Monte Carmelo | Round 19
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/rYcIO6on/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/7fYTRMel/poster.jpg?width=320",Joinville Volei - Saneago Goias | Round 19
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/7fYTRMel/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/rYcIO6on/poster.jpg?width=320",Sesi Bauru - Sicoob Monte Carmelo | Round 19
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/rYcIO6on/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/zcP9R2XH/poster.jpg?width=320",Indykpol AZS Olsztyn - PGE GiEK SKRA Belchatow | Round 15
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/zcP9R2XH/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/nBeYIn1g/poster.jpg?width=320",Reale Mutua Fenera Chieri 76 - Igor Gorgonzola Novara | Play Off - QF Round 2
@@ -39,3 +37,5 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/IpVQJNT3/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/Tf8CiDaA/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/wUIIk2XR/poster.jpg?width=320",LOTTO Chemik Police - LKS Commercecon Lodz | Round 20
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/wUIIk2XR/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/rj4isCfR/poster.jpg?width=320",ZAKSA Kedzierzyn Kozle - Steam Hemarpol Politechnika Częstochowa | Round 25
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/rj4isCfR/live.isml/.m3u8
