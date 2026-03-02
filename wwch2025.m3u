@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/NYsQ0idt/poster.jpg?width=320",ECO HARPOON LOS Nowy Dwor Mazowiecki - KS DevelopRes Rzeszow | Round 17
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/NYsQ0idt/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/yxqbMrBH/poster.jpg?width=320",MOYA Radomka Radom - BKS BOSTIK ZGO Bielsko-Biala | Round 19
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/yxqbMrBH/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/aYcIQBar/poster.jpg?width=320",Viapol Sao Jose - Bateubet Volei Guarulhos | Round 19
@@ -39,3 +37,5 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/Tf8CiDaA/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/wUIIk2XR/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/rj4isCfR/poster.jpg?width=320",ZAKSA Kedzierzyn Kozle - Steam Hemarpol Politechnika Częstochowa | Round 25
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/rj4isCfR/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/skawr3QK/poster.jpg?width=320",Dentil Praia Clube - Paulistano Barueri | Round 19
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/skawr3QK/live.isml/.m3u8
