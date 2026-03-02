@@ -4,7 +4,7 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #EXTVLCOPT:http-referer=https://therokuchannel.roku.com/
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-https://osm.sr.roku.com/osm/v1/dash/init/4b252505-f263-40c1-94ac-a72e485921b8/aa2b924269c645b997bfd26902d112c7/index.mpd?traceId=3844204918adfc9e553f5e697469d0f7&ssai.ovp_mode=402&ssai.adslate=weather_slate_mode%3D1%26slate_mode%3D1%26profile_id_enc%3DAAdJlTMENQQq8ijgeP4KuVMWAn9Adpf_OL-BzO3_-hQlSFdrQop9jqNbEIJyQ2UFznM%26platform%3Dweb%26content_language%3Den%26coppa%3D0%26iab_content_cat%3D483%26slate_groups%3D%2A%26provider_id%3Drokuavod%26channelstore%3Dus%26shorts_slate_mode%3D0&ads.queryString=version%3D1.0%26inv_type%3Dsp%26sz%3D1920x1080%26ssai_req%3D1%26coppa%3D0%26min_ad_duration%3D0%26max_ad_duration%3D60000%26is_raf%3D1%26is_roku%3D1%26rdid%3D65c00ea4-112e-51a2-b692-77f3e886fc3c%26ottid%3DOTT_ADS_TRACKING_ID%26is_lat%3D1%26is_roku_lat%3D1%26idtype%3DOTT_ID_TYPE%26correlator%3DOTT_ADS_TIMESTAMP%26scor%3DOTT_ADS_TIMESTAMP%26pod_min%3D0%26pod_ads%3D6%26pod%3DPROG_POD1%26ppos%3DPOD_POSITION%26ad_vertical%3DOTT_AD_VERTICAL%26ad_roll%3DAD_ROLL%26genre%3Dsports%26content%3De25551b0bb4953c4b1043caef77181ab%26length%3DROKU_ADS_CONTENT_LENGTH%26device%3DOTT_DEVICE_MODEL%26ai%3D151908%26channel_id%3D151908%26ott_app_id%3DOTT_ADS_APP_ID%26roku_cust_param%3Dchannelstore%253Dus%2526tags%253DROKU_CONTENT_TAGS%2526bmodel%253Dbm1%2526device_lang%253Den_US%2526unlocked%253D0%2526pageid%253DROKU_PAGE_ID%2526indirect_app_id%253D151908%2526allow_action_ads%253DOTT_ALLOW_ACTION_ADS%26series_id%3DROKU_ADS_SERIES_ID%26platform%3Dweb%26studio_id%3Dthe_roku_channel%26season_id%3DROKU_ADS_SEASON_ID%26content_rating%3DTVPG%26content_type%3Dlivefeed%26tag_type%3DVAST%26rtid%3DU9WOIfdfkBg5j60asFGI%26is_pod%3D0%26tag_sub_category%3DLIVE%26iab_content_cat%3D483%26episode_num%3DROKU_ADS_EPISODE_NUMBER%26roku_content_language%3Den%26roku_content_subtitle%3DROKU_CONTENT_SUBTITLE%26tag_category%3DTRC%26partner_title_id%3DROKU_PARTNER_VIDEO_PROVIDER_ID%26secondary_content_id%3DOTT_SECONDARY_CONTENT_ID%26pod1a%3DPROG_POD1%26prog_bm%3DPROG_BM%26prog_id%3DPROG_ID%26prog_is_live%3DIS_LIVE_EVENT%26prog_provid%3DPROG_PROV_ID%26prog_type%3DPROG_TYPE%26tamRequestId%3Df98d6003-8ed8-56f3-bd5c-a59a92558efc%26tamPolicyId%3D324%26nmafs%3D600%26abt%3DmidRoll%26aaa%3Dtrue%26ovp_mode%3D1
+https://osm-use1.sr.roku.com/osm/v1/dash/use1/manifest/bc1f2b0fdab8440c959f1a30a92fa20b/aa2b924269c645b997bfd26902d112c7/index.mpd
 
 #EXTINF:-1 tvg-id=""TNT 1"" tvg-logo="https://i.ibb.co.com/7dNPfNGB/Tntsports1.png" group-title="CHANNEL | SPORTS",TNT SPORTS 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
@@ -75,6 +75,7 @@ https://dash2.antik.sk/stream/nvidia_eurosport1/playlist_cenc.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 https://dash2.antik.sk/stream/nvidia_eurosport2/playlist_cenc.mpd
+
 
 
 
