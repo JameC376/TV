@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/zcP9R2XH/poster.jpg?width=320",Indykpol AZS Olsztyn - PGE GiEK SKRA Belchatow | Round 15
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/zcP9R2XH/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/nBeYIn1g/poster.jpg?width=320",Reale Mutua Fenera Chieri 76 - Igor Gorgonzola Novara | Play Off - QF Round 2
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/nBeYIn1g/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/AvERcBtG/poster.jpg?width=320",LKS Commercecon Lodz - UNI Opole | Round 12
@@ -37,5 +35,7 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/EcglxZkP/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/o8gACUS9/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/m8qELfUt/poster.jpg?width=320",Denso Airybees - Aranmare Yamagata | Round 18-A
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/m8qELfUt/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/f0WYIJ0C/poster.jpg?width=320",Queenseis Kariya - Osaka Marvelous | Round 18-A
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/f0WYIJ0C/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/jco1OkL9/poster.jpg?width=320",Pfu Bluecats Ishikawa Kahoku - Nec Red Rockets Kawasaki | Round 18-A
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/jco1OkL9/live.isml/.m3u8
