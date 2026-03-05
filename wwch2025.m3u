@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/7T2Xxl25/poster.jpg?width=320",Nippon Steel Sakai Blazers - Suntory Sunbirds Osaka | Round 16-A
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/7T2Xxl25/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/0TLRIn8o/poster.jpg?width=320",ITA TOOLS Stal Mielec - Sokol & Hagric Mogilno | Round 20
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/0TLRIn8o/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/IDIB951I/poster.jpg?width=320",Bergamo - Savino Del Bene Scandicci | Play Off - QF Round 2
@@ -39,3 +37,5 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/otyQs4fL/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/yV1RKAjg/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/SfhTK1wv/poster.jpg?width=320",Astemo Rivale Ibaraki - Saga Hisamitsu Springs | Round 18-A
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/SfhTK1wv/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/k148UTBw/poster.jpg?width=320",Vc Nagano Tridents - Tokyo Great Bears | Round 16-A
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/k148UTBw/live.isml/.m3u8
