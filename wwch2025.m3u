@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/Tf8CiDaA/poster.jpg?width=320",KS DevelopRes Rzeszow - Metalkas Palac Bydgoszcz | Round 20
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/Tf8CiDaA/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/wUIIk2XR/poster.jpg?width=320",LOTTO Chemik Police - LKS Commercecon Lodz | Round 20
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/wUIIk2XR/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/rj4isCfR/poster.jpg?width=320",ZAKSA Kedzierzyn Kozle - Steam Hemarpol Politechnika Częstochowa | Round 25
@@ -21,10 +19,10 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/f0WYIJ0C/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/l9SE9n23/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/otyQs4fL/poster.jpg?width=320",Kurobe Aqua Fairies - Saitama Ageo Medics | Round 18-A
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/otyQs4fL/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/SfhTK1wv/poster.jpg?width=320",Astemo Rivale Ibaraki - Saga Hisamitsu Springs | Round 18-A
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/SfhTK1wv/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/yV1RKAjg/poster.jpg?width=320",Jtekt Stings Aichi - Voreas Hokkaido | Round 16-A
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/yV1RKAjg/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/SfhTK1wv/poster.jpg?width=320",Astemo Rivale Ibaraki - Saga Hisamitsu Springs | Round 18-A
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/SfhTK1wv/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/k148UTBw/poster.jpg?width=320",Vc Nagano Tridents - Tokyo Great Bears | Round 16-A
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/k148UTBw/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/y7Jq4OVr/poster.jpg?width=320",Hiroshima Thunders - Wolfdogs Nagoya | Round 16-A
@@ -39,3 +37,5 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/kTJxbbTK/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/btLuCq67/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/TydE2rWE/poster.jpg?width=320",Aluron CMC Warta Zawiercie - Cuprum Stilon Gorzow | Round 25
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/TydE2rWE/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/zsWI2fwi/poster.jpg?width=320",Cbf Balducci Hr Macerata - Il Bisonte Firenze | Challenge Play Off - Round 4
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/zsWI2fwi/live.isml/.m3u8
