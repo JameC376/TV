@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/kTJxbbTK/poster.jpg?width=320",PGE Budowlani Lodz - MOYA Radomka Radom | Round 20
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/kTJxbbTK/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/btLuCq67/poster.jpg?width=320",Slepsk Malow Suwalki - PGE GiEK SKRA Belchatow | Round 25
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/btLuCq67/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/TydE2rWE/poster.jpg?width=320",Aluron CMC Warta Zawiercie - Cuprum Stilon Gorzow | Round 25
@@ -23,10 +21,10 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/M5yco8ys/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/vOyNBAAN/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/d21imMfr/poster.jpg?width=320",Queenseis Kariya - Osaka Marvelous | Round 18-B
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/d21imMfr/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/cJRzl6mi/poster.jpg?width=320",Hiroshima Thunders - Wolfdogs Nagoya | Round 16-B
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/cJRzl6mi/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/AAzWtCWG/poster.jpg?width=320",Denso Airybees - Aranmare Yamagata | Round 18-B
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/AAzWtCWG/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/cJRzl6mi/poster.jpg?width=320",Hiroshima Thunders - Wolfdogs Nagoya | Round 16-B
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/cJRzl6mi/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/wlM2AKlH/poster.jpg?width=320",Kurobe Aqua Fairies - Saitama Ageo Medics | Round 18-B
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/wlM2AKlH/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/fV9NsREP/poster.jpg?width=320",Astemo Rivale Ibaraki - Saga Hisamitsu Springs | Round 18-B
@@ -39,3 +37,5 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/SXEOkqVc/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/vAazEHoS/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/Y0gMJMJE/poster.jpg?width=320",Osaka Bluteon - Toray Arrows Shizuoka | Round 16-B
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/Y0gMJMJE/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/NJYfxgCO/poster.jpg?width=320",Energa Trefl Gdansk - JSW Jastrzebski Wegiel | Round 25
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/NJYfxgCO/live.isml/.m3u8
