@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/vxIdW9S6/poster.jpg?width=320",Itambe Minas - JF Volei | Round 19
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/vxIdW9S6/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/SWcEXDIY/poster.jpg?width=320",Sir Susa Scai Perugia - Vero Volley Monza | Play Off - QF Round 1
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/SWcEXDIY/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/jCcKLYwE/poster.jpg?width=320",Semi-Final: Volei Renata - Saneago Goias | Copa Brasil F4
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/jCcKLYwE/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/Qmd3Voep/poster.jpg?width=320",Semi-Final: Sada Cruzeiro - Praia Clube Uberlandia Volei | Copa Brasil F4
@@ -13,10 +9,10 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/M5yco8ys/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/vOyNBAAN/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/d21imMfr/poster.jpg?width=320",Queenseis Kariya - Osaka Marvelous | Round 18-B
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/d21imMfr/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/cJRzl6mi/poster.jpg?width=320",Hiroshima Thunders - Wolfdogs Nagoya | Round 16-B
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/cJRzl6mi/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/AAzWtCWG/poster.jpg?width=320",Denso Airybees - Aranmare Yamagata | Round 18-B
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/AAzWtCWG/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/cJRzl6mi/poster.jpg?width=320",Hiroshima Thunders - Wolfdogs Nagoya | Round 16-B
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/cJRzl6mi/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/wlM2AKlH/poster.jpg?width=320",Kurobe Aqua Fairies - Saitama Ageo Medics | Round 18-B
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/wlM2AKlH/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/fV9NsREP/poster.jpg?width=320",Astemo Rivale Ibaraki - Saga Hisamitsu Springs | Round 18-B
@@ -39,3 +35,7 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/iXCc4sLy/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/fnNzkddV/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/9MTonUkB/poster.jpg?width=320",Rana Verona - Allianz Milano | Play Off - QF Round 1
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/9MTonUkB/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/TVLuW7gv/poster.jpg?width=320",BKS BOSTIK ZGO Bielsko-Biala - ECO HARPOON LOS Nowy Dwor Mazowiecki | Round 20
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/TVLuW7gv/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/czlxHIED/poster.jpg?width=320",Valsa Group Modena - Gas Sales Bluenergy Piacenza | Play Off - QF Round 1
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/czlxHIED/live.isml/.m3u8
