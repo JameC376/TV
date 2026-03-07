@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/QFKEXyny/poster.jpg?width=320",Osaka Bluteon - Toray Arrows Shizuoka | Round 16-A
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/QFKEXyny/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/kTJxbbTK/poster.jpg?width=320",PGE Budowlani Lodz - MOYA Radomka Radom | Round 20
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/kTJxbbTK/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/btLuCq67/poster.jpg?width=320",Slepsk Malow Suwalki - PGE GiEK SKRA Belchatow | Round 25
@@ -39,3 +37,5 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/bfu11JIS/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/SXEOkqVc/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/vAazEHoS/poster.jpg?width=320",Toray Arrows Shiga - Gunma Greenwings | Round 18-B
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/vAazEHoS/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/Y0gMJMJE/poster.jpg?width=320",Osaka Bluteon - Toray Arrows Shizuoka | Round 16-B
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/Y0gMJMJE/live.isml/.m3u8
