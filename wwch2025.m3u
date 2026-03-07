@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/zsWI2fwi/poster.jpg?width=320",Cbf Balducci Hr Macerata - Il Bisonte Firenze | Challenge Play Off - Round 4
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/zsWI2fwi/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/TdkPxYJ1/poster.jpg?width=320",Asseco Resovia Rzeszow - Barkom Kazany Lwow | Round 25
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/TdkPxYJ1/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/vxIdW9S6/poster.jpg?width=320",Itambe Minas - JF Volei | Round 19
@@ -15,12 +13,12 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/Qmd3Voep/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/vOyNBAAN/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/M5yco8ys/poster.jpg?width=320",Vc Nagano Tridents - Tokyo Great Bears | Round 16-B
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/M5yco8ys/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/cJRzl6mi/poster.jpg?width=320",Hiroshima Thunders - Wolfdogs Nagoya | Round 16-B
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/cJRzl6mi/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/d21imMfr/poster.jpg?width=320",Queenseis Kariya - Osaka Marvelous | Round 18-B
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/d21imMfr/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/AAzWtCWG/poster.jpg?width=320",Denso Airybees - Aranmare Yamagata | Round 18-B
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/AAzWtCWG/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/cJRzl6mi/poster.jpg?width=320",Hiroshima Thunders - Wolfdogs Nagoya | Round 16-B
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/cJRzl6mi/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/fV9NsREP/poster.jpg?width=320",Astemo Rivale Ibaraki - Saga Hisamitsu Springs | Round 18-B
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/fV9NsREP/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/wlM2AKlH/poster.jpg?width=320",Kurobe Aqua Fairies - Saitama Ageo Medics | Round 18-B
@@ -39,3 +37,5 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/NJYfxgCO/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/wopsxq8v/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/iXCc4sLy/poster.jpg?width=320",Itas Trentino - Cucine Lube Civitanova | Play Off - QF Round 1
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/iXCc4sLy/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/fnNzkddV/poster.jpg?width=320",PGE Projekt Warszawa - BOGDANKA LUK Lublin | Round 25
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/fnNzkddV/live.isml/.m3u8
