@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/TdkPxYJ1/poster.jpg?width=320",Asseco Resovia Rzeszow - Barkom Kazany Lwow | Round 25
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/TdkPxYJ1/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/vxIdW9S6/poster.jpg?width=320",Itambe Minas - JF Volei | Round 19
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/vxIdW9S6/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/SWcEXDIY/poster.jpg?width=320",Sir Susa Scai Perugia - Vero Volley Monza | Play Off - QF Round 1
@@ -39,3 +37,5 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/wopsxq8v/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/iXCc4sLy/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/fnNzkddV/poster.jpg?width=320",PGE Projekt Warszawa - BOGDANKA LUK Lublin | Round 25
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/fnNzkddV/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/9MTonUkB/poster.jpg?width=320",Rana Verona - Allianz Milano | Play Off - QF Round 1
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/9MTonUkB/live.isml/.m3u8
