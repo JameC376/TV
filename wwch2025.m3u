@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/Y0gMJMJE/poster.jpg?width=320",Osaka Bluteon - Toray Arrows Shizuoka | Round 16-B
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/Y0gMJMJE/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/NJYfxgCO/poster.jpg?width=320",Energa Trefl Gdansk - JSW Jastrzebski Wegiel | Round 25
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/NJYfxgCO/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/wopsxq8v/poster.jpg?width=320",Omag-Mt San Giovanni In Marignano - Honda Cuneo Granda Volley | Challenge Play Off - Round 4
@@ -17,10 +15,10 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/TVLuW7gv/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/czlxHIED/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/aUe7LS6B/poster.jpg?width=320",Final: Volei Renata - Sada Cruzeiro | Copa Brasil F4
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/aUe7LS6B/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/hBwOFiW3/poster.jpg?width=320",LOTTO Chemik Police - ITA TOOLS Stal Mielec | Round 22
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/hBwOFiW3/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/GyKvpVO4/poster.jpg?width=320",Indykpol AZS Olsztyn - InPost ChKS Chelm | Round 25
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/GyKvpVO4/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/hBwOFiW3/poster.jpg?width=320",LOTTO Chemik Police - ITA TOOLS Stal Mielec | Round 22
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/hBwOFiW3/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/jlyNFqsq/poster.jpg?width=320",VolleyWroclaw - UNI Opole | Round 20
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/jlyNFqsq/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/dlXzBKbU/poster.jpg?width=320",Steam Hemarpol Politechnika Częstochowa - PGE GiEK SKRA Belchatow | Round 20
@@ -39,3 +37,5 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/IA5UlHD2/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/apiyOGKb/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/1rjzdXBR/poster.jpg?width=320",BOGDANKA LUK Lublin - Aluron CMC Warta Zawiercie | Round 26
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/1rjzdXBR/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/U8GKAIvb/poster.jpg?width=320",Sancor Seguros Volei - Renasce Sorocaba | Round 20
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/U8GKAIvb/live.isml/.m3u8
