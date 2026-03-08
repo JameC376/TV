@@ -1,14 +1,18 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/eYp68lC4/poster.jpg?width=320",Valsa Group Modena - Gas Sales Bluenergy Piacenza | Play Off - QF Round 1
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/eYp68lC4/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/aUe7LS6B/poster.jpg?width=320",Final: Volei Renata - Sada Cruzeiro | Copa Brasil F4
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/aUe7LS6B/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/hBwOFiW3/poster.jpg?width=320",LOTTO Chemik Police - ITA TOOLS Stal Mielec | Round 22
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/hBwOFiW3/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/GyKvpVO4/poster.jpg?width=320",Indykpol AZS Olsztyn - InPost ChKS Chelm | Round 25
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/GyKvpVO4/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/hBwOFiW3/poster.jpg?width=320",LOTTO Chemik Police - ITA TOOLS Stal Mielec | Round 22
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/hBwOFiW3/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/jlyNFqsq/poster.jpg?width=320",VolleyWroclaw - UNI Opole | Round 20
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/jlyNFqsq/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/X4qitxku/poster.jpg?width=320",[tbc] vs [tbc], Women Qualifications | João Pessoa (BRA)
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/X4qitxku/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/mZrfCOAK/poster.jpg?width=320",[tbc] vs [tbc], Women Qualifications | João Pessoa (BRA)
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/mZrfCOAK/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/UcMWjuCF/poster.jpg?width=320",[tbc] vs [tbc], Women Qualifications | João Pessoa (BRA)
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/UcMWjuCF/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/dlXzBKbU/poster.jpg?width=320",Steam Hemarpol Politechnika Częstochowa - PGE GiEK SKRA Belchatow | Round 20
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/dlXzBKbU/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/VT8a9U2A/poster.jpg?width=320",Suzano Volei - Volei Renata | Round 19
@@ -35,7 +39,3 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/IabamyTu/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/7e01vgMW/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/x2OdBX5Y/poster.jpg?width=320",Gunma Greenwings - Okayama Seagulls | Round 19-A
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/x2OdBX5Y/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/1ovDpUCc/poster.jpg?width=320",Denso Airybees - Pfu Bluecats Ishikawa Kahoku | Round 19-A
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/1ovDpUCc/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/dOqda5iB/poster.jpg?width=320",Voreas Hokkaido - Vc Nagano Tridents | Round 17-A
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/dOqda5iB/live.isml/.m3u8
