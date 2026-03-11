@@ -1,12 +1,10 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/gVcPzCsS/poster.jpg?width=320",Thamela/Victoria (BRA) vs Bukovec/Monkhouse (CAN), Women Pool E | João Pessoa (BRA)
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/gVcPzCsS/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/kOBhwWgA/poster.jpg?width=320",Ana Patrícia/Duda (BRA) vs Tan/Svenssohn (USA), Women Pool A | João Pessoa (BRA)
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/kOBhwWgA/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/dpJED4Dl/poster.jpg?width=320",Stam/Schoon (NED) vs Ievute/Kliokmanaite (LTU), Women Pool F | João Pessoa (BRA)
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/dpJED4Dl/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/bmXCf6IS/poster.jpg?width=320",Paul/Kunst (GER) vs Van Winkle/Phillips (USA), Women Pool A | João Pessoa (BRA)
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/bmXCf6IS/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/2UETThRk/poster.jpg?width=320",Ana Patrícia/Duda (BRA) vs Tan/Svenssohn (USA), Women Pool A | João Pessoa (BRA)
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/2UETThRk/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/VT8a9U2A/poster.jpg?width=320",Suzano Volei - Volei Renata | Round 19
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/VT8a9U2A/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/IjaA3L9y/poster.jpg?width=320",Daubas/Aye C. (FRA) vs Bedritis/Rinkevics (LAT), Men Pool D | João Pessoa (BRA)
@@ -39,3 +37,5 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/wPgVPfsH/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/YbTfy8E3/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/nRs4oQkB/poster.jpg?width=320",Taiana Lima/Talita (BRA) vs Michelle/Corrales (PAR), Women Pool D | João Pessoa (BRA)
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/nRs4oQkB/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/QVxJKL0a/poster.jpg?width=320",MOYA Radomka Radom - LOTTO Chemik Police | Round 21
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/QVxJKL0a/live.isml/.m3u8
