@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/6tmg5r2J/poster.jpg?width=320",Taiana Lima/Talita (BRA) vs Harward/Hodel (USA), Women Pool D | João Pessoa (BRA)
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/6tmg5r2J/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/FdbY0ZPy/poster.jpg?width=320",Kraft/Cheng (USA) vs Michelle/Corrales (PAR), Women Pool D | João Pessoa (BRA)
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/FdbY0ZPy/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/TbTobEGc/poster.jpg?width=320",Tina/Anastasija (LAT) vs Savvy/Newberry (USA), Women Pool C | João Pessoa (BRA)
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/TbTobEGc/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/FiW0uKyM/poster.jpg?width=320",Kylie/Maixnerova (CZE) vs Vieira/Chamereau (FRA), Women Pool E | João Pessoa (BRA)
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/FiW0uKyM/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/gVcPzCsS/poster.jpg?width=320",Thamela/Victoria (BRA) vs Bukovec/Monkhouse (CAN), Women Pool E | João Pessoa (BRA)
@@ -39,3 +33,9 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/aIlIlFEp/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/6j0adyHS/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/GOhTnnwj/poster.jpg?width=320",George/Saymon (BRA) vs Waller/Pristauz (AUT), Men Pool C | João Pessoa (BRA)
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/GOhTnnwj/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/ojPDywEt/poster.jpg?width=320",Åhman/Hellvig (SWE) vs Bedritis/Rinkevics (LAT), Men Pool C | João Pessoa (BRA)
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/ojPDywEt/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/dTrvKrYs/poster.jpg?width=320",Evans/Budinger (USA) vs Krattiger/Dillier (SUI), Men Pool F | João Pessoa (BRA)
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/dTrvKrYs/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/wPgVPfsH/poster.jpg?width=320",Ferch/Van Gunst (USA) vs Savvy/Newberry (USA), Women Pool C | João Pessoa (BRA)
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/wPgVPfsH/live.isml/.m3u8
