@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/IjaA3L9y/poster.jpg?width=320",Daubas/Aye C. (FRA) vs Bedritis/Rinkevics (LAT), Men Pool D | João Pessoa (BRA)
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/IjaA3L9y/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/ONG6FPE5/poster.jpg?width=320",Chouikh/Genevieve-Gardoque  (FRA) vs Arthur/Adrielson (BRA), Men Pool D | João Pessoa (BRA)
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/ONG6FPE5/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/3nBXRIhr/poster.jpg?width=320",Hölting Nilsson/Andersson E (SWE) vs Vinicius/Heitor (BRA), Men Pool B | João Pessoa (BRA)
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/3nBXRIhr/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/nnugI0Sj/poster.jpg?width=320",Evandro/Arthur Lanci (BRA) vs Sagstetter J./Sagstetter B. (GER), Men Pool A | João Pessoa (BRA)
@@ -17,10 +13,10 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/Y2NjQXqu/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/aIlIlFEp/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/d1K60Vo2/poster.jpg?width=320",Krattiger/Dillier (SUI) vs Adelmo/Mateus (BRA), Men Pool E | João Pessoa (BRA)
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/d1K60Vo2/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/GOhTnnwj/poster.jpg?width=320",George/Saymon (BRA) vs Waller/Pristauz (AUT), Men Pool C | João Pessoa (BRA)
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/GOhTnnwj/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/ojPDywEt/poster.jpg?width=320",Åhman/Hellvig (SWE) vs Caldwell/La Bouliere (USA), Men Pool C | João Pessoa (BRA)
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/ojPDywEt/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/GOhTnnwj/poster.jpg?width=320",George/Saymon (BRA) vs Waller/Pristauz (AUT), Men Pool C | João Pessoa (BRA)
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/GOhTnnwj/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/dTrvKrYs/poster.jpg?width=320",Evans/Budinger (USA) vs Crabb Tr./Harrison (USA), Men Pool F | João Pessoa (BRA)
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/dTrvKrYs/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/wPgVPfsH/poster.jpg?width=320",Ferch/Van Gunst (USA) vs Savvy/Newberry (USA), Women Pool C | João Pessoa (BRA)
@@ -39,3 +35,7 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/cOdbrkQT/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/hviT3lS9/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/7NRF5da6/poster.jpg?width=320",Scampoli/Bianchi (ITA) vs Bisgaard/Høg (DEN), Women Pool B | João Pessoa (BRA)
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/7NRF5da6/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/9ajj7al4/poster.jpg?width=320",Kylie/Maixnerova (CZE) vs Bukovec/Monkhouse (CAN), Women Pool E | João Pessoa (BRA)
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/9ajj7al4/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/7kBqMF8Z/poster.jpg?width=320",Thamela/Victoria (BRA) vs Vieira/Chamereau (FRA), Women Pool E | João Pessoa (BRA)
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/7kBqMF8Z/live.isml/.m3u8
