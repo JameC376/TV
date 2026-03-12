@@ -1,10 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/QVxJKL0a/poster.jpg?width=320",MOYA Radomka Radom - LOTTO Chemik Police | Round 21
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/QVxJKL0a/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/SqtgNiCz/poster.jpg?width=320",Tina/Anastasija (LAT) vs Kyce/Simonetti (BRA), Women Pool C | João Pessoa (BRA)
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/SqtgNiCz/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/cOdbrkQT/poster.jpg?width=320",Stam/Schoon (NED) vs Carol Horta/Elize Maia (BRA), Women Pool F | João Pessoa (BRA)
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/cOdbrkQT/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/hviT3lS9/poster.jpg?width=320",Müller/Tillmann (GER) vs Ievute/Kliokmanaite (LTU), Women Pool F | João Pessoa (BRA)
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/hviT3lS9/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/7NRF5da6/poster.jpg?width=320",Scampoli/Bianchi (ITA) vs Bisgaard/Høg (DEN), Women Pool B | João Pessoa (BRA)
@@ -21,10 +17,10 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/30fGycFZ/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/amh8cS76/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/P9ij3kEX/poster.jpg?width=320",Chouikh/Genevieve-Gardoque  (FRA) vs Bedritis/Rinkevics (LAT), Men Pool D | João Pessoa (BRA)
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/P9ij3kEX/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/EeoAOpGS/poster.jpg?width=320",Daubas/Aye C. (FRA) vs Arthur/Adrielson (BRA), Men Pool D | João Pessoa (BRA)
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/EeoAOpGS/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/zF746faJ/poster.jpg?width=320",Hölting Nilsson/Andersson E (SWE) vs Carracher/Nicolaidis (AUS), Men Pool B | João Pessoa (BRA)
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/zF746faJ/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/EeoAOpGS/poster.jpg?width=320",Daubas/Aye C. (FRA) vs Arthur/Adrielson (BRA), Men Pool D | João Pessoa (BRA)
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/EeoAOpGS/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/dLSDZb3B/poster.jpg?width=320",Evandro/Arthur Lanci (BRA) vs Schachter/Pickett (CAN), Men Pool A | João Pessoa (BRA)
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/dLSDZb3B/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/ojOw5eUJ/poster.jpg?width=320",Pedrosa/Campos (POR) vs Sagstetter J./Sagstetter B. (GER), Men Pool A | João Pessoa (BRA)
@@ -35,7 +31,11 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/Tfp4RcO5/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/P1aK8BAV/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/Lv1UOkvV/poster.jpg?width=320",Hammarberg/Berger T. (AUT) vs Adelmo/Mateus (BRA), Men Pool E | João Pessoa (BRA)
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/Lv1UOkvV/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/4qJ3Rfg6/poster.jpg?width=320",Krattiger/Dillier (SUI) vs Just/Wüst (GER), Men Pool E | João Pessoa (BRA)
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/4qJ3Rfg6/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/BODRFzQn/poster.jpg?width=320",Capogrosso N./Capogrosso T. (ARG) vs Crabb Tr./Harrison (USA), Men Pool F | João Pessoa (BRA)
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/BODRFzQn/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/4qJ3Rfg6/poster.jpg?width=320",Krattiger/Dillier (SUI) vs Just/Wüst (GER), Men Pool E | João Pessoa (BRA)
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/4qJ3Rfg6/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/G51nrBmn/poster.jpg?width=320",Gerdau Minas - Osasco Sao Cristovao Saude | Round 20
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/G51nrBmn/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/BX0Dk5Fj/poster.jpg?width=320",George/Saymon (BRA) vs Caldwell/La Bouliere (USA), Men Pool C | João Pessoa (BRA)
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/BX0Dk5Fj/live.isml/.m3u8
