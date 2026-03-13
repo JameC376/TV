@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/G40JKbtW/poster.jpg?width=320",Schachter/Pickett (CAN) vs Sagstetter J./Sagstetter B. (GER), Men Pool A on C3 | João Pessoa (BRA)
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/G40JKbtW/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/6iBydUcW/poster.jpg?width=320",Crabb Tr./Harrison (USA) vs Vitor Felipe/Felipe Alves (BRA), Men Pool F on C2 | João Pessoa (BRA)
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/6iBydUcW/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/egnOMRpA/poster.jpg?width=320",BOGDANKA LUK Lublin - Aluron CMC Warta Zawiercie | Round 26
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/egnOMRpA/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/Ry3L8N3Z/poster.jpg?width=320",Capogrosso N./Capogrosso T. (ARG) vs Evans/Budinger (USA), Men Pool F on C3 | João Pessoa (BRA)
@@ -11,20 +7,20 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/Ry3L8N3Z/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/CxtnDlk3/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/DJryDppz/poster.jpg?width=320",Waller/Pristauz (AUT) vs Caldwell/La Bouliere (USA), Men Pool C on C2 | João Pessoa (BRA)
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/DJryDppz/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/4FswK1WG/poster.jpg?width=320",Vieira/Chamereau (FRA) vs Michelle/Corrales (PAR), Women Round of 16 on C2 | João Pessoa (BRA)
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/4FswK1WG/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/rCoV49ZT/poster.jpg?width=320",Van Winkle/Phillips (USA) vs Kraft/Cheng (USA), Women Round of 16 on C3 | João Pessoa (BRA)
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/rCoV49ZT/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/4FswK1WG/poster.jpg?width=320",Vieira/Chamereau (FRA) vs Michelle/Corrales (PAR), Women Round of 16 on C2 | João Pessoa (BRA)
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/4FswK1WG/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/fkeA8Rnp/poster.jpg?width=320",Ievute/Kliokmanaite (LTU) vs Thamela/Victoria (BRA), Women Round of 16 on CC | João Pessoa (BRA)
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/fkeA8Rnp/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/U8GKAIvb/poster.jpg?width=320",Sancor Seguros Volei - Renasce Sorocaba | Round 20
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/U8GKAIvb/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/dqHP8c3C/poster.jpg?width=320",Dentil Praia Clube - Fluminense | Round 20
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/dqHP8c3C/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/W8XojDbh/poster.jpg?width=320",Tina/Anastasija (LAT) vs Ana Patrícia/Duda (BRA), Women Round of 16 on CC | João Pessoa (BRA)
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/W8XojDbh/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/KcP58Tbk/poster.jpg?width=320",Scampoli/Bianchi (ITA) vs Stam/Schoon (NED), Women Round of 16 on C2 | João Pessoa (BRA)
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/KcP58Tbk/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/W8XojDbh/poster.jpg?width=320",Tina/Anastasija (LAT) vs Ana Patrícia/Duda (BRA), Women Round of 16 on CC | João Pessoa (BRA)
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/W8XojDbh/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/SEQadcQF/poster.jpg?width=320",Savvy/Newberry (USA) vs Müller/Tillmann (GER), Women Round of 16 on C3 | João Pessoa (BRA)
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/SEQadcQF/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/Xn3yTWqJ/poster.jpg?width=320",Cruz/Brasher (USA) vs Taiana Lima/Talita (BRA), Women Round of 16 on CC | João Pessoa (BRA)
@@ -33,9 +29,13 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/Xn3yTWqJ/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/a4261B8h/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/IabamyTu/poster.jpg?width=320",SESC RJ Flamengo - Sesi Volei Bauru | Round 20
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/IabamyTu/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/7e01vgMW/poster.jpg?width=320",Saitama Ageo Medics - Toray Arrows Shiga | Round 19-A
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/7e01vgMW/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/x2OdBX5Y/poster.jpg?width=320",Gunma Greenwings - Okayama Seagulls | Round 19-A
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/x2OdBX5Y/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/7e01vgMW/poster.jpg?width=320",Saitama Ageo Medics - Toray Arrows Shiga | Round 19-A
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/7e01vgMW/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/dOqda5iB/poster.jpg?width=320",Voreas Hokkaido - Vc Nagano Tridents | Round 17-A
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/dOqda5iB/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/1ovDpUCc/poster.jpg?width=320",Denso Airybees - Pfu Bluecats Ishikawa Kahoku | Round 19-A
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/1ovDpUCc/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/8fBU4dsm/poster.jpg?width=320",Toray Arrows Shizuoka - Suntory Sunbirds Osaka | Round 17-A
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/8fBU4dsm/live.isml/.m3u8
