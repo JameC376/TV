@@ -1,12 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/apiyOGKb/poster.jpg?width=320",InPost ChKS Chelm - ZAKSA Kedzierzyn Kozle | Round 26
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/apiyOGKb/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/Foeh5txl/poster.jpg?width=320",Hammarberg/Berger T. (AUT) vs Krattiger/Dillier (SUI), Men Pool E on C2 | João Pessoa (BRA)
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/Foeh5txl/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/Zf5KbWSo/poster.jpg?width=320",Hölting Nilsson/Andersson E (SWE) vs Crabb/Benesh (USA), Men Pool B on C3 | João Pessoa (BRA)
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/Zf5KbWSo/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/HMVSqbSH/poster.jpg?width=320",Adelmo/Mateus (BRA) vs Just/Wüst (GER), Men Pool E on CC | João Pessoa (BRA)
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/HMVSqbSH/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/epa30vqy/poster.jpg?width=320",Bukovec/Monkhouse (CAN) vs Ferch/Van Gunst (USA), Women Lucky losers on C2 | João Pessoa (BRA)
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/epa30vqy/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/Nzmcecoq/poster.jpg?width=320",Verena/Thainara (BRA) vs Taiana Lima/Talita (BRA), Women Lucky losers on CC | João Pessoa (BRA)
@@ -39,3 +31,11 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/dqHP8c3C/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/W8XojDbh/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/KcP58Tbk/poster.jpg?width=320",Scampoli/Bianchi (ITA) vs Stam/Schoon (NED), Women Round of 16 on C2 | João Pessoa (BRA)
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/KcP58Tbk/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/SEQadcQF/poster.jpg?width=320",Savvy/Newberry (USA) vs Müller/Tillmann (GER), Women Round of 16 on C3 | João Pessoa (BRA)
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/SEQadcQF/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/a4261B8h/poster.jpg?width=320",[tbc] vs [tbc], Women Round of 16 | João Pessoa (BRA)
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/a4261B8h/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/Xn3yTWqJ/poster.jpg?width=320",[tbc] vs [tbc], Women Round of 16 | João Pessoa (BRA)
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/Xn3yTWqJ/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/IabamyTu/poster.jpg?width=320",SESC RJ Flamengo - Sesi Volei Bauru | Round 20
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/IabamyTu/live.isml/.m3u8
