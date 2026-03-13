@@ -1,10 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/U8GKAIvb/poster.jpg?width=320",Sancor Seguros Volei - Renasce Sorocaba | Round 20
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/U8GKAIvb/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/dqHP8c3C/poster.jpg?width=320",Dentil Praia Clube - Fluminense | Round 20
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/dqHP8c3C/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/KcP58Tbk/poster.jpg?width=320",Scampoli/Bianchi (ITA) vs Stam/Schoon (NED), Women Round of 16 on C2 | João Pessoa (BRA)
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/KcP58Tbk/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/Xn3yTWqJ/poster.jpg?width=320",Cruz/Brasher (USA) vs Taiana Lima/Talita (BRA), Women Round of 16 on CC | João Pessoa (BRA)
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/Xn3yTWqJ/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/a4261B8h/poster.jpg?width=320",Paul/Kunst (GER) vs Ferch/Van Gunst (USA), Women Round of 16 on C2 | João Pessoa (BRA)
@@ -23,12 +19,12 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/1ovDpUCc/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/8fBU4dsm/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/MXX44xJy/poster.jpg?width=320",Astemo Rivale Ibaraki - Queenseis Kariya | Round 19-A
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/MXX44xJy/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/Dj0j0sdW/poster.jpg?width=320",Osaka Marvelous - Nec Red Rockets Kawasaki | Round 19-A
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/Dj0j0sdW/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/CQA870Gu/poster.jpg?width=320",Aranmare Yamagata - Kurobe Aqua Fairies | Round 19-A
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/CQA870Gu/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/aqQoFmGd/poster.jpg?width=320",Saga Hisamitsu Springs - Victorina Himeji | Round 19-A
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/aqQoFmGd/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/Dj0j0sdW/poster.jpg?width=320",Osaka Marvelous - Nec Red Rockets Kawasaki | Round 19-A
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/Dj0j0sdW/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/HZ2b9dSC/poster.jpg?width=320",Hiroshima Thunders - Nippon Steel Sakai Blazers | Round 17-A
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/HZ2b9dSC/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/IStgHW7D/poster.jpg?width=320",Wolfdogs Nagoya - Tokyo Great Bears | Round 17-A
@@ -39,3 +35,7 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/FVPkkk8b/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/OxgvzvCo/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/fQ4XPWdf/poster.jpg?width=320",Sagstetter J./Sagstetter B. (GER) vs Carracher/Nicolaidis (AUS), Men Lucky losers on C2 | João Pessoa (BRA)
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/fQ4XPWdf/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/KysgodrX/poster.jpg?width=320",Arthur/Adrielson (BRA) vs George/Saymon (BRA), Men Lucky losers on CC | João Pessoa (BRA)
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/KysgodrX/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/Mm9vTVgj/poster.jpg?width=320",JSW Jastrzebski Wegiel - Cuprum Stilon Gorzow | Round 26
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/Mm9vTVgj/live.isml/.m3u8
