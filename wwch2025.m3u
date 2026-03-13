@@ -1,41 +1,41 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/P1aK8BAV/poster.jpg?width=320",Batavo Mackenzie - Brasilia Volei | Round 20
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/P1aK8BAV/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/G51nrBmn/poster.jpg?width=320",Gerdau Minas - Osasco Sao Cristovao Saude | Round 20
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/G51nrBmn/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/BX0Dk5Fj/poster.jpg?width=320",George/Saymon (BRA) vs Caldwell/La Bouliere (USA), Men Pool C on CC | João Pessoa (BRA)
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/BX0Dk5Fj/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/nLLMqySK/poster.jpg?width=320",Evans/Budinger (USA) vs Vitor Felipe/Felipe Alves (BRA), Men Pool F on C2 | João Pessoa (BRA)
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/nLLMqySK/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/rYleTC7A/poster.jpg?width=320",Åhman/Hellvig (SWE) vs Waller/Pristauz (AUT), Men Pool C on C3 | João Pessoa (BRA)
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/rYleTC7A/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/IA5UlHD2/poster.jpg?width=320",Paulistano Barueri - Tijuca Tenis Clube | Round 20
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/IA5UlHD2/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/ga9KO7ev/poster.jpg?width=320",Kraft/Cheng (USA) vs Taiana Lima/Talita (BRA), Women Pool D on CC | João Pessoa (BRA)
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/ga9KO7ev/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/xM1Bc7or/poster.jpg?width=320",Harward/Hodel (USA) vs Michelle/Corrales (PAR), Women Pool D on C2 | João Pessoa (BRA)
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/xM1Bc7or/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/NuWwhsTl/poster.jpg?width=320",Vieira/Chamereau (FRA) vs Bukovec/Monkhouse (CAN), Women Pool E on C3 | João Pessoa (BRA)
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/NuWwhsTl/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/xM1Bc7or/poster.jpg?width=320",Harward/Hodel (USA) vs Michelle/Corrales (PAR), Women Pool D on C2 | João Pessoa (BRA)
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/xM1Bc7or/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/yrDO7hot/poster.jpg?width=320",Tina/Anastasija (LAT) vs Ferch/Van Gunst (USA), Women Pool C on C3 | João Pessoa (BRA)
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/yrDO7hot/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/jmYUjUfY/poster.jpg?width=320",Thamela/Victoria (BRA) vs Kylie/Maixnerova (CZE), Women Pool E on CC | João Pessoa (BRA)
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/jmYUjUfY/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/UMOEUEjO/poster.jpg?width=320",Kyce/Simonetti (BRA) vs Savvy/Newberry (USA), Women Pool C on C2 | João Pessoa (BRA)
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/UMOEUEjO/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/wTN290N6/poster.jpg?width=320",Ana Patrícia/Duda (BRA) vs Paul/Kunst (GER), Women Pool A on CC | João Pessoa (BRA)
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/wTN290N6/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/a5kjKXvh/poster.jpg?width=320",Van Winkle/Phillips (USA) vs Tan/Svenssohn (USA), Women Pool A on C3 | João Pessoa (BRA)
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/a5kjKXvh/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/wTN290N6/poster.jpg?width=320",Ana Patrícia/Duda (BRA) vs Paul/Kunst (GER), Women Pool A on CC | João Pessoa (BRA)
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/wTN290N6/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/BX6RrLmW/poster.jpg?width=320",Ievute/Kliokmanaite (LTU) vs Carol Horta/Elize Maia (BRA), Women Pool F on C2 | João Pessoa (BRA)
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/BX6RrLmW/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/Dd6IQMDD/poster.jpg?width=320",Verena/Thainara (BRA) vs Bisgaard/Høg (DEN), Women Pool B on CC | João Pessoa (BRA)
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/Dd6IQMDD/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/Z741jzwS/poster.jpg?width=320",Müller/Tillmann (GER) vs Stam/Schoon (NED), Women Pool F on C3 | João Pessoa (BRA)
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/Z741jzwS/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/Dd6IQMDD/poster.jpg?width=320",Verena/Thainara (BRA) vs Bisgaard/Høg (DEN), Women Pool B on CC | João Pessoa (BRA)
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/Dd6IQMDD/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/jbmz3L0P/poster.jpg?width=320",Cruz/Brasher (USA) vs Scampoli/Bianchi (ITA), Women Pool B on C2 | João Pessoa (BRA)
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/jbmz3L0P/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/XLWWkYzx/poster.jpg?width=320",Arthur/Adrielson (BRA) vs Bedritis/Rinkevics (LAT), Men Pool D on CC | João Pessoa (BRA)
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/XLWWkYzx/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/PAmh1Xyu/poster.jpg?width=320",Daubas/Aye C. (FRA) vs Chouikh/Genevieve-Gardoque  (FRA), Men Pool D on C3 | João Pessoa (BRA)
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/PAmh1Xyu/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/q3D3GL7h/poster.jpg?width=320",Carracher/Nicolaidis (AUS) vs Vinicius/Heitor (BRA), Men Pool B on C2 | João Pessoa (BRA)
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/q3D3GL7h/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/apiyOGKb/poster.jpg?width=320",InPost ChKS Chelm - ZAKSA Kedzierzyn Kozle | Round 26
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/apiyOGKb/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/Foeh5txl/poster.jpg?width=320",Hammarberg/Berger T. (AUT) vs Krattiger/Dillier (SUI), Men Pool E on C2 | João Pessoa (BRA)
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/Foeh5txl/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/Zf5KbWSo/poster.jpg?width=320",Hölting Nilsson/Andersson E (SWE) vs Crabb/Benesh (USA), Men Pool B on C3 | João Pessoa (BRA)
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/Zf5KbWSo/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/HMVSqbSH/poster.jpg?width=320",Adelmo/Mateus (BRA) vs Just/Wüst (GER), Men Pool E on CC | João Pessoa (BRA)
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/HMVSqbSH/live.isml/.m3u8
