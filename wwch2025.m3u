@@ -1,14 +1,8 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/a5kjKXvh/poster.jpg?width=320",Van Winkle/Phillips (USA) vs Tan/Svenssohn (USA), Women Pool A on C3 | João Pessoa (BRA)
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/a5kjKXvh/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/wTN290N6/poster.jpg?width=320",Ana Patrícia/Duda (BRA) vs Paul/Kunst (GER), Women Pool A on CC | João Pessoa (BRA)
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/wTN290N6/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/BX6RrLmW/poster.jpg?width=320",Ievute/Kliokmanaite (LTU) vs Carol Horta/Elize Maia (BRA), Women Pool F on C2 | João Pessoa (BRA)
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/BX6RrLmW/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/Z741jzwS/poster.jpg?width=320",Müller/Tillmann (GER) vs Stam/Schoon (NED), Women Pool F on C3 | João Pessoa (BRA)
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/Z741jzwS/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/Dd6IQMDD/poster.jpg?width=320",Verena/Thainara (BRA) vs Bisgaard/Høg (DEN), Women Pool B on CC | João Pessoa (BRA)
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/Dd6IQMDD/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/Z741jzwS/poster.jpg?width=320",Müller/Tillmann (GER) vs Stam/Schoon (NED), Women Pool F on C3 | João Pessoa (BRA)
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/Z741jzwS/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/jbmz3L0P/poster.jpg?width=320",Cruz/Brasher (USA) vs Scampoli/Bianchi (ITA), Women Pool B on C2 | João Pessoa (BRA)
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/jbmz3L0P/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/XLWWkYzx/poster.jpg?width=320",Arthur/Adrielson (BRA) vs Bedritis/Rinkevics (LAT), Men Pool D on CC | João Pessoa (BRA)
@@ -19,10 +13,10 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/PAmh1Xyu/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/q3D3GL7h/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/apiyOGKb/poster.jpg?width=320",InPost ChKS Chelm - ZAKSA Kedzierzyn Kozle | Round 26
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/apiyOGKb/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/Foeh5txl/poster.jpg?width=320",Hammarberg/Berger T. (AUT) vs Krattiger/Dillier (SUI), Men Pool E on C2 | João Pessoa (BRA)
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/Foeh5txl/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/Zf5KbWSo/poster.jpg?width=320",Hölting Nilsson/Andersson E (SWE) vs Crabb/Benesh (USA), Men Pool B on C3 | João Pessoa (BRA)
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/Zf5KbWSo/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/Foeh5txl/poster.jpg?width=320",Hammarberg/Berger T. (AUT) vs Krattiger/Dillier (SUI), Men Pool E on C2 | João Pessoa (BRA)
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/Foeh5txl/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/HMVSqbSH/poster.jpg?width=320",Adelmo/Mateus (BRA) vs Just/Wüst (GER), Men Pool E on CC | João Pessoa (BRA)
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/HMVSqbSH/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/epa30vqy/poster.jpg?width=320",[tbc] vs [tbc], Women Lucky losers | João Pessoa (BRA)
@@ -31,11 +25,17 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/epa30vqy/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/Nzmcecoq/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/e654FQXv/poster.jpg?width=320",Evandro/Arthur Lanci (BRA) vs Pedrosa/Campos (POR), Men Pool A on CC | João Pessoa (BRA)
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/e654FQXv/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/6iBydUcW/poster.jpg?width=320",Crabb Tr./Harrison (USA) vs Vitor Felipe/Felipe Alves (BRA), Men Pool F on C2 | João Pessoa (BRA)
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/6iBydUcW/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/G40JKbtW/poster.jpg?width=320",Schachter/Pickett (CAN) vs Sagstetter J./Sagstetter B. (GER), Men Pool A on C3 | João Pessoa (BRA)
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/G40JKbtW/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/6iBydUcW/poster.jpg?width=320",Crabb Tr./Harrison (USA) vs Vitor Felipe/Felipe Alves (BRA), Men Pool F on C2 | João Pessoa (BRA)
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/6iBydUcW/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/1rjzdXBR/poster.jpg?width=320",BOGDANKA LUK Lublin - Aluron CMC Warta Zawiercie | Round 26
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/1rjzdXBR/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/Ry3L8N3Z/poster.jpg?width=320",Capogrosso N./Capogrosso T. (ARG) vs Evans/Budinger (USA), Men Pool F on C3 | João Pessoa (BRA)
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/Ry3L8N3Z/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/CxtnDlk3/poster.jpg?width=320",Åhman/Hellvig (SWE) vs George/Saymon (BRA), Men Pool C on CC | João Pessoa (BRA)
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/CxtnDlk3/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/DJryDppz/poster.jpg?width=320",Waller/Pristauz (AUT) vs Caldwell/La Bouliere (USA), Men Pool C on C2 | João Pessoa (BRA)
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/DJryDppz/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/rCoV49ZT/poster.jpg?width=320",[tbc] vs [tbc], Women Round of 16 | João Pessoa (BRA)
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/rCoV49ZT/live.isml/.m3u8
