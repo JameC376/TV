@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/Mm9vTVgj/poster.jpg?width=320",JSW Jastrzebski Wegiel - Cuprum Stilon Gorzow | Round 26
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/Mm9vTVgj/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/k9iFbU9Z/poster.jpg?width=320",Hammarberg/Berger T. (AUT) vs Evans/Budinger (USA), Men Round of 16 on C3 | João Pessoa (BRA)
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/k9iFbU9Z/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/7FRs6WIK/poster.jpg?width=320",Capogrosso N./Capogrosso T. (ARG) vs Daubas/Aye C. (FRA), Men Round of 16 on CC | João Pessoa (BRA)
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/7FRs6WIK/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/s9hnbuds/poster.jpg?width=320",Waller/Pristauz (AUT) vs Hölting Nilsson/Andersson E (SWE), Men Round of 16 on C2 | João Pessoa (BRA)
@@ -39,3 +37,5 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/MxZflr4r/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/jnGV0jGm/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/H2x3dYuB/poster.jpg?width=320",[tbc] vs [tbc], Men Quarterfinals | João Pessoa (BRA)
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/H2x3dYuB/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/4DCNZHDT/poster.jpg?width=320",[tbc] vs [tbc], Men Quarterfinals | João Pessoa (BRA)
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/4DCNZHDT/live.isml/.m3u8
