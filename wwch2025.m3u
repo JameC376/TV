@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/0qZO9bx9/poster.jpg?width=320",Evandro/Arthur Lanci (BRA) vs Carracher/Nicolaidis (AUS), Men Round of 16 on CC | João Pessoa (BRA)
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/0qZO9bx9/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/JE4vbDSc/poster.jpg?width=320",Crabb/Benesh (USA) vs Arthur/Adrielson (BRA), Men Round of 16 on C2 | João Pessoa (BRA)
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/JE4vbDSc/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/dMWfoOUC/poster.jpg?width=320",Sokol & Hagric Mogilno - BKS BOSTIK ZGO Bielsko-Biala | Round 21
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/dMWfoOUC/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/EnhLe4tV/poster.jpg?width=320",Gas Sales Bluenergy Piacenza - Valsa Group Modena | Play Off - QF Round 2
@@ -39,3 +37,5 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/NH3bqprD/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/Pu7WzACr/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/QA1fyPgd/poster.jpg?width=320",Voreas Hokkaido - Vc Nagano Tridents | Round 17-B
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/QA1fyPgd/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/K9uzYRtZ/poster.jpg?width=320",Aranmare Yamagata - Kurobe Aqua Fairies | Round 19-B
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/K9uzYRtZ/live.isml/.m3u8
