@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/OxgvzvCo/poster.jpg?width=320",ECO HARPOON LOS Nowy Dwor Mazowiecki - PGE Budowlani Lodz | Round 21
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/OxgvzvCo/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/fQ4XPWdf/poster.jpg?width=320",Sagstetter J./Sagstetter B. (GER) vs Carracher/Nicolaidis (AUS), Men Lucky losers on C2 | João Pessoa (BRA)
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/fQ4XPWdf/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/KysgodrX/poster.jpg?width=320",Arthur/Adrielson (BRA) vs George/Saymon (BRA), Men Lucky losers on CC | João Pessoa (BRA)
@@ -39,3 +37,5 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/efuFopMF/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/o5j7bIM0/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/0TX9lzyg/poster.jpg?width=320",Thamela/Victoria (BRA) vs Cruz/Brasher (USA), Women Quarterfinals on CC | João Pessoa (BRA)
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/0TX9lzyg/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/w8zDVusb/poster.jpg?width=320",Sicoob Monte Carmelo - Itambe Minas | Round 20
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/w8zDVusb/live.isml/.m3u8
