@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/MAGCmvw0/poster.jpg?width=320",LKS Commercecon Lodz - VolleyWroclaw | Round 21
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/MAGCmvw0/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/H4yyKMvr/poster.jpg?width=320",Energa Trefl Gdansk - Steam Hemarpol Politechnika Częstochowa | Round 26
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/H4yyKMvr/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/efuFopMF/poster.jpg?width=320",Megabox Ondulati Del Savio Vallefoglia - Omag-Mt San Giovanni In Marignano | Challenge Play Off - Round 2
@@ -11,10 +9,10 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/o5j7bIM0/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/0TX9lzyg/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/w8zDVusb/poster.jpg?width=320",Sicoob Monte Carmelo - Itambe Minas | Round 20
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/w8zDVusb/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/Wb7Xer3R/poster.jpg?width=320",Michelle/Corrales (PAR) vs Kraft/Cheng (USA), Women Quarterfinals on C2 | João Pessoa (BRA)
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/Wb7Xer3R/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/N151KpSH/poster.jpg?width=320",Ferch/Van Gunst (USA) vs Ana Patrícia/Duda (BRA), Women Quarterfinals on CC | João Pessoa (BRA)
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/N151KpSH/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/Wb7Xer3R/poster.jpg?width=320",Michelle/Corrales (PAR) vs Kraft/Cheng (USA), Women Quarterfinals on C2 | João Pessoa (BRA)
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/Wb7Xer3R/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/MxZflr4r/poster.jpg?width=320",Volei Renata - Praia Clube Uberlandia Volei | Round 20
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/MxZflr4r/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/jnGV0jGm/poster.jpg?width=320",Krattiger/Dillier (SUI) vs Crabb/Benesh (USA), Men Quarterfinals on C2 | João Pessoa (BRA)
@@ -39,3 +37,5 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/6vCWc3zt/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/tsKOJFlb/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/AwLDie66/poster.jpg?width=320",Denso Airybees - Pfu Bluecats Ishikawa Kahoku | Round 19-B
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/AwLDie66/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/HjYtIifE/poster.jpg?width=320",Wolfdogs Nagoya - Tokyo Great Bears | Round 17-B
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/HjYtIifE/live.isml/.m3u8
