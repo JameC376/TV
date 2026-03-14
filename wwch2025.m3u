@@ -1,12 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/8fBU4dsm/poster.jpg?width=320",Toray Arrows Shizuoka - Suntory Sunbirds Osaka | Round 17-A
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/8fBU4dsm/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/aqQoFmGd/poster.jpg?width=320",Saga Hisamitsu Springs - Victorina Himeji | Round 19-A
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/aqQoFmGd/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/Dj0j0sdW/poster.jpg?width=320",Osaka Marvelous - Nec Red Rockets Kawasaki | Round 19-A
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/Dj0j0sdW/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/HZ2b9dSC/poster.jpg?width=320",Hiroshima Thunders - Nippon Steel Sakai Blazers | Round 17-A
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/HZ2b9dSC/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/IStgHW7D/poster.jpg?width=320",Wolfdogs Nagoya - Tokyo Great Bears | Round 17-A
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/IStgHW7D/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/FVPkkk8b/poster.jpg?width=320",Osaka Bluteon - Jtekt Stings Aichi | Round 17-A
@@ -39,3 +33,9 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/JE4vbDSc/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/dMWfoOUC/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/EnhLe4tV/poster.jpg?width=320",Gas Sales Bluenergy Piacenza - Valsa Group Modena | Play Off - QF Round 2
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/EnhLe4tV/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/MAGCmvw0/poster.jpg?width=320",LKS Commercecon Lodz - VolleyWroclaw | Round 21
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/MAGCmvw0/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/zPLkzmyM/poster.jpg?width=320",Savvy/Newberry (USA) vs Scampoli/Bianchi (ITA), Women Quarterfinals on CC | João Pessoa (BRA)
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/zPLkzmyM/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/H4yyKMvr/poster.jpg?width=320",Energa Trefl Gdansk - Steam Hemarpol Politechnika Częstochowa | Round 26
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/H4yyKMvr/live.isml/.m3u8
