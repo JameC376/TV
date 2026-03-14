@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/Mm9vTVgj/poster.jpg?width=320",JSW Jastrzebski Wegiel - Cuprum Stilon Gorzow | Round 26
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/Mm9vTVgj/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/0qZO9bx9/poster.jpg?width=320",Evandro/Arthur Lanci (BRA) vs Carracher/Nicolaidis (AUS), Men Round of 16 on CC | João Pessoa (BRA)
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/0qZO9bx9/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/JE4vbDSc/poster.jpg?width=320",Crabb/Benesh (USA) vs Arthur/Adrielson (BRA), Men Round of 16 on C2 | João Pessoa (BRA)
@@ -23,10 +21,10 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/o5j7bIM0/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/0TX9lzyg/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/w8zDVusb/poster.jpg?width=320",Sicoob Monte Carmelo - Itambe Minas | Round 20
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/w8zDVusb/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/Wb7Xer3R/poster.jpg?width=320",Michelle/Corrales (PAR) vs Kraft/Cheng (USA), Women Quarterfinals on C2 | João Pessoa (BRA)
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/Wb7Xer3R/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/N151KpSH/poster.jpg?width=320",Ferch/Van Gunst (USA) vs Ana Patrícia/Duda (BRA), Women Quarterfinals on CC | João Pessoa (BRA)
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/N151KpSH/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/Wb7Xer3R/poster.jpg?width=320",Michelle/Corrales (PAR) vs Kraft/Cheng (USA), Women Quarterfinals on C2 | João Pessoa (BRA)
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/Wb7Xer3R/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/MxZflr4r/poster.jpg?width=320",Volei Renata - Praia Clube Uberlandia Volei | Round 20
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/MxZflr4r/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/jnGV0jGm/poster.jpg?width=320",[tbc] vs [tbc], Men Quarterfinals | João Pessoa (BRA)
@@ -39,3 +37,5 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/4DCNZHDT/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/NH3bqprD/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/Pu7WzACr/poster.jpg?width=320",Sada Cruzeiro - Bateubet Volei Guarulhos | Round 20
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/Pu7WzACr/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/QA1fyPgd/poster.jpg?width=320",Voreas Hokkaido - Vc Nagano Tridents | Round 17-B
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/QA1fyPgd/live.isml/.m3u8
