@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/w8zDVusb/poster.jpg?width=320",Sicoob Monte Carmelo - Itambe Minas | Round 20
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/w8zDVusb/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/MxZflr4r/poster.jpg?width=320",Volei Renata - Praia Clube Uberlandia Volei | Round 20
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/MxZflr4r/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/4DCNZHDT/poster.jpg?width=320",Evandro/Arthur Lanci (BRA) vs Waller/Pristauz (AUT), Men Quarterfinals on CC | João Pessoa (BRA)
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/4DCNZHDT/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/NH3bqprD/poster.jpg?width=320",Hammarberg/Berger T. (AUT) vs Daubas/Aye C. (FRA), Men Quarterfinals on C2 | João Pessoa (BRA)
@@ -23,10 +21,10 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/tsKOJFlb/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/AwLDie66/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/HjYtIifE/poster.jpg?width=320",Wolfdogs Nagoya - Tokyo Great Bears | Round 17-B
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/HjYtIifE/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/UREixQEV/poster.jpg?width=320",Osaka Marvelous - Nec Red Rockets Kawasaki | Round 19-B
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/UREixQEV/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/WvSQCAdA/poster.jpg?width=320",Toray Arrows Shizuoka - Suntory Sunbirds Osaka | Round 17-B
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/WvSQCAdA/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/UREixQEV/poster.jpg?width=320",Osaka Marvelous - Nec Red Rockets Kawasaki | Round 19-B
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/UREixQEV/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/pQSOOlu9/poster.jpg?width=320",Astemo Rivale Ibaraki - Queenseis Kariya | Round 19-B
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/pQSOOlu9/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/OVIKRLra/poster.jpg?width=320",Saga Hisamitsu Springs - Victorina Himeji | Round 19-B
@@ -39,3 +37,5 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/L7vLo7Kf/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/KIHn3LPQ/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/DdOG74EQ/poster.jpg?width=320",[tbc] vs [tbc], Men Semifinals | João Pessoa (BRA)
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/DdOG74EQ/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/UE5nSrUc/poster.jpg?width=320",PGE GiEK SKRA Belchatow - PGE Projekt Warszawa | Round 26
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/UE5nSrUc/live.isml/.m3u8
