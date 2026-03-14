@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/dqHP8c3C/poster.jpg?width=320",Dentil Praia Clube - Fluminense | Round 20
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/dqHP8c3C/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/Xn3yTWqJ/poster.jpg?width=320",Cruz/Brasher (USA) vs Taiana Lima/Talita (BRA), Women Round of 16 on CC | João Pessoa (BRA)
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/Xn3yTWqJ/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/a4261B8h/poster.jpg?width=320",Paul/Kunst (GER) vs Ferch/Van Gunst (USA), Women Round of 16 on C2 | João Pessoa (BRA)
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/a4261B8h/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/IabamyTu/poster.jpg?width=320",SESC RJ Flamengo - Sesi Volei Bauru | Round 20
@@ -11,20 +7,20 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/IabamyTu/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/x2OdBX5Y/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/7e01vgMW/poster.jpg?width=320",Saitama Ageo Medics - Toray Arrows Shiga | Round 19-A
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/7e01vgMW/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/dOqda5iB/poster.jpg?width=320",Voreas Hokkaido - Vc Nagano Tridents | Round 17-A
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/dOqda5iB/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/1ovDpUCc/poster.jpg?width=320",Denso Airybees - Pfu Bluecats Ishikawa Kahoku | Round 19-A
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/1ovDpUCc/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/dOqda5iB/poster.jpg?width=320",Voreas Hokkaido - Vc Nagano Tridents | Round 17-A
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/dOqda5iB/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/8fBU4dsm/poster.jpg?width=320",Toray Arrows Shizuoka - Suntory Sunbirds Osaka | Round 17-A
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/8fBU4dsm/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/MXX44xJy/poster.jpg?width=320",Astemo Rivale Ibaraki - Queenseis Kariya | Round 19-A
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/MXX44xJy/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/Dj0j0sdW/poster.jpg?width=320",Osaka Marvelous - Nec Red Rockets Kawasaki | Round 19-A
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/Dj0j0sdW/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/CQA870Gu/poster.jpg?width=320",Aranmare Yamagata - Kurobe Aqua Fairies | Round 19-A
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/CQA870Gu/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/aqQoFmGd/poster.jpg?width=320",Saga Hisamitsu Springs - Victorina Himeji | Round 19-A
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/aqQoFmGd/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/Dj0j0sdW/poster.jpg?width=320",Osaka Marvelous - Nec Red Rockets Kawasaki | Round 19-A
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/Dj0j0sdW/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/HZ2b9dSC/poster.jpg?width=320",Hiroshima Thunders - Nippon Steel Sakai Blazers | Round 17-A
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/HZ2b9dSC/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/IStgHW7D/poster.jpg?width=320",Wolfdogs Nagoya - Tokyo Great Bears | Round 17-A
@@ -39,3 +35,7 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/fQ4XPWdf/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/KysgodrX/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/Mm9vTVgj/poster.jpg?width=320",JSW Jastrzebski Wegiel - Cuprum Stilon Gorzow | Round 26
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/Mm9vTVgj/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/2pFNIdvn/poster.jpg?width=320",Chouikh/Genevieve-Gardoque  (FRA) vs Crabb Tr./Harrison (USA), Men Round of 16 on C2 | João Pessoa (BRA)
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/2pFNIdvn/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/lAodoMlH/poster.jpg?width=320",Åhman/Hellvig (SWE) vs Adelmo/Mateus (BRA), Men Round of 16 on CC | João Pessoa (BRA)
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/lAodoMlH/live.isml/.m3u8
