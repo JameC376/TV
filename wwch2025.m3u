@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/fQ4XPWdf/poster.jpg?width=320",Sagstetter J./Sagstetter B. (GER) vs Carracher/Nicolaidis (AUS), Men Lucky losers on C2 | João Pessoa (BRA)
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/fQ4XPWdf/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/KysgodrX/poster.jpg?width=320",Arthur/Adrielson (BRA) vs George/Saymon (BRA), Men Lucky losers on CC | João Pessoa (BRA)
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/KysgodrX/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/Mm9vTVgj/poster.jpg?width=320",JSW Jastrzebski Wegiel - Cuprum Stilon Gorzow | Round 26
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/Mm9vTVgj/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/lAodoMlH/poster.jpg?width=320",Åhman/Hellvig (SWE) vs Adelmo/Mateus (BRA), Men Round of 16 on CC | João Pessoa (BRA)
@@ -17,9 +13,9 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/k9iFbU9Z/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/7FRs6WIK/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/s9hnbuds/poster.jpg?width=320",Waller/Pristauz (AUT) vs Hölting Nilsson/Andersson E (SWE), Men Round of 16 on C2 | João Pessoa (BRA)
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/s9hnbuds/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/0qZO9bx9/poster.jpg?width=320",Evandro/Arthur Lanci (BRA) vs [tbc], Men Round of 16 on CC | João Pessoa (BRA)
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/0qZO9bx9/poster.jpg?width=320",Evandro/Arthur Lanci (BRA) vs Carracher/Nicolaidis (AUS), Men Round of 16 on CC | João Pessoa (BRA)
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/0qZO9bx9/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/JE4vbDSc/poster.jpg?width=320",[tbc] vs [tbc], Men Round of 16 | João Pessoa (BRA)
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/JE4vbDSc/poster.jpg?width=320",Crabb/Benesh (USA) vs Arthur/Adrielson (BRA), Men Round of 16 on C2 | João Pessoa (BRA)
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/JE4vbDSc/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/dMWfoOUC/poster.jpg?width=320",Sokol & Hagric Mogilno - BKS BOSTIK ZGO Bielsko-Biala | Round 21
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/dMWfoOUC/live.isml/.m3u8
@@ -39,3 +35,7 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/o5j7bIM0/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/0TX9lzyg/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/w8zDVusb/poster.jpg?width=320",Sicoob Monte Carmelo - Itambe Minas | Round 20
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/w8zDVusb/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/Wb7Xer3R/poster.jpg?width=320",Michelle/Corrales (PAR) vs Kraft/Cheng (USA), Women Quarterfinals on C2 | João Pessoa (BRA)
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/Wb7Xer3R/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/N151KpSH/poster.jpg?width=320",Ferch/Van Gunst (USA) vs Ana Patrícia/Duda (BRA), Women Quarterfinals on CC | João Pessoa (BRA)
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/N151KpSH/live.isml/.m3u8
