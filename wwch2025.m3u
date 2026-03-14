@@ -1,10 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/Mm9vTVgj/poster.jpg?width=320",JSW Jastrzebski Wegiel - Cuprum Stilon Gorzow | Round 26
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/Mm9vTVgj/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/7FRs6WIK/poster.jpg?width=320",Capogrosso N./Capogrosso T. (ARG) vs Daubas/Aye C. (FRA), Men Round of 16 on CC | João Pessoa (BRA)
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/7FRs6WIK/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/s9hnbuds/poster.jpg?width=320",Waller/Pristauz (AUT) vs Hölting Nilsson/Andersson E (SWE), Men Round of 16 on C2 | João Pessoa (BRA)
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/s9hnbuds/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/0qZO9bx9/poster.jpg?width=320",Evandro/Arthur Lanci (BRA) vs Carracher/Nicolaidis (AUS), Men Round of 16 on CC | João Pessoa (BRA)
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/0qZO9bx9/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/JE4vbDSc/poster.jpg?width=320",Crabb/Benesh (USA) vs Arthur/Adrielson (BRA), Men Round of 16 on C2 | João Pessoa (BRA)
@@ -39,3 +35,7 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/jnGV0jGm/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/H2x3dYuB/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/4DCNZHDT/poster.jpg?width=320",[tbc] vs [tbc], Men Quarterfinals | João Pessoa (BRA)
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/4DCNZHDT/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/NH3bqprD/poster.jpg?width=320",[tbc] vs [tbc], Men Quarterfinals | João Pessoa (BRA)
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/NH3bqprD/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/Pu7WzACr/poster.jpg?width=320",Sada Cruzeiro - Bateubet Volei Guarulhos | Round 20
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/Pu7WzACr/live.isml/.m3u8
