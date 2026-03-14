@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/dMWfoOUC/poster.jpg?width=320",Sokol & Hagric Mogilno - BKS BOSTIK ZGO Bielsko-Biala | Round 21
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/dMWfoOUC/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/EnhLe4tV/poster.jpg?width=320",Gas Sales Bluenergy Piacenza - Valsa Group Modena | Play Off - QF Round 2
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/EnhLe4tV/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/MAGCmvw0/poster.jpg?width=320",LKS Commercecon Lodz - VolleyWroclaw | Round 21
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/MAGCmvw0/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/zPLkzmyM/poster.jpg?width=320",Savvy/Newberry (USA) vs Scampoli/Bianchi (ITA), Women Quarterfinals on CC | João Pessoa (BRA)
@@ -39,3 +35,7 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/QA1fyPgd/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/K9uzYRtZ/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/iSopitgz/poster.jpg?width=320",Gunma Greenwings - Okayama Seagulls | Round 19-B
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/iSopitgz/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/6vCWc3zt/poster.jpg?width=320",Hiroshima Thunders - Nippon Steel Sakai Blazers | Round 17-B
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/6vCWc3zt/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/tsKOJFlb/poster.jpg?width=320",Saitama Ageo Medics - Toray Arrows Shiga | Round 19-B
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/tsKOJFlb/live.isml/.m3u8
