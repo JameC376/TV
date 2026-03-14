@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/H4yyKMvr/poster.jpg?width=320",Energa Trefl Gdansk - Steam Hemarpol Politechnika Częstochowa | Round 26
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/H4yyKMvr/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/w8zDVusb/poster.jpg?width=320",Sicoob Monte Carmelo - Itambe Minas | Round 20
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/w8zDVusb/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/MxZflr4r/poster.jpg?width=320",Volei Renata - Praia Clube Uberlandia Volei | Round 20
@@ -23,19 +21,21 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/K9uzYRtZ/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/iSopitgz/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/6vCWc3zt/poster.jpg?width=320",Hiroshima Thunders - Nippon Steel Sakai Blazers | Round 17-B
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/6vCWc3zt/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/tsKOJFlb/poster.jpg?width=320",Saitama Ageo Medics - Toray Arrows Shiga | Round 19-B
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/tsKOJFlb/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/AwLDie66/poster.jpg?width=320",Denso Airybees - Pfu Bluecats Ishikawa Kahoku | Round 19-B
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/AwLDie66/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/tsKOJFlb/poster.jpg?width=320",Saitama Ageo Medics - Toray Arrows Shiga | Round 19-B
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/tsKOJFlb/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/HjYtIifE/poster.jpg?width=320",Wolfdogs Nagoya - Tokyo Great Bears | Round 17-B
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/HjYtIifE/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/WvSQCAdA/poster.jpg?width=320",Toray Arrows Shizuoka - Suntory Sunbirds Osaka | Round 17-B
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/WvSQCAdA/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/UREixQEV/poster.jpg?width=320",Osaka Marvelous - Nec Red Rockets Kawasaki | Round 19-B
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/UREixQEV/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/WvSQCAdA/poster.jpg?width=320",Toray Arrows Shizuoka - Suntory Sunbirds Osaka | Round 17-B
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/WvSQCAdA/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/pQSOOlu9/poster.jpg?width=320",Astemo Rivale Ibaraki - Queenseis Kariya | Round 19-B
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/pQSOOlu9/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/OVIKRLra/poster.jpg?width=320",Saga Hisamitsu Springs - Victorina Himeji | Round 19-B
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/OVIKRLra/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/vtuN9SfD/poster.jpg?width=320",Osaka Bluteon - Jtekt Stings Aichi | Round 17-B
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/vtuN9SfD/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/L7vLo7Kf/poster.jpg?width=320",Scampoli/Bianchi (ITA) vs Cruz/Brasher (USA), Women Semifinals on CC | João Pessoa (BRA)
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/L7vLo7Kf/live.isml/.m3u8
