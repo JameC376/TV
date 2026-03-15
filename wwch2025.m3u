@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/4DCNZHDT/poster.jpg?width=320",Evandro/Arthur Lanci (BRA) vs Waller/Pristauz (AUT), Men Quarterfinals on CC | João Pessoa (BRA)
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/4DCNZHDT/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/Pu7WzACr/poster.jpg?width=320",Sada Cruzeiro - Bateubet Volei Guarulhos | Round 20
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/Pu7WzACr/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/QA1fyPgd/poster.jpg?width=320",Voreas Hokkaido - Vc Nagano Tridents | Round 17-B
@@ -9,12 +7,12 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/QA1fyPgd/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/K9uzYRtZ/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/iSopitgz/poster.jpg?width=320",Gunma Greenwings - Okayama Seagulls | Round 19-B
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/iSopitgz/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/AwLDie66/poster.jpg?width=320",Denso Airybees - Pfu Bluecats Ishikawa Kahoku | Round 19-B
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/AwLDie66/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/6vCWc3zt/poster.jpg?width=320",Hiroshima Thunders - Nippon Steel Sakai Blazers | Round 17-B
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/6vCWc3zt/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/tsKOJFlb/poster.jpg?width=320",Saitama Ageo Medics - Toray Arrows Shiga | Round 19-B
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/tsKOJFlb/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/AwLDie66/poster.jpg?width=320",Denso Airybees - Pfu Bluecats Ishikawa Kahoku | Round 19-B
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/AwLDie66/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/HjYtIifE/poster.jpg?width=320",Wolfdogs Nagoya - Tokyo Great Bears | Round 17-B
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/HjYtIifE/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/UREixQEV/poster.jpg?width=320",Osaka Marvelous - Nec Red Rockets Kawasaki | Round 19-B
@@ -31,11 +29,13 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/vtuN9SfD/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/L7vLo7Kf/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/KIHn3LPQ/poster.jpg?width=320",Ana Patrícia/Duda (BRA) vs Kraft/Cheng (USA), Women Semifinals on CC | João Pessoa (BRA)
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/KIHn3LPQ/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/DdOG74EQ/poster.jpg?width=320",[tbc] vs [tbc], Men Semifinals | João Pessoa (BRA)
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/DdOG74EQ/poster.jpg?width=320",Åhman/Hellvig (SWE) vs Crabb/Benesh (USA), Men Semifinals on CC | João Pessoa (BRA)
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/DdOG74EQ/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/UE5nSrUc/poster.jpg?width=320",PGE GiEK SKRA Belchatow - PGE Projekt Warszawa | Round 26
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/UE5nSrUc/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/aLTlVW5i/poster.jpg?width=320",[tbc] vs [tbc], Men Semifinals | João Pessoa (BRA)
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/aLTlVW5i/poster.jpg?width=320",Evandro/Arthur Lanci (BRA) vs Daubas/Aye C. (FRA), Men Semifinals on CC | João Pessoa (BRA)
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/aLTlVW5i/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/sM7qS2EP/poster.jpg?width=320",Reale Mutua Fenera Chieri 76 - Cbf Balducci Hr Macerata | Challenge Play Off - Round 2
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/sM7qS2EP/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/wyru8vpb/poster.jpg?width=320",Honda Cuneo Granda Volley - Bergamo | Challenge Play Off - Round 2
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/wyru8vpb/live.isml/.m3u8
