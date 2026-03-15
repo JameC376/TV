@@ -1,16 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/QA1fyPgd/poster.jpg?width=320",Voreas Hokkaido - Vc Nagano Tridents | Round 17-B
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/QA1fyPgd/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/iSopitgz/poster.jpg?width=320",Gunma Greenwings - Okayama Seagulls | Round 19-B
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/iSopitgz/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/6vCWc3zt/poster.jpg?width=320",Hiroshima Thunders - Nippon Steel Sakai Blazers | Round 17-B
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/6vCWc3zt/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/AwLDie66/poster.jpg?width=320",Denso Airybees - Pfu Bluecats Ishikawa Kahoku | Round 19-B
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/AwLDie66/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/tsKOJFlb/poster.jpg?width=320",Saitama Ageo Medics - Toray Arrows Shiga | Round 19-B
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/tsKOJFlb/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/HjYtIifE/poster.jpg?width=320",Wolfdogs Nagoya - Tokyo Great Bears | Round 17-B
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/HjYtIifE/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/WvSQCAdA/poster.jpg?width=320",Toray Arrows Shizuoka - Suntory Sunbirds Osaka | Round 17-B
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/WvSQCAdA/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/UREixQEV/poster.jpg?width=320",Osaka Marvelous - Nec Red Rockets Kawasaki | Round 19-B
@@ -39,3 +29,13 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/wyru8vpb/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/n1Kwfpwo/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/D7G22ejg/poster.jpg?width=320",Il Bisonte Firenze - Eurotek Laica Uyba | Challenge Play Off - Round 2
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/D7G22ejg/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/0LSQgOj4/poster.jpg?width=320",Prosecco Doc A.Carraro Imoco Conegliano - Igor Gorgonzola Novara | Play Off - SF Round 1
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/0LSQgOj4/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/clTRsjJC/poster.jpg?width=320",ITA TOOLS Stal Mielec - KS DevelopRes Rzeszow | Round 21
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/clTRsjJC/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/8ySXpypb/poster.jpg?width=320",[tbc] vs [tbc], Women Final 3rd Place on CC | João Pessoa (BRA)
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/8ySXpypb/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/tBFU5sBj/poster.jpg?width=320",Cucine Lube Civitanova - Itas Trentino | Play Off - QF Round 2
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/tBFU5sBj/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/nimquxRA/poster.jpg?width=320",[tbc] vs [tbc], Men Final 3rd Place on CC | João Pessoa (BRA)
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/nimquxRA/live.isml/.m3u8
