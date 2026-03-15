@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/QA1fyPgd/poster.jpg?width=320",Voreas Hokkaido - Vc Nagano Tridents | Round 17-B
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/QA1fyPgd/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/K9uzYRtZ/poster.jpg?width=320",Aranmare Yamagata - Kurobe Aqua Fairies | Round 19-B
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/K9uzYRtZ/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/iSopitgz/poster.jpg?width=320",Gunma Greenwings - Okayama Seagulls | Round 19-B
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/iSopitgz/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/6vCWc3zt/poster.jpg?width=320",Hiroshima Thunders - Nippon Steel Sakai Blazers | Round 17-B
@@ -13,14 +11,14 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/AwLDie66/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/tsKOJFlb/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/HjYtIifE/poster.jpg?width=320",Wolfdogs Nagoya - Tokyo Great Bears | Round 17-B
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/HjYtIifE/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/UREixQEV/poster.jpg?width=320",Osaka Marvelous - Nec Red Rockets Kawasaki | Round 19-B
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/UREixQEV/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/WvSQCAdA/poster.jpg?width=320",Toray Arrows Shizuoka - Suntory Sunbirds Osaka | Round 17-B
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/WvSQCAdA/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/pQSOOlu9/poster.jpg?width=320",Astemo Rivale Ibaraki - Queenseis Kariya | Round 19-B
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/pQSOOlu9/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/UREixQEV/poster.jpg?width=320",Osaka Marvelous - Nec Red Rockets Kawasaki | Round 19-B
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/UREixQEV/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/OVIKRLra/poster.jpg?width=320",Saga Hisamitsu Springs - Victorina Himeji | Round 19-B
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/OVIKRLra/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/pQSOOlu9/poster.jpg?width=320",Astemo Rivale Ibaraki - Queenseis Kariya | Round 19-B
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/pQSOOlu9/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/vtuN9SfD/poster.jpg?width=320",Osaka Bluteon - Jtekt Stings Aichi | Round 17-B
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/vtuN9SfD/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/L7vLo7Kf/poster.jpg?width=320",Scampoli/Bianchi (ITA) vs Cruz/Brasher (USA), Women Semifinals on CC | João Pessoa (BRA)
@@ -39,3 +37,5 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/sM7qS2EP/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/wyru8vpb/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/n1Kwfpwo/poster.jpg?width=320",Vero Volley Monza - Sir Susa Scai Perugia | Play Off - QF Round 2
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/n1Kwfpwo/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/D7G22ejg/poster.jpg?width=320",Il Bisonte Firenze - Eurotek Laica Uyba | Challenge Play Off - Round 2
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/D7G22ejg/live.isml/.m3u8
