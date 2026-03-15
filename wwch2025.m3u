@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/au1S3Asm/poster.jpg?width=320",Allianz Milano - Rana Verona | Play Off - QF Round 2
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/au1S3Asm/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/i1EkBMPy/poster.jpg?width=320",Barkom Kazany Lwow - Slepsk Malow Suwalki | Round 26
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/i1EkBMPy/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/eh9FMHL6/poster.jpg?width=320",Daubas/Aye C. (FRA) vs Åhman/Hellvig (SWE), Men Final 1st Place on CC | João Pessoa (BRA)
@@ -39,3 +37,5 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/xotn1wsy/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/1eut7wmv/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/P56p524x/poster.jpg?width=320",Brasilia Volei - Paulistano Barueri | Round 21
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/P56p524x/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/3arjIJLi/poster.jpg?width=320",Renasce Sorocaba - SESC RJ Flamengo | Round 21
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/3arjIJLi/live.isml/.m3u8
