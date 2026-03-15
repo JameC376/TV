@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/UREixQEV/poster.jpg?width=320",Osaka Marvelous - Nec Red Rockets Kawasaki | Round 19-B
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/UREixQEV/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/OVIKRLra/poster.jpg?width=320",Saga Hisamitsu Springs - Victorina Himeji | Round 19-B
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/OVIKRLra/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/vtuN9SfD/poster.jpg?width=320",Osaka Bluteon - Jtekt Stings Aichi | Round 17-B
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/vtuN9SfD/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/L7vLo7Kf/poster.jpg?width=320",Scampoli/Bianchi (ITA) vs Cruz/Brasher (USA), Women Semifinals on CC | João Pessoa (BRA)
@@ -39,3 +35,7 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/au1S3Asm/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/BKPbhLTi/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/i1EkBMPy/poster.jpg?width=320",Barkom Kazany Lwow - Slepsk Malow Suwalki | Round 26
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/i1EkBMPy/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/eh9FMHL6/poster.jpg?width=320",[tbc] vs [tbc], Men Final 1st Place on CC | João Pessoa (BRA)
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/eh9FMHL6/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/tZii6Gy0/poster.jpg?width=320",Suzano Volei - JF Volei | Round 20
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/tZii6Gy0/live.isml/.m3u8
