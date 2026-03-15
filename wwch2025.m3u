@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/tZii6Gy0/poster.jpg?width=320",Suzano Volei - JF Volei | Round 20
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/tZii6Gy0/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/2Vh03tpe/poster.jpg?width=320",Saneago Goias - Sesi Bauru | Round 20
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/2Vh03tpe/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/M9JDdvd9/poster.jpg?width=320",Asseco Resovia Rzeszow - Indykpol AZS Olsztyn | Round 26
@@ -39,3 +37,5 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/3arjIJLi/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/KTfDXjWm/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/u81DY0Yk/poster.jpg?width=320",Osaka Marvelous - Denso Airybees | Round 20-A
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/u81DY0Yk/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/L0SqLybI/poster.jpg?width=320",PGE Budowlani Lodz - BKS BOSTIK ZGO Bielsko-Biala | Round 22
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/L0SqLybI/live.isml/.m3u8
