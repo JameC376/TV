@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/i1EkBMPy/poster.jpg?width=320",Barkom Kazany Lwow - Slepsk Malow Suwalki | Round 26
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/i1EkBMPy/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/tZii6Gy0/poster.jpg?width=320",Suzano Volei - JF Volei | Round 20
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/tZii6Gy0/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/2Vh03tpe/poster.jpg?width=320",Saneago Goias - Sesi Bauru | Round 20
@@ -39,3 +37,5 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/P56p524x/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/3arjIJLi/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/KTfDXjWm/poster.jpg?width=320",Voreas Hokkaido - Hiroshima Thunders | Round 18-A
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/KTfDXjWm/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/u81DY0Yk/poster.jpg?width=320",Osaka Marvelous - Denso Airybees | Round 20-A
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/u81DY0Yk/live.isml/.m3u8
