@@ -1,16 +1,14 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/DdOG74EQ/poster.jpg?width=320",Åhman/Hellvig (SWE) vs Crabb/Benesh (USA), Men Semifinals on CC | João Pessoa (BRA)
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/DdOG74EQ/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/UE5nSrUc/poster.jpg?width=320",PGE GiEK SKRA Belchatow - PGE Projekt Warszawa | Round 26
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/UE5nSrUc/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/aLTlVW5i/poster.jpg?width=320",Evandro/Arthur Lanci (BRA) vs Daubas/Aye C. (FRA), Men Semifinals on CC | João Pessoa (BRA)
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/aLTlVW5i/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/sM7qS2EP/poster.jpg?width=320",Reale Mutua Fenera Chieri 76 - Cbf Balducci Hr Macerata | Challenge Play Off - Round 2
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/sM7qS2EP/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/wyru8vpb/poster.jpg?width=320",Honda Cuneo Granda Volley - Bergamo | Challenge Play Off - Round 2
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/wyru8vpb/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/n1Kwfpwo/poster.jpg?width=320",Vero Volley Monza - Sir Susa Scai Perugia | Play Off - QF Round 2
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/n1Kwfpwo/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/wyru8vpb/poster.jpg?width=320",Honda Cuneo Granda Volley - Bergamo | Challenge Play Off - Round 2
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/wyru8vpb/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/D7G22ejg/poster.jpg?width=320",Il Bisonte Firenze - Eurotek Laica Uyba | Challenge Play Off - Round 2
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/D7G22ejg/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/0LSQgOj4/poster.jpg?width=320",Prosecco Doc A.Carraro Imoco Conegliano - Igor Gorgonzola Novara | Play Off - SF Round 1
@@ -21,15 +19,15 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/clTRsjJC/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/8ySXpypb/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/tBFU5sBj/poster.jpg?width=320",Cucine Lube Civitanova - Itas Trentino | Play Off - QF Round 2
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/tBFU5sBj/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/nimquxRA/poster.jpg?width=320",[tbc] vs [tbc], Men Final 3rd Place on CC | João Pessoa (BRA)
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/nimquxRA/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/au1S3Asm/poster.jpg?width=320",Allianz Milano - Rana Verona | Play Off - QF Round 2
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/au1S3Asm/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/nimquxRA/poster.jpg?width=320",[tbc] vs Crabb/Benesh (USA), Men Final 3rd Place on CC | João Pessoa (BRA)
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/nimquxRA/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/BKPbhLTi/poster.jpg?width=320",Ana Patrícia/Duda (BRA) vs Cruz/Brasher (USA), Women Final 1st Place on CC | João Pessoa (BRA)
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/BKPbhLTi/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/i1EkBMPy/poster.jpg?width=320",Barkom Kazany Lwow - Slepsk Malow Suwalki | Round 26
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/i1EkBMPy/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/eh9FMHL6/poster.jpg?width=320",[tbc] vs [tbc], Men Final 1st Place on CC | João Pessoa (BRA)
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/eh9FMHL6/poster.jpg?width=320",[tbc] vs Åhman/Hellvig (SWE), Men Final 1st Place on CC | João Pessoa (BRA)
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/eh9FMHL6/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/tZii6Gy0/poster.jpg?width=320",Suzano Volei - JF Volei | Round 20
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/tZii6Gy0/live.isml/.m3u8
@@ -39,3 +37,5 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/2Vh03tpe/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/M9JDdvd9/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/af4XCDrV/poster.jpg?width=320",UNI Opole - Metalkas Palac Bydgoszcz | Round 21
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/af4XCDrV/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/QKs6ZLC6/poster.jpg?width=320",Cuprum Stilon Gorzow - ZAKSA Kedzierzyn Kozle | Round 23
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/QKs6ZLC6/live.isml/.m3u8
