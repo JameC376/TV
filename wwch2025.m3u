@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/af4XCDrV/poster.jpg?width=320",UNI Opole - Metalkas Palac Bydgoszcz | Round 21
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/af4XCDrV/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/QKs6ZLC6/poster.jpg?width=320",Cuprum Stilon Gorzow - ZAKSA Kedzierzyn Kozle | Round 23
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/QKs6ZLC6/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/RZHeJv2u/poster.jpg?width=320",Energa Trefl Gdansk - BOGDANKA LUK Lublin | Round 21
@@ -39,3 +37,5 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/L0SqLybI/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/Xr3mvQNM/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/7UrL7suS/poster.jpg?width=320",Metalkas Palac Bydgoszcz - ECO HARPOON LOS Nowy Dwor Mazowiecki | Round 22
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/7UrL7suS/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/K08uvnkq/poster.jpg?width=320",Fluminense - Tijuca Tenis Clube | Round 21
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/K08uvnkq/live.isml/.m3u8
