@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/ZSzktYu2/poster.jpg?width=320",Itas Trentino - Cucine Lube Civitanova | Play Off - QF Round 3
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/ZSzktYu2/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/EcgrP31G/poster.jpg?width=320",Rana Verona - Allianz Milano | Play Off - QF Round 3
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/EcgrP31G/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/zA7RtnKb/poster.jpg?width=320",Praia Clube Uberlandia Volei - Sada Cruzeiro | Round 19
@@ -37,5 +35,7 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/BayGIJpq/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/eDx73hlD/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/VWEESp8e/poster.jpg?width=320",Kurobe Aqua Fairies - Astemo Rivale Ibaraki | Round 20-A
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/VWEESp8e/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/O7wtl1kl/poster.jpg?width=320",Aranmare Yamagata - Pfu Bluecats Ishikawa Kahoku | Round 20-A
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/O7wtl1kl/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/oNczyzP3/poster.jpg?width=320",Jtekt Stings Aichi - Nippon Steel Sakai Blazers | Round 18-A
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/oNczyzP3/live.isml/.m3u8
