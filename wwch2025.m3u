@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/EcgrP31G/poster.jpg?width=320",Rana Verona - Allianz Milano | Play Off - QF Round 3
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/EcgrP31G/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/zA7RtnKb/poster.jpg?width=320",Praia Clube Uberlandia Volei - Sada Cruzeiro | Round 19
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/zA7RtnKb/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/ggMX0xpy/poster.jpg?width=320",UNI Opole - MOYA Radomka Radom | Round 22
@@ -39,3 +37,5 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/VWEESp8e/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/O7wtl1kl/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/oNczyzP3/poster.jpg?width=320",Jtekt Stings Aichi - Nippon Steel Sakai Blazers | Round 18-A
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/oNczyzP3/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/5x7FSvMl/poster.jpg?width=320",Vc Nagano Tridents - Osaka Bluteon | Round 18-A
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/5x7FSvMl/live.isml/.m3u8
