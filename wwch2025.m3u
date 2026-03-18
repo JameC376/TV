@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/FntAgMdE/poster.jpg?width=320",Viapol Sao Jose - Joinville Volei | Round 20
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/FntAgMdE/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/jjlXp45t/poster.jpg?width=320",Barkom Kazany Lwow - PGE GiEK SKRA Belchatow | Round 23
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/jjlXp45t/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/91oa3SdT/poster.jpg?width=320",Sir Susa Scai Perugia - Vero Volley Monza | Play Off - QF Round 3
@@ -39,3 +37,5 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/msMMtdnE/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/WB6TDbVw/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/BayGIJpq/poster.jpg?width=320",Suntory Sunbirds Osaka - Wolfdogs Nagoya | Round 18-A
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/BayGIJpq/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/eDx73hlD/poster.jpg?width=320",Voreas Hokkaido - Hiroshima Thunders | Round 18-B
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/eDx73hlD/live.isml/.m3u8
