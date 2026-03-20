@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/L0SqLybI/poster.jpg?width=320",PGE Budowlani Lodz - BKS BOSTIK ZGO Bielsko-Biala | Round 22
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/L0SqLybI/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/Xr3mvQNM/poster.jpg?width=320",Bergamo - Omag-Mt San Giovanni In Marignano | Challenge Play Off - Round 3
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/Xr3mvQNM/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/7UrL7suS/poster.jpg?width=320",Metalkas Palac Bydgoszcz - ECO HARPOON LOS Nowy Dwor Mazowiecki | Round 22
@@ -39,3 +37,5 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/GXM7DNjn/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/rcuaAcrw/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/hE95TDGb/poster.jpg?width=320",KS DevelopRes Rzeszow - LKS Commercecon Lodz | Round 22
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/hE95TDGb/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/2vZJhcdx/poster.jpg?width=320",VolleyWroclaw - Sokol & Hagric Mogilno | Round 22
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/2vZJhcdx/live.isml/.m3u8
