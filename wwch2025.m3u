@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/OTT05Wpr/poster.jpg?width=320",Osaka Marvelous - Denso Airybees | Round 20-B
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/OTT05Wpr/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/oNczyzP3/poster.jpg?width=320",Jtekt Stings Aichi - Nippon Steel Sakai Blazers | Round 18-A
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/oNczyzP3/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/GXM7DNjn/poster.jpg?width=320",Queenseis Kariya - Saitama Ageo Medics | Round 20-A
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/GXM7DNjn/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/rcuaAcrw/poster.jpg?width=320",Areia Games - Day 1
@@ -25,10 +23,10 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/99KDIbNM/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/2acwaZZ3/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/5XR2bZfl/poster.jpg?width=320",JF Volei - Volei Renata | Round 21
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/5XR2bZfl/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/9NZ5kKrr/poster.jpg?width=320",Nec Red Rockets Kawasaki - Victorina Himeji | Round 20-B
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/9NZ5kKrr/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/nmeiu3AN/poster.jpg?width=320",Aranmare Yamagata - Pfu Bluecats Ishikawa Kahoku | Round 20-B
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/nmeiu3AN/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/9NZ5kKrr/poster.jpg?width=320",Nec Red Rockets Kawasaki - Victorina Himeji | Round 20-B
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/9NZ5kKrr/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/MY6w9dlQ/poster.jpg?width=320",Suntory Sunbirds Osaka - Wolfdogs Nagoya | Round 18-B
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/MY6w9dlQ/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/0WHyjh1I/poster.jpg?width=320",Vc Nagano Tridents - Osaka Bluteon | Round 18-B
@@ -39,3 +37,5 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/q8mPKl63/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/R0K9731X/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/0RwSiEZf/poster.jpg?width=320",Jtekt Stings Aichi - Nippon Steel Sakai Blazers | Round 18-B
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/0RwSiEZf/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/DLJ6ezJT/poster.jpg?width=320",Saga Hisamitsu Springs - Gunma Greenwings | Round 20-B
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/DLJ6ezJT/live.isml/.m3u8
