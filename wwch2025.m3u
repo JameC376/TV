@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/GXM7DNjn/poster.jpg?width=320",Queenseis Kariya - Saitama Ageo Medics | Round 20-A
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/GXM7DNjn/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/rcuaAcrw/poster.jpg?width=320",Areia Games - Day 1
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/rcuaAcrw/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/hE95TDGb/poster.jpg?width=320",KS DevelopRes Rzeszow - LKS Commercecon Lodz | Round 22
@@ -39,3 +37,5 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/0RwSiEZf/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/DLJ6ezJT/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/n1ZVGugY/poster.jpg?width=320",Queenseis Kariya - Saitama Ageo Medics | Round 20-B
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/n1ZVGugY/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/uF3pv4eh/poster.jpg?width=320",Toray Arrows Shiga - Okayama Seagulls | Round 20-B
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/uF3pv4eh/live.isml/.m3u8
