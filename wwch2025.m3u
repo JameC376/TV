@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/rcuaAcrw/poster.jpg?width=320",Areia Games - Day 1
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/rcuaAcrw/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/hE95TDGb/poster.jpg?width=320",KS DevelopRes Rzeszow - LKS Commercecon Lodz | Round 22
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/hE95TDGb/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/2vZJhcdx/poster.jpg?width=320",VolleyWroclaw - Sokol & Hagric Mogilno | Round 22
@@ -21,10 +19,10 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/2acwaZZ3/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/5XR2bZfl/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/nmeiu3AN/poster.jpg?width=320",Aranmare Yamagata - Pfu Bluecats Ishikawa Kahoku | Round 20-B
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/nmeiu3AN/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/9NZ5kKrr/poster.jpg?width=320",Nec Red Rockets Kawasaki - Victorina Himeji | Round 20-B
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/9NZ5kKrr/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/MY6w9dlQ/poster.jpg?width=320",Suntory Sunbirds Osaka - Wolfdogs Nagoya | Round 18-B
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/MY6w9dlQ/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/9NZ5kKrr/poster.jpg?width=320",Nec Red Rockets Kawasaki - Victorina Himeji | Round 20-B
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/9NZ5kKrr/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/0WHyjh1I/poster.jpg?width=320",Vc Nagano Tridents - Osaka Bluteon | Round 18-B
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/0WHyjh1I/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/q8mPKl63/poster.jpg?width=320",Kurobe Aqua Fairies - Astemo Rivale Ibaraki | Round 20-B
@@ -39,3 +37,5 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/DLJ6ezJT/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/n1ZVGugY/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/uF3pv4eh/poster.jpg?width=320",Toray Arrows Shiga - Okayama Seagulls | Round 20-B
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/uF3pv4eh/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/UnFMvaHZ/poster.jpg?width=320",Areia Games - Day 2
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/UnFMvaHZ/live.isml/.m3u8
