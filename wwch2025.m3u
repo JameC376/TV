@@ -1,10 +1,8 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/5XR2bZfl/poster.jpg?width=320",JF Volei - Volei Renata | Round 21
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/5XR2bZfl/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/9NZ5kKrr/poster.jpg?width=320",Nec Red Rockets Kawasaki - Victorina Himeji | Round 20-B
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/9NZ5kKrr/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/nmeiu3AN/poster.jpg?width=320",Aranmare Yamagata - Pfu Bluecats Ishikawa Kahoku | Round 20-B
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/nmeiu3AN/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/9NZ5kKrr/poster.jpg?width=320",Nec Red Rockets Kawasaki - Victorina Himeji | Round 20-B
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/9NZ5kKrr/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/MY6w9dlQ/poster.jpg?width=320",Suntory Sunbirds Osaka - Wolfdogs Nagoya | Round 18-B
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/MY6w9dlQ/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/0WHyjh1I/poster.jpg?width=320",Vc Nagano Tridents - Osaka Bluteon | Round 18-B
@@ -17,10 +15,10 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/R0K9731X/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/0RwSiEZf/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/DLJ6ezJT/poster.jpg?width=320",Saga Hisamitsu Springs - Gunma Greenwings | Round 20-B
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/DLJ6ezJT/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/n1ZVGugY/poster.jpg?width=320",Queenseis Kariya - Saitama Ageo Medics | Round 20-B
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/n1ZVGugY/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/uF3pv4eh/poster.jpg?width=320",Toray Arrows Shiga - Okayama Seagulls | Round 20-B
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/uF3pv4eh/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/n1ZVGugY/poster.jpg?width=320",Queenseis Kariya - Saitama Ageo Medics | Round 20-B
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/n1ZVGugY/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/1X4WCU0s/poster.jpg?width=320",JSW Jastrzebski Wegiel - Indykpol AZS Olsztyn | Round 14
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/1X4WCU0s/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/ZtBhCmLc/poster.jpg?width=320",Numia Vero Volley Milano - Savino Del Bene Scandicci | Play Off - SF Round 2
@@ -39,3 +37,5 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/ghRZfMM0/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/12ZpJsgD/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/4vLXfLQK/poster.jpg?width=320",PGE GiEK SKRA Belchatow - Cuprum Stilon Gorzow | Round 14
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/4vLXfLQK/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/OqA51Uss/poster.jpg?width=320",Viapol Sao Jose - Itambe Minas | Round 21
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/OqA51Uss/live.isml/.m3u8
