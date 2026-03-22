@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/n1ZVGugY/poster.jpg?width=320",Queenseis Kariya - Saitama Ageo Medics | Round 20-B
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/n1ZVGugY/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/1X4WCU0s/poster.jpg?width=320",JSW Jastrzebski Wegiel - Indykpol AZS Olsztyn | Round 14
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/1X4WCU0s/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/ZtBhCmLc/poster.jpg?width=320",Numia Vero Volley Milano - Savino Del Bene Scandicci | Play Off - SF Round 2
@@ -9,10 +7,10 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/ZtBhCmLc/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/UnFMvaHZ/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/BnD9fxMw/poster.jpg?width=320",Il Bisonte Firenze - Reale Mutua Fenera Chieri 76 | Challenge Play Off - Round 3
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/BnD9fxMw/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/Prq1I4Ru/poster.jpg?width=320",Eurotek Laica Uyba - Cbf Balducci Hr Macerata | Challenge Play Off - Round 3
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/Prq1I4Ru/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/U2uMRBsk/poster.jpg?width=320",Honda Cuneo Granda Volley - Megabox Ondulati Del Savio Vallefoglia | Challenge Play Off - Round 3
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/U2uMRBsk/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/Prq1I4Ru/poster.jpg?width=320",Eurotek Laica Uyba - Cbf Balducci Hr Macerata | Challenge Play Off - Round 3
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/Prq1I4Ru/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/ghRZfMM0/poster.jpg?width=320",Asseco Resovia Rzeszow - Slepsk Malow Suwalki | Round 14
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/ghRZfMM0/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/12ZpJsgD/poster.jpg?width=320",Gas Sales Bluenergy Piacenza - Valsa Group Modena | Play Off - QF Round 4
@@ -35,7 +33,9 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/LcslrLXV/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/OexTBtDR/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/TPxofPCa/poster.jpg?width=320",Prosecco Doc A.Carraro Imoco Conegliano - Igor Gorgonzola Novara | Play Off - SF Round 3
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/TPxofPCa/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/hu1TMpaF/poster.jpg?width=320",Dentil Praia Clube - Tijuca Tenis Clube | Round 22
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/hu1TMpaF/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/ecxd0e3A/poster.jpg?width=320",Osasco Sao Cristovao Saude - Sesi Volei Bauru | Round 22
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/ecxd0e3A/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/hu1TMpaF/poster.jpg?width=320",Dentil Praia Clube - Tijuca Tenis Clube | Round 22
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/hu1TMpaF/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/XYwB6J5y/poster.jpg?width=320",SESC RJ Flamengo - Batavo Mackenzie | Round 22
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/XYwB6J5y/live.isml/.m3u8
