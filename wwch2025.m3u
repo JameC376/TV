@@ -1,12 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/nmeiu3AN/poster.jpg?width=320",Aranmare Yamagata - Pfu Bluecats Ishikawa Kahoku | Round 20-B
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/nmeiu3AN/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/9NZ5kKrr/poster.jpg?width=320",Nec Red Rockets Kawasaki - Victorina Himeji | Round 20-B
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/9NZ5kKrr/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/MY6w9dlQ/poster.jpg?width=320",Suntory Sunbirds Osaka - Wolfdogs Nagoya | Round 18-B
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/MY6w9dlQ/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/0WHyjh1I/poster.jpg?width=320",Vc Nagano Tridents - Osaka Bluteon | Round 18-B
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/0WHyjh1I/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/q8mPKl63/poster.jpg?width=320",Kurobe Aqua Fairies - Astemo Rivale Ibaraki | Round 20-B
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/q8mPKl63/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/R0K9731X/poster.jpg?width=320",Tokyo Great Bears - Toray Arrows Shizuoka | Round 18-B
@@ -39,3 +31,11 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/12ZpJsgD/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/4vLXfLQK/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/OqA51Uss/poster.jpg?width=320",Viapol Sao Jose - Itambe Minas | Round 21
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/OqA51Uss/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/3f6aWafU/poster.jpg?width=320",Sicoob Monte Carmelo - Praia Clube Uberlandia Volei | Round 21
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/3f6aWafU/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/z6psiq7E/poster.jpg?width=320",Joinville Volei - Sada Cruzeiro | Round 21
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/z6psiq7E/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/sUw9xrMu/poster.jpg?width=320",Barkom Kazany Lwow - Energa Trefl Gdansk | Round 14
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/sUw9xrMu/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/DXOSI6Hw/poster.jpg?width=320",Saneago Goias - Suzano Volei | Round 21
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/DXOSI6Hw/live.isml/.m3u8
