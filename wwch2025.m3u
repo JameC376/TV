@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/OexTBtDR/poster.jpg?width=320",KS DevelopRes Rzeszow - Metalkas Palac Bydgoszcz | Play Off - QF Round 1
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/OexTBtDR/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/TPxofPCa/poster.jpg?width=320",Prosecco Doc A.Carraro Imoco Conegliano - Igor Gorgonzola Novara | Play Off - SF Round 3
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/TPxofPCa/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/5ua6y14W/poster.jpg?width=320",Dentil Praia Clube - Tijuca Tenis Clube | Round 22
@@ -35,7 +33,9 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/SjmD1Xjs/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/1k2ivp1H/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/fM6SGey5/poster.jpg?width=320",JF Volei - Praia Clube Uberlandia Volei | Round 22
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/fM6SGey5/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/VmYESgVs/poster.jpg?width=320",Sesi Bauru - Viapol Sao Jose | Round 22
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/VmYESgVs/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/8pIY2ky1/poster.jpg?width=320",Joinville Volei - Bateubet Volei Guarulhos | Round 22
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/8pIY2ky1/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/VmYESgVs/poster.jpg?width=320",Sesi Bauru - Viapol Sao Jose | Round 22
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/VmYESgVs/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/ks7Odo5N/poster.jpg?width=320",Suntory Sunbirds Osaka - Jtekt Stings Aichi | Round 19-A
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/ks7Odo5N/live.isml/.m3u8
