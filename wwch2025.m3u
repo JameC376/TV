@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/DXOSI6Hw/poster.jpg?width=320",Saneago Goias - Suzano Volei | Round 21
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/DXOSI6Hw/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/LcslrLXV/poster.jpg?width=320",UNI Opole - ITA TOOLS Stal Mielec | Play Off - QF Round 1
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/LcslrLXV/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/OexTBtDR/poster.jpg?width=320",KS DevelopRes Rzeszow - Metalkas Palac Bydgoszcz | Play Off - QF Round 1
@@ -39,3 +37,5 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/SjmD1Xjs/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/1k2ivp1H/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/Y7BLmtyg/poster.jpg?width=320",Suzano Volei - Sicoob Monte Carmelo | Round 22
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/Y7BLmtyg/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/8pIY2ky1/poster.jpg?width=320",Joinville Volei - Bateubet Volei Guarulhos | Round 22
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/8pIY2ky1/live.isml/.m3u8
