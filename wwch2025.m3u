@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/CKR6BNNc/poster.jpg?width=320",Wolfdogs Nagoya - Osaka Bluteon | Round 19-A
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/CKR6BNNc/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/1onATheE/poster.jpg?width=320",Metalkas Palac Bydgoszcz - KS DevelopRes Rzeszow | Play Off - QF Round 2
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/1onATheE/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/v1WmZBik/poster.jpg?width=320",Asseco Resovia Rzeszow - Indykpol AZS Olsztyn | Play Off - QF Round 1
@@ -11,12 +9,12 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/Sksf4aKV/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/NoSJOfdJ/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/rMMWBJUf/poster.jpg?width=320",BOGDANKA LUK Lublin - PGE GiEK SKRA Belchatow | Play Off - QF Round 1
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/rMMWBJUf/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/w95V6E8P/poster.jpg?width=320",Pfu Bluecats Ishikawa Kahoku - Kurobe Aqua Fairies | Round 21-B
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/w95V6E8P/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/DrM5uH13/poster.jpg?width=320",Nec Red Rockets Kawasaki - Toray Arrows Shiga | Round 21-B
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/DrM5uH13/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/skkjwaJw/poster.jpg?width=320",Suntory Sunbirds Osaka - Jtekt Stings Aichi | Round 19-B
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/skkjwaJw/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/w95V6E8P/poster.jpg?width=320",Pfu Bluecats Ishikawa Kahoku - Kurobe Aqua Fairies | Round 21-B
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/w95V6E8P/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/ElYBQ7PH/poster.jpg?width=320",Saitama Ageo Medics - Denso Airybees | Round 21-B
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/ElYBQ7PH/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/wHCOd4UT/poster.jpg?width=320",Hiroshima Thunders - Vc Nagano Tridents | Round 19-B
@@ -39,3 +37,5 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/7Qme63uM/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/FKKpGvMo/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/Mfj7EJf9/poster.jpg?width=320",LKS Commercecon Lodz - BKS BOSTIK ZGO Bielsko-Biala | Play Off - QF Round 2
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/Mfj7EJf9/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/xVAfBWjF/poster.jpg?width=320",Valsa Group Modena - Gas Sales Bluenergy Piacenza | Play Off - QF Round 5
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/xVAfBWjF/live.isml/.m3u8
