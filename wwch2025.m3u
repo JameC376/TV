@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/D1lJSWzV/poster.jpg?width=320",Tokyo Great Bears - Nippon Steel Sakai Blazers | Round 19-B
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/D1lJSWzV/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/FKKpGvMo/poster.jpg?width=320",Aluron CMC Warta Zawiercie - ZAKSA Kedzierzyn Kozle | Play Off - QF Round 1
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/FKKpGvMo/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/Mfj7EJf9/poster.jpg?width=320",LKS Commercecon Lodz - BKS BOSTIK ZGO Bielsko-Biala | Play Off - QF Round 2
@@ -39,3 +37,5 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/HbD2QmGh/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/ITMBbD9y/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/PY8lk1xV/poster.jpg?width=320",Fluminense - Osasco Sao Cristovao Saude | Play Off - QF Round 2
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/PY8lk1xV/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/Zk7QHT8g/poster.jpg?width=320",Bergamo - Megabox Ondulati Del Savio Vallefoglia | Challenge Play Off - Round 4
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/Zk7QHT8g/live.isml/.m3u8
