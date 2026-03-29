@@ -1,16 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/WaBhGpiA/poster.jpg?width=320",Pfu Bluecats Ishikawa Kahoku - Kurobe Aqua Fairies | Round 21-B
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/WaBhGpiA/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/ljWaYqYK/poster.jpg?width=320",Gunma Greenwings - Aranmare Yamagata | Round 21-B
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/ljWaYqYK/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/GPjDPuT5/poster.jpg?width=320",Nec Red Rockets Kawasaki - Toray Arrows Shiga | Round 21-B
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/GPjDPuT5/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/mK9NgPXL/poster.jpg?width=320",Saitama Ageo Medics - Denso Airybees | Round 21-B
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/mK9NgPXL/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/9qQbGQij/poster.jpg?width=320",Suntory Sunbirds Osaka - Jtekt Stings Aichi | Round 19-B
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/9qQbGQij/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/q6DVLGHF/poster.jpg?width=320",Hiroshima Thunders - Vc Nagano Tridents | Round 19-B
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/q6DVLGHF/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/6DtvWJLw/poster.jpg?width=320",Wolfdogs Nagoya - Osaka Bluteon | Round 19-B
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/6DtvWJLw/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/M2uLWNNz/poster.jpg?width=320",Victorina Himeji - Queenseis Kariya | Round 21-B
@@ -23,6 +13,8 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/8hxzUSGS/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/D1lJSWzV/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/IZFuDA5S/poster.jpg?width=320",Toray Arrows Shizuoka - Voreas Hokkaido | Round 19-B
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/IZFuDA5S/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/aUD5LZYI/poster.jpg?width=320",Nec Red Rockets Kawasaki - Toray Arrows Shiga | Round 21-B
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/aUD5LZYI/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/FKKpGvMo/poster.jpg?width=320",Aluron CMC Warta Zawiercie - ZAKSA Kedzierzyn Kozle | Play Off - QF Round 1
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/FKKpGvMo/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/Mfj7EJf9/poster.jpg?width=320",LKS Commercecon Lodz - BKS BOSTIK ZGO Bielsko-Biala | Play Off - QF Round 2
@@ -39,3 +31,11 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/8RzKFsVx/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/4yjSF0aq/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/yi1VLghz/poster.jpg?width=320",Eurotek Laica Uyba - Il Bisonte Firenze | Challenge Play Off - Round 5
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/yi1VLghz/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/0iSS6ZA4/poster.jpg?width=320",MOYA Radomka Radom - Sokol & Hagric Mogilno | Play Off - 9th place Round 1
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/0iSS6ZA4/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/LreZRSvJ/poster.jpg?width=320",Dentil Praia Clube - Sesi Volei Bauru | Play Off - QF Round 1
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/LreZRSvJ/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/YsHRkHS1/poster.jpg?width=320",Osasco Sao Cristovao Saude - Fluminense | Play Off - QF Round 1
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/YsHRkHS1/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/HNm3Eg5z/poster.jpg?width=320",Batavo Mackenzie - SESC RJ Flamengo | Play Off - QF Round 1
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/HNm3Eg5z/live.isml/.m3u8
