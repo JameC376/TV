@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/9qQbGQij/poster.jpg?width=320",Suntory Sunbirds Osaka - Jtekt Stings Aichi | Round 19-B
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/9qQbGQij/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/6DtvWJLw/poster.jpg?width=320",Wolfdogs Nagoya - Osaka Bluteon | Round 19-B
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/6DtvWJLw/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/M2uLWNNz/poster.jpg?width=320",Victorina Himeji - Queenseis Kariya | Round 21-B
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/M2uLWNNz/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/5PrMVpMW/poster.jpg?width=320",Astemo Rivale Ibaraki - Osaka Marvelous | Round 21-B
@@ -11,10 +7,6 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/5PrMVpMW/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/8hxzUSGS/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/D1lJSWzV/poster.jpg?width=320",Tokyo Great Bears - Nippon Steel Sakai Blazers | Round 19-B
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/D1lJSWzV/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/IZFuDA5S/poster.jpg?width=320",Toray Arrows Shizuoka - Voreas Hokkaido | Round 19-B
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/IZFuDA5S/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/aUD5LZYI/poster.jpg?width=320",Nec Red Rockets Kawasaki - Toray Arrows Shiga | Round 21-B
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/aUD5LZYI/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/FKKpGvMo/poster.jpg?width=320",Aluron CMC Warta Zawiercie - ZAKSA Kedzierzyn Kozle | Play Off - QF Round 1
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/FKKpGvMo/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/Mfj7EJf9/poster.jpg?width=320",LKS Commercecon Lodz - BKS BOSTIK ZGO Bielsko-Biala | Play Off - QF Round 2
@@ -39,3 +31,11 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/LreZRSvJ/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/YsHRkHS1/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/HNm3Eg5z/poster.jpg?width=320",Batavo Mackenzie - SESC RJ Flamengo | Play Off - QF Round 1
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/HNm3Eg5z/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/LCQhJjRW/poster.jpg?width=320",Gerdau Minas - Sancor Seguros Volei | Play Off - QF Round 1
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/LCQhJjRW/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/4tQXXW93/poster.jpg?width=320",UNI Opole - ITA TOOLS Stal Mielec | Play Off - QF Round 3
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/4tQXXW93/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/Fy4laV9Q/poster.jpg?width=320",BKS BOSTIK ZGO Bielsko-Biala - LKS Commercecon Lodz | Play Off - QF Round 3
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/Fy4laV9Q/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/MXWERK5T/poster.jpg?width=320",KS DevelopRes Rzeszow - Metalkas Palac Bydgoszcz | Play Off - QF Round 3
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/MXWERK5T/live.isml/.m3u8
