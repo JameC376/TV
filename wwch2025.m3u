@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/vBw4GBzE/poster.jpg?width=320",LOTTO Chemik Police - PGE Budowlani Lodz | Play Off - QF Round 2
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/vBw4GBzE/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/8RzKFsVx/poster.jpg?width=320",Bergamo - Honda Cuneo Granda Volley | Challenge Play Off - Round 5
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/8RzKFsVx/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/4yjSF0aq/poster.jpg?width=320",Omag-Mt San Giovanni In Marignano - Megabox Ondulati Del Savio Vallefoglia | Challenge Play Off - Round 5
@@ -39,3 +37,5 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/FjOYICya/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/8l0v8m03/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/MPcQIwtE/poster.jpg?width=320",Sancor Seguros Volei - Gerdau Minas | Play Off - QF Round 2
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/MPcQIwtE/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/pzVQxJ2Q/poster.jpg?width=320",Jtekt Stings Aichi - Tokyo Great Bears | Round 20-A
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/pzVQxJ2Q/live.isml/.m3u8
