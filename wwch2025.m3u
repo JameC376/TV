@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/LreZRSvJ/poster.jpg?width=320",Dentil Praia Clube - Sesi Volei Bauru | Play Off - QF Round 1
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/LreZRSvJ/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/YsHRkHS1/poster.jpg?width=320",Osasco Sao Cristovao Saude - Fluminense | Play Off - QF Round 1
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/YsHRkHS1/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/4tQXXW93/poster.jpg?width=320",UNI Opole - ITA TOOLS Stal Mielec | Play Off - QF Round 3
@@ -39,3 +37,5 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/yow4GQZQ/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/k0CGekG6/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/kp4lFYWj/poster.jpg?width=320",Saitama Ageo Medics - Okayama Seagulls | Round 22-A
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/kp4lFYWj/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/A3qD8AlF/poster.jpg?width=320",Voreas Hokkaido - Osaka Bluteon | Round 20-A
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/A3qD8AlF/live.isml/.m3u8
