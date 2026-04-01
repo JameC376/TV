@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/J1NpL7Gj/poster.jpg?width=320",Gerdau Minas - Sancor Seguros Volei | Play Off - QF Round 1
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/J1NpL7Gj/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/3hyrFHdY/poster.jpg?width=320",Sesi Volei Bauru - Dentil Praia Clube | Play Off - QF Round 2
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/3hyrFHdY/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/M4kSBYg4/poster.jpg?width=320",Fluminense - Osasco Sao Cristovao Saude | Play Off - QF Round 2
@@ -27,15 +25,17 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/k0CGekG6/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/kp4lFYWj/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/A3qD8AlF/poster.jpg?width=320",Voreas Hokkaido - Osaka Bluteon | Round 20-A
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/A3qD8AlF/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/t9QuU701/poster.jpg?width=320",Saga Hisamitsu Springs - Aranmare Yamagata | Round 22-A
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/t9QuU701/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/Tt9gxig2/poster.jpg?width=320",Toray Arrows Shizuoka - Vc Nagano Tridents | Round 20-A
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/Tt9gxig2/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/r5wKoEOU/poster.jpg?width=320",Kurobe Aqua Fairies - Osaka Marvelous | Round 22-A
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/r5wKoEOU/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/ryIc7qiS/poster.jpg?width=320",Queenseis Kariya - Nec Red Rockets Kawasaki | Round 22-A
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/ryIc7qiS/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/t9QuU701/poster.jpg?width=320",Saga Hisamitsu Springs - Aranmare Yamagata | Round 22-A
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/t9QuU701/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/Ypu2J6JB/poster.jpg?width=320",Toray Arrows Shiga - Pfu Bluecats Ishikawa Kahoku | Round 22-A
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/Ypu2J6JB/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/TwefjXyv/poster.jpg?width=320",Nippon Steel Sakai Blazers - Wolfdogs Nagoya | Round 20-A
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/TwefjXyv/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/Mrr7QBdA/poster.jpg?width=320",Indykpol AZS Olsztyn - Asseco Resovia Rzeszow | Play Off - QF Round 2
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/Mrr7QBdA/live.isml/.m3u8
