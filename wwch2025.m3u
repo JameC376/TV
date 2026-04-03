@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/M4kSBYg4/poster.jpg?width=320",Fluminense - Osasco Sao Cristovao Saude | Play Off - QF Round 2
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/M4kSBYg4/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/FUYvtDj0/poster.jpg?width=320",KS DevelopRes Rzeszow - BKS BOSTIK ZGO Bielsko-Biala | Play Off - SF Round 1
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/FUYvtDj0/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/Zk7QHT8g/poster.jpg?width=320",Bergamo - Megabox Ondulati Del Savio Vallefoglia | Challenge Play Off - Round 4
@@ -19,10 +17,10 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/5SAyCoqg/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/yow4GQZQ/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/k0CGekG6/poster.jpg?width=320",Gunma Greenwings - Victorina Himeji | Round 22-A
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/k0CGekG6/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/A3qD8AlF/poster.jpg?width=320",Voreas Hokkaido - Osaka Bluteon | Round 20-A
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/A3qD8AlF/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/kp4lFYWj/poster.jpg?width=320",Saitama Ageo Medics - Okayama Seagulls | Round 22-A
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/kp4lFYWj/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/A3qD8AlF/poster.jpg?width=320",Voreas Hokkaido - Osaka Bluteon | Round 20-A
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/A3qD8AlF/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/Tt9gxig2/poster.jpg?width=320",Toray Arrows Shizuoka - Vc Nagano Tridents | Round 20-A
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/Tt9gxig2/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/r5wKoEOU/poster.jpg?width=320",Kurobe Aqua Fairies - Osaka Marvelous | Round 22-A
@@ -39,3 +37,5 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/TwefjXyv/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/Mrr7QBdA/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/5FNHGgZL/poster.jpg?width=320",Eurotek Laica Uyba - Reale Mutua Fenera Chieri 76 | Challenge Play Off - Round 4
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/5FNHGgZL/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/WKbuXb3U/poster.jpg?width=320",Vero Volley Monza - Sonepar Padova | Play Off - CLA QF Round 1
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/WKbuXb3U/live.isml/.m3u8
