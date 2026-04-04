@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/0E8lFkFg/poster.jpg?width=320",JSW Jastrzebski Wegiel - PGE Projekt Warszawa | Play Off - QF Round 2
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/0E8lFkFg/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/VEzF1zKp/poster.jpg?width=320",PGE GiEK SKRA Belchatow - BOGDANKA LUK Lublin | Play Off - QF Round 2
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/VEzF1zKp/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/1qamZtFj/poster.jpg?width=320",Volei Renata - Sicoob Monte Carmelo | Play Off - QF Round 1
@@ -9,14 +7,14 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/1qamZtFj/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/TqVkEh07/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/6Df6vNDX/poster.jpg?width=320",Jtekt Stings Aichi - Tokyo Great Bears | Round 20-B
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/6Df6vNDX/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/ddVHctBU/poster.jpg?width=320",Denso Airybees - Astemo Rivale Ibaraki | Round 22-B
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/ddVHctBU/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/GFoPa0sK/poster.jpg?width=320",Suntory Sunbirds Osaka - Hiroshima Thunders | Round 20-B
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/GFoPa0sK/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/Qshz42ND/poster.jpg?width=320",Voreas Hokkaido - Osaka Bluteon | Round 20-B
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/Qshz42ND/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/J8lZ8VrO/poster.jpg?width=320",Gunma Greenwings - Victorina Himeji | Round 22-B
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/J8lZ8VrO/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/GFoPa0sK/poster.jpg?width=320",Suntory Sunbirds Osaka - Hiroshima Thunders | Round 20-B
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/GFoPa0sK/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/ddVHctBU/poster.jpg?width=320",Denso Airybees - Astemo Rivale Ibaraki | Round 22-B
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/ddVHctBU/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/8X4qo1gn/poster.jpg?width=320",Queenseis Kariya - Nec Red Rockets Kawasaki | Round 22-B
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/8X4qo1gn/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/J7VtUQjK/poster.jpg?width=320",Nippon Steel Sakai Blazers - Wolfdogs Nagoya | Round 20-B
@@ -39,3 +37,5 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/lO7lgO9P/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/KRHwEr8o/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/V9jbz0Ss/poster.jpg?width=320",Sir Susa Scai Perugia - Gas Sales Bluenergy Piacenza | Play Off - SF Round 1
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/V9jbz0Ss/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/Ej3YlePF/poster.jpg?width=320",ZAKSA Kedzierzyn Kozle - Aluron CMC Warta Zawiercie | Play Off - QF Round 2
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/Ej3YlePF/live.isml/.m3u8
