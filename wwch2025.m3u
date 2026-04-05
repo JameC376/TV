@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/DwT5VY6j/poster.jpg?width=320",Toray Arrows Shiga - Pfu Bluecats Ishikawa Kahoku | Round 22-B
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/DwT5VY6j/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/gA0YLHmI/poster.jpg?width=320",Rana Verona - Cucine Lube Civitanova | Play Off - SF Round 1
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/gA0YLHmI/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/lO7lgO9P/poster.jpg?width=320",Praia Clube Uberlandia Volei - Bateubet Volei Guarulhos | Play Off - QF Round 1
@@ -33,9 +31,11 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/j9tziyYN/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/YcW7O7BM/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/RykW44vL/poster.jpg?width=320",Łosiak/Bryl (POL) vs George/Saymon (BRA), Men Pool D on CC | Saquarema (BRA)
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/RykW44vL/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/G6yctwjw/poster.jpg?width=320",Rotar/Gauthier-Rat (FRA) vs Evans/Budinger (USA), Men Pool C on C3 | Saquarema (BRA)
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/G6yctwjw/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/6wjgELSj/poster.jpg?width=320",Hammarberg/Berger T. (AUT) vs [tbc], Men Pool E on C2 | Saquarema (BRA)
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/6wjgELSj/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/G6yctwjw/poster.jpg?width=320",Rotar/Gauthier-Rat (FRA) vs Evans/Budinger (USA), Men Pool C on C3 | Saquarema (BRA)
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/G6yctwjw/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/TROZp8Lk/poster.jpg?width=320",Plavins/Fokerots (LAT) vs [tbc], Men Pool F on C3 | Saquarema (BRA)
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/TROZp8Lk/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/nAKmMhVj/poster.jpg?width=320",Grimalt M./Grimalt E. (CHI) vs Andre/Renato (BRA), Men Pool B on CC | Saquarema (BRA)
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/nAKmMhVj/live.isml/.m3u8
