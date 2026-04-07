@@ -1,16 +1,18 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/tBg3dN5o/poster.jpg?width=320",PGE Projekt Warszawa - JSW Jastrzebski Wegiel | Play Off - QF Round 3
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/tBg3dN5o/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/9yuWGkpr/poster.jpg?width=320",Dentil Praia Clube - Sesi Volei Bauru | Play Off - QF Round 3
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/9yuWGkpr/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/q9F68kP0/poster.jpg?width=320",Vercauteren/Van Langendonck (BEL) vs Bedritis/Rinkevics (LAT), Men Qualifications R1 on C3 | Saquarema (BRA)
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/q9F68kP0/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/anollRvG/poster.jpg?width=320",Schachter/Pickett (CAN) vs Jonathan/Guto (BRA), Men Qualifications R1 on C2 | Saquarema (BRA)
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/anollRvG/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/U9tfNXKF/poster.jpg?width=320",UNI Opole - PGE Budowlani Lodz | Play Off - SF Round 2
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/U9tfNXKF/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/AvvwlBRa/poster.jpg?width=320",Omag-Mt San Giovanni In Marignano - Bergamo | Challenge Play Off - Round 6
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/AvvwlBRa/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/YeTKC7yy/poster.jpg?width=320",Daubas/Aye C. (FRA) vs [tbc], Men Pool D on C3 | Saquarema (BRA)
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/YeTKC7yy/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/xDGk8BqB/poster.jpg?width=320",Mol A./Sørum C. (NOR) vs [tbc], Men Pool E on C2 | Saquarema (BRA)
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/xDGk8BqB/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/YeTKC7yy/poster.jpg?width=320",Daubas/Aye C. (FRA) vs [tbc], Men Pool D on C3 | Saquarema (BRA)
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/YeTKC7yy/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/HOxWNuvi/poster.jpg?width=320",Hölting Nilsson/Andersson E (SWE) vs [tbc], Men Pool C on CC | Saquarema (BRA)
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/HOxWNuvi/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/rQUY630G/poster.jpg?width=320",Cisterna Volley - Allianz Milano | Play Off - CLA QF Round 2
@@ -37,5 +39,3 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/GH4pqPE8/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/QCwqCN0r/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/vINMJAsd/poster.jpg?width=320",Grimalt M./Grimalt E. (CHI) vs Cottafava/Dal Corso (ITA), Men Pool A on C2 | Saquarema (BRA)
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/vINMJAsd/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/wTu7tP9E/poster.jpg?width=320",Thamela/Victoria (BRA) vs [tbc], Women Pool E on CC | Saquarema (BRA)
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/wTu7tP9E/live.isml/.m3u8
