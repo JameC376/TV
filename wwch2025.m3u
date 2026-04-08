@@ -1,14 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/yULH6Lcg/poster.jpg?width=320",Barbara/Teresa (BRA) vs Paulikiene/Raupelyte (LTU), Women Qualifications R1 on C2 | Saquarema (BRA)
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/yULH6Lcg/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/KJCB2IOG/poster.jpg?width=320",Annique/Menia (SUI) vs Bossart/Abbühl (SUI), Women Qualifications R1 on C3 | Saquarema (BRA)
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/KJCB2IOG/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/Tafp1tkf/poster.jpg?width=320",Andressa/Tainá (BRA) vs Bukovec/Monkhouse (CAN), Women Qualifications R1 on CC | Saquarema (BRA)
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/Tafp1tkf/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/U9tfNXKF/poster.jpg?width=320",UNI Opole - PGE Budowlani Lodz | Play Off - SF Round 2
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/U9tfNXKF/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/CGhhIrsV/poster.jpg?width=320",Ievute/Kliokmanaite (LTU) vs Julhia/Ana Bia (BRA), Women Qualifications R1 on C2 | Saquarema (BRA)
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/CGhhIrsV/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/wk3ceSLz/poster.jpg?width=320",Manu/Geovania (BRA) vs Carol Horta/Elize Maia (BRA), Women Qualifications R1 on CC | Saquarema (BRA)
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/wk3ceSLz/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/na7oAKso/poster.jpg?width=320",Michelle/Corrales (PAR) vs Carol/Giulia (BRA), Women Qualifications R1 on CC | Saquarema (BRA)
@@ -39,3 +31,11 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/6wjgELSj/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/nAKmMhVj/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/TROZp8Lk/poster.jpg?width=320",Plavins/Fokerots (LAT) vs Arthur/Adrielson (BRA), Men Pool F on C3 | Saquarema (BRA)
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/TROZp8Lk/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/2s5ojrxs/poster.jpg?width=320",Åhman/Hellvig (SWE) vs Vercauteren/Van Langendonck (BEL), Men Pool B on C2 | Saquarema (BRA)
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/2s5ojrxs/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/GH4pqPE8/poster.jpg?width=320",Evandro/Arthur Lanci (BRA) vs Amieva/Bueno (ARG), Men Pool A on CC | Saquarema (BRA)
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/GH4pqPE8/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/vINMJAsd/poster.jpg?width=320",Grimalt M./Grimalt E. (CHI) vs Cottafava/Dal Corso (ITA), Men Pool A on C2 | Saquarema (BRA)
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/vINMJAsd/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/QCwqCN0r/poster.jpg?width=320",Mol H./Berntsen (NOR) vs Waller/Pristauz (AUT), Men Pool F on C3 | Saquarema (BRA)
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/QCwqCN0r/live.isml/.m3u8
