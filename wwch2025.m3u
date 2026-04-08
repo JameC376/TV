@@ -1,20 +1,10 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/rQUY630G/poster.jpg?width=320",Cisterna Volley - Allianz Milano | Play Off - CLA QF Round 2
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/rQUY630G/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/j9tziyYN/poster.jpg?width=320",Cucine Lube Civitanova - Rana Verona | Play Off - SF Round 2
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/j9tziyYN/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/TROZp8Lk/poster.jpg?width=320",Plavins/Fokerots (LAT) vs Arthur/Adrielson (BRA), Men Pool F on C3 | Saquarema (BRA)
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/TROZp8Lk/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/nAKmMhVj/poster.jpg?width=320",Crabb/Benesh (USA) vs Andre/Renato (BRA), Men Pool B on CC | Saquarema (BRA)
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/nAKmMhVj/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/2s5ojrxs/poster.jpg?width=320",Åhman/Hellvig (SWE) vs Vercauteren/Van Langendonck (BEL), Men Pool B on C2 | Saquarema (BRA)
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/2s5ojrxs/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/GH4pqPE8/poster.jpg?width=320",Evandro/Arthur Lanci (BRA) vs Amieva/Bueno (ARG), Men Pool A on CC | Saquarema (BRA)
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/GH4pqPE8/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/QCwqCN0r/poster.jpg?width=320",Mol H./Berntsen (NOR) vs Waller/Pristauz (AUT), Men Pool F on C3 | Saquarema (BRA)
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/QCwqCN0r/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/vINMJAsd/poster.jpg?width=320",Grimalt M./Grimalt E. (CHI) vs Cottafava/Dal Corso (ITA), Men Pool A on C2 | Saquarema (BRA)
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/vINMJAsd/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/QCwqCN0r/poster.jpg?width=320",Mol H./Berntsen (NOR) vs Waller/Pristauz (AUT), Men Pool F on C3 | Saquarema (BRA)
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/QCwqCN0r/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/cxxlXFDw/poster.jpg?width=320",Hughes/Batenhorst (USA) vs Dumbauskaite/Grudzinskaite G. (LTU), Women Pool A on C3 | Saquarema (BRA)
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/cxxlXFDw/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/wTu7tP9E/poster.jpg?width=320",Thamela/Victoria (BRA) vs Carol Horta/Elize Maia (BRA), Women Pool E on CC | Saquarema (BRA)
@@ -39,3 +29,13 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/k75WTq85/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/RjmUWjMr/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/2y8yto85/poster.jpg?width=320",Vieira/Chamereau (FRA) vs Taiana Lima/Talita (BRA), Women Pool B on CC | Saquarema (BRA)
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/2y8yto85/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/lA9F5T55/poster.jpg?width=320",Aluron CMC Warta Zawiercie - ZAKSA Kedzierzyn Kozle | Play Off - QF Round 3
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/lA9F5T55/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/JnuA5Dbt/poster.jpg?width=320",Hölting Nilsson/Andersson E (SWE) vs Evans/Budinger (USA), Men Pool C on CC | Saquarema (BRA)
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/JnuA5Dbt/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/qCd0HWfg/poster.jpg?width=320",Rotar/Gauthier-Rat (FRA) vs Jonathan/Guto (BRA), Men Pool C on C3 | Saquarema (BRA)
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/qCd0HWfg/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/8rzqSn3t/poster.jpg?width=320",Mol A./Sørum C. (NOR) vs Krattiger/Dillier (SUI), Men Pool E on C2 | Saquarema (BRA)
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/8rzqSn3t/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/QwnBIBKx/poster.jpg?width=320",Hammarberg/Berger T. (AUT) vs Adelmo/Mateus (BRA), Men Pool E on C2 | Saquarema (BRA)
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/QwnBIBKx/live.isml/.m3u8
