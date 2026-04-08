@@ -1,10 +1,10 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/i15VU78t/poster.jpg?width=320",Bialokoz/Batrane (ENG) vs Adelmo/Mateus (BRA), Men Qualifications R1 on CC | Saquarema (BRA)
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/i15VU78t/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/q9F68kP0/poster.jpg?width=320",Vercauteren/Van Langendonck (BEL) vs Bedritis/Rinkevics (LAT), Men Qualifications R1 on C3 | Saquarema (BRA)
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/q9F68kP0/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/anollRvG/poster.jpg?width=320",Schachter/Pickett (CAN) vs Jonathan/Guto (BRA), Men Qualifications R1 on C2 | Saquarema (BRA)
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/anollRvG/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/q9F68kP0/poster.jpg?width=320",Vercauteren/Van Langendonck (BEL) vs Bedritis/Rinkevics (LAT), Men Qualifications R1 on C3 | Saquarema (BRA)
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/q9F68kP0/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/9WbVHi8l/poster.jpg?width=320",Arthur/Adrielson (BRA) vs Vitor Felipe/Felipe Alves (BRA), Men Qualifications R1 on CC | Saquarema (BRA)
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/9WbVHi8l/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/avB2ldwE/poster.jpg?width=320",de Greeff/Gannett (CAN) vs Krattiger/Dillier (SUI), Men Qualifications R1 on C3 | Saquarema (BRA)
