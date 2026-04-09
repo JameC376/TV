@@ -1,14 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/rxUwtkyw/poster.jpg?width=320",Mäder/Kernen (SUI) vs Klinger D./Klinger R. (AUT), Women Pool C on C3 | Saquarema (BRA)
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/rxUwtkyw/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/ApuD1tv0/poster.jpg?width=320",Ana Patrícia/Duda (BRA) vs Andressa/Tainá (BRA), Women Pool C on CC | Saquarema (BRA)
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/ApuD1tv0/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/9mhHNP12/poster.jpg?width=320",Kraft/Cheng (USA) vs Michelle/Corrales (PAR), Women Pool F on C2 | Saquarema (BRA)
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/9mhHNP12/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/k75WTq85/poster.jpg?width=320",Stam/Schoon (NED) vs Kyce/Simonetti (BRA), Women Pool F on C3 | Saquarema (BRA)
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/k75WTq85/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/RjmUWjMr/poster.jpg?width=320",Cruz/Brasher (USA) vs Julhia/Ana Bia (BRA), Women Pool B on C2 | Saquarema (BRA)
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/RjmUWjMr/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/2y8yto85/poster.jpg?width=320",Vieira/Chamereau (FRA) vs Taiana Lima/Talita (BRA), Women Pool B on CC | Saquarema (BRA)
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/2y8yto85/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/lA9F5T55/poster.jpg?width=320",Aluron CMC Warta Zawiercie - ZAKSA Kedzierzyn Kozle | Play Off - QF Round 3
@@ -39,3 +31,11 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/q1POWaAB/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/PHFpYAtw/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/yGbcXiJ5/poster.jpg?width=320",Evandro/Arthur Lanci (BRA) vs Cottafava/Dal Corso (ITA), Men Pool A on CC | Saquarema (BRA)
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/yGbcXiJ5/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/lxHzVi02/poster.jpg?width=320",Mol H./Berntsen (NOR) vs Arthur/Adrielson (BRA), Men Pool F on C3 | Saquarema (BRA)
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/lxHzVi02/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/ojNWwadL/poster.jpg?width=320",Grimalt M./Grimalt E. (CHI) vs Amieva/Bueno (ARG), Men Pool A on C2 | Saquarema (BRA)
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/ojNWwadL/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/sjkIGorY/poster.jpg?width=320",Thamela/Victoria (BRA) vs Paulikiene/Raupelyte (LTU), Women Pool E on CC | Saquarema (BRA)
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/sjkIGorY/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/6DRTb4n5/poster.jpg?width=320",Vieira/Chamereau (FRA) vs Julhia/Ana Bia (BRA), Women Pool B on C3 | Saquarema (BRA)
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/6DRTb4n5/live.isml/.m3u8
