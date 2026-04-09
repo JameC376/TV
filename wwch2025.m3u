@@ -1,26 +1,14 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/SArfdY0k/poster.jpg?width=320",ITA TOOLS Stal Mielec - LKS Commercecon Lodz | Play Off - 5th place Round 2
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/SArfdY0k/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/q1POWaAB/poster.jpg?width=320",Gas Sales Bluenergy Piacenza - Sir Susa Scai Perugia | Play Off - SF Round 2
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/q1POWaAB/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/PHFpYAtw/poster.jpg?width=320",MA Acqua S.Bernardo Cuneo - Valsa Group Modena | Play Off - CLA QF Round 2
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/PHFpYAtw/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/yGbcXiJ5/poster.jpg?width=320",Evandro/Arthur Lanci (BRA) vs Cottafava/Dal Corso (ITA), Men Pool A on CC | Saquarema (BRA)
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/yGbcXiJ5/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/lxHzVi02/poster.jpg?width=320",Mol H./Berntsen (NOR) vs Arthur/Adrielson (BRA), Men Pool F on C3 | Saquarema (BRA)
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/lxHzVi02/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/ojNWwadL/poster.jpg?width=320",Grimalt M./Grimalt E. (CHI) vs Amieva/Bueno (ARG), Men Pool A on C2 | Saquarema (BRA)
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/ojNWwadL/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/sjkIGorY/poster.jpg?width=320",Thamela/Victoria (BRA) vs Paulikiene/Raupelyte (LTU), Women Pool E on CC | Saquarema (BRA)
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/sjkIGorY/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/4CSIls1L/poster.jpg?width=320",Brunner/Hüberli (SUI) vs Carol Horta/Elize Maia (BRA), Women Pool E on C2 | Saquarema (BRA)
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/4CSIls1L/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/6DRTb4n5/poster.jpg?width=320",Vieira/Chamereau (FRA) vs Julhia/Ana Bia (BRA), Women Pool B on C3 | Saquarema (BRA)
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/6DRTb4n5/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/Do5yCVf7/poster.jpg?width=320",Cruz/Brasher (USA) vs Taiana Lima/Talita (BRA), Women Pool B on CC | Saquarema (BRA)
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/Do5yCVf7/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/4CSIls1L/poster.jpg?width=320",Brunner/Hüberli (SUI) vs Carol Horta/Elize Maia (BRA), Women Pool E on C2 | Saquarema (BRA)
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/4CSIls1L/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/QeAXMNJz/poster.jpg?width=320",Melissa/Brandie (CAN) vs Verena/Thainara (BRA), Women Pool D on C2 | Saquarema (BRA)
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/QeAXMNJz/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/Do5yCVf7/poster.jpg?width=320",Cruz/Brasher (USA) vs Taiana Lima/Talita (BRA), Women Pool B on CC | Saquarema (BRA)
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/Do5yCVf7/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/stRzOb60/poster.jpg?width=320",Ittlinger/Grüne (GER) vs Annique/Menia (SUI), Women Pool D on C3 | Saquarema (BRA)
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/stRzOb60/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/0pMZBtj3/poster.jpg?width=320",Sicoob Monte Carmelo - Volei Renata | Play Off - QF Round 2
@@ -39,3 +27,15 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/A1tJuBbK/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/59dVas95/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/F3nn0VOg/poster.jpg?width=320",Saneago Goias - Sada Cruzeiro | Play Off - QF Round 2
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/F3nn0VOg/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/wyCQW06b/poster.jpg?width=320",Nec Red Rockets Kawasaki - Saitama Ageo Medics | Quarter-Finals - Round 1
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/wyCQW06b/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/LdMQweTd/poster.jpg?width=320",Daubas/Aye C. (FRA) vs Łosiak/Bryl (POL), Men Pool D on C3 | Saquarema (BRA)
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/LdMQweTd/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/G49jWmdk/poster.jpg?width=320",Åhman/Hellvig (SWE) vs Crabb/Benesh (USA), Men Pool B on C2 | Saquarema (BRA)
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/G49jWmdk/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/iq8s8Mia/poster.jpg?width=320",George/Saymon (BRA) vs Nicolaidis/Carracher (AUS), Men Pool D on CC | Saquarema (BRA)
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/iq8s8Mia/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/14FwnmbW/poster.jpg?width=320",Andre/Renato (BRA) vs Vercauteren/Van Langendonck (BEL), Men Pool B on CC | Saquarema (BRA)
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/14FwnmbW/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/ConaaXqu/poster.jpg?width=320",Cottafava/Dal Corso (ITA) vs Amieva/Bueno (ARG), Men Pool A on C2 | Saquarema (BRA)
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/ConaaXqu/live.isml/.m3u8
