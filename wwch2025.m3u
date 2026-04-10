@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/0pMZBtj3/poster.jpg?width=320",Sicoob Monte Carmelo - Volei Renata | Play Off - QF Round 2
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/0pMZBtj3/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/F3nn0VOg/poster.jpg?width=320",Saneago Goias - Sada Cruzeiro | Play Off - QF Round 2
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/F3nn0VOg/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/wyCQW06b/poster.jpg?width=320",Nec Red Rockets Kawasaki - Saitama Ageo Medics | Quarter-Finals - Round 1
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/wyCQW06b/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/LdMQweTd/poster.jpg?width=320",Daubas/Aye C. (FRA) vs Łosiak/Bryl (POL), Men Pool D on C3 | Saquarema (BRA)
@@ -39,3 +35,7 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/w4nQZ4Xe/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/hMlMTgHS/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/P9qNXPI7/poster.jpg?width=320",Melissa/Brandie (CAN) vs Ittlinger/Grüne (GER), Women Pool D on C3 | Saquarema (BRA)
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/P9qNXPI7/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/sb8X7k4J/poster.jpg?width=320",Dumbauskaite/Grudzinskaite G. (LTU) vs Ievute/Kliokmanaite (LTU), Women Pool A on C2 | Saquarema (BRA)
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/sb8X7k4J/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/0TWCJ8yv/poster.jpg?width=320",[tbc] vs [tbc], Men Lucky losers | Saquarema (BRA)
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/0TWCJ8yv/live.isml/.m3u8
