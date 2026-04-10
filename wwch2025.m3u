@@ -1,10 +1,10 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/mXS3JWsZ/poster.jpg?width=320",Plavins/Fokerots (LAT) vs Mol H./Berntsen (NOR), Men Pool F on C3 | Saquarema (BRA)
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/mXS3JWsZ/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/uTBoBIVn/poster.jpg?width=320",Evandro/Arthur Lanci (BRA) vs Grimalt M./Grimalt E. (CHI), Men Pool A on CC | Saquarema (BRA)
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/uTBoBIVn/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/vEzhXFaL/poster.jpg?width=320",Mol A./Sørum C. (NOR) vs Hammarberg/Berger T. (AUT), Men Pool E on C2 | Saquarema (BRA)
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/vEzhXFaL/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/uTBoBIVn/poster.jpg?width=320",Evandro/Arthur Lanci (BRA) vs Grimalt M./Grimalt E. (CHI), Men Pool A on CC | Saquarema (BRA)
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/uTBoBIVn/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/KsTjUe63/poster.jpg?width=320",Waller/Pristauz (AUT) vs Arthur/Adrielson (BRA), Men Pool F on CC | Saquarema (BRA)
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/KsTjUe63/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/LY8eEvVP/poster.jpg?width=320",Hölting Nilsson/Andersson E (SWE) vs Rotar/Gauthier-Rat (FRA), Men Pool C on C3 | Saquarema (BRA)
@@ -27,10 +27,10 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/sb8X7k4J/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/0TWCJ8yv/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/VmowAZZV/poster.jpg?width=320",[tbc] vs [tbc], Men Lucky losers | Saquarema (BRA)
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/VmowAZZV/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/nGKl0WZg/poster.jpg?width=320",Klinger D./Klinger R. (AUT) vs Andressa/Tainá (BRA), Women Pool C on C3 | Saquarema (BRA)
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/nGKl0WZg/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/IStmvtXI/poster.jpg?width=320",Carol /Rebecca (BRA) vs Hughes/Batenhorst (USA), Women Pool A on CC | Saquarema (BRA)
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/IStmvtXI/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/nGKl0WZg/poster.jpg?width=320",Klinger D./Klinger R. (AUT) vs Andressa/Tainá (BRA), Women Pool C on C3 | Saquarema (BRA)
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/nGKl0WZg/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/wi9NvsZ2/poster.jpg?width=320",Verena/Thainara (BRA) vs Annique/Menia (SUI), Women Pool D on C2 | Saquarema (BRA)
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/wi9NvsZ2/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/aP4qETFe/poster.jpg?width=320",Kyce/Simonetti (BRA) vs Michelle/Corrales (PAR), Women Pool F on C2 | Saquarema (BRA)
