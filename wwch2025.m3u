@@ -1,26 +1,22 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/P9qNXPI7/poster.jpg?width=320",Melissa/Brandie (CAN) vs Ittlinger/Grüne (GER), Women Pool D on C3 | Saquarema (BRA)
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/P9qNXPI7/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/hMlMTgHS/poster.jpg?width=320",Thamela/Victoria (BRA) vs Brunner/Hüberli (SUI), Women Pool E on CC | Saquarema (BRA)
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/hMlMTgHS/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/sb8X7k4J/poster.jpg?width=320",Dumbauskaite/Grudzinskaite G. (LTU) vs Ievute/Kliokmanaite (LTU), Women Pool A on C2 | Saquarema (BRA)
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/sb8X7k4J/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/0TWCJ8yv/poster.jpg?width=320",Vercauteren/Van Langendonck (BEL) vs Amieva/Bueno (ARG), Men Lucky losers on C2 | Saquarema (BRA)
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/0TWCJ8yv/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/VmowAZZV/poster.jpg?width=320",Evans/Budinger (USA) vs Arthur/Adrielson (BRA), Men Lucky losers on CC | Saquarema (BRA)
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/VmowAZZV/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/nGKl0WZg/poster.jpg?width=320",Klinger D./Klinger R. (AUT) vs Andressa/Tainá (BRA), Women Pool C on C3 | Saquarema (BRA)
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/nGKl0WZg/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/IStmvtXI/poster.jpg?width=320",Carol /Rebecca (BRA) vs Hughes/Batenhorst (USA), Women Pool A on CC | Saquarema (BRA)
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/IStmvtXI/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/nGKl0WZg/poster.jpg?width=320",Klinger D./Klinger R. (AUT) vs Andressa/Tainá (BRA), Women Pool C on C3 | Saquarema (BRA)
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/nGKl0WZg/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/wi9NvsZ2/poster.jpg?width=320",Verena/Thainara (BRA) vs Annique/Menia (SUI), Women Pool D on C2 | Saquarema (BRA)
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/wi9NvsZ2/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/aP4qETFe/poster.jpg?width=320",Kyce/Simonetti (BRA) vs Michelle/Corrales (PAR), Women Pool F on C2 | Saquarema (BRA)
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/aP4qETFe/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/2WnjAMvt/poster.jpg?width=320",Ana Patrícia/Duda (BRA) vs Mäder/Kernen (SUI), Women Pool C on CC | Saquarema (BRA)
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/2WnjAMvt/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/mkg8OmCP/poster.jpg?width=320",Kraft/Cheng (USA) vs Stam/Schoon (NED), Women Pool F on C3 | Saquarema (BRA)
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/mkg8OmCP/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/2WnjAMvt/poster.jpg?width=320",Ana Patrícia/Duda (BRA) vs Mäder/Kernen (SUI), Women Pool C on CC | Saquarema (BRA)
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/2WnjAMvt/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/ZqcbUfZt/poster.jpg?width=320",Mol A./Sørum C. (NOR) vs Cottafava/Dal Corso (ITA), Men Round of 16 on CC | Saquarema (BRA)
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/ZqcbUfZt/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/6mgxoBHm/poster.jpg?width=320",Hammarberg/Berger T. (AUT) vs Waller/Pristauz (AUT), Men Round of 16 on C3 | Saquarema (BRA)
@@ -39,3 +35,7 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/IRiPKVB7/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/4RUA6Mme/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/LpuSgzfU/poster.jpg?width=320",Åhman/Hellvig (SWE) vs [tbc], Men Round of 16 on C2 | Saquarema (BRA)
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/LpuSgzfU/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/OGddpxPr/poster.jpg?width=320",Suzano Volei - Itambe Minas | Play Off - QF Round 2
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/OGddpxPr/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/XHSeAkVl/poster.jpg?width=320",Voreas Hokkaido - Tokyo Great Bears | Round 21-A
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/XHSeAkVl/live.isml/.m3u8
