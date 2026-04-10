@@ -1,10 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/cwTHsGwN/poster.jpg?width=320",Bateubet Volei Guarulhos - Praia Clube Uberlandia Volei | Play Off - QF Round 2
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/cwTHsGwN/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/4RUA6Mme/poster.jpg?width=320",Evandro/Arthur Lanci (BRA) vs Evans/Budinger (USA), Men Round of 16 on CC | Saquarema (BRA)
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/4RUA6Mme/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/LpuSgzfU/poster.jpg?width=320",Åhman/Hellvig (SWE) vs Amieva/Bueno (ARG), Men Round of 16 on C2 | Saquarema (BRA)
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/LpuSgzfU/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/OGddpxPr/poster.jpg?width=320",Suzano Volei - Itambe Minas | Play Off - QF Round 2
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/OGddpxPr/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/XHSeAkVl/poster.jpg?width=320",Voreas Hokkaido - Tokyo Great Bears | Round 21-A
@@ -39,3 +35,7 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/btHA4tS8/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/ogmCpZM3/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/uMP7QH4E/poster.jpg?width=320",Stam/Schoon (NED) vs Dumbauskaite/Grudzinskaite G. (LTU), Women Round of 16 on C3 | Saquarema (BRA)
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/uMP7QH4E/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/VCACrANz/poster.jpg?width=320",Thamela/Victoria (BRA) vs Ana Patrícia/Duda (BRA), Women Round of 16 on CC | Saquarema (BRA)
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/VCACrANz/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/wRvdEiGp/poster.jpg?width=320",Vieira/Chamereau (FRA) vs Melissa/Brandie (CAN), Women Round of 16 on C2 | Saquarema (BRA)
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/wRvdEiGp/live.isml/.m3u8
