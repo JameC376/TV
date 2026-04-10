@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/UrUCIsQq/poster.jpg?width=320",Paulikiene/Raupelyte (LTU) vs Carol Horta/Elize Maia (BRA), Women Pool E on C2 | Saquarema (BRA)
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/UrUCIsQq/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/hJF9Jx4o/poster.jpg?width=320",Cruz/Brasher (USA) vs Vieira/Chamereau (FRA), Women Pool B on C3 | Saquarema (BRA)
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/hJF9Jx4o/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/w4nQZ4Xe/poster.jpg?width=320",Taiana Lima/Talita (BRA) vs Julhia/Ana Bia (BRA), Women Pool B on CC | Saquarema (BRA)
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/w4nQZ4Xe/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/P9qNXPI7/poster.jpg?width=320",Melissa/Brandie (CAN) vs Ittlinger/Grüne (GER), Women Pool D on C3 | Saquarema (BRA)
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/P9qNXPI7/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/hMlMTgHS/poster.jpg?width=320",Thamela/Victoria (BRA) vs Brunner/Hüberli (SUI), Women Pool E on CC | Saquarema (BRA)
@@ -27,15 +21,21 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/aP4qETFe/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/2WnjAMvt/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/mkg8OmCP/poster.jpg?width=320",Kraft/Cheng (USA) vs Stam/Schoon (NED), Women Pool F on C3 | Saquarema (BRA)
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/mkg8OmCP/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/ZqcbUfZt/poster.jpg?width=320",[tbc] vs [tbc], Men Round of 16 | Saquarema (BRA)
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/ZqcbUfZt/poster.jpg?width=320",Mol A./Sørum C. (NOR) vs Cottafava/Dal Corso (ITA), Men Round of 16 on CC | Saquarema (BRA)
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/ZqcbUfZt/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/6mgxoBHm/poster.jpg?width=320",[tbc] vs [tbc], Men Round of 16 | Saquarema (BRA)
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/6mgxoBHm/poster.jpg?width=320",Hammarberg/Berger T. (AUT) vs Waller/Pristauz (AUT), Men Round of 16 on C3 | Saquarema (BRA)
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/6mgxoBHm/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/svJP1qIM/poster.jpg?width=320",[tbc] vs [tbc], Men Round of 16 | Saquarema (BRA)
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/svJP1qIM/poster.jpg?width=320",Krattiger/Dillier (SUI) vs Łosiak/Bryl (POL), Men Round of 16 on C2 | Saquarema (BRA)
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/svJP1qIM/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/cwTHsGwN/poster.jpg?width=320",Bateubet Volei Guarulhos - Praia Clube Uberlandia Volei | Play Off - QF Round 2
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/cwTHsGwN/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/2EEf0LKM/poster.jpg?width=320",[tbc] vs [tbc], Men Round of 16 | Saquarema (BRA)
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/2EEf0LKM/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/liNMO2Wq/poster.jpg?width=320",[tbc] vs [tbc], Men Round of 16 | Saquarema (BRA)
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/liNMO2Wq/poster.jpg?width=320",Hölting Nilsson/Andersson E (SWE) vs Nicolaidis/Carracher (AUS), Men Round of 16 on C2 | Saquarema (BRA)
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/liNMO2Wq/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/2EEf0LKM/poster.jpg?width=320",Plavins/Fokerots (LAT) vs Andre/Renato (BRA), Men Round of 16 on CC | Saquarema (BRA)
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/2EEf0LKM/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/IRiPKVB7/poster.jpg?width=320",Rotar/Gauthier-Rat (FRA) vs Daubas/Aye C. (FRA), Men Round of 16 on C3 | Saquarema (BRA)
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/IRiPKVB7/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/4RUA6Mme/poster.jpg?width=320",Evandro/Arthur Lanci (BRA) vs [tbc], Men Round of 16 on CC | Saquarema (BRA)
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/4RUA6Mme/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/LpuSgzfU/poster.jpg?width=320",Åhman/Hellvig (SWE) vs [tbc], Men Round of 16 on C2 | Saquarema (BRA)
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/LpuSgzfU/live.isml/.m3u8
