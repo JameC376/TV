@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/hMlMTgHS/poster.jpg?width=320",Thamela/Victoria (BRA) vs Brunner/Hüberli (SUI), Women Pool E on CC | Saquarema (BRA)
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/hMlMTgHS/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/0TWCJ8yv/poster.jpg?width=320",Vercauteren/Van Langendonck (BEL) vs Amieva/Bueno (ARG), Men Lucky losers on C2 | Saquarema (BRA)
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/0TWCJ8yv/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/VmowAZZV/poster.jpg?width=320",Evans/Budinger (USA) vs Arthur/Adrielson (BRA), Men Lucky losers on CC | Saquarema (BRA)
@@ -39,3 +37,5 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/LpuSgzfU/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/OGddpxPr/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/XHSeAkVl/poster.jpg?width=320",Voreas Hokkaido - Tokyo Great Bears | Round 21-A
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/XHSeAkVl/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/ATcCK4Ct/poster.jpg?width=320",Pfu Bluecats Ishikawa Kahoku - Queenseis Kariya | Quarter-Finals - Round 1
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/ATcCK4Ct/live.isml/.m3u8
