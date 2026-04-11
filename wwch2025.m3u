@@ -1,10 +1,8 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/9yt5o8jC/poster.jpg?width=320",Thamela/Victoria (BRA) vs Melissa/Brandie (CAN), Women Quarterfinals on CC | Saquarema (BRA)
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/9yt5o8jC/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/cVncm8LX/poster.jpg?width=320",Hughes/Batenhorst (USA) vs Brunner/Hüberli (SUI), Women Quarterfinals on C2 | Saquarema (BRA)
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/cVncm8LX/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/rl9dYDT4/poster.jpg?width=320",Carol /Rebecca (BRA) vs Stam/Schoon (NED), Women Quarterfinals on CC | Saquarema (BRA)
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/rl9dYDT4/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/cVncm8LX/poster.jpg?width=320",Hughes/Batenhorst (USA) vs Brunner/Hüberli (SUI), Women Quarterfinals on C2 | Saquarema (BRA)
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/cVncm8LX/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/omlhLiaw/poster.jpg?width=320",Vc Nagano Tridents - Suntory Sunbirds Osaka | Round 21-B
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/omlhLiaw/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/4GgmMnx5/poster.jpg?width=320",Voreas Hokkaido - Tokyo Great Bears | Round 21-B
@@ -39,3 +37,5 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/0JIsH41y/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/skqaPXGB/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/yuWbRv10/poster.jpg?width=320",Sir Susa Scai Perugia - Gas Sales Bluenergy Piacenza | Play Off - SF Round 3
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/yuWbRv10/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/ImRLs0KH/poster.jpg?width=320",[tbc] vs [tbc], Men Final 3rd Place on CC | Saquarema (BRA)
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/ImRLs0KH/live.isml/.m3u8
