@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/m6wY35nH/poster.jpg?width=320",Sokol & Hagric Mogilno - MOYA Radomka Radom | Play Off - 9th place Round 2
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/m6wY35nH/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/jjwLnzyO/poster.jpg?width=320",Klinger D./Klinger R. (AUT) vs Ittlinger/Grüne (GER), Women Lucky losers on C2 | Saquarema (BRA)
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/jjwLnzyO/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/2VrHylgC/poster.jpg?width=320",Verena/Thainara (BRA) vs Taiana Lima/Talita (BRA), Women Round of 16 on CC | Saquarema (BRA)
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/2VrHylgC/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/btHA4tS8/poster.jpg?width=320",Mäder/Kernen (SUI) vs Hughes/Batenhorst (USA), Women Round of 16 on C2 | Saquarema (BRA)
@@ -11,15 +9,15 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/btHA4tS8/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/ogmCpZM3/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/uMP7QH4E/poster.jpg?width=320",Stam/Schoon (NED) vs Dumbauskaite/Grudzinskaite G. (LTU), Women Round of 16 on C3 | Saquarema (BRA)
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/uMP7QH4E/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/wRvdEiGp/poster.jpg?width=320",Vieira/Chamereau (FRA) vs Melissa/Brandie (CAN), Women Round of 16 on C2 | Saquarema (BRA)
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/wRvdEiGp/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/VCACrANz/poster.jpg?width=320",Thamela/Victoria (BRA) vs Ana Patrícia/Duda (BRA), Women Round of 16 on CC | Saquarema (BRA)
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/VCACrANz/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/wRvdEiGp/poster.jpg?width=320",Vieira/Chamereau (FRA) vs Melissa/Brandie (CAN), Women Round of 16 on C2 | Saquarema (BRA)
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/wRvdEiGp/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/891MtPYj/poster.jpg?width=320",Rana Verona - Cucine Lube Civitanova | Play Off - SF Round 3
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/891MtPYj/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/3ZKkuPNi/poster.jpg?width=320",Carol /Rebecca (BRA) vs [tbc], Women Round of 16 on CC | Saquarema (BRA)
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/3ZKkuPNi/poster.jpg?width=320",Carol /Rebecca (BRA) vs Paulikiene/Raupelyte (LTU), Women Round of 16 on CC | Saquarema (BRA)
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/3ZKkuPNi/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/e2gK22Ja/poster.jpg?width=320",Cruz/Brasher (USA) vs [tbc], Women Round of 16 on C2 | Saquarema (BRA)
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/e2gK22Ja/poster.jpg?width=320",Cruz/Brasher (USA) vs Ittlinger/Grüne (GER), Women Round of 16 on C2 | Saquarema (BRA)
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/e2gK22Ja/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/EF74VV36/poster.jpg?width=320",Hölting Nilsson/Andersson E (SWE) vs Hammarberg/Berger T. (AUT), Men Quarterfinals on CC | Saquarema (BRA)
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/EF74VV36/live.isml/.m3u8
@@ -37,5 +35,7 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/ghT5EwgU/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/C9Uu1qUV/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/9yt5o8jC/poster.jpg?width=320",[tbc] vs [tbc], Women Quarterfinals | Saquarema (BRA)
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/9yt5o8jC/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/rl9dYDT4/poster.jpg?width=320",[tbc] vs [tbc], Women Quarterfinals | Saquarema (BRA)
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/rl9dYDT4/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/cVncm8LX/poster.jpg?width=320",[tbc] vs [tbc], Women Quarterfinals | Saquarema (BRA)
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/cVncm8LX/live.isml/.m3u8
