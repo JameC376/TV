@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/5WhCklQB/poster.jpg?width=320",Osaka Marvelous - Victorina Himeji | Quarter-Finals - Round 1
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/5WhCklQB/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/VkFHA8mi/poster.jpg?width=320",Wolfdogs Nagoya - Jtekt Stings Aichi | Round 21-A
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/VkFHA8mi/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/WuWjDW1Q/poster.jpg?width=320",Nec Red Rockets Kawasaki - Saitama Ageo Medics | Quarter-Finals - Round 2
@@ -13,10 +11,10 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/m6wY35nH/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/jjwLnzyO/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/PKSLEvij/poster.jpg?width=320",Michelle/Corrales (PAR) vs Paulikiene/Raupelyte (LTU), Women Lucky losers on CC | Saquarema (BRA)
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/PKSLEvij/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/2VrHylgC/poster.jpg?width=320",Verena/Thainara (BRA) vs Taiana Lima/Talita (BRA), Women Round of 16 on CC | Saquarema (BRA)
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/2VrHylgC/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/btHA4tS8/poster.jpg?width=320",Mäder/Kernen (SUI) vs Hughes/Batenhorst (USA), Women Round of 16 on C2 | Saquarema (BRA)
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/btHA4tS8/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/2VrHylgC/poster.jpg?width=320",Verena/Thainara (BRA) vs Taiana Lima/Talita (BRA), Women Round of 16 on CC | Saquarema (BRA)
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/2VrHylgC/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/ogmCpZM3/poster.jpg?width=320",Brunner/Hüberli (SUI) vs Kraft/Cheng (USA), Women Round of 16 on C3 | Saquarema (BRA)
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/ogmCpZM3/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/uMP7QH4E/poster.jpg?width=320",Stam/Schoon (NED) vs Dumbauskaite/Grudzinskaite G. (LTU), Women Round of 16 on C3 | Saquarema (BRA)
@@ -39,3 +37,5 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/epljrszL/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/0J1oLxMS/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/X9wzRqrQ/poster.jpg?width=320",Mol A./Sørum C. (NOR) vs Łosiak/Bryl (POL), Men Quarterfinals on CC | Saquarema (BRA)
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/X9wzRqrQ/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/XbosewDQ/poster.jpg?width=320",Daubas/Aye C. (FRA) vs Åhman/Hellvig (SWE), Men Quarterfinals on CC | Saquarema (BRA)
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/XbosewDQ/live.isml/.m3u8
