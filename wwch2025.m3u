@@ -1,14 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/XHSeAkVl/poster.jpg?width=320",Voreas Hokkaido - Tokyo Great Bears | Round 21-A
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/XHSeAkVl/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/9ckUkErQ/poster.jpg?width=320",Osaka Bluteon - Nippon Steel Sakai Blazers | Round 21-A
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/9ckUkErQ/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/5WhCklQB/poster.jpg?width=320",Osaka Marvelous - Victorina Himeji | Quarter-Finals - Round 1
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/5WhCklQB/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/VoYuessI/poster.jpg?width=320",Saga Hisamitsu Springs - Gunma Greenwings | Quarter-Finals - Round 1
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/VoYuessI/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/nXoGVg2p/poster.jpg?width=320",Vc Nagano Tridents - Suntory Sunbirds Osaka | Round 21-A
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/nXoGVg2p/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/VkFHA8mi/poster.jpg?width=320",Wolfdogs Nagoya - Jtekt Stings Aichi | Round 21-A
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/VkFHA8mi/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/WuWjDW1Q/poster.jpg?width=320",Nec Red Rockets Kawasaki - Saitama Ageo Medics | Quarter-Finals - Round 2
@@ -39,3 +31,11 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/891MtPYj/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/3ZKkuPNi/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/e2gK22Ja/poster.jpg?width=320",Cruz/Brasher (USA) vs [tbc], Women Round of 16 on C2 | Saquarema (BRA)
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/e2gK22Ja/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/EF74VV36/poster.jpg?width=320",Hölting Nilsson/Andersson E (SWE) vs Hammarberg/Berger T. (AUT), Men Quarterfinals on CC | Saquarema (BRA)
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/EF74VV36/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/epljrszL/poster.jpg?width=320",KS DevelopRes Rzeszow - BKS BOSTIK ZGO Bielsko-Biala | Play Off - SF Round 3
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/epljrszL/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/0J1oLxMS/poster.jpg?width=320",Prosecco Doc A.Carraro Imoco Conegliano - Numia Vero Volley Milano | Play Off - Finals Round 1
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/0J1oLxMS/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/X9wzRqrQ/poster.jpg?width=320",Mol A./Sørum C. (NOR) vs Łosiak/Bryl (POL), Men Quarterfinals on CC | Saquarema (BRA)
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/X9wzRqrQ/live.isml/.m3u8
