@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/XHSeAkVl/poster.jpg?width=320",Voreas Hokkaido - Tokyo Great Bears | Round 21-A
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/XHSeAkVl/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/ATcCK4Ct/poster.jpg?width=320",Pfu Bluecats Ishikawa Kahoku - Queenseis Kariya | Quarter-Finals - Round 1
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/ATcCK4Ct/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/9ckUkErQ/poster.jpg?width=320",Osaka Bluteon - Nippon Steel Sakai Blazers | Round 21-A
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/9ckUkErQ/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/5WhCklQB/poster.jpg?width=320",Osaka Marvelous - Victorina Himeji | Quarter-Finals - Round 1
@@ -39,3 +37,5 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/wRvdEiGp/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/891MtPYj/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/3ZKkuPNi/poster.jpg?width=320",Carol /Rebecca (BRA) vs [tbc], Women Round of 16 on CC | Saquarema (BRA)
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/3ZKkuPNi/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/e2gK22Ja/poster.jpg?width=320",Cruz/Brasher (USA) vs [tbc], Women Round of 16 on C2 | Saquarema (BRA)
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/e2gK22Ja/live.isml/.m3u8
