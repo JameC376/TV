@@ -1,14 +1,12 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/OGddpxPr/poster.jpg?width=320",Suzano Volei - Itambe Minas | Play Off - QF Round 2
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/OGddpxPr/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/XHSeAkVl/poster.jpg?width=320",Voreas Hokkaido - Tokyo Great Bears | Round 21-A
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/XHSeAkVl/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/ATcCK4Ct/poster.jpg?width=320",Pfu Bluecats Ishikawa Kahoku - Queenseis Kariya | Quarter-Finals - Round 1
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/ATcCK4Ct/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/9ckUkErQ/poster.jpg?width=320",Osaka Bluteon - Nippon Steel Sakai Blazers | Round 21-A
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/9ckUkErQ/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/5WhCklQB/poster.jpg?width=320",Osaka Marvelous - Victorina Himeji | Quarter-Finals - Round 1
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/5WhCklQB/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/9ckUkErQ/poster.jpg?width=320",Osaka Bluteon - Nippon Steel Sakai Blazers | Round 21-A
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/9ckUkErQ/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/nXoGVg2p/poster.jpg?width=320",Vc Nagano Tridents - Suntory Sunbirds Osaka | Round 21-A
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/nXoGVg2p/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/VoYuessI/poster.jpg?width=320",Saga Hisamitsu Springs - Gunma Greenwings | Quarter-Finals - Round 1
@@ -25,10 +23,10 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/m6wY35nH/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/jjwLnzyO/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/PKSLEvij/poster.jpg?width=320",Michelle/Corrales (PAR) vs Paulikiene/Raupelyte (LTU), Women Lucky losers on CC | Saquarema (BRA)
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/PKSLEvij/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/2VrHylgC/poster.jpg?width=320",Verena/Thainara (BRA) vs Taiana Lima/Talita (BRA), Women Round of 16 on CC | Saquarema (BRA)
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/2VrHylgC/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/btHA4tS8/poster.jpg?width=320",Mäder/Kernen (SUI) vs Hughes/Batenhorst (USA), Women Round of 16 on C2 | Saquarema (BRA)
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/btHA4tS8/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/2VrHylgC/poster.jpg?width=320",Verena/Thainara (BRA) vs Taiana Lima/Talita (BRA), Women Round of 16 on CC | Saquarema (BRA)
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/2VrHylgC/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/ogmCpZM3/poster.jpg?width=320",Brunner/Hüberli (SUI) vs Kraft/Cheng (USA), Women Round of 16 on C3 | Saquarema (BRA)
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/ogmCpZM3/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/uMP7QH4E/poster.jpg?width=320",Stam/Schoon (NED) vs Dumbauskaite/Grudzinskaite G. (LTU), Women Round of 16 on C3 | Saquarema (BRA)
@@ -39,3 +37,5 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/VCACrANz/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/wRvdEiGp/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/891MtPYj/poster.jpg?width=320",Rana Verona - Cucine Lube Civitanova | Play Off - SF Round 3
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/891MtPYj/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/3ZKkuPNi/poster.jpg?width=320",Carol /Rebecca (BRA) vs [tbc], Women Round of 16 on CC | Saquarema (BRA)
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/3ZKkuPNi/live.isml/.m3u8
