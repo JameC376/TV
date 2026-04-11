@@ -1,12 +1,10 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/C9Uu1qUV/poster.jpg?width=320",Taiana Lima/Talita (BRA) vs Cruz/Brasher (USA), Women Quarterfinals on CC | Saquarema (BRA)
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/C9Uu1qUV/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/9yt5o8jC/poster.jpg?width=320",Thamela/Victoria (BRA) vs Melissa/Brandie (CAN), Women Quarterfinals on CC | Saquarema (BRA)
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/9yt5o8jC/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/cVncm8LX/poster.jpg?width=320",Hughes/Batenhorst (USA) vs Brunner/Hüberli (SUI), Women Quarterfinals on C2 | Saquarema (BRA)
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/cVncm8LX/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/rl9dYDT4/poster.jpg?width=320",Carol /Rebecca (BRA) vs Stam/Schoon (NED), Women Quarterfinals on CC | Saquarema (BRA)
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/rl9dYDT4/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/cVncm8LX/poster.jpg?width=320",Hughes/Batenhorst (USA) vs Brunner/Hüberli (SUI), Women Quarterfinals on C2 | Saquarema (BRA)
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/cVncm8LX/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/omlhLiaw/poster.jpg?width=320",Vc Nagano Tridents - Suntory Sunbirds Osaka | Round 21-B
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/omlhLiaw/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/4GgmMnx5/poster.jpg?width=320",Voreas Hokkaido - Tokyo Great Bears | Round 21-B
@@ -17,10 +15,10 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/FbdCQhKg/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/Z78x36Kd/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/i5eIphb9/poster.jpg?width=320",Osaka Bluteon - Nippon Steel Sakai Blazers | Round 21-B
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/i5eIphb9/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/rQreD5ms/poster.jpg?width=320",Saga Hisamitsu Springs - Gunma Greenwings | Quarter-Finals - Round 2
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/rQreD5ms/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/zSqqOhcX/poster.jpg?width=320",Osaka Marvelous - Victorina Himeji | Quarter-Finals - Round 2
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/zSqqOhcX/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/rQreD5ms/poster.jpg?width=320",Saga Hisamitsu Springs - Gunma Greenwings | Quarter-Finals - Round 2
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/rQreD5ms/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/AEobqdJw/poster.jpg?width=320",Toray Arrows Shizuoka - Hiroshima Thunders | Round 21-B
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/AEobqdJw/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/qZldweZK/poster.jpg?width=320",Plavins/Fokerots (LAT) vs Mol A./Sørum C. (NOR), Men Semifinals on CC | Saquarema (BRA)
@@ -39,3 +37,5 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/0JIsH41y/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/AcWAHW6j/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/skqaPXGB/poster.jpg?width=320",Aluron CMC Warta Zawiercie - Asseco Resovia Rzeszow | Play Off - SF Round 1
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/skqaPXGB/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/yuWbRv10/poster.jpg?width=320",Sir Susa Scai Perugia - Gas Sales Bluenergy Piacenza | Play Off - SF Round 3
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/yuWbRv10/live.isml/.m3u8
