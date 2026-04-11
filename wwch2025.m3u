@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/cwTHsGwN/poster.jpg?width=320",Bateubet Volei Guarulhos - Praia Clube Uberlandia Volei | Play Off - QF Round 2
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/cwTHsGwN/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/OGddpxPr/poster.jpg?width=320",Suzano Volei - Itambe Minas | Play Off - QF Round 2
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/OGddpxPr/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/XHSeAkVl/poster.jpg?width=320",Voreas Hokkaido - Tokyo Great Bears | Round 21-A
@@ -39,3 +37,5 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/uMP7QH4E/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/VCACrANz/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/wRvdEiGp/poster.jpg?width=320",Vieira/Chamereau (FRA) vs Melissa/Brandie (CAN), Women Round of 16 on C2 | Saquarema (BRA)
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/wRvdEiGp/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/891MtPYj/poster.jpg?width=320",Rana Verona - Cucine Lube Civitanova | Play Off - SF Round 3
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/891MtPYj/live.isml/.m3u8
