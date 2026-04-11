@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/891MtPYj/poster.jpg?width=320",Rana Verona - Cucine Lube Civitanova | Play Off - SF Round 3
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/891MtPYj/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/EF74VV36/poster.jpg?width=320",Hölting Nilsson/Andersson E (SWE) vs Hammarberg/Berger T. (AUT), Men Quarterfinals on CC | Saquarema (BRA)
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/EF74VV36/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/epljrszL/poster.jpg?width=320",KS DevelopRes Rzeszow - BKS BOSTIK ZGO Bielsko-Biala | Play Off - SF Round 3
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/epljrszL/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/0J1oLxMS/poster.jpg?width=320",Prosecco Doc A.Carraro Imoco Conegliano - Numia Vero Volley Milano | Play Off - Finals Round 1
@@ -39,3 +35,7 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/zSqqOhcX/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/AEobqdJw/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/qZldweZK/poster.jpg?width=320",[tbc] vs [tbc], Men Semifinals | Saquarema (BRA)
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/qZldweZK/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/hUUAdgab/poster.jpg?width=320",[tbc] vs [tbc], Men Semifinals | Saquarema (BRA)
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/hUUAdgab/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/Hnn6OiB3/poster.jpg?width=320",[tbc] vs [tbc], Women Semifinals | Saquarema (BRA)
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/Hnn6OiB3/live.isml/.m3u8
