@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/rl9dYDT4/poster.jpg?width=320",Carol /Rebecca (BRA) vs Stam/Schoon (NED), Women Quarterfinals on CC | Saquarema (BRA)
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/rl9dYDT4/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/omlhLiaw/poster.jpg?width=320",Vc Nagano Tridents - Suntory Sunbirds Osaka | Round 21-B
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/omlhLiaw/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/4GgmMnx5/poster.jpg?width=320",Voreas Hokkaido - Tokyo Great Bears | Round 21-B
@@ -27,10 +25,10 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/Hnn6OiB3/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/ymsI6pm7/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/HeGOC52R/poster.jpg?width=320",Cbf Balducci Hr Macerata - Eurotek Laica Uyba | Challenge Play Off - Round 6
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/HeGOC52R/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/0JIsH41y/poster.jpg?width=320",Megabox Ondulati Del Savio Vallefoglia - Honda Cuneo Granda Volley | Challenge Play Off - Round 6
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/0JIsH41y/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/AcWAHW6j/poster.jpg?width=320",Reale Mutua Fenera Chieri 76 - Il Bisonte Firenze | Challenge Play Off - Round 6
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/AcWAHW6j/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/0JIsH41y/poster.jpg?width=320",Megabox Ondulati Del Savio Vallefoglia - Honda Cuneo Granda Volley | Challenge Play Off - Round 6
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/0JIsH41y/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/skqaPXGB/poster.jpg?width=320",Aluron CMC Warta Zawiercie - Asseco Resovia Rzeszow | Play Off - SF Round 1
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/skqaPXGB/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/yuWbRv10/poster.jpg?width=320",Sir Susa Scai Perugia - Gas Sales Bluenergy Piacenza | Play Off - SF Round 3
@@ -39,3 +37,5 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/yuWbRv10/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/ImRLs0KH/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/cyKYGTCz/poster.jpg?width=320",[tbc] vs [tbc], Women Final 3rd Place on CC | Saquarema (BRA)
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/cyKYGTCz/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/5KZJkXu9/poster.jpg?width=320",[tbc] vs [tbc], Men Final 1st Place on CC | Saquarema (BRA)
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/5KZJkXu9/live.isml/.m3u8
