@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/HeGOC52R/poster.jpg?width=320",Cbf Balducci Hr Macerata - Eurotek Laica Uyba | Challenge Play Off - Round 6
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/HeGOC52R/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/AcWAHW6j/poster.jpg?width=320",Reale Mutua Fenera Chieri 76 - Il Bisonte Firenze | Challenge Play Off - Round 6
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/AcWAHW6j/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/0JIsH41y/poster.jpg?width=320",Megabox Ondulati Del Savio Vallefoglia - Honda Cuneo Granda Volley | Challenge Play Off - Round 6
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/0JIsH41y/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/skqaPXGB/poster.jpg?width=320",Aluron CMC Warta Zawiercie - Asseco Resovia Rzeszow | Play Off - SF Round 1
@@ -39,3 +37,5 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/wmEsyCGx/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/5ytDXh1w/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/6SavP1tp/poster.jpg?width=320",Osasco Sao Cristovao Saude - Gerdau Minas | Play Off - SF Round 2
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/6SavP1tp/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/aNlkqhZO/poster.jpg?width=320",SESC RJ Flamengo - Dentil Praia Clube | Play Off - SF Round 2
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/aNlkqhZO/live.isml/.m3u8
