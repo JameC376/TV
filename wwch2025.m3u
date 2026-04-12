@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/skqaPXGB/poster.jpg?width=320",Aluron CMC Warta Zawiercie - Asseco Resovia Rzeszow | Play Off - SF Round 1
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/skqaPXGB/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/yuWbRv10/poster.jpg?width=320",Sir Susa Scai Perugia - Gas Sales Bluenergy Piacenza | Play Off - SF Round 3
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/yuWbRv10/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/ImRLs0KH/poster.jpg?width=320",Plavins/Fokerots (LAT) vs Daubas/Aye C. (FRA), Men Final 3rd Place on CC | Saquarema (BRA)
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/ImRLs0KH/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/cyKYGTCz/poster.jpg?width=320",Carol /Rebecca (BRA) vs Brunner/Hüberli (SUI), Women Final 3rd Place on CC | Saquarema (BRA)
@@ -39,3 +35,7 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/aNlkqhZO/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/BmhXN5AJ/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/PVih9TC7/poster.jpg?width=320",Tokyo Great Bears - Suntory Sunbirds Osaka | Round 22-B
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/PVih9TC7/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/6TKD91KU/poster.jpg?width=320",Jtekt Stings Aichi - Vc Nagano Tridents | Round 22-A
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/6TKD91KU/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/LXSrJk1B/poster.jpg?width=320",Wolfdogs Nagoya - Toray Arrows Shizuoka | Round 22-A
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/LXSrJk1B/live.isml/.m3u8
