@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/ymsI6pm7/poster.jpg?width=320",Carol /Rebecca (BRA) vs Melissa/Brandie (CAN), Women Semifinals on CC | Saquarema (BRA)
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/ymsI6pm7/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/HeGOC52R/poster.jpg?width=320",Cbf Balducci Hr Macerata - Eurotek Laica Uyba | Challenge Play Off - Round 6
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/HeGOC52R/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/AcWAHW6j/poster.jpg?width=320",Reale Mutua Fenera Chieri 76 - Il Bisonte Firenze | Challenge Play Off - Round 6
@@ -13,11 +11,11 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/skqaPXGB/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/yuWbRv10/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/ImRLs0KH/poster.jpg?width=320",Plavins/Fokerots (LAT) vs Daubas/Aye C. (FRA), Men Final 3rd Place on CC | Saquarema (BRA)
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/ImRLs0KH/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/cyKYGTCz/poster.jpg?width=320",[tbc] vs Brunner/Hüberli (SUI), Women Final 3rd Place on CC | Saquarema (BRA)
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/cyKYGTCz/poster.jpg?width=320",Carol /Rebecca (BRA) vs Brunner/Hüberli (SUI), Women Final 3rd Place on CC | Saquarema (BRA)
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/cyKYGTCz/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/5KZJkXu9/poster.jpg?width=320",Mol A./Sørum C. (NOR) vs Hölting Nilsson/Andersson E (SWE), Men Final 1st Place on CC | Saquarema (BRA)
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/5KZJkXu9/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/ye10TOQF/poster.jpg?width=320",[tbc] vs Cruz/Brasher (USA), Women Final 1st Place on CC | Saquarema (BRA)
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/ye10TOQF/poster.jpg?width=320",Melissa/Brandie (CAN) vs Cruz/Brasher (USA), Women Final 1st Place on CC | Saquarema (BRA)
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/ye10TOQF/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/xHYeWymV/poster.jpg?width=320",LOTTO Chemik Police - Metalkas Palac Bydgoszcz | Play Off - 7th place Round 2
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/xHYeWymV/live.isml/.m3u8
@@ -39,3 +37,5 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/XpNcAq1E/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/wmEsyCGx/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/5ytDXh1w/poster.jpg?width=320",PGE GiEK SKRA Belchatow - Indykpol AZS Olsztyn | Play Off - 5th place Round 2
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/5ytDXh1w/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/6SavP1tp/poster.jpg?width=320",Osasco Sao Cristovao Saude - Gerdau Minas | Play Off - SF Round 2
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/6SavP1tp/live.isml/.m3u8
