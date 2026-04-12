@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/ye10TOQF/poster.jpg?width=320",Melissa/Brandie (CAN) vs Cruz/Brasher (USA), Women Final 1st Place on CC | Saquarema (BRA)
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/ye10TOQF/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/xHYeWymV/poster.jpg?width=320",LOTTO Chemik Police - Metalkas Palac Bydgoszcz | Play Off - 7th place Round 2
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/xHYeWymV/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/K7MDlntF/poster.jpg?width=320",PGE Projekt Warszawa - BOGDANKA LUK Lublin | Play Off - SF Round 1
@@ -39,3 +37,5 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/9Q2x9YCy/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/2LH21GvD/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/cHStjkn7/poster.jpg?width=320",Asseco Resovia Rzeszow - Aluron CMC Warta Zawiercie | Play Off - SF Round 2
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/cHStjkn7/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/fV78ssrz/poster.jpg?width=320",BOGDANKA LUK Lublin - PGE Projekt Warszawa | Play Off - SF Round 2
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/fV78ssrz/live.isml/.m3u8
