@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/sC1CoYhZ/poster.jpg?width=320",Gerdau Minas - Osasco Sao Cristovao Saude | Play Off - SF Round 1
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/sC1CoYhZ/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/vYGpEgyu/poster.jpg?width=320",Dentil Praia Clube - SESC RJ Flamengo | Play Off - SF Round 1
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/vYGpEgyu/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/Qe1uiKds/poster.jpg?width=320",Indykpol AZS Olsztyn - PGE GiEK SKRA Belchatow | Play Off - 5th place Round 1
@@ -39,3 +37,5 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/LXSrJk1B/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/9Q2x9YCy/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/hk3nVcRl/poster.jpg?width=320",Nec Red Rockets Kawasaki - Osaka Marvelous | Semi-Finals - Round 2
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/hk3nVcRl/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/2LH21GvD/poster.jpg?width=320",BKS BOSTIK ZGO Bielsko-Biala - UNI Opole | Play Off - 3rd place Round 2
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/2LH21GvD/live.isml/.m3u8
