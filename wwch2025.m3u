@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/df2DWg6i/poster.jpg?width=320",UNI Opole - BKS BOSTIK ZGO Bielsko-Biala | Play Off - 3rd place Round 1
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/df2DWg6i/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/tocfWfN3/poster.jpg?width=320",Praia Clube Uberlandia Volei - Bateubet Volei Guarulhos | Play Off - QF Round 3
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/tocfWfN3/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/HLWaAqpm/poster.jpg?width=320",Itambe Minas - Suzano Volei | Play Off - QF Round 3
@@ -39,3 +37,5 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/BABDkMsU/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/fV78ssrz/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/gJknd3hM/poster.jpg?width=320",Reale Mutua Fenera Chieri 76 - Honda Cuneo Granda Volley | Challenge Play Off - Final
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/gJknd3hM/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/AtJ1vjg8/poster.jpg?width=320",Hiroshima Thunders - Osaka Bluteon | Round 22-B
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/AtJ1vjg8/live.isml/.m3u8
