@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/BABDkMsU/poster.jpg?width=320",Cucine Lube Civitanova - Rana Verona | Play Off - SF Round 4
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/BABDkMsU/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/fV78ssrz/poster.jpg?width=320",BOGDANKA LUK Lublin - PGE Projekt Warszawa | Play Off - SF Round 2
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/fV78ssrz/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/gJknd3hM/poster.jpg?width=320",Reale Mutua Fenera Chieri 76 - Honda Cuneo Granda Volley | Challenge Play Off - Final
@@ -39,3 +37,5 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/IoojHkPo/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/S79ucFod/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/IGw0He3G/poster.jpg?width=320",tbc - tbc | Finals - Round 2
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/IGw0He3G/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/4rdbH6eq/poster.jpg?width=320",Allianz Milano - Valsa Group Modena | Play Off - CLA SF Round 2
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/4rdbH6eq/live.isml/.m3u8
