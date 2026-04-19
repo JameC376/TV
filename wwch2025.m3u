@@ -1,12 +1,10 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/YFcwb0wa/poster.jpg?width=320",PGE Budowlani Lodz - KS DevelopRes Rzeszow | Play Off - Finals Round 2
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/YFcwb0wa/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/xuPJaDso/poster.jpg?width=320",Prosecco Doc A.Carraro Imoco Conegliano - Numia Vero Volley Milano | Play Off - Finals Round 3
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/xuPJaDso/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/jxV7GZ5M/poster.jpg?width=320",Itas Trentino - Vero Volley Monza | Play Off - CLA SF Round 1
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/jxV7GZ5M/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/mxMCZS1x/poster.jpg?width=320",Valsa Group Modena - Allianz Milano | Play Off - CLA SF Round 1
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/mxMCZS1x/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/jxV7GZ5M/poster.jpg?width=320",Itas Trentino - Vero Volley Monza | Play Off - CLA SF Round 1
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/jxV7GZ5M/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/D8KX4TZw/poster.jpg?width=320",Saga Hisamitsu Springs - Pfu Bluecats Ishikawa Kahoku | Semi-Finals - Round 3
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/D8KX4TZw/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/P8nAOKZD/poster.jpg?width=320",Indykpol AZS Olsztyn - PGE GiEK SKRA Belchatow | Play Off - 5th place Round 3
@@ -39,3 +37,5 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/G4fqXYLS/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/kPXKA0Vv/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/2j2wrNYI/poster.jpg?width=320",[tbc] vs [tbc] | 1XBET Beach Pro Tour Elite Brasilia
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/2j2wrNYI/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/O3Q1eZfc/poster.jpg?width=320",[tbc] vs [tbc] | 1XBET Beach Pro Tour Elite Brasilia
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/O3Q1eZfc/live.isml/.m3u8
