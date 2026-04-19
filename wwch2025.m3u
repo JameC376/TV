@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/AtJ1vjg8/poster.jpg?width=320",Hiroshima Thunders - Osaka Bluteon | Round 22-B
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/AtJ1vjg8/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/DqrQySdu/poster.jpg?width=320",Nippon Steel Sakai Blazers - Voreas Hokkaido | Round 22-B
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/DqrQySdu/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/UodMr746/poster.jpg?width=320",Wolfdogs Nagoya - Toray Arrows Shizuoka | Round 22-B
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/UodMr746/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/DL8TM5x3/poster.jpg?width=320",Saga Hisamitsu Springs - Pfu Bluecats Ishikawa Kahoku | Semi-Finals - Round 2
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/DL8TM5x3/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/Qsb9Xkrt/poster.jpg?width=320",Jtekt Stings Aichi - Vc Nagano Tridents | Round 22-B
@@ -39,3 +33,9 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/4rdbH6eq/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/2fq9v4N0/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/YvygA1SI/poster.jpg?width=320",Itambe Minas - Sada Cruzeiro | Play Off - SF Round 2
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/YvygA1SI/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/G4fqXYLS/poster.jpg?width=320",[tbc] vs [tbc] | 1XBET Beach Pro Tour Elite Brasilia
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/G4fqXYLS/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/UJqNXVmc/poster.jpg?width=320",[tbc] vs [tbc] | 1XBET Beach Pro Tour Elite Brasilia
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/UJqNXVmc/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/kPXKA0Vv/poster.jpg?width=320",[tbc] vs [tbc] | 1XBET Beach Pro Tour Elite Brasilia
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/kPXKA0Vv/live.isml/.m3u8
