@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/fHed7FXw/poster.jpg?width=320",Numia Vero Volley Milano - Prosecco Doc A.Carraro Imoco Conegliano | Play Off - Finals Round 4
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/fHed7FXw/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/8sIg4PeG/poster.jpg?width=320",Volei Renata - Praia Clube Uberlandia Volei | Play Off - SF Round 1
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/8sIg4PeG/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/lmmxW9n1/poster.jpg?width=320",Sada Cruzeiro - Itambe Minas | Play Off - SF Round 1
@@ -39,3 +37,5 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/2fq9v4N0/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/YvygA1SI/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/utoNkt40/poster.jpg?width=320",Semi-Final: TBC - TBC
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/utoNkt40/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/tK7blLRW/poster.jpg?width=320",Semi-Final: TBC - TBC
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/tK7blLRW/live.isml/.m3u8
