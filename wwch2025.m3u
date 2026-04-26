@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/4rdbH6eq/poster.jpg?width=320",Allianz Milano - Valsa Group Modena | Play Off - CLA SF Round 2
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/4rdbH6eq/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/fQHnUbD1/poster.jpg?width=320",PGE Budowlani Lodz - KS DevelopRes Rzeszow | Play Off - Finals Round 4
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/fQHnUbD1/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/EEPXxGng/poster.jpg?width=320",Pool B: NEC Red Rockets Kawasaki (JPN) - Harudotchonburi RMUTT VC (THA)
@@ -39,3 +37,5 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/5hLyomyh/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/NXqbPy0q/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/fSa5lFlH/poster.jpg?width=320",[tbc] vs [tbc] | 1XBET Beach Pro Tour Elite Brasilia
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/fSa5lFlH/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/DpxAfjr8/poster.jpg?width=320",[tbc] vs [tbc] | 1XBET Beach Pro Tour Elite Brasilia
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/DpxAfjr8/live.isml/.m3u8
