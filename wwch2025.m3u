@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/9k4NR73h/poster.jpg?width=320",PGE Projekt Warszawa - Asseco Resovia Rzeszow | Play Off - 3rd place Round 1
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/9k4NR73h/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/2fq9v4N0/poster.jpg?width=320",Praia Clube Uberlandia Volei - Volei Renata | Play Off - SF Round 2
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/2fq9v4N0/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/YvygA1SI/poster.jpg?width=320",Itambe Minas - Sada Cruzeiro | Play Off - SF Round 2
@@ -39,3 +37,5 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/GjeTWWeS/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/8wYaW6UB/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/cgcVBqOP/poster.jpg?width=320",[tbc] vs [tbc] | 1XBET Beach Pro Tour Elite Brasilia
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/cgcVBqOP/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/tcRusWHT/poster.jpg?width=320",[tbc] vs [tbc] | 1XBET Beach Pro Tour Elite Brasilia
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/tcRusWHT/live.isml/.m3u8
