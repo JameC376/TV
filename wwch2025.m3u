@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/1shlfVSD/poster.jpg?width=320",Pool A: Supreme TIP Chonburi E.Tech (THA) - Bandung BJB Tandamata (INA)
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/1shlfVSD/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/HS8RGlOG/poster.jpg?width=320",PGE Projekt Warszawa - Asseco Resovia Rzeszow | Play Off - 3rd place Round 1
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/HS8RGlOG/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/2fq9v4N0/poster.jpg?width=320",Praia Clube Uberlandia Volei - Volei Renata | Play Off - SF Round 2
@@ -39,3 +37,5 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/DpxAfjr8/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/GjeTWWeS/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/8wYaW6UB/poster.jpg?width=320",[tbc] vs [tbc] | 1XBET Beach Pro Tour Elite Brasilia
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/8wYaW6UB/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/cgcVBqOP/poster.jpg?width=320",[tbc] vs [tbc] | 1XBET Beach Pro Tour Elite Brasilia
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/cgcVBqOP/live.isml/.m3u8
