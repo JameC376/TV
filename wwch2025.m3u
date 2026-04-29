@@ -1,16 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/SNdV4IHY/poster.jpg?width=320",Polley/MacDonald (NZL) vs Hegeile/Vitoria (BRA), Women Qualifications R1 on C2 | 1XBET Beach Pro Tour Elite Brasilia
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/SNdV4IHY/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/MNnR9MLl/poster.jpg?width=320",Savvy/Newberry (USA) vs Carol Horta/Elize Maia (BRA), Women Qualifications R1 on CC | 1XBET Beach Pro Tour Elite Brasilia
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/MNnR9MLl/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/6v4jpGA4/poster.jpg?width=320",Lunio/Okla (POL) vs Urango/Rice (USA), Women Qualifications R1 on C3 | 1XBET Beach Pro Tour Elite Brasilia
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/6v4jpGA4/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/GjeTWWeS/poster.jpg?width=320",BOGDANKA LUK Lublin - Aluron CMC Warta Zawiercie | Play Off - Finals Round 2
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/GjeTWWeS/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/1RYVvl8Z/poster.jpg?width=320",Kyce/Simonetti (BRA) vs Vieira/Chamereau (FRA), Women Qualifications R1 on CC | 1XBET Beach Pro Tour Elite Brasilia
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/1RYVvl8Z/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/5nyLnj46/poster.jpg?width=320",Andressa/Tainá (BRA) vs Van Winkle/Phillips (USA), Women Qualifications R1 on C2 | 1XBET Beach Pro Tour Elite Brasilia
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/5nyLnj46/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/NlFMWqh2/poster.jpg?width=320",Verena/Thainara (BRA) vs Shields/Tan (USA), Women Qualifications R1 on CC | 1XBET Beach Pro Tour Elite Brasilia
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/NlFMWqh2/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/Tdz7xVq9/poster.jpg?width=320",van Driel E./Konink (NED) vs Klinger D./Klinger R. (AUT), Women Qualifications R1 on C2 | 1XBET Beach Pro Tour Elite Brasilia
@@ -23,10 +13,10 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/6NycIQKH/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/2PGyKqxv/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/QOfzjCck/poster.jpg?width=320",KS DevelopRes Rzeszow - PGE Budowlani Lodz | Play Off - Finals Round 5
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/QOfzjCck/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/eBIaReIj/poster.jpg?width=320",Mol A./Sørum C. (NOR) vs Arthur/Adrielson (BRA), Men Pool E on C2 | 1XBET Beach Pro Tour Elite Brasilia
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/eBIaReIj/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/Bwbw67uQ/poster.jpg?width=320",Daubas/Aye C. (FRA) vs Brewster/Webber (USA), Men Pool C on CC | 1XBET Beach Pro Tour Elite Brasilia
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/Bwbw67uQ/poster.jpg?width=320",Mol A./Sørum C. (NOR) vs Arthur/Adrielson (BRA), Men Pool E on CC | 1XBET Beach Pro Tour Elite Brasilia
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/Bwbw67uQ/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/eBIaReIj/poster.jpg?width=320",Daubas/Aye C. (FRA) vs Brewster/Webber (USA), Men Pool C on C2 | 1XBET Beach Pro Tour Elite Brasilia
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/eBIaReIj/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/7JbNgE1A/poster.jpg?width=320",Mol H./Berntsen (NOR) vs Krattiger/Dillier (SUI), Men Pool E on C3 | 1XBET Beach Pro Tour Elite Brasilia
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/7JbNgE1A/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/RFfbI6W6/poster.jpg?width=320",Plavins/Fokerots (LAT) vs Friedli/Jordan (SUI), Men Pool D on C3 | 1XBET Beach Pro Tour Elite Brasilia
@@ -39,3 +29,13 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/BucIK717/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/kybJHQ1B/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/Eq6OMoOQ/poster.jpg?width=320",Hammarberg/Berger T. (AUT) vs Schachter/Pickett (CAN), Men Pool F on C2 | 1XBET Beach Pro Tour Elite Brasilia
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/Eq6OMoOQ/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/lq3Wyjze/poster.jpg?width=320",Andre/Renato (BRA) vs Luini/Immers (NED), Men Pool F on CC | 1XBET Beach Pro Tour Elite Brasilia
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/lq3Wyjze/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/X4K9cHx5/poster.jpg?width=320",3rd Place: TBC - TBC
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/X4K9cHx5/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/ng8alsxg/poster.jpg?width=320",Gottardi/Orsi Toth R. (ITA) vs [tbc], Women Pool C on C2 | 1XBET Beach Pro Tour Elite Brasilia
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/ng8alsxg/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/mQ1tryQx/poster.jpg?width=320",Final: TBC - TBC
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/mQ1tryQx/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/PdSggiEn/poster.jpg?width=320",Kraft/Cheng (USA) vs [tbc], Women Pool E on C3 | 1XBET Beach Pro Tour Elite Brasilia
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/PdSggiEn/live.isml/.m3u8
