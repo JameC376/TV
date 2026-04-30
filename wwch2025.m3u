@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/ESHWPhXJ/poster.jpg?width=320",Carol /Rebecca (BRA) vs Shields/Tan (USA), Women Pool A on CC | 1XBET Beach Pro Tour Elite Brasilia
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/ESHWPhXJ/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/43gMELWD/poster.jpg?width=320",Scampoli/Bianchi (ITA) vs Quiggle/Loreen (USA), Women Pool B on C3 | 1XBET Beach Pro Tour Elite Brasilia
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/43gMELWD/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/m8eqzO7G/poster.jpg?width=320",Anouk/Zoé (SUI) vs Mäder/Kernen (SUI), Women Pool A on C2 | 1XBET Beach Pro Tour Elite Brasilia
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/m8eqzO7G/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/EBIVBoDD/poster.jpg?width=320",Asseco Resovia Rzeszow - PGE Projekt Warszawa | Play Off - 3rd place Round 2
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/EBIVBoDD/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/cRdJdGcb/poster.jpg?width=320",Chouikh/Genevieve-Gardoque  (FRA) vs Caldwell/La Bouliere (USA), Men Pool A on C2 | 1XBET Beach Pro Tour Elite Brasilia
@@ -21,10 +15,10 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/E9V6dBB1/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/pMP0yUB4/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/v98fvTQX/poster.jpg?width=320",Crabb/Benesh (USA) vs Vinicius/Heitor (BRA), Men Pool B on CC | 1XBET Beach Pro Tour Elite Brasilia
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/v98fvTQX/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/A5N348jD/poster.jpg?width=320",Hölting Nilsson/Andersson E (SWE) vs Cottafava/Dal Corso (ITA), Men Pool B on C2 | 1XBET Beach Pro Tour Elite Brasilia
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/A5N348jD/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/8qVnJOKv/poster.jpg?width=320",Plavins/Fokerots (LAT) vs Capogrosso N./Capogrosso T. (ARG), Men Pool D on C3 | 1XBET Beach Pro Tour Elite Brasilia
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/8qVnJOKv/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/A5N348jD/poster.jpg?width=320",Hölting Nilsson/Andersson E (SWE) vs Cottafava/Dal Corso (ITA), Men Pool B on C2 | 1XBET Beach Pro Tour Elite Brasilia
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/A5N348jD/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/Z4pkNstP/poster.jpg?width=320",Sir Susa Scai Perugia - Cucine Lube Civitanova | Play Off - Finals Round 1
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/Z4pkNstP/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/9uLoA1uT/poster.jpg?width=320",Andre/Renato (BRA) vs Schachter/Pickett (CAN), Men Pool F on CC | 1XBET Beach Pro Tour Elite Brasilia
@@ -39,3 +33,9 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/PLbXUocW/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/tGHSZBpa/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/4BZMXihV/poster.jpg?width=320",Kraft/Cheng (USA) vs Klinger D./Klinger R. (AUT), Women Pool E on C3 | 1XBET Beach Pro Tour Elite Brasilia
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/4BZMXihV/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/reMdQxNN/poster.jpg?width=320",Thamela/Victoria (BRA) vs Van Winkle/Phillips (USA), Women Pool E on CC | 1XBET Beach Pro Tour Elite Brasilia
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/reMdQxNN/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/RWBon9ZO/poster.jpg?width=320",Brunner/Hüberli (SUI) vs Urango/Rice (USA), Women Pool F on C2 | 1XBET Beach Pro Tour Elite Brasilia
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/RWBon9ZO/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/nkmkx4e3/poster.jpg?width=320",Stam/Schoon (NED) vs Savvy/Newberry (USA), Women Pool F on C3 | 1XBET Beach Pro Tour Elite Brasilia
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/nkmkx4e3/live.isml/.m3u8
