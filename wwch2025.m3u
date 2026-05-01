@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/UTLUEtbs/poster.jpg?width=320",Sada Cruzeiro - Itambe Minas | Play Off - SF Round 3
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/UTLUEtbs/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/9pZ3n1E1/poster.jpg?width=320",Anderson/Chacon (USA) vs Vieira/Chamereau (FRA), Women Lucky losers on CC | 1XBET Beach Pro Tour Elite Brasilia
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/9pZ3n1E1/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/FgEV1FE4/poster.jpg?width=320",Thamela/Victoria (BRA) vs Scampoli/Bianchi (ITA), Women Lucky losers on CC | 1XBET Beach Pro Tour Elite Brasilia
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/FgEV1FE4/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/IRieeJ2C/poster.jpg?width=320",Wolfdogs Nagoya - Hiroshima Thunders | Quarter-Finals - Round 2
@@ -39,3 +37,5 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/LrCVxXtJ/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/BShxLy7D/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/4X1jw1nn/poster.jpg?width=320",[tbc] vs [tbc], Women Round of 16 | 1XBET Beach Pro Tour Elite Brasilia
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/4X1jw1nn/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/GK93u96C/poster.jpg?width=320",[tbc] vs [tbc], Women Round of 16 | 1XBET Beach Pro Tour Elite Brasilia
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/GK93u96C/live.isml/.m3u8
