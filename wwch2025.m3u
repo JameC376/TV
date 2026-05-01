@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/pUQcoEf3/poster.jpg?width=320",Plavins/Fokerots (LAT) vs Łosiak/Bryl (POL), Men Pool D on C3 | 1XBET Beach Pro Tour Elite Brasilia
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/pUQcoEf3/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/t8S9pONo/poster.jpg?width=320",Schachter/Pickett (CAN) vs Luini/Immers (NED), Men Pool F on C2 | 1XBET Beach Pro Tour Elite Brasilia
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/t8S9pONo/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/G7Wgoyrp/poster.jpg?width=320",Andre/Renato (BRA) vs Hammarberg/Berger T. (AUT), Men Pool F on CC | 1XBET Beach Pro Tour Elite Brasilia
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/G7Wgoyrp/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/mhBG7Yy0/poster.jpg?width=320",Capogrosso N./Capogrosso T. (ARG) vs Friedli/Jordan (SUI), Men Pool D on C3 | 1XBET Beach Pro Tour Elite Brasilia
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/mhBG7Yy0/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/dte4dDYF/poster.jpg?width=320",Cottafava/Dal Corso (ITA) vs Vinicius/Heitor (BRA), Men Pool B on CC | 1XBET Beach Pro Tour Elite Brasilia
@@ -39,3 +33,9 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/9Y1SYpO3/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/8NHE6rPE/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/BqHAC8wt/poster.jpg?width=320",[tbc] vs [tbc], Men Lucky losers on CC | 1XBET Beach Pro Tour Elite Brasilia
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/BqHAC8wt/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/hdHeJk7R/poster.jpg?width=320",[tbc] vs [tbc], Men Lucky losers on CC | 1XBET Beach Pro Tour Elite Brasilia
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/hdHeJk7R/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/UTLUEtbs/poster.jpg?width=320",Sada Cruzeiro - Itambe Minas | Play Off - SF Round 3
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/UTLUEtbs/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/9pZ3n1E1/poster.jpg?width=320",[tbc] vs [tbc], Women Lucky losers on CC | 1XBET Beach Pro Tour Elite Brasilia
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/9pZ3n1E1/live.isml/.m3u8
