@@ -1,18 +1,8 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/hkXT4Pvv/poster.jpg?width=320",Itas Trentino - Valsa Group Modena | Play Off - CLA Final Round 1
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/hkXT4Pvv/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/JTo3zpVz/poster.jpg?width=320",Urango/Rice (USA) vs Savvy/Newberry (USA), Women Pool F on C3 | 1XBET Beach Pro Tour Elite Brasilia
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/JTo3zpVz/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/pZeSxbT8/poster.jpg?width=320",Brunner/Hüberli (SUI) vs Stam/Schoon (NED), Women Pool F on C2 | 1XBET Beach Pro Tour Elite Brasilia
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/pZeSxbT8/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/6sbT6tzs/poster.jpg?width=320",Thamela/Victoria (BRA) vs Kraft/Cheng (USA), Women Pool E on CC | 1XBET Beach Pro Tour Elite Brasilia
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/6sbT6tzs/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/nzub0Yh0/poster.jpg?width=320",Ana Patrícia/Duda (BRA) vs Sandra/Anna (GER), Women Pool D on CC | 1XBET Beach Pro Tour Elite Brasilia
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/nzub0Yh0/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/PknJwE3K/poster.jpg?width=320",Yan  X./X. Y. Xia (CHN) vs Vieira/Chamereau (FRA), Women Pool D on C2 | 1XBET Beach Pro Tour Elite Brasilia
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/PknJwE3K/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/sXm80HM5/poster.jpg?width=320",Quiggle/Loreen (USA) vs Hegeile/Vitoria (BRA), Women Pool B on C3 | 1XBET Beach Pro Tour Elite Brasilia
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/sXm80HM5/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/4k8YLowP/poster.jpg?width=320",Tina/Anastasija (LAT) vs Scampoli/Bianchi (ITA), Women Pool B on C3 | 1XBET Beach Pro Tour Elite Brasilia
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/4k8YLowP/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/9Y1SYpO3/poster.jpg?width=320",Mäder/Kernen (SUI) vs Shields/Tan (USA), Women Pool A on C2 | 1XBET Beach Pro Tour Elite Brasilia
@@ -39,3 +29,13 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/4FQb28sz/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/1Lrss1nv/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/pFgEqpTV/poster.jpg?width=320",Mol A./Sørum C. (NOR) vs Crabb/Benesh (USA), Men Round of 16 on C2 | 1XBET Beach Pro Tour Elite Brasilia
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/pFgEqpTV/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/gCaXQTK2/poster.jpg?width=320",Schalk/Shaw (USA) vs Plavins/Fokerots (LAT), Men Round of 16 on C3 | 1XBET Beach Pro Tour Elite Brasilia
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/gCaXQTK2/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/iS9sFkIc/poster.jpg?width=320",Rotar/Gauthier-Rat (FRA) vs Arthur/Adrielson (BRA), Men Round of 16 on CC | 1XBET Beach Pro Tour Elite Brasilia
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/iS9sFkIc/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/KNygjqyw/poster.jpg?width=320",Hölting Nilsson/Andersson E (SWE) vs [tbc], Men Round of 16 on C2 | 1XBET Beach Pro Tour Elite Brasilia
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/KNygjqyw/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/nz0FBwdJ/poster.jpg?width=320",Hammarberg/Berger T. (AUT) vs Grimalt M./Grimalt E. (CHI), Men Round of 16 on C3 | 1XBET Beach Pro Tour Elite Brasilia
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/nz0FBwdJ/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/t6hSXM6F/poster.jpg?width=320",Åhman/Hellvig (SWE) vs [tbc], Men Round of 16 on CC | 1XBET Beach Pro Tour Elite Brasilia
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/t6hSXM6F/live.isml/.m3u8
