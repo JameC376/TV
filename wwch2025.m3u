@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/3kY7CRnm/poster.jpg?width=320",Carol /Rebecca (BRA) vs Vieira/Chamereau (FRA), Women Round of 16 on CC | 1XBET Beach Pro Tour Elite Brasilia
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/3kY7CRnm/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/NtHwG3Sp/poster.jpg?width=320",Mol A./Sørum C. (NOR) vs Plavins/Fokerots (LAT), Men Quarterfinals on CC | 1XBET Beach Pro Tour Elite Brasilia
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/NtHwG3Sp/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/48hrHwol/poster.jpg?width=320",Rotar/Gauthier-Rat (FRA) vs Daubas/Aye C. (FRA), Men Quarterfinals on C2 | 1XBET Beach Pro Tour Elite Brasilia
@@ -13,9 +11,9 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/xi4F72M7/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/Lai8Cev2/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/JPOiUiOH/poster.jpg?width=320",Gottardi/Orsi Toth R. (ITA) vs Brunner/Hüberli (SUI), Women Quarterfinals on C2 | 1XBET Beach Pro Tour Elite Brasilia
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/JPOiUiOH/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/xBF2568n/poster.jpg?width=320",[tbc] vs [tbc], Women Quarterfinals | 1XBET Beach Pro Tour Elite Brasilia
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/xBF2568n/poster.jpg?width=320",Stam/Schoon (NED) vs Savvy/Newberry (USA), Women Quarterfinals on C2 | 1XBET Beach Pro Tour Elite Brasilia
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/xBF2568n/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/tqzhiOGq/poster.jpg?width=320",[tbc] vs [tbc], Women Quarterfinals | 1XBET Beach Pro Tour Elite Brasilia
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/tqzhiOGq/poster.jpg?width=320",Carol /Rebecca (BRA) vs Mäder/Kernen (SUI), Women Quarterfinals on CC | 1XBET Beach Pro Tour Elite Brasilia
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/tqzhiOGq/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/tfAA9LDO/poster.jpg?width=320",[tbc] vs [tbc], Men Semifinals | 1XBET Beach Pro Tour Elite Brasilia
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/tfAA9LDO/live.isml/.m3u8
@@ -39,3 +37,5 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/U4xKlNQ5/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/ihhzjSCW/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/HnjEu3Ft/poster.jpg?width=320",[tbc] vs [tbc], Women Final 1st Place on CC | 1XBET Beach Pro Tour Elite Brasilia
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/HnjEu3Ft/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/g5wZ8Brj/poster.jpg?width=320",Valsa Group Modena - Itas Trentino | Play Off - CLA Final Round 2
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/g5wZ8Brj/live.isml/.m3u8
