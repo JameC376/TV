@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/4X1jw1nn/poster.jpg?width=320",Savvy/Newberry (USA) vs Ana Patrícia/Duda (BRA), Women Round of 16 on CC | 1XBET Beach Pro Tour Elite Brasilia
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/4X1jw1nn/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/GK93u96C/poster.jpg?width=320",Mäder/Kernen (SUI) vs Taiana Lima/Talita (BRA), Women Round of 16 on C2 | 1XBET Beach Pro Tour Elite Brasilia
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/GK93u96C/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/3kY7CRnm/poster.jpg?width=320",Carol /Rebecca (BRA) vs Vieira/Chamereau (FRA), Women Round of 16 on CC | 1XBET Beach Pro Tour Elite Brasilia
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/3kY7CRnm/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/NtHwG3Sp/poster.jpg?width=320",Mol A./Sørum C. (NOR) vs Plavins/Fokerots (LAT), Men Quarterfinals on CC | 1XBET Beach Pro Tour Elite Brasilia
@@ -13,9 +9,9 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/48hrHwol/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/4N14ucrR/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/xi4F72M7/poster.jpg?width=320",Luini/Immers (NED) vs Łosiak/Bryl (POL), Men Quarterfinals on C2 | 1XBET Beach Pro Tour Elite Brasilia
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/xi4F72M7/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/Lai8Cev2/poster.jpg?width=320",[tbc] vs [tbc], Women Quarterfinals | 1XBET Beach Pro Tour Elite Brasilia
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/Lai8Cev2/poster.jpg?width=320",Sandra/Anna (GER) vs Tina/Anastasija (LAT), Women Quarterfinals on CC | 1XBET Beach Pro Tour Elite Brasilia
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/Lai8Cev2/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/JPOiUiOH/poster.jpg?width=320",[tbc] vs [tbc], Women Quarterfinals | 1XBET Beach Pro Tour Elite Brasilia
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/JPOiUiOH/poster.jpg?width=320",Gottardi/Orsi Toth R. (ITA) vs Brunner/Hüberli (SUI), Women Quarterfinals on C2 | 1XBET Beach Pro Tour Elite Brasilia
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/JPOiUiOH/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/xBF2568n/poster.jpg?width=320",[tbc] vs [tbc], Women Quarterfinals | 1XBET Beach Pro Tour Elite Brasilia
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/xBF2568n/live.isml/.m3u8
@@ -39,3 +35,7 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/C4WLoUIt/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/rqgkYjJX/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/U4xKlNQ5/poster.jpg?width=320",[tbc] vs [tbc], Women Final 3rd Place on CC | 1XBET Beach Pro Tour Elite Brasilia
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/U4xKlNQ5/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/ihhzjSCW/poster.jpg?width=320",[tbc] vs [tbc], Men Final 1st Place on CC | 1XBET Beach Pro Tour Elite Brasilia
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/ihhzjSCW/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/HnjEu3Ft/poster.jpg?width=320",[tbc] vs [tbc], Women Final 1st Place on CC | 1XBET Beach Pro Tour Elite Brasilia
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/HnjEu3Ft/live.isml/.m3u8
