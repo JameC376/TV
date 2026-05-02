@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/NtHwG3Sp/poster.jpg?width=320",Mol A./Sørum C. (NOR) vs Plavins/Fokerots (LAT), Men Quarterfinals on CC | 1XBET Beach Pro Tour Elite Brasilia
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/NtHwG3Sp/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/48hrHwol/poster.jpg?width=320",Rotar/Gauthier-Rat (FRA) vs Daubas/Aye C. (FRA), Men Quarterfinals on C2 | 1XBET Beach Pro Tour Elite Brasilia
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/48hrHwol/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/4N14ucrR/poster.jpg?width=320",Hammarberg/Berger T. (AUT) vs Hölting Nilsson/Andersson E (SWE), Men Quarterfinals on CC | 1XBET Beach Pro Tour Elite Brasilia
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/4N14ucrR/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/xi4F72M7/poster.jpg?width=320",Luini/Immers (NED) vs Łosiak/Bryl (POL), Men Quarterfinals on C2 | 1XBET Beach Pro Tour Elite Brasilia
@@ -39,3 +35,7 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/ihhzjSCW/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/HnjEu3Ft/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/g5wZ8Brj/poster.jpg?width=320",Valsa Group Modena - Itas Trentino | Play Off - CLA Final Round 2
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/g5wZ8Brj/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/BhwRZ4rm/poster.jpg?width=320",Sir Susa Scai Perugia - Cucine Lube Civitanova | Play Off - Finals Round 3
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/BhwRZ4rm/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/sAmWZaVZ/poster.jpg?width=320",Suntory Sunbirds Osaka - tbc | Semi-Finals - Round 1
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/sAmWZaVZ/live.isml/.m3u8
