@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/Lai8Cev2/poster.jpg?width=320",Sandra/Anna (GER) vs Tina/Anastasija (LAT), Women Quarterfinals on CC | 1XBET Beach Pro Tour Elite Brasilia
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/Lai8Cev2/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/xBF2568n/poster.jpg?width=320",Stam/Schoon (NED) vs Savvy/Newberry (USA), Women Quarterfinals on C2 | 1XBET Beach Pro Tour Elite Brasilia
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/xBF2568n/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/tqzhiOGq/poster.jpg?width=320",Carol /Rebecca (BRA) vs Mäder/Kernen (SUI), Women Quarterfinals on CC | 1XBET Beach Pro Tour Elite Brasilia
@@ -39,3 +37,5 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/149VtNQ7/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/vG2pUtmJ/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/EIkAYLLh/poster.jpg?width=320",Osaka Bluteon - tbc | Semi-Finals - Round 2
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/EIkAYLLh/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/mQvu96lE/poster.jpg?width=320",tbc - tbc | Play Off - Final
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/mQvu96lE/live.isml/.m3u8
