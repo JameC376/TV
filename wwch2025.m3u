@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/NyxP9H1Y/poster.jpg?width=320",Tina/Anastasija (LAT) vs Thamela/Victoria (BRA), Women Round of 16 on CC | 1XBET Beach Pro Tour Elite Brasilia
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/NyxP9H1Y/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/e8ztMqMk/poster.jpg?width=320",Klinger D./Klinger R. (AUT) vs Sandra/Anna (GER), Women Round of 16 on C2 | 1XBET Beach Pro Tour Elite Brasilia
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/e8ztMqMk/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/9LDXPTvm/poster.jpg?width=320",Gottardi/Orsi Toth R. (ITA) vs Anouk/Zoé (SUI), Women Round of 16 on C3 | 1XBET Beach Pro Tour Elite Brasilia
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/9LDXPTvm/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/LrCVxXtJ/poster.jpg?width=320",Kraft/Cheng (USA) vs Stam/Schoon (NED), Women Round of 16 on C2 | 1XBET Beach Pro Tour Elite Brasilia
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/LrCVxXtJ/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/BShxLy7D/poster.jpg?width=320",Quiggle/Loreen (USA) vs Brunner/Hüberli (SUI), Women Round of 16 on C3 | 1XBET Beach Pro Tour Elite Brasilia
@@ -39,3 +33,9 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/VK7i6vPb/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/vXlpKHHk/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/XhnVPOqk/poster.jpg?width=320",Gerdau Minas - Dentil Praia Clube | Play Off - Final
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/XhnVPOqk/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/YceL7f8D/poster.jpg?width=320",[tbc] vs [tbc], Women Semifinals | 1XBET Beach Pro Tour Elite Brasilia
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/YceL7f8D/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/T6hcGhPs/poster.jpg?width=320",[tbc] vs [tbc], Women Semifinals | 1XBET Beach Pro Tour Elite Brasilia
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/T6hcGhPs/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/C4WLoUIt/poster.jpg?width=320",Cucine Lube Civitanova - Sir Susa Scai Perugia | Play Off - Finals Round 2
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/C4WLoUIt/live.isml/.m3u8
