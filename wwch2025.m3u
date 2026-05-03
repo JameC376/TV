@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/ihhzjSCW/poster.jpg?width=320",Łosiak/Bryl (POL) vs Hölting Nilsson/Andersson E (SWE), Men Final 1st Place on CC | 1XBET Beach Pro Tour Elite Brasilia
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/ihhzjSCW/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/HnjEu3Ft/poster.jpg?width=320",Carol /Rebecca (BRA) vs Gottardi/Orsi Toth R. (ITA), Women Final 1st Place on CC | 1XBET Beach Pro Tour Elite Brasilia
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/HnjEu3Ft/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/qjz8Vnam/poster.jpg?width=320",Valsa Group Modena - Itas Trentino | Play Off - CLA Final Round 2
@@ -39,3 +37,5 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/1Lrss1nv/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/pFgEqpTV/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/gCaXQTK2/poster.jpg?width=320",Schalk/Shaw (USA) vs Plavins/Fokerots (LAT), Men Round of 16 on C3 | 1XBET Beach Pro Tour Elite Brasilia - Replay
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/gCaXQTK2/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/C4WLoUIt/poster.jpg?width=320",Cucine Lube Civitanova - Sir Susa Scai Perugia | Play Off - Finals Round 2 - Replay
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/C4WLoUIt/live.isml/.m3u8
