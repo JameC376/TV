@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/C4WLoUIt/poster.jpg?width=320",Cucine Lube Civitanova - Sir Susa Scai Perugia | Play Off - Finals Round 2
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/C4WLoUIt/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/rqgkYjJX/poster.jpg?width=320",Plavins/Fokerots (LAT) vs Rotar/Gauthier-Rat (FRA), Men Final 3rd Place on CC | 1XBET Beach Pro Tour Elite Brasilia
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/rqgkYjJX/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/U4xKlNQ5/poster.jpg?width=320",Savvy/Newberry (USA) vs Tina/Anastasija (LAT), Women Final 3rd Place on CC | 1XBET Beach Pro Tour Elite Brasilia
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/U4xKlNQ5/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/ihhzjSCW/poster.jpg?width=320",Łosiak/Bryl (POL) vs Hölting Nilsson/Andersson E (SWE), Men Final 1st Place on CC | 1XBET Beach Pro Tour Elite Brasilia
@@ -39,3 +35,7 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/6Ye2f0om/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/EcVaQ8fa/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/QMZr3S4t/poster.jpg?width=320",Final: TBC - TBC
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/QMZr3S4t/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/1Lrss1nv/poster.jpg?width=320",Daubas/Aye C. (FRA) vs Andre/Renato (BRA), Men Round of 16 on CC | 1XBET Beach Pro Tour Elite Brasilia - Replay
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/1Lrss1nv/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/pFgEqpTV/poster.jpg?width=320",Mol A./Sørum C. (NOR) vs Crabb/Benesh (USA), Men Round of 16 on C2 | 1XBET Beach Pro Tour Elite Brasilia - Replay
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/pFgEqpTV/live.isml/.m3u8
