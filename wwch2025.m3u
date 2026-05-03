@@ -1,19 +1,13 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/VK7i6vPb/poster.jpg?width=320",PGE Projekt Warszawa - Asseco Resovia Rzeszow | Play Off - 3rd place Round 3
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/VK7i6vPb/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/XhnVPOqk/poster.jpg?width=320",Gerdau Minas - Dentil Praia Clube | Play Off - Final
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/XhnVPOqk/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/T6hcGhPs/poster.jpg?width=320",Gottardi/Orsi Toth R. (ITA) vs Tina/Anastasija (LAT), Women Semifinals on CC | 1XBET Beach Pro Tour Elite Brasilia
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/T6hcGhPs/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/C4WLoUIt/poster.jpg?width=320",Cucine Lube Civitanova - Sir Susa Scai Perugia | Play Off - Finals Round 2
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/C4WLoUIt/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/rqgkYjJX/poster.jpg?width=320",Plavins/Fokerots (LAT) vs Rotar/Gauthier-Rat (FRA), Men Final 3rd Place on CC | 1XBET Beach Pro Tour Elite Brasilia
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/rqgkYjJX/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/U4xKlNQ5/poster.jpg?width=320",[tbc] vs [tbc], Women Final 3rd Place on CC | 1XBET Beach Pro Tour Elite Brasilia
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/U4xKlNQ5/poster.jpg?width=320",Savvy/Newberry (USA) vs Tina/Anastasija (LAT), Women Final 3rd Place on CC | 1XBET Beach Pro Tour Elite Brasilia
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/U4xKlNQ5/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/ihhzjSCW/poster.jpg?width=320",Łosiak/Bryl (POL) vs Hölting Nilsson/Andersson E (SWE), Men Final 1st Place on CC | 1XBET Beach Pro Tour Elite Brasilia
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/ihhzjSCW/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/HnjEu3Ft/poster.jpg?width=320",[tbc] vs [tbc], Women Final 1st Place on CC | 1XBET Beach Pro Tour Elite Brasilia
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/HnjEu3Ft/poster.jpg?width=320",Carol /Rebecca (BRA) vs Gottardi/Orsi Toth R. (ITA), Women Final 1st Place on CC | 1XBET Beach Pro Tour Elite Brasilia
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/HnjEu3Ft/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/qjz8Vnam/poster.jpg?width=320",Valsa Group Modena - Itas Trentino | Play Off - CLA Final Round 2
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/qjz8Vnam/live.isml/.m3u8
@@ -39,3 +33,9 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/QtmPYU8k/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/myopAnUq/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/Zkjmxb0B/poster.jpg?width=320",Semi-Final: TBC - TBC
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/Zkjmxb0B/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/6Ye2f0om/poster.jpg?width=320",Semi-Final: TBC - TBC
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/6Ye2f0om/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/EcVaQ8fa/poster.jpg?width=320",3rd Place: TBC - TBC
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/EcVaQ8fa/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/QMZr3S4t/poster.jpg?width=320",Final: TBC - TBC
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/QMZr3S4t/live.isml/.m3u8
