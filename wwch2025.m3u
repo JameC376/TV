@@ -1,4 +1,14 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/btKtjYQa/poster.jpg?width=320",Wash4green Monviso Volley - Savino Del Bene Scandicci | Round 1 - Replay
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/btKtjYQa/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/Dliozqj2/poster.jpg?width=320",Bartoccini-Mc Restauri Perugia -  Megabox Ondulati Del Savio Vallefoglia | Round 1
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/Dliozqj2/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/IWKfmqSk/poster.jpg?width=320",Cbf Balducci Hr Macerata -  Cuneo Granda Volley | Round 1
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/IWKfmqSk/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/Te8oyJxU/poster.jpg?width=320",Numia Vero Volley Milano -  Bergamo | Round 1
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/Te8oyJxU/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/EeoAOpGS/poster.jpg?width=320",Daubas/Aye C. (FRA) vs Arthur/Adrielson (BRA), Men Pool D on CC | João Pessoa (BRA)
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/EeoAOpGS/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/sAmWZaVZ/poster.jpg?width=320",Suntory Sunbirds Osaka - Wolfdogs Nagoya | Semi-Finals - Round 1
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/sAmWZaVZ/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/149VtNQ7/poster.jpg?width=320",Osaka Bluteon - Jtekt Stings Aichi | Semi-Finals - Round 1
@@ -19,11 +29,13 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/1nmvCqBl/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/QtmPYU8k/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/myopAnUq/poster.jpg?width=320",Pool B: Foolad Sirjan Iranian (IRI) - Jakarta Garuda Jaya (INA)
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/myopAnUq/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/Zkjmxb0B/poster.jpg?width=320",Semi-Final: TBC - TBC
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/Zkjmxb0B/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/6Ye2f0om/poster.jpg?width=320",Semi-Final: TBC - TBC
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/6Ye2f0om/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/PaG3ackd/poster.jpg?width=320",Semi-Final: TBC - TBC
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/PaG3ackd/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/jTmbL8ix/poster.jpg?width=320",Semi-Final: TBC - TBC
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/jTmbL8ix/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/EcVaQ8fa/poster.jpg?width=320",3rd Place: TBC - TBC
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/EcVaQ8fa/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/QMZr3S4t/poster.jpg?width=320",Final: TBC - TBC
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/QMZr3S4t/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/xBF2568n/poster.jpg?width=320",Stam/Schoon (NED) vs Savvy/Newberry (USA), Women Quarterfinals on C2 | 1XBET Beach Pro Tour Elite Brasilia
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/xBF2568n/live.isml/.m3u8
