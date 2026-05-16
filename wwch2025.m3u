@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/OevC81Yx/poster.jpg?width=320",Suntory Sunbirds Osaka - Osaka Bluteon | Finals - Round 2
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/OevC81Yx/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/YGI3ehbp/poster.jpg?width=320",Semi-Final: Jtekt Stings Aichi (JPN) - Foolad Sirjan Iranian (IRI)
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/YGI3ehbp/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/92qFv1PB/poster.jpg?width=320",Semi-Final: Jakarta Bhayangkara Presisi (INA) - Hyundai Capital SkyWalkers (KOR)
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/92qFv1PB/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/N6FS6YW2/poster.jpg?width=320",3rd Place: TBC - TBC
@@ -39,3 +35,7 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/YYmDV2Q3/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/7UPYwpyd/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/3OMs2eDL/poster.jpg?width=320",Ehlers/Wickler (GER) vs Crabb/Benesh (USA), Men Pool B on C2 | Ostrava (CZE)
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/3OMs2eDL/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/j3ENEn61/poster.jpg?width=320",van de Velde/de Groot (NED) vs Trousil/Schweiner (CZE), Men Pool D on CC | Ostrava (CZE)
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/j3ENEn61/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/Ac3HpdQB/poster.jpg?width=320",Plavins/Fokerots (LAT) vs [tbc], Men Pool C on C2 | Ostrava (CZE)
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/Ac3HpdQB/live.isml/.m3u8
