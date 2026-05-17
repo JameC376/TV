@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/TNCn5PFN/poster.jpg?width=320",Final: Foolad Sirjan Iranian (IRI) - Jakarta Bhayangkara Presisi (INA)
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/TNCn5PFN/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/KPfyZGQH/poster.jpg?width=320",Stam/Schoon (NED) vs Ferch/Van Gunst (USA), Women Pool A on C3 | Ostrava (CZE)
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/KPfyZGQH/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/pIaELWdF/poster.jpg?width=320",Brunner/Hüberli (SUI) vs [tbc], Women Pool D on C2 | Ostrava (CZE)
@@ -25,10 +23,10 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/Hn424Yd6/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/uL43wOfG/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/3u0veSwr/poster.jpg?width=320",Carol /Rebecca (BRA) vs [tbc], Women Pool B on CC | Ostrava (CZE)
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/3u0veSwr/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/7UPYwpyd/poster.jpg?width=320",Cherif/Ahmed (QAT) vs [tbc], Men Pool B on CC | Ostrava (CZE)
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/7UPYwpyd/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/YYmDV2Q3/poster.jpg?width=320",Boermans/Brouwer (NED) vs Hammarberg/Berger T. (AUT), Men Pool C on C3 | Ostrava (CZE)
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/YYmDV2Q3/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/7UPYwpyd/poster.jpg?width=320",Cherif/Ahmed (QAT) vs [tbc], Men Pool B on CC | Ostrava (CZE)
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/7UPYwpyd/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/3OMs2eDL/poster.jpg?width=320",Ehlers/Wickler (GER) vs Crabb/Benesh (USA), Men Pool B on C2 | Ostrava (CZE)
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/3OMs2eDL/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/j3ENEn61/poster.jpg?width=320",van de Velde/de Groot (NED) vs Trousil/Schweiner (CZE), Men Pool D on CC | Ostrava (CZE)
@@ -39,3 +37,5 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/Ac3HpdQB/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/h7Zb2Exp/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/HN4FuikG/poster.jpg?width=320",Hölting Nilsson/Andersson E (SWE) vs [tbc], Men Pool D on CC | Ostrava (CZE)
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/HN4FuikG/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/INi8MnXQ/poster.jpg?width=320",Mol A./Sørum C. (NOR) vs [tbc], Men Pool E on C2 | Ostrava (CZE)
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/INi8MnXQ/live.isml/.m3u8
