@@ -1,32 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/0L0NaNdA/poster.jpg?width=320",Mäder/Kernen (SUI) vs Pavelková K./Pavelková A. (CZE), Women Pool F on CC | Ostrava (CZE)
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/0L0NaNdA/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/RgIsdwPz/poster.jpg?width=320",Tina/Anastasija (LAT) vs Anouk/Zoé (SUI), Women Pool C on C3 | Ostrava (CZE)
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/RgIsdwPz/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/yZoCt87Z/poster.jpg?width=320",Sandra/Anna (GER) vs Davidova/Khmil (UKR), Women Pool E on C3 | Ostrava (CZE)
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/yZoCt87Z/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/uWOkBE16/poster.jpg?width=320",Carol /Rebecca (BRA) vs Scampoli/Bianchi (ITA), Women Pool B on C2 | Ostrava (CZE)
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/uWOkBE16/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/6YUqSrMh/poster.jpg?width=320",Cheng/Kraft (USA) vs Kylie/Maixnerova (CZE), Women Pool B on CC | Ostrava (CZE)
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/6YUqSrMh/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/cBWIXZba/poster.jpg?width=320",Melissa/Brandie (CAN) vs Quiggle/Loreen (USA), Women Pool F on C2 | Ostrava (CZE)
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/cBWIXZba/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/HYfVCfAX/poster.jpg?width=320",Thamela/Victoria (BRA) vs Izuzquiza/Tania (ESP), Women Pool D on C3 | Ostrava (CZE)
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/HYfVCfAX/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/ZBsqZwz4/poster.jpg?width=320",Brunner/Hüberli (SUI) vs Svozilova/Stochlova (CZE), Women Pool D on CC | Ostrava (CZE)
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/ZBsqZwz4/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/RtmIQbXy/poster.jpg?width=320",Boermans/Brouwer (NED) vs Arthur/Adrielson (BRA), Men Pool C on C3 | Ostrava (CZE)
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/RtmIQbXy/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/6rsyRNIu/poster.jpg?width=320",Åhman/Hellvig (SWE) vs Andre/Renato (BRA), Men Pool A on CC | Ostrava (CZE)
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/6rsyRNIu/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/gVzTVYbM/poster.jpg?width=320",Łosiak/Bryl (POL) vs Seidl R./Seiser (AUT), Men Pool A on C2 | Ostrava (CZE)
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/gVzTVYbM/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/9PkSAWlX/poster.jpg?width=320",Plavins/Fokerots (LAT) vs Hammarberg/Berger T. (AUT), Men Pool C on C2 | Ostrava (CZE)
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/9PkSAWlX/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/m9PJ6akQ/poster.jpg?width=320",Trousil/Schweiner (CZE) vs Luini/Immers (NED), Men Pool F on CC | Ostrava (CZE)
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/m9PJ6akQ/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/z2Njd30q/poster.jpg?width=320",Daubas/Aye C. (FRA) vs Shaw/Partain (USA), Men Pool F on C3 | Ostrava (CZE)
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/z2Njd30q/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/Dz38WHEW/poster.jpg?width=320",Evandro/Arthur Lanci (BRA) vs Capogrosso N./Capogrosso T. (ARG), Men Pool E on C3 | Ostrava (CZE)
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/Dz38WHEW/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/IrJqbQo7/poster.jpg?width=320",Hölting Nilsson/Andersson E (SWE) vs Grimalt M./Grimalt E. (CHI), Men Pool D on C2 | Ostrava (CZE)
@@ -35,7 +9,33 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/IrJqbQo7/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/DnwC3QtE/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/qQdZrVzP/poster.jpg?width=320",Rotar/Gauthier-Rat (FRA) vs Perusic/Sedlak (CZE), Men Pool E on CC | Ostrava (CZE)
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/qQdZrVzP/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/rKme2CXq/poster.jpg?width=320",Chouikh/Genevieve-Gardoque  (FRA) vs Bedritis/Rinkevics (LAT), Men Pool B on C3 | Ostrava (CZE)
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/rKme2CXq/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/HNwI4o9t/poster.jpg?width=320",Cherif/Ahmed (QAT) vs Crabb/Benesh (USA), Men Pool B on C2 | Ostrava (CZE)
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/HNwI4o9t/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/rKme2CXq/poster.jpg?width=320",Chouikh/Genevieve-Gardoque  (FRA) vs Bedritis/Rinkevics (LAT), Men Pool B on C3 | Ostrava (CZE)
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/rKme2CXq/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/7DpwzWo0/poster.jpg?width=320",Brunner/Hüberli (SUI) vs Thamela/Victoria (BRA), Women Pool D on C2 | Ostrava (CZE)
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/7DpwzWo0/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/17hIlqrQ/poster.jpg?width=320",Svozilova/Stochlova (CZE) vs Izuzquiza/Tania (ESP), Women Pool D on CC | Ostrava (CZE)
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/17hIlqrQ/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/24cCf4Z1/poster.jpg?width=320",Cruz/Brasher (USA) vs Stam/Schoon (NED), Women Pool A on C3 | Ostrava (CZE)
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/24cCf4Z1/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/Tuy88a5Q/poster.jpg?width=320",Gottardi/Orsi Toth R. (ITA) vs Sandra/Anna (GER), Women Pool E on C2 | Ostrava (CZE)
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/Tuy88a5Q/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/dJx2johe/poster.jpg?width=320",Ferch/Van Gunst (USA) vs Dvorníková/Kleiblova (CZE), Women Pool A on CC | Ostrava (CZE)
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/dJx2johe/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/koikqqIa/poster.jpg?width=320",Hughes/Batenhorst (USA) vs Davidova/Khmil (UKR), Women Pool E on C3 | Ostrava (CZE)
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/koikqqIa/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/S67pRkjC/poster.jpg?width=320",Melissa/Brandie (CAN) vs Mäder/Kernen (SUI), Women Pool F on C2 | Ostrava (CZE)
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/S67pRkjC/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/NIFg21rR/poster.jpg?width=320",Scampoli/Bianchi (ITA) vs Kylie/Maixnerova (CZE), Women Pool B on CC | Ostrava (CZE)
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/NIFg21rR/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/Sv7GU9Eo/poster.jpg?width=320",Carol /Rebecca (BRA) vs Cheng/Kraft (USA), Women Pool B on C3 | Ostrava (CZE)
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/Sv7GU9Eo/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/cYffawKE/poster.jpg?width=320",Anouk/Zoé (SUI) vs Klinger D./Klinger R. (AUT), Women Pool C on C3 | Ostrava (CZE)
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/cYffawKE/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/7nYPjElS/poster.jpg?width=320",Quiggle/Loreen (USA) vs Pavelková K./Pavelková A. (CZE), Women Pool F on CC | Ostrava (CZE)
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/7nYPjElS/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/bhZp6eNi/poster.jpg?width=320",Tina/Anastasija (LAT) vs Müller/Tillmann (GER), Women Pool C on C2 | Ostrava (CZE)
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/bhZp6eNi/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/JkR2ZTtp/poster.jpg?width=320",Åhman/Hellvig (SWE) vs Łosiak/Bryl (POL), Men Pool A on CC | Ostrava (CZE)
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/JkR2ZTtp/live.isml/.m3u8
