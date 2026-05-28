@@ -1,8 +1,8 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/YYmDV2Q3/poster.jpg?width=320",Cherif/Ahmed (QAT) vs Bedritis/Rinkevics (LAT), Men Pool B on C3 | Ostrava (CZE)
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/YYmDV2Q3/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/7UPYwpyd/poster.jpg?width=320",Evandro/Arthur Lanci (BRA) vs Perusic/Sedlak (CZE), Men Pool E on CC | Ostrava (CZE)
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/7UPYwpyd/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/YYmDV2Q3/poster.jpg?width=320",Cherif/Ahmed (QAT) vs Bedritis/Rinkevics (LAT), Men Pool B on C3 | Ostrava (CZE)
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/YYmDV2Q3/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/3OMs2eDL/poster.jpg?width=320",Chouikh/Genevieve-Gardoque  (FRA) vs Crabb/Benesh (USA), Men Pool B on C2 | Ostrava (CZE)
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/3OMs2eDL/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/j3ENEn61/poster.jpg?width=320",Trousil/Schweiner (CZE) vs Shaw/Partain (USA), Men Pool F on CC | Ostrava (CZE)
