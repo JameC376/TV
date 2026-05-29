@@ -1,32 +1,12 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/OE9k3wRT/poster.jpg?width=320",Evandro/Arthur Lanci (BRA) vs Rotar/Gauthier-Rat (FRA), Men Pool E on C3 | Ostrava (CZE)
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/OE9k3wRT/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/8lexDzIh/poster.jpg?width=320",Plavins/Fokerots (LAT) vs Boermans/Brouwer (NED), Men Pool C on C2 | Ostrava (CZE)
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/8lexDzIh/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/jiZY9P0o/poster.jpg?width=320",Trousil/Schweiner (CZE) vs Daubas/Aye C. (FRA), Men Pool F on CC | Ostrava (CZE)
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/jiZY9P0o/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/V4R8j9ZZ/poster.jpg?width=320",Capogrosso N./Capogrosso T. (ARG) vs Perusic/Sedlak (CZE), Men Pool E on CC | Ostrava (CZE)
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/V4R8j9ZZ/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/4EKL4CkC/poster.jpg?width=320",Hölting Nilsson/Andersson E (SWE) vs van de Velde/de Groot (NED), Men Pool D on C2 | Ostrava (CZE)
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/4EKL4CkC/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/iY6xAIuo/poster.jpg?width=320",Luini/Immers (NED) vs Shaw/Partain (USA), Men Pool F on C3 | Ostrava (CZE)
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/iY6xAIuo/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/XzlyR3pU/poster.jpg?width=320",Cherif/Ahmed (QAT) vs Chouikh/Genevieve-Gardoque  (FRA), Men Pool B on C2 | Ostrava (CZE)
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/XzlyR3pU/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/r5OmKLEY/poster.jpg?width=320",Crabb/Benesh (USA) vs Bedritis/Rinkevics (LAT), Men Pool B on C3 | Ostrava (CZE)
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/r5OmKLEY/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/ejojLmKh/poster.jpg?width=320",Grimalt M./Grimalt E. (CHI) vs Dzavoronok/Sepka (CZE), Men Pool D on CC | Ostrava (CZE)
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/ejojLmKh/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/SZQSuo21/poster.jpg?width=320",[tbc] vs [tbc], Women Lucky losers | Ostrava (CZE)
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/SZQSuo21/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/YcBXKXwR/poster.jpg?width=320",Izuzquiza/Tania (ESP) vs Kylie/Maixnerova (CZE), Women Lucky losers on CC | Ostrava (CZE)
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/YcBXKXwR/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/f0g8ekBf/poster.jpg?width=320",[tbc] vs [tbc], Men Lucky losers | Ostrava (CZE)
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/f0g8ekBf/poster.jpg?width=320",Quiggle/Loreen (USA) vs Stam/Schoon (NED), Women Round of 16 on C2 | Ostrava (CZE)
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/f0g8ekBf/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/OPbeHA5Q/poster.jpg?width=320",[tbc] vs [tbc], Women Round of 16 | Ostrava (CZE)
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/OPbeHA5Q/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/QJx90nU4/poster.jpg?width=320",[tbc] vs [tbc], Men Lucky losers | Ostrava (CZE)
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/QJx90nU4/poster.jpg?width=320",Arthur/Adrielson (BRA) vs Capogrosso N./Capogrosso T. (ARG), Men Lucky losers on C3 | Ostrava (CZE)
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/QJx90nU4/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/OPbeHA5Q/poster.jpg?width=320",Łosiak/Bryl (POL) vs Dzavoronok/Sepka (CZE), Men Lucky losers on CC | Ostrava (CZE)
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/OPbeHA5Q/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/j5Y31pRM/poster.jpg?width=320",[tbc] vs [tbc], Women Round of 16 | Ostrava (CZE)
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/j5Y31pRM/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/reWesAMK/poster.jpg?width=320",[tbc] vs [tbc], Women Round of 16 | Ostrava (CZE)
@@ -39,3 +19,23 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/a2AIzVHE/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/REjTXaOu/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/PfBJzDdB/poster.jpg?width=320",[tbc] vs [tbc], Women Round of 16 | Ostrava (CZE)
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/PfBJzDdB/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/ohIbedSN/poster.jpg?width=320",[tbc] vs [tbc], Men Round of 16 | Ostrava (CZE)
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/ohIbedSN/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/FVuORJRK/poster.jpg?width=320",[tbc] vs [tbc], Men Round of 16 | Ostrava (CZE)
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/FVuORJRK/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/hGa15boP/poster.jpg?width=320",[tbc] vs [tbc], Women Round of 16 | Ostrava (CZE)
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/hGa15boP/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/7OO0q8dx/poster.jpg?width=320",[tbc] vs [tbc], Men Round of 16 | Ostrava (CZE)
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/7OO0q8dx/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/FTHUcO9T/poster.jpg?width=320",[tbc] vs [tbc], Men Round of 16 | Ostrava (CZE)
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/FTHUcO9T/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/lQl3G1nT/poster.jpg?width=320",[tbc] vs [tbc], Men Round of 16 | Ostrava (CZE)
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/lQl3G1nT/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/Pi5qcdjs/poster.jpg?width=320",[tbc] vs [tbc], Men Round of 16 | Ostrava (CZE)
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/Pi5qcdjs/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/T9x9QxRj/poster.jpg?width=320",[tbc] vs [tbc], Men Round of 16 | Ostrava (CZE)
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/T9x9QxRj/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/m1bMDiZ1/poster.jpg?width=320",[tbc] vs [tbc], Men Round of 16 | Ostrava (CZE)
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/m1bMDiZ1/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/Qz20tWSW/poster.jpg?width=320",[tbc] vs [tbc], Women Quarterfinals | Ostrava (CZE)
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/Qz20tWSW/live.isml/.m3u8
