@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/89AbTV6q/poster.jpg?width=320",Capogrosso N./Capogrosso T. (ARG) vs Cherif/Ahmed (QAT), Men Quarterfinals on C2 | Ostrava (CZE)
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/89AbTV6q/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/AXNB4xGH/poster.jpg?width=320",Åhman/Hellvig (SWE) vs van de Velde/de Groot (NED), Men Quarterfinals on CC | Ostrava (CZE)
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/AXNB4xGH/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/y4szrqQZ/poster.jpg?width=320",Boermans/Brouwer (NED) vs Crabb/Benesh (USA), Men Quarterfinals on C2 | Ostrava (CZE)
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/y4szrqQZ/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/UBK76IIq/poster.jpg?width=320",Daubas/Aye C. (FRA) vs Perusic/Sedlak (CZE), Men Quarterfinals on CC | Ostrava (CZE)
@@ -39,3 +35,7 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/2ohiqxVf/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/wJP7FFKf/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/8ZvCMzYY/poster.jpg?width=320",Brazil v Netherlands | Week 1 | Women's VNL 2026
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/8ZvCMzYY/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/qN61LiZ1/poster.jpg?width=320",Canada v Germany | Week 1 | Women's VNL 2026
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/qN61LiZ1/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/b2rBVxW3/poster.jpg?width=320",Czechia v Poland | Week 1 | Women's VNL 2026
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/b2rBVxW3/live.isml/.m3u8
