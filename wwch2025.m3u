@@ -1,14 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/Pi5qcdjs/poster.jpg?width=320",Plavins/Fokerots (LAT) vs Daubas/Aye C. (FRA), Men Round of 16 on C2 | Ostrava (CZE)
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/Pi5qcdjs/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/T9x9QxRj/poster.jpg?width=320",Perusic/Sedlak (CZE) vs Trousil/Schweiner (CZE), Men Round of 16 on CC | Ostrava (CZE)
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/T9x9QxRj/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/m1bMDiZ1/poster.jpg?width=320",Boermans/Brouwer (NED) vs Shaw/Partain (USA), Men Round of 16 on C3 | Ostrava (CZE)
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/m1bMDiZ1/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/Qz20tWSW/poster.jpg?width=320",Müller/Tillmann (GER) vs Thamela/Victoria (BRA), Women Quarterfinals on CC | Ostrava (CZE)
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/Qz20tWSW/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/6qtBUh6B/poster.jpg?width=320",Cruz/Brasher (USA) vs Stam/Schoon (NED), Women Quarterfinals on C2 | Ostrava (CZE)
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/6qtBUh6B/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/xlcF8ZxY/poster.jpg?width=320",Carol /Rebecca (BRA) vs Mäder/Kernen (SUI), Women Quarterfinals on C2 | Ostrava (CZE)
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/xlcF8ZxY/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/rhYK3Nma/poster.jpg?width=320",Tina/Anastasija (LAT) vs Melissa/Brandie (CAN), Women Quarterfinals on CC | Ostrava (CZE)
@@ -17,13 +7,13 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/rhYK3Nma/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/89AbTV6q/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/AXNB4xGH/poster.jpg?width=320",Åhman/Hellvig (SWE) vs van de Velde/de Groot (NED), Men Quarterfinals on CC | Ostrava (CZE)
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/AXNB4xGH/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/y4szrqQZ/poster.jpg?width=320",[tbc] vs Crabb/Benesh (USA), Men Quarterfinals on C2 | Ostrava (CZE)
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/y4szrqQZ/poster.jpg?width=320",Boermans/Brouwer (NED) vs Crabb/Benesh (USA), Men Quarterfinals on C2 | Ostrava (CZE)
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/y4szrqQZ/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/UBK76IIq/poster.jpg?width=320",[tbc] vs [tbc], Men Quarterfinals on CC | Ostrava (CZE)
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/UBK76IIq/poster.jpg?width=320",Daubas/Aye C. (FRA) vs Perusic/Sedlak (CZE), Men Quarterfinals on CC | Ostrava (CZE)
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/UBK76IIq/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/2N7ZNAkA/poster.jpg?width=320",[tbc] vs [tbc], Men Semifinals | Ostrava (CZE)
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/2N7ZNAkA/poster.jpg?width=320",Stam/Schoon (NED) vs Thamela/Victoria (BRA), Women Semifinals on CC | Ostrava (CZE)
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/2N7ZNAkA/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/EOmgITFt/poster.jpg?width=320",[tbc] vs [tbc], Men Semifinals | Ostrava (CZE)
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/EOmgITFt/poster.jpg?width=320",[tbc] vs [tbc], Women Semifinals on CC | Ostrava (CZE)
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/EOmgITFt/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/TuAGep1U/poster.jpg?width=320",[tbc] vs [tbc], Women Semifinals | Ostrava (CZE)
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/TuAGep1U/live.isml/.m3u8
@@ -39,3 +29,13 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/GodNIZYu/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/TFvLvLoX/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/cqpCLlpz/poster.jpg?width=320",Belgium v Poland | Week 1 | Women's VNL 2026
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/cqpCLlpz/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/3gSujDgT/poster.jpg?width=320",Thailand v Serbia | Week 1 | Women's VNL 2026
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/3gSujDgT/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/i4OtbSxf/poster.jpg?width=320",China v Czechia | Week 1 | Women's VNL 2026
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/i4OtbSxf/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/J6XTEhGs/poster.jpg?width=320",Ukraine v USA | Week 1 | Women's VNL 2026
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/J6XTEhGs/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/Op4du1jX/poster.jpg?width=320",Dominican Republic v Türkiye | Week 1 | Women's VNL 2026
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/Op4du1jX/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/2ohiqxVf/poster.jpg?width=320",Italy v Bulgaria | Week 1 | Women's VNL 2026
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/2ohiqxVf/live.isml/.m3u8
