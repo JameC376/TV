@@ -1,14 +1,14 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/f0g8ekBf/poster.jpg?width=320",Quiggle/Loreen (USA) vs Stam/Schoon (NED), Women Round of 16 on C2 | Ostrava (CZE)
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/f0g8ekBf/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/QJx90nU4/poster.jpg?width=320",Arthur/Adrielson (BRA) vs Capogrosso N./Capogrosso T. (ARG), Men Lucky losers on C3 | Ostrava (CZE)
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/QJx90nU4/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/OPbeHA5Q/poster.jpg?width=320",Łosiak/Bryl (POL) vs Dzavoronok/Sepka (CZE), Men Lucky losers on CC | Ostrava (CZE)
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/OPbeHA5Q/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/4REEXZ9K/poster.jpg?width=320",Cruz/Brasher (USA) vs Kylie/Maixnerova (CZE), Women Round of 16 on CC | Ostrava (CZE)
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/4REEXZ9K/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/QJx90nU4/poster.jpg?width=320",Arthur/Adrielson (BRA) vs Capogrosso N./Capogrosso T. (ARG), Men Lucky losers on C3 | Ostrava (CZE)
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/QJx90nU4/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/j5Y31pRM/poster.jpg?width=320",Gottardi/Orsi Toth R. (ITA) vs Müller/Tillmann (GER), Women Round of 16 on C2 | Ostrava (CZE)
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/j5Y31pRM/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/4REEXZ9K/poster.jpg?width=320",Cruz/Brasher (USA) vs Kylie/Maixnerova (CZE), Women Round of 16 on CC | Ostrava (CZE)
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/4REEXZ9K/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/reWesAMK/poster.jpg?width=320",Anouk/Zoé (SUI) vs Thamela/Victoria (BRA), Women Round of 16 on C3 | Ostrava (CZE)
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/reWesAMK/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/a2AIzVHE/poster.jpg?width=320",Mäder/Kernen (SUI) vs Cheng/Kraft (USA), Women Round of 16 on C3 | Ostrava (CZE)
