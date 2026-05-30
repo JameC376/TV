@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/xlcF8ZxY/poster.jpg?width=320",Carol /Rebecca (BRA) vs Mäder/Kernen (SUI), Women Quarterfinals on C2 | Ostrava (CZE)
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/xlcF8ZxY/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/rhYK3Nma/poster.jpg?width=320",Tina/Anastasija (LAT) vs Melissa/Brandie (CAN), Women Quarterfinals on CC | Ostrava (CZE)
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/rhYK3Nma/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/89AbTV6q/poster.jpg?width=320",Capogrosso N./Capogrosso T. (ARG) vs Cherif/Ahmed (QAT), Men Quarterfinals on C2 | Ostrava (CZE)
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/89AbTV6q/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/AXNB4xGH/poster.jpg?width=320",Åhman/Hellvig (SWE) vs van de Velde/de Groot (NED), Men Quarterfinals on CC | Ostrava (CZE)
@@ -13,7 +9,7 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/y4szrqQZ/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/UBK76IIq/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/2N7ZNAkA/poster.jpg?width=320",Stam/Schoon (NED) vs Thamela/Victoria (BRA), Women Semifinals on CC | Ostrava (CZE)
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/2N7ZNAkA/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/EOmgITFt/poster.jpg?width=320",[tbc] vs [tbc], Women Semifinals on CC | Ostrava (CZE)
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/EOmgITFt/poster.jpg?width=320",Melissa/Brandie (CAN) vs Mäder/Kernen (SUI), Women Semifinals on CC | Ostrava (CZE)
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/EOmgITFt/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/TuAGep1U/poster.jpg?width=320",[tbc] vs [tbc], Women Semifinals | Ostrava (CZE)
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/TuAGep1U/live.isml/.m3u8
@@ -39,3 +35,7 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/J6XTEhGs/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/Op4du1jX/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/2ohiqxVf/poster.jpg?width=320",Italy v Bulgaria | Week 1 | Women's VNL 2026
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/2ohiqxVf/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/wJP7FFKf/poster.jpg?width=320",France v Japan | Week 1 | Women's VNL 2026
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/wJP7FFKf/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/8ZvCMzYY/poster.jpg?width=320",Brazil v Netherlands | Week 1 | Women's VNL 2026
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/8ZvCMzYY/live.isml/.m3u8
