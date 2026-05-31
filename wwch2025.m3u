@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/TFvLvLoX/poster.jpg?width=320",Åhman/Hellvig (SWE) vs Perusic/Sedlak (CZE), Men Final 1st Place on CC | Ostrava (CZE)
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/TFvLvLoX/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/cqpCLlpz/poster.jpg?width=320",Belgium v Poland | Week 1 | Women's VNL 2026
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/cqpCLlpz/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/3gSujDgT/poster.jpg?width=320",Thailand v Serbia | Week 1 | Women's VNL 2026
@@ -39,3 +37,5 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/IJ45228X/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/ZIYfG5eE/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/yRh6NkaJ/poster.jpg?width=320",Ukraine v Japan | Week 1 | Women's VNL 2026
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/yRh6NkaJ/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/kDThNyTq/poster.jpg?width=320",Netherlands v Italy | Week 1 | Women's VNL 2026
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/kDThNyTq/live.isml/.m3u8
