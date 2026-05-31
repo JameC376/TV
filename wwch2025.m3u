@@ -1,13 +1,11 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/yRQtekNK/poster.jpg?width=320",Cherif/Ahmed (QAT) vs Åhman/Hellvig (SWE), Men Semifinals on CC | Ostrava (CZE)
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/yRQtekNK/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/4qSsqGES/poster.jpg?width=320",Thamela/Victoria (BRA) vs Mäder/Kernen (SUI), Women Final 3rd Place on CC | Ostrava (CZE)
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/4qSsqGES/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/pTMF7Ctt/poster.jpg?width=320",Stam/Schoon (NED) vs Melissa/Brandie (CAN), Women Final 1st Place on CC | Ostrava (CZE)
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/pTMF7Ctt/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/GodNIZYu/poster.jpg?width=320",[tbc] vs [tbc], Men Final 3rd Place on CC | Ostrava (CZE)
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/GodNIZYu/poster.jpg?width=320",Cherif/Ahmed (QAT) vs Crabb/Benesh (USA), Men Final 3rd Place on CC | Ostrava (CZE)
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/GodNIZYu/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/TFvLvLoX/poster.jpg?width=320",[tbc] vs [tbc], Men Final 1st Place on CC | Ostrava (CZE)
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/TFvLvLoX/poster.jpg?width=320",Åhman/Hellvig (SWE) vs Perusic/Sedlak (CZE), Men Final 1st Place on CC | Ostrava (CZE)
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/TFvLvLoX/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/cqpCLlpz/poster.jpg?width=320",Belgium v Poland | Week 1 | Women's VNL 2026
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/cqpCLlpz/live.isml/.m3u8
@@ -39,3 +37,5 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/A8WJRcyu/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/YCHz5uj5/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/SmsaZ7w5/poster.jpg?width=320",Canada v USA | Week 1 | Women's VNL 2026
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/SmsaZ7w5/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/ctyXGtua/poster.jpg?width=320",Belgium v Czechia | Week 1 | Women's VNL 2026
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/ctyXGtua/live.isml/.m3u8
