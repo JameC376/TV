@@ -67,8 +67,8 @@ https://fastly.live.brightcove.com/1846248737588002042/ap-southeast-1/6075037809
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/ALTV4_2024.svg/revision/latest?cb=20240506002526" group-title="Thai Public Broadcasting Service", ALTV
 https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.monomax.me/qgyqboQ6Tq3k2YfHvipk9ZI8PJ0=/monomax-obj.obs.ap-southeast-2.myhuaweicloud.com/assets/livechannels/Dqo5Uwq6HMI1oooTBXAvlD2S8pMBiAon.png" group-title="MONO Next", MONO29
-https://monomax-uiripn.cdn.byteark.com/plain/th/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img.monomax.me/qgyqboQ6Tq3k2YfHvipk9ZI8PJ0=/monomax-obj.obs.ap-southeast-2.myhuaweicloud.com/assets/livechannels/Dqo5Uwq6HMI1oooTBXAvlD2S8pMBiAon.png" group-title="MONO Next", MONOMAX SPORTS
+https://live-tv.monomax.me/v1/019d38969c6c150b585a1f99efcb45/019d38983eea150b585a1f99efcb48/main.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.workpointtoday.com/workpointtv/2020/09/16045608/cropped-favicon.png" group-title="Workpoint Entertainment Public Company Limited", Workpoint
 #EXTVLCOPT:http-referrer=https://play.sooplive.com/workpoint/embed
