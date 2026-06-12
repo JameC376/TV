@@ -69,6 +69,12 @@ https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://img.monomax.me/tGOWzHYKKJypyRCa1EQ9XQOY23I=/monomax-obj.obs.ap-southeast-2.myhuaweicloud.com/assets/livechannels/AQNx2sCDVAPddDcb57XniX2L6aHIg2Cz.png" group-title="MONO Next", MONOMAX SPORTS
 https://live-tv.monomax.me/v1/019d38969c6c150b585a1f99efcb45/019d38983eea150b585a1f99efcb48/main.m3u8
+#EXTINF:-1 tvg-id="MONOMAX-SPORT" tvg-name="MONOMAX SPORT" group-title="3BB IPTV",MONOMAX SPORT
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=96a14b36335645b391bbbb48c424fec7:e6971b27837a4822832d8215156bb516
+https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/29/29.mpd
 
 #EXTINF:-1 tvg-logo="https://images.workpointtoday.com/workpointtv/2020/09/16045608/cropped-favicon.png" group-title="Workpoint Entertainment Public Company Limited", Workpoint
 #EXTVLCOPT:http-referrer=https://play.sooplive.com/workpoint/embed
