@@ -68,7 +68,7 @@ https://fastly.live.brightcove.com/1846248737588002042/ap-southeast-1/6075037809
 https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://img.monomax.me/tGOWzHYKKJypyRCa1EQ9XQOY23I=/monomax-obj.obs.ap-southeast-2.myhuaweicloud.com/assets/livechannels/AQNx2sCDVAPddDcb57XniX2L6aHIg2Cz.png" group-title="MONO Next", MONOMAX SPORTS
-https://live-tv.monomax.me/v1/019d38969c6c150b585a1f99efcb45/019d38983eea150b585a1f99efcb48/main.m3u8
+https://live-tv.monomax.me/v1/019d38969c6c150b585a1f99efcb45/019e96a14f12150b585a122d294a26/main.m3u8
 #EXTINF:-1 tvg-id="MONOMAX-SPORT" tvg-name="MONOMAX SPORT" group-title="3BB IPTV",MONOMAX SPORT
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
