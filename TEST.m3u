@@ -113,8 +113,7 @@ https://iptv36.vercel.app/api/true.m3u8?channel=true4u
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b4/Thaich8-2024.webp/120px-Thaich8-2024.webp.png" , 8CH
 #EXTVLCOPT:http-referrer=https://www.thaich8.com/
-https://prsmedia-mykojh.cdn.byteark.com/fleetstream/live/index.m3u8/360p/index.m3u8?x_ark_access_id=fleet-1205&x_ark_auth_type=ark-v2&x_ark_expires=1777450908&x_ark_path_prefix=%2Ffleetstream%2Flive%2F&x_ark_signature=UJafTZznB4T7aHxnHlzJ2Q
-
+https://prsmedia-mykojh.cdn.byteark.com/fleetstream/live/720p/index.m3u8?x_ark_access_id=fleet-1205&x_ark_auth_type=ark-v2&x_ark_expires=1784785976&x_ark_path_prefix=%2Ffleetstream%2Flive%2F&x_ark_signature=aLjH8dotmWntyeZtlXtZ6Q
 #EXTINF:-1 tvg-id="ThairathTV32.th" tvg-name="Thairath TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Thairath_TV32.svg/250px-Thairath_TV32.svg.png",Thairath TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4b2bff3e598043cfaf949305e3d153fa:545df84ff4c54af6b5385516e0f65956
