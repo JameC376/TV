@@ -1,6 +1,145 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/zhwzg91780300210.jpg" group-title="🔴 🔴 LIVE EVENT NOW | BONE TV",[🔴 LIVE 08:40 WIB] [MLB] Boston Red Sox vs. Athletics (Server 1 - Master)
+#EXTINF:-1 tvg-logo="https://github.com/JameC376/TV/blob/main/logo/Sky_Sports_1_NZ.png?raw=true" ,Sky Sport 1 NZ
 #EXTVLCOPT:http-referrer=https://ondemand.st/
 #EXTVLCOPT:http-origin=https://ondemand.st
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://damitv2.bonekoetv.workers.dev/play/mlb/2026-07-30/bos-ath.m3u8
+https://messi.damitv.st/papi/ts/skysport1-nz/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/JameC376/TV/blob/main/logo/Sky_Sports_2_NZ.png?raw=true" ,Sky Sport 2 NZ
+#EXTVLCOPT:http-referrer=https://ondemand.st/
+#EXTVLCOPT:http-origin=https://ondemand.st
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://messi.damitv.st/papi/ts/skysport2-nz/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/JameC376/TV/blob/main/logo/Sky_Sports_3_NZ.png?raw=true" ,Sky Sport 3 NZ
+#EXTVLCOPT:http-referrer=https://ondemand.st/
+#EXTVLCOPT:http-origin=https://ondemand.st
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://messi.damitv.st/papi/ts/skysport3-nz/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/JameC376/TV/blob/main/logo/skysport_gold_NZ.png?raw=true" ,Sky Sport Gold NZ
+#EXTVLCOPT:http-referrer=https://ondemand.st/
+#EXTVLCOPT:http-origin=https://ondemand.st
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://messi.damitv.st/papi/ts/skysport4-nz/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/JameC376/TV/blob/main/logo/Sky_Sports_5_NZ.png?raw=true" ,Sky Sport 5 NZ
+#EXTVLCOPT:http-referrer=https://ondemand.st/
+#EXTVLCOPT:http-origin=https://ondemand.st
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://messi.damitv.st/papi/ts/skysport5-nz/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/JameC376/TV/blob/main/logo/Sky_Sports_6_NZ.png?raw=true" ,Sky Sport 6 NZ
+#EXTVLCOPT:http-referrer=https://ondemand.st/
+#EXTVLCOPT:http-origin=https://ondemand.st
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://messi.damitv.st/papi/ts/skysport6-nz/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/JameC376/TV/blob/main/logo/Sky_Sports_7_NZ.png?raw=true" ,Sky Sport 7 NZ
+#EXTVLCOPT:http-referrer=https://ondemand.st/
+#EXTVLCOPT:http-origin=https://ondemand.st
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://messi.damitv.st/papi/tv/playlist/aHR0cHM6Ly94YW1lbGVvbi5waGFudGVtbGlzLnRvcC9mb3VyL3NlY3VyZS84N2ZhY2ExMWQ5OGY2MGU2NzhiOTI2YjM1NzliNjMzYy8xNzg1NTAzNTkyL3ByZW1pdW01OTQvdHJhY2tzLXYxYTEvbW9uby5tM3U4
+#EXTINF:-1 tvg-logo="https://github.com/JameC376/TV/blob/main/logo/Sky_Sports_8_NZ.png?raw=true" ,Sky Sport 8 NZ
+#EXTVLCOPT:http-referrer=https://ondemand.st/
+#EXTVLCOPT:http-origin=https://ondemand.st
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://messi.damitv.st/papi/ts/skysport8-nz/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/JameC376/TV/blob/main/logo/Sky_Sports_9_NZ.png?raw=true" ,Sky Sport 9 NZ
+#EXTVLCOPT:http-referrer=https://ondemand.st/
+#EXTVLCOPT:http-origin=https://ondemand.st
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://messi.damitv.st/papi/ts/skysport9-nz/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/JameC376/TV/blob/main/logo/Sky_Sports_Select_NZ.png?raw=true" ,Sky Sport Select NZ
+#EXTVLCOPT:http-referrer=https://ondemand.st/
+#EXTVLCOPT:http-origin=https://ondemand.st
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://messi.damitv.st/papi/ts/skysportselect-nz/playlist.m3u8
+#EXTINF:-1 tvg-logo="" ,Sky Sports Action
+#EXTVLCOPT:http-referrer=https://ondemand.st/
+#EXTVLCOPT:http-origin=https://ondemand.st
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://messi.damitv.st/papi/ts/skysportsaction-uk/playlist.m3u8
+#EXTINF:-1 tvg-logo="" ,Sky Sports Cricket
+#EXTVLCOPT:http-referrer=https://ondemand.st/
+#EXTVLCOPT:http-origin=https://ondemand.st
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://messi.damitv.st/papi/ts/skysportscricket-uk/playlist.m3u8
+#EXTINF:-1 tvg-logo="" ,Sky Sports F1
+#EXTVLCOPT:http-referrer=https://ondemand.st/
+#EXTVLCOPT:http-origin=https://ondemand.st
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://messi.damitv.st/papi/ts/skysportsf1-uk/playlist.m3u8
+#EXTINF:-1 tvg-logo="" ,Sky Sports Football
+#EXTVLCOPT:http-referrer=https://ondemand.st/
+#EXTVLCOPT:http-origin=https://ondemand.st
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://messi.damitv.st/papi/ts/skysportsfootball-uk/playlist.m3u8
+#EXTINF:-1 tvg-logo="" ,Sky Sports Golf
+#EXTVLCOPT:http-referrer=https://ondemand.st/
+#EXTVLCOPT:http-origin=https://ondemand.st
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://messi.damitv.st/papi/ts/skysportsgolf-uk/playlist.m3u8
+#EXTINF:-1 tvg-logo="" ,Sky Sports Main Event
+#EXTVLCOPT:http-referrer=https://ondemand.st/
+#EXTVLCOPT:http-origin=https://ondemand.st
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://messi.damitv.st/papi/ts/skysportsmainevent-uk/playlist.m3u8
+#EXTINF:-1 tvg-logo="" ,Sky Sports Mix
+#EXTVLCOPT:http-referrer=https://ondemand.st/
+#EXTVLCOPT:http-origin=https://ondemand.st
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://messi.damitv.st/papi/ts/skysportsmix-uk/playlist.m3u8
+#EXTINF:-1 tvg-logo="" ,Sky Sports News
+#EXTVLCOPT:http-referrer=https://ondemand.st/
+#EXTVLCOPT:http-origin=https://ondemand.st
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://messi.damitv.st/papi/ts/skysportsnews-uk/playlist.m3u8
+#EXTINF:-1 tvg-logo="" ,Sky Sports Premier League
+#EXTVLCOPT:http-referrer=https://ondemand.st/
+#EXTVLCOPT:http-origin=https://ondemand.st
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://messi.damitv.st/papi/ts/skysportspremierleague-uk/playlist.m3u8
+#EXTINF:-1 tvg-logo="" ,Sky Sports Racing
+#EXTVLCOPT:http-referrer=https://ondemand.st/
+#EXTVLCOPT:http-origin=https://ondemand.st
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://messi.damitv.st/papi/ts/skysportsracing-uk/playlist.m3u8
+#EXTINF:-1 tvg-logo="" ,Sky Sports Tennis
+#EXTVLCOPT:http-referrer=https://ondemand.st/
+#EXTVLCOPT:http-origin=https://ondemand.st
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://messi.damitv.st/papi/ts/skysportstennis-uk/playlist.m3u8
+#EXTINF:-1 tvg-logo="" ,TNT Sports 1 UK
+#EXTVLCOPT:http-referrer=https://ondemand.st/
+#EXTVLCOPT:http-origin=https://ondemand.st
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://messi.damitv.st/papi/tv/playlist/aHR0cHM6Ly94YW1lbGVvbi5waGFudGVtbGlzLnRvcC9vbmUvc2VjdXJlL2M2NGVlNjcxOWQ1NzAwOGUwY2NiYjk3OGQxOTIwNjA4LzE3ODU1MDQzOTIvcHJlbWl1bTMxL3RyYWNrcy12MWExL21vbm8ubTN1OA
+#EXTINF:-1 tvg-logo="" ,TNT Sports 2 UK
+#EXTVLCOPT:http-referrer=https://ondemand.st/
+#EXTVLCOPT:http-origin=https://ondemand.st
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://messi.damitv.st/papi/tv/playlist/aHR0cHM6Ly94YW1lbGVvbi5waGFudGVtbGlzLnRvcC9vbmUvc2VjdXJlLzkzZTE3ZmY2ZDg3NzdmNTljN2FjOWEyZDBhZjY3OTU4LzE3ODU1MDQzODIvcHJlbWl1bTMyL3RyYWNrcy12MWExL21vbm8ubTN1OA
+#EXTINF:-1 tvg-logo="" ,TNT Sports 3 UK
+#EXTVLCOPT:http-referrer=https://ondemand.st/
+#EXTVLCOPT:http-origin=https://ondemand.st
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://messi.damitv.st/papi/tv/playlist/aHR0cHM6Ly94YW1lbGVvbi5waGFudGVtbGlzLnRvcC9vbmUvc2VjdXJlLzY5MTM1MDZmMDRhYzNiMWFmODM0YjBhNTY5MGUyMDMwLzE3ODU1MDQ3MDAvcHJlbWl1bTMzL3RyYWNrcy12MWExL21vbm8ubTN1OA
+#EXTINF:-1 tvg-logo="" ,TNT Sports 4 UK
+#EXTVLCOPT:http-referrer=https://ondemand.st/
+#EXTVLCOPT:http-origin=https://ondemand.st
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://messi.damitv.st/papi/tv/playlist/aHR0cHM6Ly94YW1lbGVvbi5waGFudGVtbGlzLnRvcC9vbmUvc2VjdXJlLzcxY2QxZTk2ZjhmMmEwYmQxNWRkNmNmNTUzYzFjYzFiLzE3ODU1MDQ3MzIvcHJlbWl1bTM0L3RyYWNrcy12MWExL21vbm8ubTN1OA
+#EXTINF:-1 tvg-logo="" ,
+#EXTVLCOPT:http-referrer=https://ondemand.st/
+#EXTVLCOPT:http-origin=https://ondemand.st
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="" ,PREMIERSPORTS 2
+#EXTVLCOPT:http-referrer=https://ondemand.st/
+#EXTVLCOPT:http-origin=https://ondemand.st
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://messi.damitv.st/papi/tv/playlist/aHR0cHM6Ly94YW1lbGVvbi5waGFudGVtbGlzLnRvcC90d28vc2VjdXJlLzg4NmMzZTI2NjU5NWNlMTJkYzQxYzRkOTc0NWVkZWM5LzE3ODU1MDQ3ODMvcHJlbWl1bTU1MC90cmFja3MtdjFhMS9tb25vLm0zdTg
+#EXTINF:-1 tvg-logo="" ,
+#EXTVLCOPT:http-referrer=https://ondemand.st/
+#EXTVLCOPT:http-origin=https://ondemand.st
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="" ,
+#EXTVLCOPT:http-referrer=https://ondemand.st/
+#EXTVLCOPT:http-origin=https://ondemand.st
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
