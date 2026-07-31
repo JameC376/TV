@@ -1,0 +1,6 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/zhwzg91780300210.jpg" group-title="🔴 🔴 LIVE EVENT NOW | BONE TV",[🔴 LIVE 08:40 WIB] [MLB] Boston Red Sox vs. Athletics (Server 1 - Master)
+#EXTVLCOPT:http-referrer=https://ondemand.st/
+#EXTVLCOPT:http-origin=https://ondemand.st
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://damitv2.bonekoetv.workers.dev/play/mlb/2026-07-30/bos-ath.m3u8
